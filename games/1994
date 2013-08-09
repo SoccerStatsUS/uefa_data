@@ -1,0 +1,1792 @@
+Competition: Premier League
+Season: 1994-1995
+BlockSource: http://www.rsssf.com/tablese/eng95.html
+
+Date-style: day first
+home-first
+
+
+*                              P  W  D  L   F   A  W  D  L   F   A Pts  GD
+* 1. Blackburn Rovers         42 17  2  2  54  21 10  6  5  26  18  89 +41 EC1
+* 2. Manchester United        42 16  4  1  42   4 10  6  5  35  24  88 +49 EC3
+* 3. Nottingham Forest        42 12  6  3  36  18 10  5  6  36  25  77 +29 EC3
+* 4. Liverpool                42 13  5  3  38  13  8  6  7  27  24  74 +28 EC3
+* 5. Leeds United             42 13  5  3  35  15  7  8  6  24  23  73 +21 EC3
+* 6. Newcastle United         42 14  6  1  46  20  6  6  9  21  27  72 +20 
+* 7. Tottenham Hotspur        42 10  5  6  32  25  6  9  6  34  33  62  +8
+* 8. Queen's Park Rangers     42 11  3  7  36  26  6  6  9  25  33  60  +2
+* 9. Wimbledon                42  9  5  7  26  26  6  6  9  22  39  56 -17
+*10. Southampton              42  8  9  4  33  27  4  9  8  28  36  54  -2 
+*11. Chelsea                  42  7  7  7  25  22  6  8  7  25  33  54  -5 
+*12. Arsenal                  42  6  9  6  27  21  7  3 11  25  28  51  +3
+*13. Sheffield Wednesday      42  7  7  7  26  26  6  5 10  23  31  51  -8
+*14. West Ham United          42  9  6  6  28  19  4  5 12  16  29  50  -4
+*15. Everton                  42  8  9  4  31  23  3  8 10  13  28  50  -7 EC2
+*16. Coventry City            42  7  7  7  23  25  5  7  9  21  37  50 -18
+*17. Manchester City          42  8  7  6  37  28  4  6 11  16  36  49 -11
+*18. Aston Villa              42  6  9  6  27  24  5  6 10  24  32  48  -5
+*--------------------------------------------------------------------------
+*19. Crystal Palace           42  6  6  9  16  23  5  6 10  18  26  45 -15
+*20. Norwich City             42  8  8  5  27  21  2  5 14  10  33  43 -17
+*21. Leicester City           42  5  6 10  28  37  1  5 15  17  43  29 -35
+*22. Ipswich Town             42  5  3 13  24  34  2  3 16  12  59  27 -57
+
+Date: 20/8/1994
+
+; Arsenal                    ; 3-0;    Manchester City             
+  Campbell, Coton (og), Wright;
+
+; Chelsea                    ; 2-0;    Norwich City                
+  Sinclair, Furlong;
+
+; Coventry City              ; 1-1;    Wimbledon                   
+  Busst             ;               Castledine
+
+; Crystal Palace             ; 1-6;    Liverpool                   
+  Armstrong          ;              Molby, McManaman, McManaman, Fowler, Rush, Rush
+
+; Everton                    ; 2-2;    Aston Villa                 
+  Stuart, Rideout     ;             Fashanu, Saunders
+
+; Ipswich Town               ; 0-1;    Nottingham Forest           
+                       ;            Roy
+
+; Manchester United          ; 2-0;    Queens Park Rangers         
+  Hughes, McClair;
+
+; Sheffield Wednesday        ; 3-4;    Tottenham Hotspur           
+  Petrescu, Calderwwod (og), Hirst; Sheringham, Anderton, Barmby, Klinsmann
+
+; Southampton                ; 1-1;    Blackburn Rovers            
+  Banger                        ;   Shearer
+
+; West Ham United            ; 0-0;    Leeds United                
+
+
+
+Date: 21/8/1994
+
+; Leicester City             ; 1-3;    Newcastle United            
+  Joachim                        ;  Cole, Beardsley, Elliott
+
+ 
+Date: 22/8/1994
+
+; Nottingham Forest          ; 1-1;    Manchester United           
+  Collymore                    ;    Kanchelskis
+
+
+Date: 23/8/1994
+
+; Blackburn Rovers           ; 3-0;    Leicester City              
+  Sutton, Berg, Shearer;
+
+; Leeds United               ; 1-0;    Arsenal                     
+  Whelan;
+
+; Wimbledon                  ; 1-1;    Ipswich Town                
+  Holdsworth              ;         Milton
+
+
+Date: 24/8/1994
+
+; Aston Villa                ; 1-1;    Southampton                 
+  Saunders                 ;        Le Tissier
+
+; Manchester City            ; 3-0;    West Ham United             
+  Walsh, Beagire, Rosier;
+
+; Newcastle United           ; 4-0;    Coventry City               
+  Lee, Lee, Watson, Cole;
+
+; Norwich City               ; 0-0;    Crystal Palace              
+
+
+; Queens Park Rangers        ; 3-2;    Sheffield Wednesday         
+  Ferdinard, Sinclair, Gallen   ;   Sheridan, Hyde
+
+; Tottenham Hotspur          ; 2-1;    Everton                     
+  Klinsmann, Klinsmann          ;            Rideout
+
+
+Date: 27/8/1994
+
+; Aston Villa                ; 1-1;    Crystal Palace              
+  Staunton              ;           Southgate
+
+; Blackburn Rovers           ; 4-0;    Coventry City               
+  Sutton, Sutton, Sutton, Wilcox;
+
+; Leeds United               ; 2-3;    Chelsea                     
+  Massinga, Whelan ;                Wise, Spencer, Spencer
+
+; Manchester City            ; 4-0;    Everton                     
+  Rosler, Rosler, Walsh, Walsh;
+
+; Newcastle United           ; 5-1;    Southampton                 
+  Watson, Watson, Cole, Cole, Lee     ;       Banger
+
+; Norwich City               ; 1-0;    West Ham United             
+  Robins;
+
+; Nottingham Forest          ; 1-0;    Leicester City              
+  Collymore;
+
+; Queens Park Rangers        ; 1-2;    Ipswich Town                
+  Ferdinard  ;                      Yates (og), Guentchev
+
+; Tottenham Hotspur          ; 0-1;    Manchester United           
+              ;                     Bruce
+
+; Wimbledon                  ; 0-1;    Sheffield Wednesday         
+               ;                    Watson
+
+
+Date: 28/8/1994
+
+; Liverpool                  ; 3-0;    Arsenal                     
+  Fowler, Fowler, Fowler;
+
+
+Date: 29/8/1994
+
+; Coventry City              ; 0-1;    Aston Villa                 
+           ;                        Yorke
+
+
+Date: 30/8/1994
+
+; Crystal Palace             ; 1-2;    Leeds United                
+  Gordon    ;                       White, Whelan
+
+; Everton                    ; 1-2;    Nottingham Forest           
+  Rideout    ;                      Hinchcliffe (og), Cooper
+
+; Ipswich Town               ; 1-3;    Tottenham Hotspur           
+  Kiwomya     ;                     Klinsmann, Klinsmann, Dumitrescu
+
+
+Date: 31/8/1994
+
+; Arsenal                    ; 0-0;    Blackburn Rovers            
+
+
+; Chelsea                    ; 3-0;    Manchester City             
+  Peacock, Wise, Vonk (og);
+
+; Leicester City             ; 1-1;    Queens Park Rangers         
+  Gee                      ;        Willis (og)
+
+; Manchester United          ; 3-0;    Wimbledon                   
+  Cantona, McClair, Giggs;
+
+; Sheffield Wednesday        ; 0-0;    Norwich City                
+
+
+; Southampton                ; 0-2;    Liverpool                   
+                          ;         Fowler, Barnes
+
+; West Ham United            ; 1-3;    Newcastle United            
+  Hutchison                ;        Potts (og), Lee, Mathie
+
+
+Date: 10/9/1994
+
+; Aston Villa                ; 2-0;    Ipswich Town                
+  Staunton, Saunders;
+
+; Blackburn Rovers           ; 3-0;    Everton                     
+  Shearer, Shearer, Wilcox;
+
+; Liverpool                  ; 0-0;    West Ham United             
+
+
+; Manchester City            ; 1-1;    Crystal Palace              
+  Walsh             ;               Dyer
+
+; Newcastle United           ; 4-2;    Chelsea                     
+  Cole, Cole, Fox, Lee   ;              Peacock, Furlong
+
+; Norwich City               ; 0-0;    Arsenal                     
+
+
+; Nottingham Forest          ; 4-1;    Sheffield Wednesday         
+  Black, Bohinen, Pearce, Roy   ;   Hyde
+
+; Queens Park Rangers        ; 2-2;    Coventry City               
+  Penrice, Penrice               ;         Cook, Dublin
+
+; Wimbledon                  ; 2-1;    Leicester City              
+  Harford, Willis (og)     ;        Lowe
+
+
+Date: 11/9/1994
+
+; Leeds United               ; 2-1;    Manchester United           
+  Wetherall, Deane          ;       Cantona
+
+
+Date: 12/9/1994
+
+; Tottenham Hotspur          ; 1-2;    Southampton                 
+  Klinsmann                  ;      Le Tissier, Le Tissier
+
+
+Date: 17/9/1994
+
+; Coventry City              ; 2-1;    Leeds United                
+  Dublin, Cook                ;     Speed
+
+
+; Crystal Palace             ; 0-0;    Wimbledon                   
+
+
+; Everton                    ; 2-2;    Queens Park Rangers         
+  Amokachi, Rideout            ;    Ferdinard, Ferdinand
+
+; Leicester City             ; 3-1;    Tottenham Hotspur           
+  Joachim, Joachim, Lowe               ;   Klinsmann
+
+; Manchester United          ; 2-0;    Liverpool                   
+  Kanchelskis, McClair;
+
+; Sheffield Wednesday        ; 1-1;    Manchester City             
+  Watson               ;            Walsh
+
+; Southampton                ; 1-1;    Nottingham Forest           
+  Le Tissier            ;           Collymore
+
+; West Ham United            ; 1-0;    Aston Villa                 
+  Cottee;
+
+
+Date: 18/9/1994
+
+;  Arsenal                    ; 2-3;    Newcastle United            
+  Adams, Wright         ;           Keown (og), Beardsley, Fox
+
+; Chelsea                    ; 1-2;    Blackburn Rovers            
+  Spencer                ;          Johnson (og), Sutton
+
+
+Date: 19/9/1994
+
+; Ipswich Town               ; 1-2;    Norwich City                
+  Wark                    ;         Newham, Bradshaw
+
+
+Date: 24/9/1994
+ 
+; Blackburn Rovers           ; 3-1;    Aston Villa                 
+  Shearer, Shearer, Sutton        ;        Ehiogu
+
+; Coventry City              ; 1-3;    Southampton                 
+  Dublin                    ;       Dowie, Dowie, Ekelund
+
+; Crystal Palace             ; 0-1;    Chelsea                     
+                             ;      Furlong
+
+; Everton                    ; 1-1;    Leicester City              
+  Ablett                      ;     Draper
+
+; Ipswich Town               ; 3-2;    Manchester United           
+  Mason, Mason, Sedgley             ;    Cantona, Scholes
+
+; Manchester City            ; 2-0;    Norwich City                
+  Quinn, Rosler;
+
+; Newcastle United           ; 1-1;    Liverpool                   
+  Lee           ;                   Rush
+
+; Queens Park Rangers        ; 0-1;    Wimbledon                   
+                 ;                  Reeves
+
+; Tottenham Hotspur          ; 1-4;    Nottingham Forest           
+  Dumitrescu      ;                 Stone, Roy, Roy, Bohinen
+
+
+Date: 25/9/1994
+
+; West Ham United            ; 0-2;    Arsenal                     
+                   ;                Adams, Wright
+
+
+Date: 26/9/1994
+
+; Sheffield Wednesday        ; 1-1;    Leeds United                
+  Bright            ;               McAllister
+
+
+Date: 01/10/1994
+
+; Arsenal                    ; 1-2;    Crystal Palace              
+  Wright             ;              Salako, Salako
+
+; Aston Villa                ; 0-2;    Newcastle United            
+                      ;             Lee, Cole
+
+; Leeds United               ; 2-0;    Manchester City             
+  Whelan, Whelan;
+
+; Liverpool                  ; 4-1;    Sheffield Wednesday         
+  McManaman, McManaman, Walker (og), Rush;   Nolan
+
+; Manchester United          ; 2-0;    Everton                     
+  Kanchelskis, Sharpe;
+
+; Norwich City               ; 2-1;    Blackburn Rovers            
+  Bowen, Newsome      ;             Sutton
+
+; Southampton                ; 3-1;    Ipswich Town                
+  Maddison, Ekelund, Dowie   ;      Marshall
+
+; Wimbledon                  ; 1-2;    Tottenham Hotspur           
+  Talboys                     ;     Sheringham, Popescu
+
+
+Date: 02/10/1994
+
+; Chelsea                    ; 1-2;    West Ham United             
+  Furlong                      ;    Allen, Moncur
+
+; Nottingham Forest          ; 3-2;    Queens Park Rangers         
+  Black, Roy, Collymore         ;   Ferdinard, Allen
+
+
+Date: 03/10/1994
+
+; Leicester City             ; 2-2;    Coventry City               
+  Roberts, Roberts             ;           Wegerle, Dublin
+
+
+Date: 08/10/1994
+
+; Chelsea                    ; 4-0;    Leicester City              
+  Spencer, Spencer, Peacock, Shipperley;
+
+; Liverpool                  ; 3-2;    Aston Villa                 
+  Ruddock, Fowler, Fowler             ;   Whittingham, Staunton
+
+; Manchester City            ; 3-3;    Nottingham Forest           
+  Quinn, Quinn, Lomas              ;     Collymore, Dibble (og), Woan
+
+; Norwich City               ; 2-1;    Leeds United                
+  Robins, Adams                ;    Wallace
+
+; Sheffield Wednesday        ; 1-0;    Manchester United           
+  Hirst;
+
+; Southampton                ; 2-0;    Everton                     
+  Ekelund, Le Tissier;
+
+; Tottenham Hotspur          ; 1-1;    Queens Park Rangers         
+  Barmby              ;             Impey
+
+; West Ham United            ; 1-0;    Crystal Palace              
+  Hutchison;
+
+; Wimbledon                  ; 1-3;    Arsenal                     
+  Jones     ;                       Wright, Smith, Campbell
+
+
+Date: 09/10/1994
+
+; Newcastle United           ; 1-1;    Blackburn Rovers            
+  Flowers (og)      ;               Shearer
+
+
+Date: 10/10/1994
+
+; Coventry City              ; 2-0;    Ipswich Town                
+  Wark (og), Cook;
+
+
+Date: 15/10/1994
+
+; Arsenal                    ; 3-1;    Chelsea                     
+  Wright, Wright, Campbell       ;        Wise
+
+; Aston Villa                ; 1-1;    Norwich City                
+  Saunders                  ;       Milligan
+
+; Blackburn Rovers           ; 3-2;    Liverpool                   
+  Atkins, Sutton Sutton           ;      Fowler, Barnes
+
+; Crystal Palace             ; 0-1;    Newcastle United            
+                              ;     Beardsley
+
+; Everton                    ; 0-2;    Coventry City               
+                               ;    Dublin, Wegerle
+
+; Leeds United               ; 1-1;    Tottenham Hotspur           
+  Deane                         ;   Sheringham
+
+; Leicester City             ; 4-3;    Southampton                 
+  Blake, Blake, Roberts, Carr          ;  Dowie, Dowie, Le Tissier
+
+; Manchester United          ; 1-0;    West Ham United             
+  Cantona;
+
+; Queens Park Rangers        ; 1-2;    Manchester City             
+  Wilson  ;                         Flitcroft, Walsh
+
+ 
+Date: 16/10/1994
+
+; Ipswich Town               ; 1-2;    Sheffield Wednesday         
+  Wark     ;                        Bright, Hirst
+
+
+Date: 17/10/1994
+
+; Nottingham Forest          ; 3-1;    Wimbledon                   
+  Bohinen, Collymore, Woan;         Gayle
+
+
+Date: 22/10/1994
+
+; Aston Villa                ; 0-2;    Nottingham Forest           
+                           ;        Pearce, Stone
+
+; Crystal Palace             ; 1-0;    Everton                     
+  Preece;
+
+; Liverpool                  ; 3-0;    Wimbledon                   
+  McManaman, Fowler, Barnes;
+
+; Manchester City            ; 5-2;    Tottenham Hotspur           
+  Walsh, Walsh2, Quinn, Lomas, Flitcroft; Dumitrescu, Dumitrescu
+
+; Newcastle United           ; 2-1;    Sheffield Wednesday         
+  Watson, Cole             ;        Taylor
+
+; Norwich City               ; 4-2;    Queens Park Rangers         
+  Robins, Bowen, Sheron, White (og); Barker, Allen
+
+; West Ham United            ; 2-0;    Southampton                 
+  Allen, Rush;
+
+
+Date: 23/10/1994
+
+; Arsenal                    ; 2-1;    Coventry City               
+  Wright, Wright    ;                     Wegerle
+
+; Blackburn Rovers           ; 2-4;    Manchester United           
+  Warhurst, Hendry   ;              Cantona, Kanchelskis, Kanchelskis, Hughes
+
+; Chelsea                    ; 2-0;    Ipswich Town                
+  Wise, Shipperley;
+
+
+Date: 24/10/1994
+
+; Leeds United               ; 2-1;    Leicester City              
+  McAllister, Whelan      ;         Blake
+
+
+Date: 29/10/1994
+
+; Coventry City              ; 1-0;    Manchester City             
+  Dublin;
+
+; Everton                    ; 1-1;    Arsenal                     
+  Unsworth       ;                  Schwarz
+
+; Ipswich Town               ; 1-3;    Liverpool                   
+  Paz             ;                 Barnes, Fowler, Fowler
+
+; Leicester City             ; 0-1;    Crystal Palace              
+                   ;                Preece
+
+; Manchester United          ; 2-0;    Newcastle United            
+  Pallister, Gillespie;
+;
+; Nottingham Forest          ; 0-2;    Blackburn Rovers            
+ ;                                  Sutton, Sutton
+
+; Queens Park Rangers        ; 2-0;    Aston Villa                 
+  Dichio, Penrice;
+
+; Sheffield Wednesday        ; 1-1;    Chelsea                     
+  Bright          ;                 Wise
+
+; Southampton                ; 1-3;    Leeds United                
+  Maddison         ;                Maddison (og), Wallace, Wallace
+
+; Tottenham Hotspur          ; 3-1;    West Ham United             
+  Klinsmann, Sheringham, Barmby;    Rush
+
+
+Date: 30/10/1994
+
+; Wimbledon                  ; 1-0;    Norwich City                
+  Ekoku;
+
+
+Date: 31/10/1994
+
+; Queens Park Rangers        ; 2-1;    Liverpool                   
+  Sinclair, Ferdinard   ;           Barnes
+
+
+Date: 01/11/1994
+
+; Everton                    ; 1-0;    West Ham United             
+  Ablett;
+
+; Ipswich Town               ; 2-0;    Leeds United                
+  Sedgley, Williams;
+
+
+Date: 02/11/1994
+
+; Coventry City              ; 1-4;    Crystal Palace              
+  Dublin            ;               Preece, Preece,  Salako, Newman
+
+; Sheffield Wednesday        ; 0-1;    Blackburn Rovers            
+                     ;              Shearer
+
+; Southampton                ; 1-1;    Norwich City                
+  Le Tissier          ;             Robins
+
+Date: 05/11/1994
+
+; Blackburn Rovers           ; 2-0;    Tottenham Hotspur           
+  Wilcox, Shearer;
+
+; Crystal Palace             ; 3-0;    Ipswich Town                
+  Newman, Armstrong, Salako;
+
+; Leeds United               ; 3-1;    Wimbledon                   
+  Wetherall, Speed, White   ;       Ekoku
+
+; Liverpool                  ; 1-0;    Nottingham Forest           
+  Fowler;
+
+; Manchester City            ; 3-3;    Southampton                 
+  Walsh, Walsh, Beagrie           ;      Hall, Ekelund, Ekelund
+
+; Newcastle United           ; 2-1;    Queens Park Rangers         
+  Kitson, Beardsley           ;     Dichio
+
+; Norwich City               ; 0-0;    Everton                     
+
+
+; West Ham United            ; 1-0;    Leicester City              
+  Dicks;
+
+
+Date: 06/11/1994
+
+; Arsenal                    ; 0-0;    Sheffield Wednesday         
+
+
+; Aston Villa                ; 1-2;    Manchester United           
+  Atkinson          ;               Ince, Kanchelskis
+
+; Chelsea                    ; 2-2;    Coventry City               
+  Spencer, Kjeldbjerg      ;        Dublin, Ndlovu
+
+
+Date: 07/11/1994
+
+; Nottingham Forest          ; 0-0;    Newcastle United            
+
+
+Date: 09/11/1994
+
+; Liverpool                  ; 3-1;    Chelsea                     
+  Fowler, Fowler, Ruddock         ;       Spencer
+
+; Wimbledon                  ; 4-3;    Aston Villa                 
+  Barton, Ardly, Jones, Leonhardsen; Parker, Saunders, Saunders
+
+
+Date: 10/11/1994
+
+; Manchester United          ; 5-0;    Manchester City             
+  Cantona, Kanchelskis, Kanchelskis, Kanchelskis, Hughes;
+
+
+Date: 19/11/1994
+
+; Coventry City              ; 1-0;    Norwich City                
+  Jones;
+
+; Ipswich Town               ; 1-3;    Blackburn Rovers            
+  Thomsen         ;                 Sutton, Sherwood, Shearer
+
+; Manchester United          ; 3-0;    Crystal Palace              
+  Irwin, Cantona, Kanchelskis;
+
+; Nottingham Forest          ; 0-1;    Chelsea                     
+                              ;     Spencer
+
+; Queens Park Rangers        ; 3-2;    Leeds United                
+  Ferdinard, Ferdinand, Gallen          ;    McDonald (og), Deane
+
+; Sheffield Wednesday        ; 1-0;    West Ham United             
+  Petrescu;
+
+; Southampton                ; 1-0;    Arsenal                     
+  Magilton;
+
+; Tottenham Hotspur          ; 3-4;    Aston Villa                 
+  Sheringham, Klinsmann, Bosnich (og); Atkinson, Fenton, Fenton, Saunders
+
+; Wimbledon                  ; 3-2;    Newcastle United            
+  Clarke, Ekoku, Harford        ;   Beardsley, Kitson
+
+
+Date: 20/11/1994
+
+; Leicester City             ; 0-1;    Manchester City             
+                                 ;  Quinn
+
+
+Date: 21/11/1994
+
+; Everton                    ; 2-0;    Liverpool                   
+  Ferguson, Rideout;
+
+
+Date: 23/11/1994
+
+; Leicester City             ; 2-1;    Arsenal                     
+  Seaman (og), Lowe        ;        Wright
+
+; Tottenham Hotspur          ; 0-0;    Chelsea                     
+
+
+
+Date: 26/11/1994
+
+; Arsenal                    ; 0-0;    Manchester United           
+
+; Blackburn Rovers           ; 4-0;    Queens Park Rangers         
+  Sutton, Shearer, Shearer, Shearer;
+
+; Chelsea                    ; 0-1;    Everton                     
+                    ;               Rideout
+
+; Crystal Palace             ; 0-0;    Southampton                 
+
+
+; Leeds United               ; 1-0;    Nottingham Forest           
+  Whelan;
+
+; Liverpool                  ; 1-1;    Tottenham Hotspur           
+  Fowler           ;                Ruddock (og)
+
+; Manchester City            ; 2-0;    Wimbledon                   
+  Flitcroft, Rosler;
+
+; Newcastle United           ; 1-1;    Ipswich Town                
+  Cole              ;               Thomsen
+
+; Norwich City               ; 2-1;    Leicester City              
+  Newsome, Sutch     ;              Draper
+
+; West Ham United            ; 0-1;    Coventry City               
+                      ;             Busst
+
+
+Date: 27/11/1994
+
+; Aston Villa                ; 1-1;    Sheffield Wednesday         
+  Atkinson             ;            Atherton
+
+
+Date: 03/12/1994
+
+; Coventry City              ; 1-1;    Liverpool                   
+  Flynn                 ;           Rush
+
+; Ipswich Town               ; 1-2;    Manchester City             
+  Mason                  ;          Flitcroft, Rosler
+
+; Leicester City             ; 1-1;    Aston Villa                 
+  Gee                     ;         Whittingham
+
+; Manchester United          ; 1-0;    Norwich City                
+  Cantona;
+
+; Nottingham Forest          ; 2-2;    Arsenal                     
+  Pearce, Roy         ;             Keown, Davis
+
+; Sheffield Wednesday        ; 1-0;    Crystal Palace              
+  Bart-Williams;
+
+; Southampton                ; 0-1;    Chelsea                     
+                ;                   Furlong
+
+; Tottenham Hotspur          ; 4-2;    Newcastle United            
+  Sheringham, Sheringham, Sheringham, Popescu      ;      Fox, Fox
+
+; Wimbledon                  ; 0-3;    Blackburn Rovers            
+                              ;     Atkins, Wilcox, Shearer
+
+
+Date: 04/12/1994
+
+; Queens Park Rangers        ; 2-1;    West Ham United             
+  Ferdinard, Sinclair          ;    Boere
+
+
+Date: 05/12/1994
+
+; Everton                    ; 3-0;    Leeds United                
+  Rideout, Ferguson, Unsworth;
+
+
+Date: 12/12/1994
+
+; Aston Villa                ; 0-0;    Everton                     
+
+
+; Blackburn Rovers           ; 3-2;    Southampton                 
+  Atkins, Shearer, Shearer     ;           Le Tissier, Le Tissier
+
+; Leeds United               ; 2-2;    West Ham United             
+  Worthington, Deane     ;          Boere, Boere
+
+; Newcastle United           ; 3-1;    Leicester City              
+  Albert, Albert, Howey         ;         Oldfield
+
+; Norwich City               ; 3-0;    Chelsea                     
+  Wards, Wards, Cureton;
+
+; Nottingham Forest          ; 4-1;    Ipswich Town                
+  Collymore, Gemmill, Halland, Pear; Thomsen
+
+; Queens Park Rangers        ; 2-3;    Manchester United           
+  Ferdinard, Ferdinand               ;       Scholes, Scholes, Keane
+
+; Tottenham Hotspur          ; 3-1;    Sheffield Wednesday         
+  Barmby, Klinsmann, Calderwood  ;  Nolan
+
+; Wimbledon                  ; 2-0;    Coventry City               
+  Leonhardsen, Harford;
+
+
+Date: 11/12/1994
+
+; Liverpool                  ; 0-0;    Crystal Palace              
+
+
+Date: 12/12/1994
+
+; Manchester City            ; 1-2;    Arsenal                     
+  Simpson    ;                      Smith, Schwarz
+
+
+Date: 16/12/1994
+
+; Ipswich Town               ; 2-2;    Wimbledon                   
+  Milton, Sedgley       ;           Holdsworth, Goodman
+
+
+Date: 17/12/1994
+
+; Arsenal                    ; 1-3;    Leeds United                
+  Linighan               ;          Massinga, Massinga, Deane
+
+; Coventry City              ; 0-0;    Newcastle United            
+
+
+; Crystal Palace             ; 0-1;    Norwich City                
+                          ;         Ward
+
+; Everton                    ; 0-0;    Tottenham Hotspur           
+
+
+; Leicester City             ; 0-0;    Blackburn Rovers            
+
+
+; Manchester United          ; 1-2;    Nottingham Forest           
+  Cantona                  ;        Collymore, Pearce
+
+; Sheffield Wednesday        ; 0-2;    Queens Park Rangers         
+                            ;       Maddix, Ferdinard
+
+; West Ham United            ; 3-0;    Manchester City             
+  Cottee, Cottee, Cottee;
+
+
+Date: 18/12/1994
+
+; Chelsea                    ; 0-0;    Liverpool                   
+
+
+Date: 19/12/1994
+
+; Southampton                ; 2-1;    Aston Villa                 
+  Hall, Le Tissier     ;            Houghton
+
+
+Date: 26/12/1994
+
+; Arsenal                    ; 0-0;    Aston Villa                 
+
+
+; Chelsea                    ; 2-3;    Manchester United           
+  Spencer, Newton       ;           Hughes, Cantona, McClair
+
+; Coventry City              ; 0-0;    Nottingham Forest           
+
+
+; Crystal Palace             ; 0-0;    Queens Park Rangers         
+
+
+; Everton                    ; 1-4;    Sheffield Wednesday         
+  Ferguson               ;          Bright, Ingesson, Whittingham, Whittingham
+
+; Leeds United               ; 0-0;    Newcastle United            
+
+
+; Leicester City             ; 1-2;    Liverpool                   
+  Roberts                 ;         Fowler, Rush
+
+; Manchester City            ; 1-3;    Blackburn Rovers            
+  Quinn                    ;        Shearer, Atkins, Le Saux
+
+; Norwich City               ; 0-2;    Tottenham Hotspur           
+                            ;       Barmby, Sheringham
+
+; Southampton                ; 2-3;    Wimbledon                   
+  Dodd, Le Tissier           ;      Holdsworth, Holdsworth, Harford
+
+; West Ham United            ; 1-1;    Ipswich Town                
+  Cottee                      ;     Thomsen
+
+
+Date: 27/12/1994
+
+; Nottingham Forest          ; 1-0;    Norwich City                
+  Bohinen;
+
+; Tottenham Hotspur          ; 0-0;    Crystal Palace              
+
+
+
+Date: 28/12/1994
+
+; Aston Villa                ; 3-0;    Chelsea                     
+  Sinclair (og), Yorke, Taylor;
+
+; Ipswich Town               ; 0-2;    Arsenal                     
+                               ;    Wright, Campbell
+
+; Liverpool                  ; 2-0;    Manchester City             
+  Phelan (og), Fowler;
+
+; Manchester United          ; 1-1;    Leicester City              
+  Kanchelskis         ;             Whitlow
+
+; Queens Park Rangers        ; 2-2;    Southampton                 
+  Barker, Gallen       ;            Dodd, Hughes
+
+; Sheffield Wednesday        ; 5-1;    Coventry City               
+  Bright, Bright, Waddle, Whittingham, Whittingham;  Ndlovu
+
+; Wimbledon                  ; 1-0;    West Ham United             
+  Fear;
+
+
+Date: 31/12/1994
+
+; Arsenal                    ; 1-3;    Queens Park Rangers         
+  Jensen       ;                    Gallen, Allen, Impey
+
+; Chelsea                    ; 1-1;    Wimbledon                   
+  Furlong       ;                   Ekoku
+
+; Coventry City              ; 0-4;    Tottenham Hotspur           
+                 ;                  Darby (og), Barmby, Anderton, Sheringham
+
+; Crystal Palace             ; 0-1;    Blackburn Rovers            
+                  ;                 Sherwood
+
+; Everton                    ; 4-1;    Ipswich Town                
+  Ferguson, Rideout, Rideout, Watson  ;    Sedgley
+
+; Leeds United               ; 0-2;    Liverpool                   
+                                ;   Redknapp, Fowler
+
+; Leicester City             ; 0-1;    Sheffield Wednesday         
+                            ;       Hyde
+
+; Manchester City            ; 2-2;    Aston Villa                 
+  Rosler, Rosler                   ;      Brightwell (og),  Saunders
+
+; Norwich City               ; 2-1;    Newcastle United            
+  Adams, Ward                 ;     Fox
+
+; Southampton                ; 2-2;    Manchester United           
+  Magilton, Hughes             ;    Butt, Pallister
+
+; West Ham United            ; 3-1 ;   Nottingham Forest           
+  Cottee, Bishop, Hughes        ;   McGregor
+
+Date: 02/1/1995
+
+; Aston Villa                ; 0-0;    Leeds United                
+
+; Blackburn Rovers           ; 4-2;    West Ham United             
+  Shearer, Shearer, Shearer, Le Saux            ;   Cottee, Dicks
+
+; Ipswich Town               ; 4-1;    Leicester City              
+  Kiwomya, Kiwomya, Tanner, Yallop     ;   Roberts
+
+; Liverpool                  ; 4-0;    Norwich City                
+  Scales, Fowler, Fowler, Rush;
+
+; Newcastle United           ; 0-0;    Manchester City             
+
+; Nottingham Forest          ; 1-0;    Crystal Palace              
+  Bull;
+
+; Sheffield Wednesday        ; 1-1;    Southampton                 
+  Hyde           ;                  Le Tissier
+
+; Tottenham Hotspur          ; 1-0;    Arsenal                     
+  Popsecu;
+
+; Wimbledon                  ; 2-1;    Everton                     
+  Harford, Harford             ;           Rideout
+
+
+Date: 03/1/1995
+
+; Manchester United          ; 2-0;    Coventry City               
+  Scholes, Cantona;
+
+
+Date: 14/1/1995
+
+; Arsenal                    ; 1-1;    Everton                     
+  Wright           ;                Watson
+
+; Aston Villa                ; 2-1;    Queens Park Rangers         
+  Fashanu, Ehiogu   ;               Yates
+
+; Blackburn Rovers           ; 3-0;    Nottingham Forest           
+  Warhurst, Wilcox, Chettle (og);
+
+; Chelsea                    ; 1-1;    Sheffield Wednesday         
+  Spencer                   ;       Nolan
+
+; Crystal Palace             ; 2-0;    Leicester City              
+  Newman, Ndah;
+
+; Leeds United               ; 0-0;    Southampton                 
+
+; Liverpool                  ; 0-1;    Ipswich Town                
+               ;                    Tanner
+
+; Manchester City            ; 0-0;    Coventry City               
+
+
+; Norwich City               ; 1-2;    Wimbledon                   
+  Goss          ;                   Reeves, Ekoku
+
+; West Ham United            ; 1-2;    Tottenham Hotspur           
+  Boere          ;                  Sheringham, Klinsmann
+
+
+Date: 15/1/1995
+
+; Newcastle United           ; 1-1;    Manchester United           
+  Kitson          ;                 Hughes
+
+
+Date: 21/1/1995
+
+; Coventry City              ; 0-1;    Arsenal                     
+                   ;                Hartson
+
+; Everton                    ; 3-1;    Crystal Palace              
+  Ferguson, Ferguson, Rideout  ;            Coleman
+
+; Ipswich Town               ; 2-2;    Chelsea                     
+  Marshall, Pressley (og)  ;        Stein, Burley
+
+; Nottingham Forest          ; 1-2;    Aston Villa                 
+  Collymore                 ;       Fashanu, Saunders
+
+; Sheffield Wednesday        ; 0-0;    Newcastle United            
+
+
+Date: 22/1/1995
+
+; Manchester United          ; 1-0;    Blackburn Rovers            
+  Cantona;
+
+
+Date: 23/1/1995
+
+; West Ham United            ; 0-2;    Sheffield Wednesday         
+          ;                         Waddle, Bright
+
+
+Date: 24/1/1995
+
+; Arsenal                    ; 1-1;    Southampton                 
+  Hartson  ;                        Magilton
+
+; Leeds United               ; 4-0;    Queens Park Rangers         
+  Massinga, Massinga, White , Deane;
+
+; Liverpool                  ; 0-0;    Everton                     
+
+
+Date: 25/1/1995
+
+; Aston Villa                ; 1-0;    Tottenham Hotspur           
+  Saunders;
+
+; Chelsea                    ; 0-2;    Nottingham Forest           
+           ;                        Collymore, Collymore
+
+; Crystal Palace             ; 1-1;    Manchester United           
+  Southgate ;                       May
+
+; Manchester City            ; 0-1;    Leicester City              
+             ;                      Robins
+
+; Newcastle United           ; 2-1;    Wimbledon                   
+  Fox, Kitson  ;                    Ekoku
+
+; Norwich City               ; 2-2;    Coventry City               
+  Adams, Ward   ;                   Dublin, Jenkinson
+
+
+Date: 26/1/1995
+
+; Blackburn Rovers           ; 4-1;    Ipswich Town                
+  Shearer, Shearer, Shearer, Sherwood    ;          Wark
+
+
+Date: 01/2/1995
+
+; Blackburn Rovers           ; 1-1;    Leeds United                
+  Shearer        ;                  McAllister
+
+; Newcastle United           ; 2-0;    Everton                     
+  Fox, Beardsley;
+
+
+Date: 04/2/1995
+
+; Coventry City              ; 2-2;    Chelsea                     
+  Flynn, Burley (og)    ;           Stein, Spencer
+
+; Everton                    ; 2-1;    Norwich City                
+  Stuart, Rideout        ;          Milligan
+
+; Ipswich Town               ; 0-2;    Crystal Palace              
+                          ;         Dowie, Gordon
+
+; Leicester City             ; 1-2;    West Ham United             
+  Robins                   ;        Cottee, Dicks
+
+; Manchester United          ; 1-0;    Aston Villa                 
+  Cole;
+
+; Nottingham Forest          ; 1-1;    Liverpool                   
+  Collymore      ;                  Fowler
+
+; Queens Park Rangers        ; 3-0;    Newcastle United            
+  Ferdinand, Ferdinand, Barker;
+
+; Sheffield Wednesday        ; 3-1;    Arsenal                     
+  Petrescu, Ingesson, Bright ;      Linighan
+
+; Southampton                ; 2-2;    Manchester City             
+  Coton (og), Le Tissier      ;     Kernaghan, Flitcroft
+
+; Wimbledon                  ; 0-0;    Leeds United                
+
+
+
+Date: 05/2/1995
+
+; Tottenham Hotspur          ; 3-1;    Blackburn Rovers            
+  Klinsmann, Anderton, Barmby  ;    Sherwood
+
+
+Date: 11/2/1995
+
+; Arsenal                    ; 1-1;    Leicester City              
+  Merson                ;           Draper
+
+; Aston Villa                ; 7-1;    Wimbledon                   
+ Reeves (og), Johnson, Johnson, Johnson, Saunders; Barton
+
+; Chelsea                    ; 1-1;    Tottenham Hotspur           
+  Wise                       ;      Sheringham
+
+; Crystal Palace             ; 0-2;    Coventry City               
+                              ;     Jones, Dublin
+
+; Liverpool                  ; 1-1;    Queens Park Rangers         
+  Scales                       ;    Gallen
+
+; Manchester City            ; 0-3;    Manchester United           
+                                ;   Ince, Kanchelskis, Cole
+
+; Newcastle United           ; 2-1;    Nottingham Forest           
+  Fox, Lee                       ;  Lee
+
+; Norwich City               ; 2-2;    Southampton                 
+  Newsome, Ward             ;       Hall, Magilton
+
+
+Date: 12/2/1995
+
+; Blackburn Rovers           ; 3-1;    Sheffield Wednesday         
+  Sherwood, Atkins, Shearer  ;      Waddle
+
+
+Date: 13/2/1995
+
+; West Ham United            ; 2-2;    Everton                     
+  Cottee, Cottee                    ;     Rideout, Limpar
+
+
+Date: 18/2/1995
+
+; Coventry City              ; 2-0;    West Ham United             
+  Ndlovu, Marsh;
+
+; Sheffield Wednesday        ; 1-2;    Aston Villa                 
+  Bright        ;                   Saunders, Saunders
+
+
+Date: 21/2/1995
+
+; Arsenal                    ; 1-0;    Nottingham Forest           
+  Kiwomya;
+
+
+Date: 22/2/1995
+
+; Aston Villa                ; 4-4;    Leicester City              
+  Saunders, Staunton, Yorke, Johnso; Robins, Roberts, Lowe, Lowe
+
+; Blackburn Rovers           ; 2-1;    Wimbledon                   
+  Shearer, Atkins            ;      Ekoku
+
+; Leeds United               ; 1-0;    Everton                     
+  Yeboah;
+
+; Manchester City            ; 2-0;    Ipswich Town                
+  Quinn, Rosler;
+
+; Norwich City               ; 0-2;    Manchester United           
+                ;                   Ince, Kanchelskis
+
+
+Date: 25/2/1995
+
+; Blackburn Rovers           ; 0-0;    Norwich City                
+
+
+; Coventry City              ; 4-2;    Leicester City              
+  Flynn, Flynn, Marsh, Ndlovu   ;        Lowe, Roberts
+
+; Crystal Palace             ; 0-3;    Arsenal                     
+                            ;       Merson, Kiwomya, Kiwomya
+
+; Everton                    ; 1-0;    Manchester United           
+  Ferguson;
+
+; Ipswich Town               ; 2-1;    Southampton                 
+  Mathie, Chapman   ;               Maddison
+
+; Manchester City            ; 0-0;    Leeds United                
+
+
+; Newcastle United           ; 3-1;    Aston Villa                 
+  Venison, Beardsley, Beardsley    ;         Townsend
+
+; Sheffield Wednesday        ; 1-2;    Liverpool                   
+  Bart-Williams            ;        Barnes, McManaman
+
+; Tottenham Hotspur          ; 1-2;    Wimbledon                   
+  Klinsmann                 ;       Ekoku, Ekoku
+
+; West Ham United            ; 1-2;    Chelsea                     
+  Hutchison                  ;      Burley, Stein
+
+
+Date: 26/2/1995
+
+; Queens Park Rangers        ; 1-1;    Nottingham Forest           
+  Barker                       ;    Stone
+
+Date: 28/2/1995
+
+; Ipswich Town               ; 0-2;    Newcastle United            
+                                ;   Fox, Kitson
+
+
+Date: 04/3/1995
+
+; Aston Villa                ; 0-1;    Blackburn Rovers            
+                                ;   Hendry
+
+; Leeds United               ; 0-1;    Sheffield Wednesday         
+                                 ;  Waddle
+
+; Leicester City             ; 2-2;    Everton                     
+  Draper, Roberts                 ; Limpar, Samways
+
+; Liverpool                  ; 2-0;    Newcastle United            
+  Fowler, Rush;
+
+; Manchester United          ; 9-0;    Ipswich Town                
+  Keane, Cole, Cole, Cole, Cole, Cole, Hughes, Hughes, Ince;
+
+; Norwich City               ; 1-1;    Manchester City             
+  Cureton                       ;   Simpson
+
+; Nottingham Forest          ; 2-2;    Tottenham Hotspur           
+  Bohinen, Lee                   ;  Sheringham, Calderwood
+
+; Southampton                ; 0-0;    Coventry City               
+
+; Wimbledon                  ; 1-3;    Queens Park Rangers         
+  Holdsworth                   ;     Ferdinand, Ferdinand, Holloway
+
+
+Date: 05/3/1995
+
+; Arsenal                    ; 0-1;    West Ham United             
+                                 ;  Hutchison
+
+; Chelsea                    ; 0-0;    Crystal Palace              
+
+
+Date: 06/3/1995
+
+; Aston Villa                ; 0-0;    Coventry City               
+
+
+Date: 07/3/1995
+
+; Wimbledon                  ; 0-1;    Manchester United           
+                                  ; Bruce
+
+
+Date: 08/3/1995
+
+; Blackburn Rovers           ; 3-1;    Arsenal                     
+  Shearer, Shearer, Le Saux          ;     Morrow
+
+; Manchester City            ; 1-2;    Chelsea                     
+  Gaudino                      ;    Stein, Stein
+
+; Newcastle United           ; 2-0;    West Ham United             
+  Clark, Kitson;
+
+; Norwich City               ; 0-0;    Sheffield Wednesday         
+
+
+; Nottingham Forest          ; 2-1;    Everton                     
+  Collymore, Pearce      ;          Barlow
+
+; Queens Park Rangers        ; 2-0;    Leicester City              
+  McDonald, Wilson;
+
+; Tottenham Hotspur          ; 3-0;    Ipswich Town                
+  Klinsmann, Barmby, Youds (og);
+
+
+Date: 11/3/1995
+
+; Chelsea                    ; 0-3;    Leeds United                
+                                ;   Yeboah 2, McAllister
+
+; Coventry City              ; 1-1;    Blackburn Rovers            
+  Dublin                         ;  Shearer
+
+; Leicester City             ; 2-4;    Nottingham Forest           
+  Lowe, Draper           ;          Pearce, Collymore, Woan, Lee
+
+; Sheffield Wednesday        ; 0-1;    Wimbledon                   
+                          ;         Reeves
+
+; West Ham United            ; 2-2;    Norwich City                
+  Cottee, Cottee                 ;        Eadie, Ullathorne
+
+
+Date: 14/3/1995
+
+; Crystal Palace             ; 2-1;    Sheffield Wednesday         
+  Armstrong, Dowie          ;       Whittingham
+
+; Liverpool                  ; 2-3;    Coventry City               
+  Molby, Burrows (og)        ;      Ndlovu, Ndlovu, Ndlovu
+
+
+Date: 15/3/1995
+
+; Everton                    ; 1-1;    Manchester City             
+  Unsworth                    ;     Gaudino
+
+; Leicester City             ; 1-3;    Leeds United                
+  Roberts                      ;    Yeboah, Yeboah, Palmer
+
+; Manchester United          ; 0-0;    Tottenham Hotspur           
+
+
+; Queens Park Rangers        ; 2-0;    Norwich City                
+  Ferdinard, Gallen;
+
+; Southampton                ; 1-1;    West Ham United             
+  Shipperley        ;               Hutchison
+
+
+Date: 18/3/1995
+
+; Aston Villa                ; 0-2;    West Ham United             
+                     ;              Moncur, Hutchison
+
+; Blackburn Rovers           ; 2-1;    Chelsea                     
+  Shearer, Sherwood   ;             Stein
+
+; Leeds United               ; 3-0;    Coventry City               
+  Yeboah, Gould (og), Wallace;
+
+; Manchester City            ; 3-2;    Sheffield Wednesday         
+  Rosler, Rosler, Walsh             ;     Whittingham, Hyde
+
+; Nottingham Forest          ; 3-0;    Southampton                 
+  Roy, Roy, Collymore;
+
+; Queens Park Rangers        ; 2-3;    Everton                     
+  Ferdinard, Gallen        ;        Barlow, McDonald (og), Hinchcliffe
+
+; Tottenham Hotspur          ; 1-0;    Leicester City              
+  Klinsmann;
+
+; Wimbledon                  ; 2-0;    Crystal Palace              
+  Jones, Gayle;
+
+
+Date: 19/3/1995
+
+; Liverpool                  ; 2-0;    Manchester United           
+  Bruce (og), Redknapp;
+
+; Newcastle United           ; 1-0;    Arsenal                     
+  Beardsley;
+
+
+Date: 20/3/1995
+
+; Norwich City               ; 3-0;    Ipswich Town                
+  Cureton, Ward, Eadie;
+
+
+Date: 21/3/1995
+
+; Wimbledon                  ; 2-0;    Manchester City             
+  Thorne, Elkins;
+
+
+Date: 22/3/1995
+
+; Manchester United          ; 3-0;    Arsenal                     
+  Hughes, Sharpe, Kanchelskis;
+
+; Nottingham Forest          ; 3-0;    Leeds United                
+  Roy, Roy, Collymore;
+
+; Queens Park Rangers        ; 1-0;    Chelsea                     
+  Gallen;
+
+; Southampton                ; 3-1;    Newcastle United            
+  Heaney, Watson, Shipperley ;      Kitson
+
+; Tottenham Hotspur          ; 0-0;    Liverpool                   
+
+
+
+Date: 01/4/1995
+
+; Arsenal                    ; 5-1;    Norwich City                
+  Hartson, Hartson, Dixon, Merson, Newman (og) ; Cureton
+
+; Chelsea                    ; 1-1;    Newcastle United            
+  Peacock                      ;    Hottiger
+
+; Coventry City              ; 0-1;    Queens Park Rangers         
+                                ;   Sinclair
+
+; Crystal Palace             ; 2-1;    Manchester City             
+  Armstrong, Patterson     ;        Rosler
+
+; Everton                    ; 1-2;    Blackburn Rovers            
+  Stuart                    ;       Sutton, Shearer
+
+; Ipswich Town               ; 0-1;    Aston Villa                 
+                             ;      Swailes (og)
+
+; Leicester City             ; 3-4;    Wimbledon                   
+  Robins, Willis, Lawrence    ;     Goodman, Goodman, Leonhardsen, Leonhardsen
+
+; Sheffield Wednesday        ; 1-7;    Nottingham Forest           
+  Bright                       ;    Pearce, Woan, Roy, Roy, Collymore, Collymore, Bohinen
+
+
+Date: 02/4/1995
+
+; Manchester United          ; 0-0;    Leeds United                
+
+
+; Southampton                ; 4-3;    Tottenham Hotspur           
+  Heaney, Le Tissier, Le Tissier, Magilton;   Sheringham, Sheringham, Klinsmann
+
+
+Date: 04/4/1995
+
+; Crystal Palace             ; 0-0;    Aston Villa                 
+
+
+; Queens Park Rangers        ; 0-1;    Blackburn Rovers            
+             ;                      Sutton
+
+
+Date: 05/4/1995
+
+; Leeds United               ; 4-0;    Ipswich Town                
+  Yeboah, Yeboah, Yeboah, Speed;
+
+; Leicester City             ; 1-0;    Norwich City                
+  Parker;
+
+; Liverpool                  ; 3-1;    Southampton                 
+  Rush, Rush, Fowler  ;                 Hall
+
+
+Date: 08/4/1995
+
+; Newcastle United           ; 3-0;    Norwich City                
+  Beardsley, Beardsley, Kitson;
+
+; Nottingham Forest          ; 1-1;    West Ham United             
+  Collymore           ;             Dicks
+
+; Queens Park Rangers        ; 3-1;    Arsenal                     
+  Impey, Gallen, Ready  ;            Adams
+
+; Sheffield Wednesday        ; 1-0;    Leicester City              
+  Whittingham;
+
+; Liverpool                  ; 0-1;    Leeds United                
+              ;                     Deane
+
+; Wimbledon                  ; 1-1;    Chelsea                     
+  Goodman      ;                    Sinclair
+
+Date: 11/4/1995
+
+; Ipswich Town               ; 0-1;    Queens Park Rangers         
+                ;                   Ferdinard
+
+; Tottenham Hotspur          ; 2-1;    Manchester City             
+  Howells, Klinsmann      ;         Rosler
+
+
+Date: 12/4/1995
+
+; Arsenal                    ; 0-1;    Liverpool                   
+                           ;        Fowler
+
+; Chelsea                    ; 0-2;    Southampton                 
+                             ;      Shipperley, Le Tissier
+
+; Norwich City               ; 0-1;    Nottingham Forest           
+                            ;       Stone
+
+
+Date: 13/4/1995
+
+; West Ham United            ; 3-0;    Wimbledon                   
+  Dicks, Boere, Cottee;
+
+
+Date: 14/4/1995
+
+; Crystal Palace             ; 1-1;    Tottenham Hotspur           
+  Armstrong            ;            Klinsmann
+
+; Everton                    ; 2-0;    Newcastle United            
+  Amokachi, Amokachi;
+
+; Manchester City            ; 2-1;    Liverpool                   
+  Summerbee, Gaudino      ;         McManaman
+
+
+Date: 15/4/1995
+
+; Arsenal                    ; 4-1;    Ipswich Town                
+  Merson, Wright, Wright, Wright        ;        Marshall
+
+; Chelsea                    ; 1-0;    Aston Villa                 
+  Stein;
+
+; Coventry City              ; 2-0;    Sheffield Wednesday         
+  Dublin, Ndlovu;
+
+; Leeds United               ; 1-1;    Blackburn Rovers            
+  Deane          ;                  Hendry
+
+; Leicester City             ; 0-4;    Manchester United           
+                  ;                 Sharpe, Cole, Cole, Ince
+
+; Southampton                ; 2-1;    Queens Park Rangers         
+  Shipperley, Watson       ;        Ferdinard
+
+
+Date: 17/4/1995
+
+; Aston Villa                ; 0-4;    Arsenal                     
+                            ;       Hartson, Hartson, Wright, Wright
+
+; Blackburn Rovers           ; 2-3;    Manchester City             
+  Shearer, Hendry            ;      Curle, Rosler, Walsh
+
+; Ipswich Town               ; 1-1;    West Ham United             
+  Thomsen                     ;     Boere
+
+; Liverpool                  ; 2-0;    Leicester City              
+  Fowler, Rush;
+
+; Manchester United          ; 0-0;    Chelsea                     
+
+
+; Newcastle United           ; 1-2;    Leeds United                
+  Elliott      ;                    McAllister, Yeboah
+
+; Nottingham Forest          ; 2-0;    Coventry City               
+  Woan, Collymore;
+
+; Queens Park Rangers        ; 0-1;    Crystal Palace              
+                  ;                 Dowie
+
+; Sheffield Wednesday        ; 0-0;    Everton                     
+
+
+; Tottenham Hotspur          ; 1-0;    Norwich City                
+  Sheringham;
+
+; Wimbledon                  ; 0-2;    Southampton                 
+             ;                      Le Tissier, Watson
+
+
+Date: 20/4/1995
+
+; Blackburn Rovers           ; 2-1;    Crystal Palace              
+  Kenna, Gallacher     ;            Houghton
+
+
+Date: 29/4/1995
+
+; Arsenal                    ; 1-1;    Tottenham Hotspur           
+  Wright                ;           Klinsmann
+
+; Chelsea                    ; 1-0;    Queens Park Rangers         
+  Sinclair;
+
+; Crystal Palace             ; 1-2;    Nottingham Forest           
+  Dowie    ;                        Roy, Collymore
+
+; Everton                    ; 0-0;    Wimbledon                   
+
+
+; Leeds United               ; 1-0;    Aston Villa                 
+  Palmer;
+
+; Leicester City             ; 2-0;    Ipswich Town                
+  Whitlow, Lowe;
+
+; Manchester City            ; 0-0;    Newcastle United            
+
+
+; Norwich City               ; 1-2;    Liverpool                   
+  Ullathorne    ;                   Harkness, Rush
+
+; Southampton                ; 0-0;    Sheffield Wednesday         
+
+
+
+Date: 30/4/1995
+
+; West Ham United            ; 2-0;    Blackburn Rovers            
+  Reiper, Hutchison;
+
+
+Date: 01/5/1995
+
+; Coventry City              ; 2-3;    Manchester United           
+  Ndlovu, Pressley  ;               Scholes, Cole, Cole
+
+
+Date: 02/5/1995
+
+; Wimbledon                  ; 0-0;    Liverpool                   
+
+
+Date: 03/5/1995
+
+; Aston Villa                ; 1-1;    Manchester City             
+  Ehiogu             ;              Rosler
+
+; Everton                    ; 3-3;    Chelsea                     
+  Hinchcliffe, Ablett, Amokachi;    Furlong, Furlong, Hopkin
+
+; Newcastle United           ; 3-3;    Tottenham Hotspur           
+  Gillespie, Peacock, Beardsley ;   Barmby, Klinsmann, Anderton
+
+; Southampton                ; 3-1;    Crystal Palace              
+  Wilmot (og), Watson, Le Tissier;  Southgate
+
+; West Ham United            ; 0-0;    Queens Park Rangers         
+
+
+Date: 04/5/1995
+
+; Arsenal                    ; 0-0;    Wimbledon                   
+
+
+Date: 06/5/1995
+
+; Aston Villa                ; 2-0;    Liverpool                   
+  Yorke, Yorke;
+
+; Crystal Palace             ; 1-0;    West Ham United             
+  Armstrong;
+
+; Everton                    ; 0-0;    Southampton                 
+
+
+; Ipswich Town               ; 2-0;    Coventry City               
+  Slater, Wark;
+
+; Leeds United               ; 2-1;    Norwich City                
+  McAllister, Palmer      ;         Ward
+
+; Leicester City             ; 1-1;    Chelsea                     
+  Wilis                    ;        Furlong
+
+; Nottingham Forest          ; 1-0;    Manchester City             
+  Collymore;
+
+; Queens Park Rangers        ; 2-1;    Tottenham Hotspur           
+  Ferdinand, Ferdinand           ;           Sheringham
+
+
+Date: 07/5/1995
+
+; Manchester United          ; 1-0;    Sheffield Wednesday         
+  May;
+
+
+Date: 08/5/1995
+
+; Blackburn Rovers           ; 1-0;    Newcastle United            
+  Shearer;
+
+
+Date: 09/5/1995
+
+; Ipswich Town               ; 0-1;    Everton                     
+          ;                         Rideout
+
+; Leeds United               ; 3-1;    Crystal Palace              
+  Yeboah, Yeboah, Wetherall     ;         Armstrong
+
+; Tottenham Hotspur          ; 1-3;    Coventry City               
+  Anderton                 ;        Ndlovu, Ndlovu, Dublin
+
+; Manchester United          ; 2-1;    Southampton                 
+  Cole, Irwin               ;       Charlton
+
+; West Ham United            ; 3-0;    Liverpool                   
+  Holmes, Hutchison, Hutchison;
+
+; Wimbledon                  ; 2-2;    Nottingham Forest           
+  Holdsworth, Holdsworth        ;             Phillips, Stone
+
+
+Date: 14/5/1995
+
+; Chelsea                    ; 2-1;    Arsenal                     
+  Furlong, Stein       ;            Hartson
+
+; Coventry City              ; 0-0;    Everton                     
+
+
+; Liverpool                  ; 2-1;    Blackburn Rovers            
+  Barnes, Redknapp      ;           Shearer
+
+; Manchester City            ; 2-3;    Queens Park Rangers         
+  Quinn, Curle           ;          Ferdinand, Ferdinand, Dichio
+
+; Newcastle United           ; 3-2;    Crystal Palace              
+  Fox, Lee, Gillespie     ;         Armstrong, Houghton
+
+; Norwich City               ; 1-1;    Aston Villa                 
+  Goss                     ;        Staunton
+
+; Sheffield Wednesday        ; 4-1;    Ipswich Town                
+  Whittingham, Whittingham, Williams, Bright;  Mathie
+
+; Southampton                ; 2-2;    Leicester City              
+  Monkou, Le Tissier         ;      Parker, Robins
+
+; Tottenham Hotspur          ; 1-1;    Leeds United                
+  Sheringham                  ;     Deane
+
+; West Ham United            ; 1-1;    Manchester United           
+  Hughes                       ;    McClair
+
+
+
+*                              P  W  D  L   F   A  W  D  L   F   A Pts  GD
+* 1. Blackburn Rovers         42 17  2  2  54  21 10  6  5  26  18  89 +41 EC1
+* 2. Manchester United        42 16  4  1  42   4 10  6  5  35  24  88 +49 EC3
+* 3. Nottingham Forest        42 12  6  3  36  18 10  5  6  36  25  77 +29 EC3
+* 4. Liverpool                42 13  5  3  38  13  8  6  7  27  24  74 +28 EC3
+* 5. Leeds United             42 13  5  3  35  15  7  8  6  24  23  73 +21 EC3
+* 6. Newcastle United         42 14  6  1  46  20  6  6  9  21  27  72 +20 
+* 7. Tottenham Hotspur        42 10  5  6  32  25  6  9  6  34  33  62  +8
+* 8. Queen's Park Rangers     42 11  3  7  36  26  6  6  9  25  33  60  +2
+* 9. Wimbledon                42  9  5  7  26  26  6  6  9  22  39  56 -17
+*10. Southampton              42  8  9  4  33  27  4  9  8  28  36  54  -2 
+*11. Chelsea                  42  7  7  7  25  22  6  8  7  25  33  54  -5 
+*12. Arsenal                  42  6  9  6  27  21  7  3 11  25  28  51  +3
+*13. Sheffield Wednesday      42  7  7  7  26  26  6  5 10  23  31  51  -8
+*14. West Ham United          42  9  6  6  28  19  4  5 12  16  29  50  -4
+*15. Everton                  42  8  9  4  31  23  3  8 10  13  28  50  -7 EC2
+*16. Coventry City            42  7  7  7  23  25  5  7  9  21  37  50 -18
+*17. Manchester City          42  8  7  6  37  28  4  6 11  16  36  49 -11
+*18. Aston Villa              42  6  9  6  27  24  5  6 10  24  32  48  -5
+*--------------------------------------------------------------------------
+*19. Crystal Palace           42  6  6  9  16  23  5  6 10  18  26  45 -15
+*20. Norwich City             42  8  8  5  27  21  2  5 14  10  33  43 -17
+*21. Leicester City           42  5  6 10  28  37  1  5 15  17  43  29 -35
+*22. Ipswich Town             42  5  3 13  24  34  2  3 16  12  59  27 -57
+
+
+
+*Thanks to Jeffrey Spring Bolton for pointing out an error
+*Prepared and maintained by Michael Heneghan, James Ross, Stephen Mulrine and Rob Monger for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Michael Heneghan, James Ross, Stephen Mulrine and Rob Monger 
+*Last updated: 4 Nov 2011
+*(C) Copyright Michael Heneghan, James Ross, Stephen Mulrine, Rob Monger and RSSSF 1999/2011
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

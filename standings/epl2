@@ -1,0 +1,122 @@
+Competition: Premier League
+BlockSource: http://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League
+
+Key: position; team; games; wins; losses; ties; goals_for; goals_against; goal_difference; points
+
+Season: 2008-2009
+
+1       ;     Manchester United; 38  ;   28 ;      6   ;    4 ;      68  ;    24   ;   +44  ;   90 
+2       ;     Liverpool        ; 38  ;   25 ;      11  ;    2 ;      77  ;    27   ;   +50  ;   86
+3       ;     Chelsea          ; 38  ;   25 ;      8   ;    5 ;      68  ;    24   ;   +44  ;   83
+4       ;     Arsenal          ; 38  ;   20 ;      12  ;    6 ;      68  ;    37   ;   +31  ;   72  
+5       ;     Everton          ; 38  ;   17 ;      12  ;    9 ;      55  ;    37   ;   +18  ;   63  
+6       ;     Aston Villa      ; 38  ;   17 ;      11  ;    10;      54  ;    48   ;   +6   ;   62
+7       ;     Fulham           ; 38  ;   14 ;      11  ;    13;      39  ;    34   ;   +5   ;   53
+8       ;     Tottenham Hotspur; 38  ;   14 ;       9  ;    15;      45  ;    45   ;   0    ;   51
+9       ;     West Ham United  ; 38  ;   14 ;       9  ;    15;      42  ;    45   ;   −3   ;   51
+10      ;     Manchester City  ; 38  ;   15 ;       5  ;    18;      58  ;    50   ;   +8   ;   50
+11      ;     Wigan Athletic   ; 38  ;   12 ;       9  ;    17;      34  ;    45   ;   −11  ;   45
+12      ;     Stoke City       ; 38  ;   12 ;       9  ;    17;      38  ;    55   ;   −17  ;   45
+13      ;     Bolton Wanderers ; 38  ;   11 ;       8  ;    19;      41  ;    53   ;   −12  ;   41
+14      ;     Portsmouth       ; 38  ;   10 ;      11  ;    17;      38  ;    57   ;   −19  ;   41
+15      ;     Blackburn Rovers ; 38  ;   10 ;      11  ;    17;      40  ;    60   ;   −20  ;   41
+16      ;     Sunderland       ; 38  ;    9 ;       9  ;    20;      34  ;    54   ;   −20  ;   36
+17      ;     Hull City        ; 38  ;    8 ;      11  ;    19;      39  ;    64   ;   −25  ;   35
+18      ;     Newcastle United ; 38  ;    7 ;      13  ;    18;      40  ;    59   ;   −19  ;   34
+19      ;     Middlesbrough    ; 38  ;    7 ;      11  ;    20;      28  ;    57   ;   −29  ;   32
+20      ;     West Brom Albion ; 38  ;    8 ;       8  ;    22;      36  ;    67   ;   −31  ;   32
+
+
+Season: 2009-2010
+
+1     ;  Chelsea                ; 38   ;   27   ;   5   ;    6   ;    103  ;   32  ;    +71  ;   86
+2     ;  Manchester United      ; 38   ;   27   ;   4   ;    7   ;    86   ;   28  ;    +58  ;   85
+3     ;  Arsenal                ; 38   ;   23   ;   6   ;    9   ;    83   ;   41  ;    +42  ;   75
+4     ;  Tottenham Hotspur      ; 38   ;   21   ;   7   ;    10  ;    67   ;   41  ;    +26  ;   70
+5     ;  Manchester City        ; 38   ;   18   ;   13  ;    7   ;    73   ;   45  ;    +28  ;   67
+6     ;  Aston Villa            ; 38   ;   17   ;   13  ;    8   ;    52   ;   39  ;    +13  ;   64
+7     ;  Liverpool              ; 38   ;   18   ;   9   ;    11  ;    61   ;   35  ;    +26  ;   63
+8     ;  Everton                ; 38   ;   16   ;   13  ;    9   ;    60   ;   49  ;    +11  ;   61
+9     ;  Birmingham City        ; 38   ;   13   ;   11  ;    14  ;    38   ;   47  ;    −9   ;   50
+10    ;  Blackburn Rovers       ; 38   ;   13   ;   11  ;    14  ;    41   ;   55  ;    −14  ;   50
+11    ;  Stoke City             ; 38   ;   11   ;   14  ;    13  ;    34   ;   48  ;    −14  ;   47
+12    ;  Fulham                 ; 38   ;   12   ;   10  ;    16  ;    39   ;   46  ;    −7   ;   46
+13    ;  Sunderland             ; 38   ;   11   ;   11  ;    16  ;    48   ;   56  ;    −8   ;   44
+14    ;  Bolton Wanderers       ; 38   ;   10   ;   9   ;    19  ;    42   ;   67  ;    −25  ;   39
+15    ;  Wolverhampton Wanderers; 38   ;   9    ;   11  ;    18  ;    32   ;   56  ;    −24  ;   38
+16    ;  Wigan Athletic         ; 38   ;   9    ;   9   ;    20  ;    37   ;   79  ;    −42  ;   36
+17    ;  West Ham United        ; 38   ;   8    ;   11  ;    19  ;    47   ;   66  ;    −19  ;   35
+18    ;  Burnley                ; 38   ;   8    ;   6   ;    24  ;    42   ;   82  ;    −40  ;   30
+19    ;  Hull City              ; 38   ;   6    ;   12  ;    20  ;    34   ;   75  ;    −41  ;   30
+20    ;  Portsmouth             ; 38   ;   7    ;   7   ;    24  ;    34   ;   66  ;    −32  ;   191
+
+
+Season: 2010-2011
+
+1    ;   Manchester United      ; 38  ;  23 ;   11  ;    4   ;    78  ;    37   ;   +41  ;   80 
+2    ;   Chelsea                ; 38  ;  21 ;   8   ;    9   ;    69  ;    33   ;   +36  ;   71
+3    ;   Manchester City        ; 38  ;  21 ;   8   ;    9   ;    60  ;    33   ;   +27  ;   71
+4    ;   Arsenal                ; 38  ;  19 ;   11  ;    8   ;    72  ;    43   ;   +29  ;   68   
+5    ;   Tottenham Hotspur      ; 38  ;  16 ;   14  ;    8   ;    55  ;    46   ;   +9   ;   62  
+6    ;   Liverpool              ; 38  ;  17 ;   7   ;    14  ;    59  ;    44   ;   +15  ;   58
+7    ;   Everton                ; 38  ;  13 ;   15  ;    10  ;    51  ;    45   ;   +6   ;   54
+8    ;   Fulham                 ; 38  ;  11 ;   16  ;    11  ;    49  ;    43   ;   +6   ;   49  
+9    ;   Aston Villa            ; 38  ;  12 ;   12  ;    14  ;    48  ;    59   ;   −11  ;   48
+10   ;   Sunderland             ; 38  ;  12 ;   11  ;    15  ;    45  ;    56   ;   −11  ;   47
+11   ;   West Bromwich Albion   ; 38  ;  12 ;   11  ;    15  ;    56  ;    71   ;   −15  ;   47
+12   ;   Newcastle United       ; 38  ;  11 ;   13  ;    14  ;    56  ;    57   ;   −1   ;   46
+13   ;   Stoke City             ; 38  ;  13 ;   7   ;    18  ;    46  ;    48   ;   −2   ;   46
+14   ;   Bolton Wanderers       ; 38  ;  12 ;   10  ;    16  ;    52  ;    56   ;   −4   ;   46
+15   ;   Blackburn Rovers       ; 38  ;  11 ;   10  ;    17  ;    46  ;    59   ;   −13  ;   43
+16   ;   Wigan Athletic         ; 38  ;  9  ;   15  ;    14  ;    40  ;    61   ;   −21  ;   42
+17   ;   Wolverhampton Wanderers; 38  ;  11 ;   7   ;    20  ;    46  ;    66   ;   −20  ;   40
+18   ;   Birmingham City        ; 38  ;  8  ;   15  ;    15  ;    37  ;    58   ;   –21  ;   39
+19   ;      Blackpool           ; 38  ;  10 ;   9   ;    19  ;    55  ;    78   ;   −23  ;   39  
+20   ;      West Ham United     ; 38  ;  7  ;   12  ;    19  ;    43  ;    70   ;   −27  ;   33
+
+Season: 2011-2012
+
+1     ;        Manchester City         ;  38  ;    28   ;   5     ;  5    ;   93   ;   29  ;    +64  ;   89
+2     ;        Manchester United       ;  38  ;    28   ;   5     ;  5    ;   89   ;   33  ;    +56  ;   89
+3     ;        Arsenal                 ;  38  ;    21   ;   7     ;  10   ;   74   ;   49  ;    +25  ;   70
+4     ;        Tottenham Hotspur       ;  38  ;    20   ;   9     ;  9    ;   66   ;   41  ;    +25  ;   69
+5     ;        Newcastle United        ;  38  ;    19   ;   8     ;  11   ;   56   ;   51  ;    +5   ;   65
+6     ;        Chelsea                 ;  38  ;    18   ;   10    ;  10   ;   65   ;   46  ;    +19  ;   64
+7     ;        Everton                 ;  38  ;    15   ;   11    ;  12   ;   50   ;   40  ;    +10  ;   56
+8     ;        Liverpool               ;  38  ;    14   ;   10    ;  14   ;   47   ;   40  ;    +7   ;   52
+9     ;        Fulham                  ;  38  ;    14   ;   10    ;  14   ;   48   ;   51  ;    −3   ;   52
+10    ;        West Bromwich Albion    ;  38  ;    13   ;   8     ;  17   ;   45   ;   52  ;    −7   ;   47
+11    ;        Swansea City            ;  38  ;    12   ;   11    ;  15   ;   44   ;   51  ;    −7   ;   47
+12    ;        Norwich City            ;  38  ;    12   ;   11    ;  15   ;   52   ;   66  ;    −14  ;   47
+13    ;        Sunderland              ;  38  ;    11   ;   12    ;  15   ;   45   ;   46  ;    −1   ;   45
+14    ;        Stoke City              ;  38  ;    11   ;   12    ;  15   ;   36   ;   53  ;    −17  ;   45
+15    ;        Wigan Athletic          ;  38  ;    11   ;   10    ;  17   ;   42   ;   62  ;    −20  ;   43
+16    ;        Aston Villa             ;  38  ;    7    ;   17    ;  14   ;   37   ;   53  ;    −16  ;   38
+17    ;        Queens Park Rangers     ;  38  ;    10   ;   7     ;  21   ;   43   ;   66  ;    −23  ;   37
+18    ;        Bolton Wanderers        ;  38  ;    10   ;   6     ;  22   ;   46   ;   77  ;    −31  ;   36
+19    ;        Blackburn Rovers        ;  38  ;    8    ;   7     ;  23   ;   48   ;   78  ;    −30  ;   31
+20    ;        Wolverhampton Wanderers ;  38  ;    5    ;   10    ;  23   ;   40   ;   82  ;    −42  ;   25
+
+
+Season: 2012-2013
+
+1     ;        Manchester United       ;  38  ;    28   ;   5    ;   5    ;   86  ;    43  ;    +43  ;   89
+2     ;        Manchester City         ;  38  ;    23   ;   9    ;   6    ;   66  ;    34  ;    +32  ;   78
+3     ;        Chelsea                 ;  38  ;    22   ;   9    ;   7    ;   75  ;    39  ;    +36  ;   75
+4     ;        Arsenal                 ;  38  ;    21   ;   10   ;   7    ;   72  ;    37  ;    +35  ;   73
+5     ;        Tottenham Hotspur       ;  38  ;    21   ;   9    ;   8    ;   66  ;    46  ;    +20  ;   72
+6     ;        Everton                 ;  38  ;    16   ;   15   ;   7    ;   55  ;    40  ;    +15  ;   63      
+7     ;        Liverpool               ;  38  ;    16   ;   13   ;   9    ;   71  ;    43  ;    +28  ;   61
+8     ;        West Bromwich Albion    ;  38  ;    14   ;   7    ;   17   ;   53  ;    57  ;    −4   ;   49
+9     ;        Swansea City            ;  38  ;    11   ;   13   ;   14   ;   47  ;    51  ;    −4   ;   46
+10    ;        West Ham United         ;  38  ;    12   ;   10   ;   16   ;   45  ;    53  ;    −8   ;   46      
+11    ;        Norwich City            ;  38  ;    10   ;   14   ;   14   ;   41  ;    58  ;    −17  ;   44
+12    ;        Fulham                  ;  38  ;    11   ;   10   ;   17   ;   50  ;    60  ;    −10  ;   43
+13    ;        Stoke City              ;  38  ;    9    ;   15   ;   14   ;   34  ;    45  ;    −11  ;   42
+14    ;        Southampton             ;  38  ;    9    ;   14   ;   15   ;   49  ;    60  ;    −11  ;   41
+15    ;        Aston Villa             ;  38  ;    10   ;   11   ;   17   ;   47  ;    69  ;    −22  ;   41
+16    ;        Newcastle United        ;  38  ;    11   ;   8    ;   19   ;   45  ;    68  ;    −23  ;   41
+17    ;        Sunderland              ;  38  ;    9    ;   12   ;   17   ;   41  ;    54  ;    −13  ;   39
+18    ;        Wigan Athletic          ;  38  ;    9    ;   9    ;   20   ;   47  ;    73  ;    –26  ;   36
+19    ;     Reading                    ;  38  ;    6    ;   10   ;   22   ;   43  ;    73  ;    −30  ;   28
+20    ;     Queens Park Rangers        ;  38  ;    4    ;   13   ;   21   ;   30  ;    60  ;    −30  ;   25
