@@ -1,0 +1,650 @@
+Competition: Serie A
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesi/ital97.html
+
+Key: position; team; games; home_wins; home_ties; home_losses; away_wins; away_ties; away_losses; wins; ties; losses; goals_for; goals_against; points
+
+*                     Pl.   V.  N.  P.   V.  N.  P.    V.  N.  P.    A.   P.
+1; Juventus         ; 34;   10;   6;   1;    7;   8;   2;    17;  14;   3;    51;   24;    65 
+*Champions
+
+2; Parma            ; 34;   11;   4;   2;    7;   5;   5;    18;   9;   7;    41;   26;    63
+3; Inter            ; 34;    9;   5;   3;    6;   9;   2;    15;  14;   5;    51;   35;    59
+4; Lazio            ; 34;   10;   3;   4;    5;   7;   5;    15;  10;   9;    54;   37;    55
+5; Udinese          ; 34;    9;   4;   4;    6;   5;   6;    15;   9;  10;    53;   41;    54
+
+6; Sampdoria        ; 34;    9;   3;   5;    5;   8;   4;    14;  11;   9;    60;   46;    53
+7; Bologna          ; 34;    8;   5;   4;    5;   5;   7;    13;  10;  11;    50;   44;    49
+8; Vicenza          ; 34;    9;   6;   2;    3;   5;   9;    12;  11;  11;    43;   38;    47
+9; Fiorentina       ; 34;    9;   6;   2;    1;   9;   7;    10;  15;   9;    46;   41;    45
+10; Atalanta        ; 34;    8;   6;   3;    3;   5;   9;    11;  11;  12;    44;   46;    44
+11; Milan           ; 34;    8;   5;   4;    3;   5;   9;    11;  10;  13;    43;   45;    43
+12; Roma            ; 34;    7;   6;   4;    3;   5;   9;    10;  11;  13;    46;   47;    41
+13; Napoli          ; 34;    8;   7;   2;    1;   7;   9;     9;  14;  11;    38;   45;    41
+14; Piacenza        ; 34;    7;   8;   2;    0;   8;   9;     7;  16;  11;    29;   45;    37
+
+15; Cagliari        ; 34;    7;   6;   4;    2;   4;  11;     9;  10;  15;    45;   55;    37 
+*Relegated
+16; Perugia         ; 34;    8;   5;   4;    2;   2;  13;    10;   7;  17;    48;   62;    37 
+*Relegated
+17; Verona          ; 34;    6;   6;   5;    0;   3;  14;     6;   9;  19;    38;   64;    27 
+*Relegated
+18; Reggiana        ; 34;    0;  11;   6;    2;   2;  13;     2;  13;  19;    28;   67;    19 
+*Relegated
+
+
+
+Key: position; team; games; home_wins; home_ties; home_losses; away_wins; away_ties; away_losses; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesi/ital98.html
+
+*                     Pl.   V.  N.  P.   V.  N.  P.    V.  N.  P.    A.   P.
+1; Juventus          ; 34;   15;   2;   0;    6;   9;   2;    21;  11;   2;    67;   28;    74; 
+*Champions
+2; Inter             ; 34;   12;   3;   2;    9;   3;   5;    21;   6;   7;    62;   27;    69; 
+*Champ. L.
+3; Udinese           ; 34;   11;   4;   2;    8;   3;   6;    19;   7;   8;    62;   40;    64; UEFA Cup
+4; Roma              ; 34;   10;   4;   3;    6;   7;   4;    16;  11;   7;    67;   42;    59; UEFA Cup
+5; Fiorentina        ; 34;    8;   7;   2;    7;   5;   5;    15;  12;   7;    65;   36;    57; UEFA Cup
+6; Parma             ; 34;    9;   5;   3;    6;   7;   4;    15;  12;   7;    55;   39;    57; UEFA Cup
+7; Lazio             ; 34;   11;   1;   5;    5;   7;   5;    16;   8;  10;    53;   30;    56; CWC
+8; Bologna           ; 34;    9;   5;   3;    3;   7;   7;    12;  12;  10;    55;   46;    48; UIC
+9; Sampdoria         ; 34;    9;   4;   4;    4;   5;   8;    13;   9;  12;    52;   55;    48; UIC
+10; Milan            ; 34;    6;   7;   4;    5;   4;   8;    11;  11;  12;    37;   43;    44;
+11; Bari             ; 34;    5;   6;   6;    5;   2;  10;    10;   8;  16;    30;   45;    38;
+12; Empoli           ; 34;    9;   3;   5;    1;   4;  12;    10;   7;  17;    50;   58;    37;
+13; Piacenza         ; 34;    4;   9;   4;    3;   7;   7;     7;  16;  11;    29;   38;    37;
+14; Vicenza          ; 34;    6;   5;   6;    3;   4;  10;     9;   9;  16;    36;   61;    36;
+15; Brescia          ; 34;    6;   7;   4;    3;   1;  13;     9;   8;  17;    45;   63;    35; 
+*Relegated
+16; Atalanta         ; 34;    5;   6;   6;    2;   5;  10;     7;  11;  16;    25;   48;    32; 
+*Relegated
+17; Lecce            ; 34;    3;   5;   9;    3;   3;  11;     6;   8;  20;    32;   72;    26; 
+*Relegated
+18; Napoli           ; 34;    2;   4;  11;    0;   4;  13;     2;   8;  24;    25;   76;    14; 
+*Relegated
+
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesi/ital99.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+ 1; Milan AC          ; 34; 20; 10;  4;  59; 34;  70  
+*Champions
+
+ 2; SS Lazio          ; 34; 20;  9;  5;  65; 31;  69  
+*Champions' League
+
+ 3; AC Fiorentina     ; 34; 16;  8; 10;  55; 41;  56  
+*Champions' League Qualifiers
+ 4; Parma AC          ; 34; 15; 10;  9;  55; 36;  55  
+*Champions' League Qualifiers
+
+ 5; AS Roma           ; 34; 15;  9; 10;  69; 49;  54  
+*UEFA Cup         
+
+ 6; FC Juventus       ; 34; 15;  9; 10;  42; 36;  54  
+*UEFA Cup Playoff 
+ 7; Udinese Calcio    ; 34; 16;  6; 12;  52; 52;  54  
+*UEFA Cup Playoff 
+
+ 8; FC Internazionale ; 34; 13;  7; 14;  59; 54;  46  
+*Cup Semifinal Playoff
+ 9; Bologna FC        ; 34; 11; 11; 12;  44; 47;  44
+*  Cup Semifinal Playoff
+10; AS Bari           ; 34;  9; 15; 10;  39; 44;  42
+11; AC Venezia        ; 34; 11;  9; 14;  38; 45;  42
+12; Cagliari Calcio   ; 34; 11;  8; 15;  49; 50;  41
+13; Piacenza FC       ; 34; 11;  8; 15;  48; 49;  41
+14; AC Perugia        ; 34; 11;  6; 17;  43; 61;  39
+
+15; Salernitana Sport ; 34; 10;  8; 16;  37; 51;  38  
+*Relegated
+16; US Sampdoria      ; 34;  9; 10; 15;  38; 55;  37  
+*Relegated
+17; Vicenza Calcio    ; 34;  8;  9; 17;  27; 47;  33  
+*Relegated
+18; FC Empoli         ; 34;  4; 10; 20;  26; 63;  20  
+*Relegated [*]
+
+*[*] Empoli had two points deducted because of an alleged bribery attempt 
+*    around their match at Sampdoria on Oct 25.
+
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesi/ital00.html
+
+
+ 1; SS Lazio          ; 34; 21;  9;  4;  64; 33;  72  
+*Champions
+ 2; FC Juventus       ; 34; 21;  8;  5;  46; 20;  71  
+*Champions' League
+ 3; Milan AC          ; 34; 16; 13;  5;  65; 40;  60  
+*Champions' League Qualification
+ 4; FC Internazionale ; 34; 17;  7; 10;  58; 36;  58
+*  CLQ PLayoff
+ 5; Parma AC          ; 34; 16; 10;  8;  52; 37;  58
+*  CLQ Playoff
+ 6; AS Roma           ; 34; 14; 10;  8;  57; 34;  54
+*  UEFA Cup
+ 7; AC Fiorentina     ; 34; 13; 12;  9;  48; 38;  51
+*  UEFA Cup  
+ 8; Udinese Calcio    ; 34; 13; 11; 10;  55; 45;  50
+ 9; Hellas Verona     ; 34; 10; 13; 11;  40; 45;  43
+10; AC Perugia        ; 34; 12;  6; 16;  36; 52;  42
+11; Bologna FC        ; 34;  9; 13; 12;  32; 39;  40
+12; Reggina           ; 34;  9; 13; 12;  31; 42;  40
+13; US Lecce          ; 34; 10; 10; 14;  33; 49;  40
+14; AS Bari           ; 34; 10;  9; 15;  34; 48;  39
+
+15; Torino Calcio     ; 34;  8; 12; 14;  35; 47;  36  
+*Relegated
+16; AC Venezia        ; 34;  6;  8; 20;  30; 60;  26  
+*Relegated
+17; Cagliari Calcio   ; 34;  3; 13; 18;  29; 54;  22  
+*Relegated
+18; Piacenza FC       ; 34;  4;  9; 21;  19; 45;  21  
+*Relegated
+
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesi/ital01.html
+
+ 1; AS Roma           ; 34; 22;  9;  3;  68; 33;  75  
+*Champions
+ 2; FC Juventus       ; 34; 21; 10;  3;  61; 27;  73  
+*Champions' League
+ 3; SS Lazio          ; 34; 21;  6;  7;  65; 36;  69
+*  CL Qualifying
+ 4; Parma AC          ; 34; 16;  8; 10;  51; 31;  56
+*  CL Qualifying
+ 5; FC Internazionale ; 34; 14;  9; 11;  47; 47;  51
+*  UEFA Cup
+ 6; Milan AC          ; 34; 12; 13;  9;  56; 46;  49
+*  UEFA Cup
+ 7; BC Atalanta       ; 34; 10; 14; 10;  38; 34;  44
+ 8; Brescia Calcio    ; 34; 10; 14; 10;  44; 42;  44
+ 9; AC Fiorentina     ; 34; 10; 13; 11;  53; 52;  43  
+*UEFA Cup (Cup Win)
+10; Bologna FC        ; 34; 11; 10; 13;  49; 53;  43
+11; AC Perugia        ; 34; 10; 12; 12;  49; 53;  42
+12; Udinese Calcio    ; 34; 11;  5; 18;  49; 59;  38
+13; US Lecce          ; 34;  8; 13; 13;  40; 54;  37  
+14; Reggina           ; 34; 10;  7; 17;  32; 49;  37  
+*  Playoff
+
+15; Hellas Verona     ; 34; 10;  7; 17;  40; 59;  37  
+* Playoff
+16; Vicenza Calcio    ; 34;  9;  9; 16;  37; 51;  36  
+*Relegated
+17; SSC Napoli        ; 34;  8; 12; 14;  35; 51;  36  
+*Relegated
+18; AS Bari           ; 34;  5;  5; 24;  31; 68;  20  
+*Relegated 
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesi/ital02.html
+
+ 1; FC Juventus       ; 34; 20; 11;  3;  64; 23;  71  
+*Champions
+ 2; AS Roma           ; 34; 19; 13;  2;  58; 24;  70  
+*Champions' League
+ 3; FC Internazionale ; 34; 20;  9;  5;  62; 35;  69 
+* CL Qualifying
+ 4; Milan AC          ; 34; 14; 13;  7;  47; 33;  55 
+* CL Qualifying
+ 5; AC Chievo Verona  ; 34; 14; 12;  8;  57; 52;  54 
+* UEFA Cup
+ 6; SS Lazio          ; 34; 14; 11;  9;  50; 37;  53 
+* UEFA Cup
+ 7; Bologna FC        ; 34; 15;  7; 12;  40; 40;  52 
+ 8; AC Perugia        ; 34; 13;  7; 14;  38; 46;  46 
+ 9; BC Atalanta       ; 34; 12;  9; 13;  41; 50;  45
+10; Parma AC          ; 34; 12;  8; 14;  43; 47;  44
+*  UEFA Cup (Cup Final) 
+11; Torino Calcio     ; 34; 10; 13; 11;  37; 39;  43
+12; Piacenza FC       ; 34; 11;  9; 14;  49; 43;  42
+13; Brescia Calcio    ; 34;  9; 13; 12;  43; 52;  40
+14; Udinese Calcio    ; 34; 11;  7; 16;  41; 52;  40
+
+15; Hellas Verona     ; 34; 11;  6; 17;  41; 53;  39  
+*Relegated
+16; US Lecce          ; 34;  6; 10; 18;  36; 56;  28  
+*Relegated  
+17; AC Fiorentina     ; 34;  5;  7; 22;  29; 63;  22  
+*Relegated
+18; AC Venezia        ; 34;  3;  9; 22;  30; 61;  18  
+*Relegated
+
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesi/ital03.html
+
+ 1; FC Juventus       ; 34; 21;  9;  4;  64; 29;  72  
+*Champions
+ 2; FC Internazionale ; 34; 19;  8;  7;  64; 38;  65  
+*Champions League
+ 3; Milan AC          ; 34; 18;  7;  9;  55; 30;  61
+*  CL Qualifying
+ 4; SS Lazio          ; 34; 15; 15;  4;  57; 32;  60
+*  CL Qualifying
+ 5; Parma AC          ; 34; 15; 11;  8;  55; 36;  56
+*  UEFA Cup
+ 6; Udinese Calcio    ; 34; 16;  8; 10;  38; 35;  56
+*  UEFA Cup
+ 7; AC Chievo Verona  ; 34; 16;  7; 11;  51; 39;  55
+ 8; AS Roma           ; 34; 13; 10; 11;  55; 46;  49
+*  UEFA Cup (Cup Final)
+ 9; Brescia Calcio    ; 34;  9; 15; 10;  36; 38;  42
+*  UI Cup
+10; AC Perugia        ; 34; 10; 12; 12;  40; 48;  42
+*  UI Cup
+11; Bologna FC        ; 34; 10; 11; 13;  39; 47;  41
+12; Modena FC         ; 34;  9; 11; 14;  30; 48;  38
+13; Empoli FC         ; 34;  9; 11; 14;  36; 46;  38
+14; BC Atalanta       ; 34;  8; 14; 12;  35; 47;  38
+*  Playoff
+15; Reggina Calcio    ; 34; 10;  8; 16;  38; 53;  38
+*  Playoff
+16; Piacenza FC       ; 34;  8;  6; 20;  44; 62;  30  
+*Relegated
+17; Como Calcio       ; 34;  4; 12; 18;  29; 57;  24  
+*Relegated
+18; Torino Calcio     ; 34;  4;  9; 21;  23; 58;  21  
+*Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesi/ital04.html
+
+ 1; Milan AC          ; 34; 25;  7;  2;  65; 24;  82  
+*Champions
+ 2; AS Roma           ; 34; 21;  8;  5;  68; 19;  71  
+*Champions League
+ 3; FC Juventus       ; 34; 21;  6;  7;  67; 42;  69
+*  CL Qualifying
+ 4; FC Internazionale ; 34; 17;  8;  9;  59; 37;  59
+*  CL Qualifying
+ 5; Parma AC          ; 34; 16; 10;  8;  57; 46;  58
+*  UEFA Cup
+ 6; SS Lazio          ; 34; 16;  8; 10;  52; 38;  56
+*  UEFA Cup (Cup winners)
+ 7; Udinese Calcio    ; 34; 13; 11; 10;  44; 40;  50
+*  UEFA Cup
+ 8; UC Sampdoria      ; 34; 11; 13; 10;  40; 42;  46
+ 9; AC Chievo Verona  ; 34; 11; 11; 12;  36; 37;  44
+10; US Lecce          ; 34; 11;  8; 15;  43; 56;  41
+11; Brescia Calcio    ; 34;  9; 13; 12;  52; 57;  40
+12; Bologna FC        ; 34; 10;  9; 15;  45; 53;  39
+13; AC Siena          ; 34;  8; 10; 16;  41; 54;  34
+14; Reggina Calcio    ; 34;  6; 16; 12;  29; 45;  34
+
+15; AC Perugia        ; 34;  6; 14; 14;  44; 56;  32  
+*Relegation Playoff
+
+16; Modena FC         ; 34;  6; 12; 16;  27; 46;  30  
+*Relegated
+17; Empoli FC         ; 34;  7;  9; 18;  26; 54;  30  
+*Relegated
+18; Ancona Calcio     ; 34;  2;  7; 25;  21; 70;  13  
+*Relegated
+
+*NB: Serie A to be extended to 20 clubs for 2004/05, with 3 clubs being
+*    relegated directly, 5 promoted automatically, and the nr.15 of Serie
+*    A to play off against the nr.6 of Serie B
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesi/ital05.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; etc
+
+ 1; FC Juventus        ; 38; 26;  8;  4;  67; 27;  86;  
+*Stripped of Title July 2006
+ 2; Milan AC           ; 38; 23; 10;  5;  63; 28;  79;  
+*Champions League
+ 3; FC Internazionale  ; 38; 18; 18;  2;  65; 37;  72;  
+*CL Qualifying
+ 4; Udinese Calcio     ; 38; 17; 11; 10;  56; 40;  62;
+*  CL Qualifying
+ 5; UC Sampdoria       ; 38; 17; 10; 11;  42; 29;  61;
+*  UEFA Cup
+ 6; US Città di Palermo; 38; 12; 17;  9;  48; 44;  53;
+*  UEFA Cup
+ 7; Messina PFC        ; 38; 12; 12; 14;  44; 52;  48;
+*  UI Cup
+ 8; AS Roma            ; 38; 11; 12; 15;  55; 58;  45;
+*  UEFA Cup (Cup)
+ 8;  Livorno Calcio    ; 38; 11; 12; 15;  49; 60;  45;
+10; SS Lazio           ; 38; 11; 11; 16;  48; 53;  44;
+10; US Lecce           ; 38; 10; 14; 14;  66; 73;  44;
+10; Cagliari Calcio    ; 38; 10; 14; 14;  51; 60;  44;
+10; Reggina Calcio     ; 38; 10; 14; 14;  36; 45;  44;
+14; AC Siena           ; 38;  9; 16; 13;  44; 55;  43;
+14; AC Chievo Verona   ; 38; 11; 10; 17;  32; 49;  43;
+16; AC Fiorentina      ; 38;  9; 15; 14;  42; 50;  42;
+
+17; Bologna FC         ; 38;  9; 15; 14;  33; 36;  42; 
+*Relegation Playoff
+17; Parma FC           ; 38; 10; 12; 16;  48; 65;  42; 
+*Relegation Playoff
+
+19; Brescia Calcio     ; 38; 11;  8; 19;  37; 54;  41;  
+*Relegated
+20; Atalanta BC        ; 38;  8; 11; 19;  34; 45;  35;  
+*Relegated
+
+*NB: Parma AC were renamed Parma FC in summer 2004;
+*    the 2004/05 title is not awarded
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesi/ital06.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; etc
+
+ 1; FC Internazionale  ; 38; 23;  7;  8;  68; 30;  76;  
+*Champions
+ 2; AS Roma            ; 38; 19; 12;  7;  70; 42;  69;  
+*Champions League
+ 3; Milan AC           ; 38; 28;  4;  6;  85; 31;  58;
+*  [-30]  CL Qualifying
+ 4; AC Chievo Verona   ; 38; 13; 15; 10;  54; 49;  54;
+*  CL Qualifying
+ 5; US Città di Palermo; 38; 13; 13; 12;  50; 52;  52;
+*  UEFA Cup
+ 6; Livorno Calcio     ; 38; 12; 13; 13;  37; 44;  49;
+*  UEFA Cup
+ 7; Empoli FC          ; 38; 13;  6; 19;  47; 61;  45;
+*    No UEFA License
+ 7; Parma FC           ; 38; 12;  9; 17;  46; 60;  45;
+*  UEFA Cup
+ 9; AC Fiorentina      ; 38; 22;  8;  8;  66; 41;  44;
+*  [-30]
+10; Ascoli Calcio      ; 38;  9; 16; 13;  43; 53;  43;
+10; Udinese Calcio     ; 38; 11; 10; 17;  40; 54;  43;
+12; UC Sampdoria       ; 38; 10; 11; 17;  47; 51;  41;
+12; Reggina Calcio     ; 38; 11;  8; 19;  39; 65;  41;
+14; Cagliari Calcio    ; 38;  8; 15; 15;  42; 55;  39;
+14; AC Siena           ; 38;  9; 12; 17;  42; 60;  39;
+16; SS Lazio           ; 38; 16; 14;  8;  57; 47;  32;
+*  [-30]
+17; Messina PFC        ; 38;  6; 13; 19;  33; 59;  31;
+
+18; US Lecce           ; 38;  7;  8; 23;  30; 57;  29;  
+*Relegated
+19; Treviso FC         ; 38;  3; 12; 23;  24; 56;  21;
+*  [*]  
+*Relegated
+20; FC Juventus        ; 38; 27; 10;  1;  71; 24;  91;  
+*Relegated
+
+*[*] played home matches in Padova until round 8
+*
+*NB: after the match-fixing scandal the following verdicts were reached
+*    after appeals were heard on Jul 25, 2006:
+*    Juventus are stripped from their 2004/05 and 2005/06 scudetti, are
+*      demoted to last place 2005/06 and relegated to Serie B where they
+*      will start 2006/07 with -17 points, reprieving Messina;
+*    Inter were declared champions on Jul 26, 2006;
+*    Milan have 30 points deducted for 2005/06 and start 2006/07 with -8;
+*    Fiorentina have 30 points deducted for 2005/06 and start 2006/07 with -19;
+*    Lazio have 30 points deducted for 2005/06 and start 2006/07 with -11;
+*    Reggina will start 2006/07 with -15.
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesi/ital07.html
+
+ 1; FC Internazionale  ; 38; 30;  7;  1;  80; 34;  97  
+*Champions
+ 2; AS Roma            ; 38; 22;  9;  7;  74; 34;  75  
+*Champions League
+ 3; SS Lazio           ; 38; 18; 11;  9;  59; 33;  62  
+*[-3]  CL Qualifying
+ 4; Milan AC           ; 38; 19; 12;  7;  57; 36;  61  
+*[-8]  CL Qualifying
+ 5; US Città di Palermo; 38; 16; 10; 12;  58; 51;  58  
+*        UEFA Cup
+ 6; AC Fiorentina      ; 38; 21; 10;  7;  62; 31;  58  
+*[-15]   UEFA Cup
+ 7; Empoli FC          ; 38; 14; 12; 12;  42; 43;  54
+*  UEFA Cup
+ 8; Atalanta BC        ; 38; 12; 14; 12;  56; 54;  50
+ 9; UC Sampdoria       ; 38; 13; 10; 15;  44; 48;  49
+10; Udinese Calcio     ; 38; 12; 10; 16;  49; 55;  46
+11; Livorno Calcio     ; 38; 10; 13; 15;  41; 54;  43
+12; Parma FC           ; 38; 10; 12; 16;  41; 56;  42
+13; Calcio Catania     ; 38; 10; 11; 17;  46; 68;  41
+14; Reggina Calcio     ; 38; 12; 15; 11;  52; 50;  40
+*  [-11]  
+15; AC Siena           ; 38;  9; 14; 15;  35; 45;  40 
+* [-1]   
+16; Torino FC          ; 38; 10; 10; 18;  27; 47;  40         
+17; Cagliari Calcio    ; 38;  9; 13; 16;  35; 46;  40         
+
+18; AC Chievo Verona   ; 38;  9; 12; 17;  38; 48;  39  
+*Relegated
+19; Ascoli Calcio      ; 38;  5; 12; 21;  36; 67;  27  
+*Relegated
+20; Messina PFC        ; 38;  5; 11; 22;  37; 69;  26  
+*Relegated
+
+*NB: Siena had 1 point deducted on Oct 19 due to late payment of
+*    social security;
+*    all other point deductions due to bribery scandal 2004/05 
+*    and 2005/06
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesi/ital08.html
+
+ 1; FC Internazionale  ; 38; 25; 10;  3;  69; 26;  85  
+*Champions
+ 2; AS Roma            ; 38; 24; 10;  4;  72; 37;  82  
+*Champions League
+ 3; Juventus FC        ; 38; 20; 12;  6;  72; 37;  72
+*  CL Qualifying
+ 4; AC Fiorentina      ; 38; 19;  9; 10;  55; 39;  66
+*  CL Qualifying
+ 5; Milan AC           ; 38; 18; 10; 10;  66; 38;  64 
+* UEFA Cup
+ 6; UC Sampdoria       ; 38; 17;  9; 12;  56; 46;  60
+*  UEFA Cup
+ 7; Udinese Calcio     ; 38; 16;  9; 13;  48; 53;  57
+*  UEFA Cup
+ 8; SSC Napoli         ; 38; 14;  8; 16;  50; 53;  50
+ 9; Atalanta BC        ; 38; 12; 12; 14;  52; 56;  48
+10; Genoa CFC          ; 38; 13;  9; 16;  44; 52;  48
+11; US Città di Palermo; 38; 12; 11; 15;  47; 57;  47
+12; SS Lazio           ; 38; 11; 13; 14;  47; 51;  46
+13; AC Siena           ; 38;  9; 17; 12;  40; 45;  44
+14; Cagliari Calcio    ; 38; 11;  9; 18;  40; 56;  42
+15; Torino FC          ; 38;  8; 16; 14;  36; 49;  40
+16; Reggina Calcio     ; 38;  9; 13; 16;  37; 56;  40
+17; Calcio Catania     ; 38;  8; 13; 17;  33; 45;  37
+
+18; Empoli FC          ; 38;  9;  9; 20;  29; 52;  36  
+*Relegated
+19; Parma FC           ; 38;  7; 13; 18;  42; 62;  34  
+*Relegated
+20; Livorno Calcio     ; 38;  6; 12; 20;  35; 60;  30  
+*Relegated
+
+*NB: Cagliari had 3 points deducted for having started a juridical procedure
+*    against a former player; this penalty was revoked on appeal
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesi/ital09.html
+
+ 1; FC Internazionale  ; 38; 25;  9;  4;  70; 32;  84  
+*Champions
+ 2; Juventus FC        ; 38; 21; 11;  6;  69; 37;  74 
+*Champions League
+ 3; Milan AC           ; 38; 22;  8;  8;  70; 35;  74 
+*Champions League
+ 4; AC Fiorentina      ; 38; 21;  5; 12;  53; 38;  68
+*  CL Qualifying
+ 5; Genoa CFC          ; 38; 19; 11;  8;  56; 39;  68
+*  Europa League
+ 6; AS Roma            ; 38; 18;  9; 11;  64; 61;  63
+*  Europa League
+ 7; Udinese Calcio     ; 38; 16; 10; 12;  61; 50;  58
+ 8; US Città di Palermo; 38; 17;  6; 15;  57; 50;  57
+ 9; Cagliari Calcio    ; 38; 15;  8; 15;  49; 50;  53
+10; SS Lazio           ; 38; 15;  5; 18;  46; 55;  50
+*  Europa League (Cup)
+11; Atalanta BC        ; 38; 13;  8; 17;  45; 48;  47
+12; SSC Napoli         ; 38; 12; 10; 16;  43; 45;  46
+13; UC Sampdoria       ; 38; 11; 13; 14;  49; 52;  46
+14; AC Siena           ; 38; 12;  8; 18;  33; 44;  44
+15; Calcio Catania     ; 38; 12;  7; 19;  41; 51;  43
+16; AC Chievo Verona   ; 38;  8; 14; 16;  35; 49;  38
+17; Bologna FC         ; 38;  9; 10; 19;  43; 62;  37
+
+18; Torino FC          ; 38;  8; 10; 20;  37; 61;  34  
+*Relegated
+19; Reggina Calcio     ; 38;  6; 13; 19;  30; 62;  31  
+*Relegated
+20; US Lecce           ; 38;  5; 15; 18;  37; 67;  30  
+*Relegated
+
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesi/ital2010.html
+
+ 1; FC Internazionale  ; 38; 24; 10;  4;  75; 34;  82  
+*Champions
+ 2; AS Roma            ; 38; 24;  8;  6;  68; 41;  80
+ 3; Milan AC           ; 38; 20; 10;  8;  60; 39;  70
+ 4; UC Sampdoria       ; 38; 19; 10;  9;  49; 41;  67
+ 5; US Città di Palermo; 38; 18; 11;  9;  59; 47;  65
+ 6; SSC Napoli         ; 38; 15; 14;  9;  50; 43;  59
+ 7; Juventus FC        ; 38; 16;  7; 15;  55; 56;  55
+ 8; Parma FC           ; 38; 14; 10; 14;  46; 51;  52
+ 9; Genoa CFC          ; 38; 14;  9; 15;  57; 61;  51
+10; AS Bari            ; 38; 13; 11; 14;  49; 49;  50
+11; AC Fiorentina      ; 38; 13;  8; 17;  48; 47;  47
+12; SS Lazio           ; 38; 11; 13; 14;  39; 43;  46
+13; Calcio Catania     ; 38; 10; 15; 13;  44; 45;  45
+14; Cagliari Calcio    ; 38; 11; 11; 16;  56; 58;  44
+15; Udinese Calcio     ; 38; 11; 11; 16;  54; 59;  44
+16; AC Chievo Verona   ; 38; 12;  8; 18;  37; 42;  44
+17; Bologna FC         ; 38; 10; 12; 16;  42; 55;  42
+
+18; Atalanta BC        ; 38;  9;  8; 21;  37; 53;  35  
+*Relegated
+19; AC Siena           ; 38;  7; 10; 21;  40; 67;  31  
+*Relegated
+20; AS Livorno Calcio  ; 38;  7;  8; 23;  27; 61;  29  
+*Relegated
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesi/ital2011.html
+
+ 1; Milan AC           ; 38;  24; 10;  4;  65; 24;  82  
+*Champions
+ 2; FC Internazionale  ; 38;  23;  7;  8;  69; 42;  76
+ 3; SSC Napoli         ; 38;  21;  7; 10;  59; 39;  70
+ 4; Udinese Calcio     ; 38;  20;  6; 12;  65; 43;  66
+ 5; SS Lazio           ; 38;  20;  6; 12;  55; 39;  66
+ 6; AS Roma            ; 38;  18;  9; 11;  59; 52;  63
+ 7; Juventus FC        ; 38;  15; 13; 10;  57; 47;  58
+ 8; US Città di Palermo; 38;  17;  5; 16;  58; 63;  56
+ 9; AC Fiorentina      ; 38;  12; 15; 11;  49; 44;  51
+10; Genoa CFC          ; 38;  14;  9; 15;  45; 47;  51
+11; AC Chievo Verona   ; 38;  11; 13; 14;  38; 40;  46
+12; Parma FC           ; 38;  11; 13; 14;  39; 47;  46
+13; Calcio Catania     ; 38;  12; 10; 16;  40; 52;  46
+14; Cagliari Calcio    ; 38;  12;  9; 17;  44; 51;  45
+15; AC Cesena          ; 38;  11; 10; 17;  38; 50;  43
+16; Bologna FC         ; 38;  11; 12; 15;  35; 52;  41
+*  [-3]
+17; US Lecce           ; 38;  11;  8; 19;  46; 66;  41
+
+18; UC Sampdoria       ; 38;   8; 12; 18;  33; 49;  36  
+*Relegated
+19; Brescia Calcio     ; 38;   7; 11; 20;  34; 52;  32  
+*Relegated
+20; AS Bari            ; 38;   5;  9; 24;  27; 56;  24  
+*Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesi/ital2012.html
+
+ 1; Juventus FC        ; 38;  23; 15;  0;  68; 20;  84  
+*Champions
+ 2; Milan AC           ; 38;  24;  8;  6;  74; 33;  80
+ 3; Udinese Calcio     ; 38;  18; 10; 10;  52; 35;  64
+ 4; SS Lazio           ; 38;  18;  8; 12;  56; 47;  62
+ 5; SSC Napoli         ; 38;  16; 13;  9;  66; 46;  61
+ 6; FC Internazionale  ; 38;  17;  7; 14;  58; 55;  58
+ 7; AS Roma            ; 38;  16;  8; 14;  60; 54;  56
+ 8; Parma FC           ; 38;  15; 11; 12;  54; 53;  56
+ 9; Bologna FC         ; 38;  13; 12; 13;  41; 43;  51
+10; AC Chievo Verona   ; 38;  12; 13; 13;  35; 45;  49
+11; Calcio Catania     ; 38;  11; 15; 12;  47; 52;  48
+12; Atalanta BC        ; 38;  13; 13; 12;  41; 43;  46
+*  [-6]
+13; AC Fiorentina      ; 38;  11; 13; 14;  37; 43;  46
+14; AC Siena           ; 38;  11; 11; 16;  45; 45;  44
+15; Cagliari Calcio    ; 38;  10; 13; 15;  37; 46;  43
+16; US Città di Palermo; 38;  11; 10; 17;  52; 62;  43
+17; Genoa CFC          ; 38;  11;  9; 18;  50; 69;  42
+
+18; US Lecce           ; 38;   8; 12; 18;  40; 56;  36  
+*Relegated
+19; Novara Calcio      ; 38;   7; 11; 20;  35; 65;  32  
+*Relegated
+20; AC Cesena          ; 38;   4; 10; 24;  24; 60;  22  
+*Relegated
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesi/ital2013.html
+
+ 1; Juventus FC        ; 38;  27;  6;  5;  71; 24;  87  
+*Champions
+ 2; SSC Napoli         ; 38;  23;  9;  6;  73; 36;  78
+ 3; Milan AC           ; 38;  21;  9;  8;  67; 39;  72
+ 4; AC Fiorentina      ; 38;  21;  7; 10;  72; 44;  70
+ 5; Udinese Calcio     ; 38;  18; 12;  8;  59; 45;  66
+ 6; AS Roma            ; 38;  18;  8; 12;  71; 56;  62
+ 7; SS Lazio           ; 38;  18;  7; 13;  51; 42;  61
+ 8; Calcio Catania     ; 38;  15; 11; 12;  50; 46;  56
+ 9; FC Internazionale  ; 38;  16;  6; 16;  55; 57;  54
+10; Parma FC           ; 38;  13; 10; 15;  45; 46;  49
+11; Cagliari Calcio    ; 38;  12; 11; 15;  43; 55;  47
+12; AC Chievo Verona   ; 38;  12;  9; 17;  37; 52;  45
+13; Bologna FC         ; 38;  11; 11; 16;  46; 52;  44
+14; UC Sampdoria       ; 38;  11; 10; 17;  43; 51;  42
+*  [-1]
+15; Atalanta BC        ; 38;  11;  9; 18;  39; 56;  40
+*  [-2]
+16; Torino FC          ; 38;   8; 16; 14;  46; 55;  39
+*  [-1]
+17; Genoa CFC          ; 38;   8; 14; 16;  38; 52;  38
+
+18; US Città di Palermo; 38;   6; 14; 18;  34; 54;  32  
+*Relegated
+19; AC Siena           ; 38;   9;  9; 20;  36; 57;  30  
+*[-6]  
+*Relegated
+20; Delfino Pescara    ; 38;   6;  4; 28;  27; 84;  22  
+*Relegated
