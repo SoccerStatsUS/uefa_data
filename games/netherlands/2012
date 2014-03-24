@@ -1,0 +1,670 @@
+BlockSource: http://rsssf.com/tablesn/ned2013.html
+Season: 2012-2013
+Competition: Eredivisie
+
+
+* 1.Ajax (Amsterdam)             34  22 10  2  83-31  76  Champions
+* 2.PSV (Eindhoven)              34  22  3  9 103-43  69
+* 3.Feyenoord (Rotterdam)        34  21  6  7  64-38  69
+* 4.Vitesse (Arnhem)             34  19  7  8  68-42  64
+* 5.FC Utrecht                   34  19  6  9  55-41  63  Europa League Playoff
+* 6.FC Twente (Enschede)         34  17 11  6  60-33  62  Europa League Playoff
+* 7.FC Groningen                 34  12  7 15  36-53  43  Europa League Playoff
+* 8.SC Heerenveen                34  11  9 14  50-63  42  Europa League Playoff
+* 9.ADO Den Haag                 34   9 13 12  49-63  40
+*10.AZ (Alkmaar)                 34  10  9 15  56-54  39
+*11.PEC Zwolle                   34  10  9 15  42-55  39  [*]
+*12.Heracles Almelo              34   9 11 14  58-71  38
+*13.NAC Breda                    34  10  8 16  40-56  38
+*14.RKC Waalwĳk                  34   9 10 15  39-48  37
+*15.NEC (Nĳmegen)                34  10  7 17  44-66  37
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.Roda JC Kerkrade             34   7 12 15  51-69  33  Relegation Playoff
+*17.VVV-Venlo                    34   6 10 18  33-62  28  Relegation Playoff
+*-------------------------------------------------------
+*18.Willem II (Tilburg)          34   5  8 21  33-76  23  Relegated
+*
+*[*] FC Zwolle were renamed PEC Zwolle
+
+Round: 1
+Date: 8/10/2012
+
+; Willem II      ; 1-1; NAC             
+
+Date: 8/11/2012
+
+; Heracles       ; 1-1; VVV             
+; RKC            ; 3-2; PSV             
+; Roda JC        ; 1-1; PEC             
+
+Date: 8/12/2012
+
+; Ajax           ; 2-2; AZ              
+; Twente         ; 4-1; Groningen       
+; Utrecht        ; 0-1; Feyenoord       
+; Heerenveen     ; 0-2; NEC             
+; Vitesse        ; 2-2; ADO             
+
+Round: 2
+Date: 8/18/2012
+
+; Feyenoord      ; 1-1; Heerenveen      
+; NAC            ; 0-1; Twente          
+; PEC            ; 0-1; Vitesse         
+; PSV            ; 5-0; Roda JC         
+; VVV            ; 1-3; Utrecht         
+
+Date: 8/19/2012
+
+; ADO            ; 2-2; RKC             
+; AZ             ; 3-1; Heracles        
+; Groningen      ; 1-1; Willem II       
+; NEC            ; 1-6; Ajax            
+
+Round: 3
+Date: 8/24/2012
+
+; RKC            ; 1-0; Roda JC         
+
+Date: 8/25/2012
+
+; Ajax           ; 5-0; NAC             
+; Utrecht        ; 1-1; PEC             
+; VVV            ; 2-4; ADO             
+
+Date: 8/26/2012
+
+; AZ             ; 0-0; Heerenveen      
+; Groningen      ; 1-3; PSV             
+; Heracles       ; 1-2; Feyenoord       
+; NEC            ; 1-3; Twente          
+; Willem II      ; 0-2; Vitesse         
+
+Round: 4
+Date: 8/31/2012
+
+; ADO            ; 0-1; Groningen       
+
+Date: 9/1/2012
+
+; NAC            ; 1-1; Utrecht         
+; PEC            ; 0-4; NEC             
+; RKC            ; 1-1; Heracles        
+; Roda JC        ; 3-0; Willem II       
+
+Date: 9/2/2012
+
+; Twente         ; 1-0; VVV             
+; PSV            ; 5-1; AZ              
+; Heerenveen     ; 2-2; Ajax            
+; Vitesse        ; 1-0; Feyenoord       
+
+Round: 5
+Date: 9/15/2012
+
+; Ajax           ; 2-0; RKC             
+; Feyenoord      ; 2-0; PEC             
+; Heerenveen     ; 1-3; ADO             
+; VVV            ; 2-2; NEC             
+; Willem II      ; 2-6; Twente          
+
+Date: 9/16/2012
+
+; AZ             ; 4-0; Roda JC         
+; Groningen      ; 0-3; Vitesse         
+; Utrecht        ; 1-0; PSV             
+; Heracles       ; 2-1; NAC             
+
+Round: 6
+Date: 9/21/2012
+
+; Roda JC        ; 0-1; Utrecht         
+
+Date: 9/22/2012
+
+; NEC            ; 0-0; Willem II       
+; PEC            ; 1-2; Groningen       
+; RKC            ; 1-1; VVV             
+; Vitesse        ; 1-1; Heracles        
+
+Date: 9/23/2012
+
+; ADO            ; 1-1; Ajax            
+; Twente         ; 1-0; Heerenveen      
+; NAC            ; 2-1; AZ              
+; PSV            ; 3-0; Feyenoord       
+
+Round: 7
+Date: 9/29/2012
+
+; Ajax           ; 1-0; Twente          
+; Utrecht        ; 1-2; Vitesse         
+; Feyenoord      ; 5-1; NEC             
+; Heracles       ; 3-3; ADO             
+; Heerenveen     ; 2-0; NAC             
+
+Date: 9/30/2012
+
+; AZ             ; 3-3; RKC             
+; Groningen      ; 3-2; Roda JC         
+; VVV            ; 0-6; PSV             
+; Willem II      ; 0-1; PEC             
+
+Round: 8
+Date: 10/5/2012
+
+; NEC            ; 1-1; ADO             
+
+Date: 10/6/2012
+
+; PEC            ; 0-3; Heracles        
+; Roda JC        ; 3-0; VVV             
+; Vitesse        ; 3-3; Heerenveen      
+; Willem II      ; 1-0; RKC             
+
+Date: 10/7/2012
+
+; Ajax           ; 1-1; Utrecht         
+; Groningen      ; 2-2; Feyenoord       
+; Twente         ; 3-0; AZ              
+; PSV            ; 4-0; NAC             
+
+Round: 9
+Date: 10/20/2012
+
+; AZ             ; 0-2; NEC             
+; Heracles       ; 3-3; Ajax            
+; NAC            ; 0-3; Vitesse         
+; PSV            ; 3-2; Willem II       
+; Roda JC        ; 1-1; Twente          
+
+Date: 10/21/2012
+
+; ADO            ; 1-2; Utrecht         
+; RKC            ; 1-2; PEC             
+; Heerenveen     ; 3-0; Groningen       
+; VVV            ; 2-3; Feyenoord       
+
+Round: 10
+Date: 10/26/2012
+
+; Utrecht        ; 1-0; Groningen       
+
+Date: 10/27/2012
+
+; ADO            ; 2-0; Willem II       
+; NEC            ; 0-0; Roda JC         
+; VVV            ; 1-4; NAC             
+
+Date: 10/28/2012
+
+; Feyenoord      ; 2-2; Ajax            
+; Heracles       ; 6-3; Heerenveen      
+; PEC            ; 1-2; PSV             
+; RKC            ; 0-1; Twente          
+; Vitesse        ; 1-2; AZ              
+
+Round: 11
+Date: 11/2/2012
+
+; Roda JC        ; 0-0; ADO             
+
+Date: 11/3/2012
+
+; Ajax           ; 0-2; Vitesse         
+; PSV            ; 4-0; Heracles        
+; Willem II      ; 1-5; Utrecht         
+
+Date: 11/4/2012
+
+; AZ             ; 1-2; VVV             
+; Groningen      ; 1-2; NEC             
+; Twente         ; 3-0; Feyenoord       
+; NAC            ; 2-1; RKC             
+; Heerenveen     ; 2-1; PEC             
+
+Round: 12
+Date: 11/9/2012
+
+; NAC            ; 0-1; Groningen       
+
+Date: 11/10/2012
+
+; ADO            ; 2-2; AZ              
+; NEC            ; 3-2; Heracles        
+; RKC            ; 4-0; Utrecht         
+; VVV            ; 4-1; Willem II       
+
+Date: 11/11/2012
+
+; Feyenoord      ; 5-2; Roda JC         
+; PEC            ; 2-4; Ajax            
+; PSV            ; 5-1; Heerenveen      
+; Vitesse        ; 0-0; Twente          
+
+Round: 13
+Date: 11/17/2012
+
+; ADO            ; 1-6; PSV             
+; Ajax           ; 2-0; VVV             
+; Groningen      ; 1-1; AZ              
+; PEC            ; 2-0; NAC             
+; Heerenveen     ; 0-2; RKC             
+
+Date: 11/18/2012
+
+; Utrecht        ; 1-1; Twente          
+; Feyenoord      ; 3-0; Willem II       
+; Heracles       ; 5-1; Roda JC         
+; Vitesse        ; 4-1; NEC             
+
+Round: 14
+Date: 11/23/2012
+
+; NAC            ; 0-3; ADO             
+
+Date: 11/24/2012
+
+; NEC            ; 2-0; Utrecht         
+; RKC            ; 1-1; Groningen       
+; VVV            ; 1-1; Heerenveen      
+; Willem II      ; 2-2; Heracles        
+
+Date: 11/25/2012
+
+; AZ             ; 0-2; Feyenoord       
+; Twente         ; 2-2; PEC             
+; PSV            ; 1-2; Vitesse         
+; Roda JC        ; 1-2; Ajax            
+
+Round: 15
+Date: 11/30/2012
+
+; PEC            ; 0-0; VVV             
+
+Date: 12/1/2012
+
+; Ajax           ; 3-1; PSV             
+; Twente         ; 2-0; ADO             
+; Feyenoord      ; 2-0; RKC             
+; Willem II      ; 3-1; Heerenveen      
+
+Date: 12/2/2012
+
+; Groningen      ; 2-0; Heracles        
+; Utrecht        ; 2-1; AZ              
+; NEC            ; 1-1; NAC             
+; Vitesse        ; 3-0; Roda JC         
+
+Round: 16
+Date: 12/7/2012
+
+; Heracles       ; 1-1; Utrecht         
+
+Date: 12/8/2012
+
+; ADO            ; 1-1; PEC             
+; Ajax           ; 2-0; Groningen       
+; AZ             ; 0-0; Willem II       
+; RKC            ; 2-0; NEC             
+
+Date: 12/9/2012
+
+; NAC            ; 2-2; Feyenoord       
+; PSV            ; 3-0; Twente          
+; Heerenveen     ; 4-4; Roda JC         
+; VVV            ; 3-1; Vitesse         
+
+Round: 17
+Date: 12/14/2012
+
+; Twente         ; 3-2; Heracles        
+
+Date: 12/15/2012
+
+; Groningen      ; 0-0; VVV             
+; NEC            ; 1-1; PSV             
+; PEC            ; 1-2; AZ              
+; Roda JC        ; 0-0; NAC             
+
+Date: 12/16/2012
+
+; Utrecht        ; 3-1; Heerenveen      
+; Feyenoord      ; 3-2; ADO             
+; Vitesse        ; 2-2; RKC             
+; Willem II      ; 2-4; Ajax            
+
+Round: 18
+Date: 12/21/2012
+
+; AZ             ; 0-3; Twente          
+
+Date: 12/22/2012
+
+; ADO            ; 2-0; NEC             
+; Heracles       ; 1-1; PEC             
+; NAC            ; 1-6; PSV             
+; Heerenveen     ; 2-1; Vitesse         
+
+Date: 12/23/2012
+
+; Utrecht        ; 0-0; Ajax            
+; Feyenoord      ; 2-1; Groningen       
+; RKC            ; 0-0; Willem II       
+; VVV            ; 2-4; Roda JC         
+
+Round: 19
+Date: 1/18/2013
+
+; PSV            ; 1-3; PEC             
+
+Date: 1/19/2013
+
+; AZ             ; 4-1; Vitesse         
+; Twente         ; 0-0; RKC             
+; NAC            ; 1-0; VVV             
+; Heerenveen     ; 0-1; Heracles        
+
+Date: 1/20/2013
+
+; Ajax           ; 3-0; Feyenoord       
+; Groningen      ; 0-2; Utrecht         
+; Roda JC        ; 2-0; NEC             
+; Willem II      ; 1-1; ADO             
+                
+Round: 20
+Date: 1/25/2013
+
+; VVV            ; 1-4; AZ              
+
+Date: 1/26/2013
+
+; ADO            ; 2-2; Roda JC         
+; Heracles       ; 1-5; PSV             
+; PEC            ; 1-1; Heerenveen      
+; RKC            ; 0-4; NAC             
+
+Date: 1/27/2013
+
+; Utrecht        ; 3-1; Willem II       
+; Feyenoord      ; 0-0; Twente          
+; NEC            ; 2-1; Groningen       
+; Vitesse        ; 3-2; Ajax            
+
+Round: 21
+Date: 2/1/2013
+
+; RKC            ; 0-1; Heerenveen      
+
+Date: 2/2/2013
+
+; AZ             ; 0-1; Groningen       
+; NAC            ; 3-0; PEC             
+; PSV            ; 7-0; ADO             
+; Roda JC        ; 3-3; Heracles        
+
+Date: 2/3/2013
+
+; Twente         ; 2-4; Utrecht         
+; NEC            ; 2-1; Vitesse         
+; VVV            ; 0-3; Ajax            
+; Willem II      ; 1-3; Feyenoord       
+
+Round: 22
+Date: 2/9/2013
+
+; ADO            ; 2-1; NAC             
+; Groningen      ; 2-1; RKC             
+; Heracles       ; 4-1; Willem II       
+; Heerenveen     ; 2-2; VVV             
+; Vitesse        ; 2-2; PSV             
+
+Date: 2/10/2013
+
+; Ajax           ; 1-1; Roda JC         
+; Utrecht        ; 0-3; NEC             
+; Feyenoord      ; 3-1; AZ              
+; PEC            ; 1-1; Twente          
+
+Round: 23
+Date: 2/15/2013
+
+; NEC            ; 1-2; VVV             
+
+Date: 2/16/2013
+
+; Twente         ; 1-1; Willem II       
+; NAC            ; 1-1; Heracles        
+; PSV            ; 2-1; Utrecht         
+; Roda JC        ; 2-2; AZ              
+
+Date: 2/17/2013
+
+; ADO            ; 2-1; Heerenveen      
+; PEC            ; 3-2; Feyenoord       
+; RKC            ; 0-2; Ajax            
+; Vitesse        ; 2-0; Groningen       
+
+Round: 24
+Date: 2/22/2013
+
+; Willem II      ; 2-3; NEC             
+
+Date: 2/23/2013
+
+; Groningen      ; 1-0; PEC             
+; Heracles       ; 3-5; Vitesse         
+; Heerenveen     ; 2-1; Twente          
+; VVV            ; 1-0; RKC             
+
+Date: 2/24/2013
+
+; Ajax           ; 1-1; ADO             
+; AZ             ; 0-1; NAC             
+; Utrecht        ; 4-0; Roda JC         
+; Feyenoord      ; 2-1; PSV             
+
+Round: 25
+Date: 3/1/2013
+
+; Vitesse        ; 2-0; Utrecht         
+
+Date: 3/2/2013
+
+; Twente         ; 0-2; Ajax            
+; NAC            ; 1-2; Heerenveen      
+; PEC            ; 2-0; Willem II       
+; PSV            ; 2-0; VVV             
+
+Date: 3/3/2013
+
+; ADO            ; 3-1; Heracles        
+; NEC            ; 0-3; Feyenoord       
+; RKC            ; 2-1; AZ              
+; Roda JC        ; 4-1; Groningen       
+
+Round: 26
+Date: 3/8/2013
+
+; Groningen      ; 1-1; NAC             
+
+Date: 3/9/2013
+
+; AZ             ; 1-1; ADO             
+; Heracles       ; 1-0; NEC             
+; Heerenveen     ; 2-1; PSV             
+; Willem II      ; 1-0; VVV             
+
+Date: 3/10/2013
+
+; Ajax           ; 3-0; PEC             
+; Twente         ; 0-1; Vitesse         
+; Utrecht        ; 1-0; RKC             
+; Roda JC        ; 0-1; Feyenoord       
+
+Round: 27
+Date: 3/15/2013
+
+; PEC            ; 3-2; Roda JC         
+
+Date: 3/16/2013
+
+; ADO            ; 0-4; Vitesse         
+; NEC            ; 1-3; Heerenveen      
+; PSV            ; 2-0; RKC             
+; VVV            ; 0-2; Heracles        
+
+Date: 3/17/2013
+
+; AZ             ; 2-3; Ajax            
+; Groningen      ; 0-3; Twente          
+; Feyenoord      ; 2-1; Utrecht         
+; NAC            ; 4-0; Willem II       
+
+Round: 28
+Date: 3/30/2013
+
+; Twente         ; 1-1; NAC             
+; Utrecht        ; 2-1; VVV             
+; Heerenveen     ; 2-0; Feyenoord       
+; Willem II      ; 1-2; Groningen       
+
+Date: 3/31/2013
+
+; Ajax           ; 4-1; NEC             
+; Heracles       ; 1-2; AZ              
+; RKC            ; 4-0; ADO             
+; Roda JC        ; 2-2; PSV             
+; Vitesse        ; 2-1; PEC             
+
+Round: 29
+Date: 4/5/2013
+
+; Feyenoord      ; 1-0; VVV             
+
+Date: 4/6/2013
+
+; Twente         ; 2-0; Roda JC         
+; PEC            ; 1-1; RKC             
+; Vitesse        ; 3-0; NAC             
+; Willem II      ; 1-3; PSV             
+
+Date: 4/7/2013
+
+; Ajax           ; 4-0; Heracles        
+; Groningen      ; 3-1; Heerenveen      
+; Utrecht        ; 1-0; ADO             
+; NEC            ; 1-1; AZ              
+
+Round: 30
+Date: 4/12/2013
+
+; VVV            ; 0-2; PEC             
+
+Date: 4/13/2013
+
+; ADO            ; 1-3; Twente          
+; Heracles       ; 0-2; Groningen       
+; NAC            ; 2-0; NEC             
+; Roda JC        ; 3-3; Vitesse         
+
+Date: 4/14/2013
+
+; AZ             ; 6-0; Utrecht         
+; PSV            ; 2-3; Ajax            
+; RKC            ; 1-1; Feyenoord       
+; Heerenveen     ; 3-2; Willem II       
+
+Round: 31
+Date: 4/19/2013
+
+; Ajax           ; 1-1; Heerenveen      
+
+Date: 4/20/2013
+
+; AZ             ; 1-3; PSV             
+; Groningen      ; 2-1; ADO             
+; Heracles       ; 4-0; RKC             
+; Willem II      ; 2-1; Roda JC         
+
+Date: 4/21/2013
+
+; Utrecht        ; 3-0; NAC             
+; Feyenoord      ; 2-0; Vitesse         
+; NEC            ; 1-3; PEC             
+; VVV            ; 2-2; Twente          
+
+Round: 32
+Date: 4/26/2013
+
+; Heerenveen     ; 0-4; AZ              
+
+Date: 4/27/2013
+
+; ADO            ; 1-1; VVV             
+; NAC            ; 0-2; Ajax            
+; PSV            ; 5-2; Groningen       
+; Roda JC        ; 3-1; RKC             
+
+Date: 4/28/2013
+
+; Twente         ; 5-2; NEC             
+; Feyenoord      ; 6-0; Heracles        
+; PEC            ; 1-2; Utrecht         
+; Vitesse        ; 3-1; Willem II       
+
+Round: 33 
+Date: 5/5/2013
+
+; ADO            ; 2-0; Feyenoord       
+; Ajax           ; 5-0; Willem II       
+; AZ             ; 4-0; PEC             
+; Heracles       ; 1-1; Twente          
+; NAC            ; 5-3; Roda JC         
+; PSV            ; 4-2; NEC             
+; RKC            ; 3-2; Vitesse         
+; Heerenveen     ; 2-4; Utrecht         
+; VVV            ; 0-0; Groningen       
+
+Round: 34 
+Date: 5/12/2013
+
+; Groningen      ; 0-2; Ajax            
+; Twente         ; 3-1; PSV             
+; Utrecht        ; 3-0; Heracles        
+; Feyenoord      ; 1-0; NAC             
+; NEC            ; 1-2; RKC             
+; PEC            ; 4-2; ADO             
+; Roda JC        ; 1-0; Heerenveen      
+; Vitesse        ; 0-1; VVV             
+; Willem II      ; 2-0; AZ              
+
+* 1.Ajax (Amsterdam)             34  22 10  2  83-31  76  Champions
+* 2.PSV (Eindhoven)              34  22  3  9 103-43  69
+* 3.Feyenoord (Rotterdam)        34  21  6  7  64-38  69
+* 4.Vitesse (Arnhem)             34  19  7  8  68-42  64
+* 5.FC Utrecht                   34  19  6  9  55-41  63  Europa League Playoff
+* 6.FC Twente (Enschede)         34  17 11  6  60-33  62  Europa League Playoff
+* 7.FC Groningen                 34  12  7 15  36-53  43  Europa League Playoff
+* 8.SC Heerenveen                34  11  9 14  50-63  42  Europa League Playoff
+* 9.ADO Den Haag                 34   9 13 12  49-63  40
+*10.AZ (Alkmaar)                 34  10  9 15  56-54  39
+*11.PEC Zwolle                   34  10  9 15  42-55  39  [*]
+*12.Heracles Almelo              34   9 11 14  58-71  38
+*13.NAC Breda                    34  10  8 16  40-56  38
+*14.RKC Waalwĳk                  34   9 10 15  39-48  37
+*15.NEC (Nĳmegen)                34  10  7 17  44-66  37
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.Roda JC Kerkrade             34   7 12 15  51-69  33  Relegation Playoff
+*17.VVV-Venlo                    34   6 10 18  33-62  28  Relegation Playoff
+*-------------------------------------------------------
+*18.Willem II (Tilburg)          34   5  8 21  33-76  23  Relegated
+*
+*[*] FC Zwolle were renamed PEC Zwolle
+
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 9 Aug 2013
+*(C) Copyright Karel Stokkermans and RSSSF 2012/13
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

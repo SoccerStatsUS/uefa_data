@@ -1,0 +1,649 @@
+BlockSource: http://rsssf.com/tablesp/port2010.html
+Season: 2009-2010
+Competition: Primeira Liga
+
+* 1.SL Benfica                   30  24  4  2  78-20  76  Champions  [Lisboa]
+* 2.Sporting de Braga            30  22  5  3  48-20  71
+* 3.FC do Porto                  30  21  5  4  70-26  68
+* 4.Sporting CP                  30  13  9  8  42-26  48  [Lisboa]
+* 5.CS Marítimo                  30  11  8 11  42-43  41  [2 1 0 1 2-2 3]  [Funchal]
+* 6.Vitória SC                   30  11  8 11  31-34  41  [2 1 0 1 2-2 3]  [Guimarães]
+* 7.CD Nacional                  30  10  9 11  36-46  39  [Funchal]
+* 8.Naval                        30  10  6 14  20-35  36  [Figueira da Foz]
+* 9.União de Leiria              30   9  8 13  35-41  35  [2 2 0 0 3-1 6]
+*10.Paços de Ferreira            30   8 11 11  32-37  35  [2 0 0 2 1-3 0]
+*11.Académica de Coimbra         30   8  9 13  37-42  33
+*12.Rio Ave FC                   30   6 13 11  22-33  31  [Vila de Conde]
+*13.SC Olhanense                 30   5 14 11  31-46  29
+*14.Vitória FC                   30   5 10 15  29-57  25  [Setúbal]
+*-------------------------------------------------------
+*15.CF "Os Belenenses"           30   4 11 15  23-44  23  Relegated  [Lisboa]
+*16.Leixões SC                   30   5  6 19  25-51  21  Relegated  [Matosinhos]
+
+Round: 1 
+Date: 8/14/2009
+
+; Leixões          ; 0-0; Belenenses
+
+Date: 8/15/2009
+
+; Braga            ; 1-0; Académica
+; Nacional         ; 1-1; Sporting
+
+Date: 8/16/2009
+
+; Benfica          ; 1-1; Marítimo
+; Leiria           ; 1-1; Rio Ave
+; Naval            ; 0-0; Olhanense        
+; Paços de Ferreira; 1-1; Porto
+
+Date: 8/17/2009
+
+; Setúbal          ; 0-0; Guimarães         
+
+Round: 2
+Date: 8/21/2009
+
+; Olhanense        ; 0-0; Leiria            
+
+Date: 8/22/2009
+
+; Académica        ; 1-1; Paços de Ferreira
+; Sporting         ; 1-2; Braga
+
+Date: 8/23/2009
+
+; Guimarães        ; 0-1; Benfica
+; Marítimo         ; 1-0; Leixões
+; Porto            ; 3-0; Nacional
+; Rio Ave          ; 1-0; Setúbal           
+
+Date: 8/24/2009
+
+; Belenenses       ; 2-0; Naval
+
+Round: 3
+Date: 8/29/2009
+
+; Naval            ; 1-3; Porto
+; Paços de Ferreira; 0-0; Guimarães 
+
+Date: 8/30/2009
+
+; Académica        ; 0-2; Sporting
+; Braga            ; 3-1; Belenenses
+; Leiria           ; 0-0; Marítimo
+; Leixões          ; 0-0; Rio Ave
+
+Date: 8/31/2009
+
+; Benfica          ; 8-1; Setúbal
+; Nacional         ; 1-1; Olhanense
+
+Round: 4
+Date: 9/11/2009
+
+; Guimarães        ; 3-0; Naval             
+
+Date: 9/12/2009
+
+; Porto            ; 4-1; Leixões           
+; Rio Ave          ; 2-0; Nacional          
+
+Date: 9/13/2009
+
+; Belenenses       ; 0-4; Benfica           
+; Marítimo         ; 1-2; Braga             
+; Olhanense        ; 2-1; Académica         
+; Setúbal          ; 0-4; Leiria            
+; Sporting         ; 1-0; Paços de Ferreira 
+
+Round: 5
+Date: 9/18/2009
+
+; Leixões          ; 3-1; Guimarães 
+
+Date: 9/19/2009
+
+; Braga            ; 1-0; Porto
+; Paços de Ferreira; 1-1; Rio Ave
+
+Date: 9/20/2009
+
+; Académica        ; 1-1; Belenenses
+; Naval            ; 0-1; Setúbal
+; Nacional         ; 2-1; Marítimo          
+; Leiria           ; 1-2; Benfica           
+
+Date: 9/21/2009
+
+; Sporting         ; 3-2; Olhanense
+
+Round: 6
+Date: 9/25/2009
+
+; Olhanense        ; 0-1; Braga             
+
+Date: 9/26/2009
+
+; Benfica          ; 5-0; Leixões           
+; Marítimo         ; 1-2; Naval             
+; Porto            ; 1-0; Sporting          
+; Rio Ave          ; 0-0; Académica         
+; Setúbal          ; 0-1; Paços de Ferreira
+
+Date: 9/28/2009
+
+; Guimarães        ; 2-2; Leiria 
+
+Date: 10/12/2009
+
+; Belenenses       ; 0-1; Nacional                
+
+Round: 7
+Date: 10/2/2009
+
+; Académica        ; 2-4; Marítimo
+
+Date: 10/3/2009
+
+; Braga            ; 2-0; Setúbal
+; Naval            ; 3-2; Rio Ave
+
+Date: 10/4/2009
+
+; Leixões          ; 3-2; Leiria
+; Olhanense        ; 0-3; Porto
+; Sporting         ; 0-0; Belenenses
+
+Date: 10/5/2009
+
+; Nacional         ; 2-0; Guimarães  
+; Paços de Ferreira; 1-3; Benfica
+
+Round: 8
+Date: 10/23/2009
+
+; Belenenses       ; 0-0; Olhanense         
+
+Date: 10/24/2009
+
+; Leiria           ; 2-0; Naval             
+; Rio Ave          ; 1-1; Braga             
+
+Date: 10/25/2009
+
+; Marítimo         ; 3-1; Paços de Ferreira 
+; Setúbal          ; 1-0; Leixões           
+; Porto            ; 3-2; Académica         
+
+Date: 10/26/2009
+
+; Benfica          ; 6-1; Nacional          
+
+Date: 10/27/2009
+
+; Guimarães        ; 1-1; Sporting          
+
+Round: 9
+Date: 10/30/2009
+
+; Porto            ; 1-1; Belenenses        
+
+Date: 10/31/2009
+
+; Braga            ; 2-0; Benfica           
+; Naval            ; 1-0; Leixões           
+
+Date: 11/1/2009
+
+; Olhanense        ; 0-1; Rio Ave           
+; Paços de Ferreira; 0-1; Leiria            
+; Nacional         ; 2-1; Setúbal           
+; Sporting         ; 1-1; Marítimo          
+
+Date: 11/2/2009
+
+; Académica        ; 2-0; Guimarães         
+
+Round: 10
+Date: 11/6/2009
+
+; Belenenses       ; 0-3; Paços de Ferreira 
+
+Date: 11/7/2009
+
+; Setúbal          ; 0-0; Olhanense         
+; Guimarães        ; 1-0; Braga             
+
+Date: 11/8/2009
+
+; Leiria           ; 1-1; Académica         
+; Leixões          ; 2-4; Nacional          
+; Marítimo         ; 1-0; Porto             
+; Rio Ave          ; 2-2; Sporting          
+
+Date: 11/9/2009
+
+; Benfica          ; 1-0; Naval             
+
+Round: 11
+Date: 11/27/2009
+
+; Olhanense        ; 0-2; Guimarães         
+
+Date: 11/28/2009
+
+; Nacional         ; 1-1; Naval             
+; Sporting         ; 0-0; Benfica           
+
+Date: 11/29/2009
+
+; Académica        ; 3-0; Setúbal           
+; Paços de Ferreira; 1-1; Leixões           
+; Belenenses       ; 2-2; Marítimo          
+; Porto            ; 2-1; Rio Ave           
+
+Date: 11/30/2009
+
+; Braga            ; 2-0; Leiria            
+
+Round: 12
+Date: 12/4/2009
+
+; Guimarães        ; 1-4; Porto 
+
+Date: 12/5/2009
+
+; Naval            ; 1-0; Paços de Ferreira 
+; Rio Ave          ; 0-0; Belenenses
+; Leixões          ; 1-1; Braga
+
+Date: 12/6/2009
+
+; Marítimo         ; 5-2; Olhanense
+; Benfica          ; 4-0; Académica
+
+Date: 12/7/2009
+
+; Setúbal          ; 0-2; Sporting
+; Leiria           ; 1-2; Nacional
+
+Round: 13
+Date: 12/11/2009
+
+; Paços de Ferreira; 2-1; Nacional
+
+Date: 12/12/2009
+
+; Sporting         ; 0-1; Leiria
+; Olhanense        ; 2-2; Benfica
+
+Date: 12/13/2009
+
+; Académica        ; 2-0; Leixões           
+; Marítimo         ; 0-1; Rio Ave
+; Braga            ; 0-0; Naval
+; Porto            ; 2-0; Setúbal
+
+Date: 12/14/2009
+
+; Belenenses       ; 0-1; Guimarães         
+
+Round: 14
+Date: 12/18/2009
+
+; Paços de Ferreira; 0-1; Braga
+
+Date: 12/19/2009
+
+; Guimarães        ; 1-0; Rio Ave
+; Naval            ; 0-1; Sporting
+
+Date: 12/20/2009
+
+; Setúbal          ; 3-2; Marítimo
+; Leiria           ; 1-0; Belenenses
+; Nacional         ; 4-3; Académica
+; Benfica          ; 1-0; Porto
+
+Date: 12/21/2009
+
+; Leixões          ; 2-2; Olhanense         
+
+Round: 15
+Date: 1/8/2010
+
+; Braga            ; 2-0; Nacional
+
+Date: 1/9/2010
+
+; Marítimo         ; 0-1; Guimarães         
+; Sporting         ; 1-0; Leixões           
+; Rio Ave          ; 0-1; Benfica
+
+Date: 1/10/2010
+
+; Olhanense        ; 1-1; Paços de Ferreira
+; Académica        ; 2-0; Naval
+; Porto            ; 3-2; Leiria
+
+Date: 1/11/2010
+
+; Belenenses       ; 0-0; Setúbal
+
+Round: 16
+Date: 1/16/2010
+
+; Olhanense        ; 1-0; Naval
+; Guimarães        ; 2-2; Setúbal
+; Porto            ; 1-1; Paços de Ferreira
+; Sporting         ; 3-2; Nacional
+
+Date: 1/17/2010
+
+; Belenenses       ; 1-3; Leixões           
+; Rio Ave          ; 0-2; Leiria
+; Académica        ; 0-2; Braga             
+; Marítimo         ; 0-5; Benfica
+
+Round: 17
+Date: 1/29/2010
+
+; Braga            ; 1-0; Sporting          
+
+Date: 1/30/2010
+
+; Leiria           ; 2-0; Olhanense         
+; Naval            ; 1-0; Belenenses        
+; Nacional         ; 0-4; Porto             
+; Benfica          ; 3-1; Guimarães         
+
+Date: 1/31/2010
+
+; Setúbal          ; 2-2; Rio Ave           
+; Paços de Ferreira; 2-1; Académica         
+
+Date: 2/1/2010
+
+; Leixões          ; 1-2; Marítimo          
+
+Round: 18
+Date: 2/6/2010
+
+; Sporting         ; 1-2; Académica         
+; Setúbal          ; 1-1; Benfica           
+
+Date: 2/7/2010
+
+; Olhanense        ; 1-0; Nacional          
+; Rio Ave          ; 2-0; Leixões           
+; Marítimo         ; 1-0; Leiria
+; Guimarães        ; 1-2; Paços de Ferreira 
+; Porto            ; 3-0; Naval             
+
+Date: 2/8/2010
+
+; Belenenses       ; 1-3; Braga             
+
+Round: 19
+Date: 2/12/2010
+
+; Paços de Ferreira; 0-0; Sporting          
+
+Date: 2/13/2010
+
+; Benfica          ; 1-0; Belenenses        
+; Leixões          ; 0-0; Porto             
+
+Date: 2/14/2010
+
+; Académica        ; 1-1; Olhanense         
+; Nacional         ; 1-1; Rio Ave           
+; Leiria           ; 3-3; Setúbal           
+; Braga            ; 2-1; Marítimo          
+
+Date: 2/15/2010
+
+; Naval            ; 0-0; Guimarães         
+
+Round: 20 
+Date: 2/3/2010
+
+; Benfica          ; 3-0; Leiria
+
+Date: 2/19/2010
+
+; Marítimo         ; 1-1; Nacional          
+
+Date: 2/20/2010
+
+; Guimarães        ; 2-0; Leixões           
+; Olhanense        ; 0-0; Sporting          
+
+Date: 2/21/2010
+
+; Rio Ave          ; 1-2; Paços de Ferreira 
+; Setúbal          ; 0-1; Naval             
+; Porto            ; 5-1; Braga             
+
+Date: 2/22/2010
+
+; Belenenses       ; 1-2; Académica         
+
+Round: 21
+Date: 2/26/2010
+
+; Leiria           ; 0-1; Guimarães         
+
+Date: 2/27/2010
+
+; Naval            ; 2-1; Marítimo          
+; Braga            ; 3-1; Olhanense         
+; Leixões          ; 0-4; Benfica           
+
+Date: 2/28/2010
+
+; Paços de Ferreira; 5-3; Setúbal           
+; Académica        ; 0-1; Rio Ave           
+; Sporting         ; 3-0; Porto             
+
+Date: 3/2/2010
+
+; Nacional         ; 1-0; Belenenses       
+
+Round: 22
+Date: 3/5/2010
+
+; Leiria           ; 2-1; Leixões           
+
+Date: 3/6/2010
+
+; Porto            ; 2-2; Olhanense         
+; Rio Ave          ; 0-0; Naval             
+; Setúbal          ; 0-0; Braga             
+
+Date: 3/7/2010
+
+; Marítimo         ; 0-0; Académica         
+; Belenenses       ; 0-4; Sporting          
+; Benfica          ; 3-1; Paços de Ferreira 
+
+Date: 3/8/2010
+
+; Guimarães        ; 2-0; Nacional          
+
+Round: 23
+Date: 3/12/2010
+
+; Naval            ; 1-0; Leiria            
+
+Date: 3/13/2010
+
+; Braga            ; 1-0; Rio Ave           
+; Académica        ; 1-2; Porto             
+
+Date: 3/14/2010
+
+; Olhanense        ; 1-3; Belenenses       
+; Leixões          ; 1-2; Setúbal           
+; Nacional         ; 0-1; Benfica           
+; Sporting         ; 3-1; Guimarães         
+
+Date: 3/15/2010
+
+; Paços de Ferreira; 1-0; Marítimo          
+
+Round: 24
+Date: 3/26/2010
+
+; Marítimo         ; 3-2; Sporting          
+
+Date: 3/27/2010
+
+; Guimarães        ; 1-0; Académica         
+; Benfica          ; 1-0; Braga             
+
+Date: 3/28/2010
+
+; Rio Ave          ; 1-5; Olhanense         
+; Setúbal          ; 2-1; Nacional          
+; Leixões          ; 1-0; Naval             
+; Leiria           ; 2-1; Paços de Ferreira 
+; Belenenses       ; 0-3; Porto             
+
+Round: 25
+Date: 4/2/2010
+
+; Braga            ; 3-2; Guimarães         
+; Nacional         ; 1-0; Leixões           
+; Sporting         ; 5-0; Rio Ave           
+
+Date: 4/3/2010
+
+; Olhanense        ; 2-2; Setúbal           
+; Paços de Ferreira; 0-0; Belenenses       
+; Académica        ; 0-0; Leiria            
+; Porto            ; 4-1; Marítimo          
+
+Date: 4/5/2010
+
+; Naval            ; 2-4; Benfica           
+
+Round: 26
+Date: 4/9/2010
+
+; Naval            ; 0-0; Nacional          
+
+Date: 4/10/2010
+
+; Leiria           ; 1-2; Braga             
+; Rio Ave          ; 0-1; Porto             
+
+Date: 4/11/2010
+
+; Marítimo         ; 3-3; Belenenses       
+; Leixões          ; 2-0; Paços de Ferreira 
+; Guimarães        ; 1-1; Olhanense         
+
+Date: 4/12/2010
+
+; Setúbal          ; 1-1; Académica         
+
+Date: 4/13/2010
+
+; Benfica          ; 2-0; Sporting          
+
+Round: 27
+Date: 4/16/2010
+
+; Olhanense        ; 1-2; Marítimo
+
+Date: 4/17/2010
+
+; Paços de Ferreira; 1-3; Naval
+; Braga            ; 3-1; Leixões          
+
+Date: 4/18/2010
+
+; Nacional         ; 2-0; Leiria
+; Belenenses       ; 0-0; Rio Ave
+; Académica        ; 2-3; Benfica
+; Porto            ; 3-0; Guimarães    
+
+Date: 4/19/2010
+
+; Sporting         ; 2-1; Setúbal     
+
+Round: 28
+Date: 4/23/2010
+
+; Rio Ave          ; 0-0; Marítimo
+
+Date: 4/24/2010
+
+; Setúbal          ; 2-5; Porto             
+; Benfica          ; 5-0; Olhanense          
+
+Date: 4/25/2010
+
+; Leixões          ; 1-3; Académica         
+; Nacional         ; 1-1; Paços de Ferreira 
+; Naval            ; 0-4; Braga             
+; Leiria           ; 1-1; Sporting          
+
+Date: 4/26/2010
+
+; Guimarães        ; 2-0; Belenenses        
+
+Round: 29 
+Date: 5/2/2010
+
+; Sporting         ; 0-1; Naval             
+; Rio Ave          ; 0-0; Guimarães         
+; Académica        ; 3-3; Nacional          
+; Porto            ; 3-1; Benfica           
+; Marítimo         ; 2-0; Setúbal           
+; Braga            ; 1-0; Paços de Ferreira 
+; Olhanense        ; 1-0; Leixões           
+; Belenenses       ; 5-2; Leiria            
+
+Round: 30
+Date: 5/8/2010
+
+; Leiria           ; 1-4; Porto
+; Setúbal          ; 1-2; Belenenses
+; Leixões          ; 1-2; Sporting
+
+Date: 5/9/2010
+
+; Paços de Ferreira; 2-2; Olhanense
+; Naval            ; 0-1; Académica
+; Benfica          ; 2-1; Rio Ave
+; Guimarães        ; 1-2; Marítimo
+; Nacional         ; 1-1; Braga
+
+* 1.SL Benfica                   30  24  4  2  78-20  76  Champions  [Lisboa]
+* 2.Sporting de Braga            30  22  5  3  48-20  71
+* 3.FC do Porto                  30  21  5  4  70-26  68
+* 4.Sporting CP                  30  13  9  8  42-26  48  [Lisboa]
+* 5.CS Marítimo                  30  11  8 11  42-43  41  [2 1 0 1 2-2 3]  [Funchal]
+* 6.Vitória SC                   30  11  8 11  31-34  41  [2 1 0 1 2-2 3]  [Guimarães]
+* 7.CD Nacional                  30  10  9 11  36-46  39  [Funchal]
+* 8.Naval                        30  10  6 14  20-35  36  [Figueira da Foz]
+* 9.União de Leiria              30   9  8 13  35-41  35  [2 2 0 0 3-1 6]
+*10.Paços de Ferreira            30   8 11 11  32-37  35  [2 0 0 2 1-3 0]
+*11.Académica de Coimbra         30   8  9 13  37-42  33
+*12.Rio Ave FC                   30   6 13 11  22-33  31  [Vila de Conde]
+*13.SC Olhanense                 30   5 14 11  31-46  29
+*14.Vitória FC                   30   5 10 15  29-57  25  [Setúbal]
+*-------------------------------------------------------
+*15.CF "Os Belenenses"           30   4 11 15  23-44  23  Relegated  [Lisboa]
+*16.Leixões SC                   30   5  6 19  25-51  21  Relegated  [Matosinhos]
+
+
+*Prepared and maintained by Jorge Santos and Jan Schoenmakers the Rec.Sport.Soccer Statistics Foundation
+*Authors: Jorge Santos (Jorge10@sapo.pt) and Jan Schoenmakers ( Jan.Schoenmakers@atosorigin.com) 
+*Last updated: 5 Nov 2010
+*(C) Copyright Jorge Santos, Jan Schoenmakers and RSSSF 2009/10
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

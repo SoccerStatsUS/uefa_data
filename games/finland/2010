@@ -1,0 +1,383 @@
+BlockSource: http://rsssf.com/tablesf/fin2010.html
+Season: 2010
+Competition: Veikkausliiga
+
+* 1.HJK (Helsinki)                26 15  7  4  43-19  52  Champions
+* 2.KuPS (Kuopio)                 26 15  3  8  45-36  48
+* 3.TPS (Turku)                   26 13  6  7  46-30  45
+* 4.FC Honka (Espoo)              26 12  5  9  42-34  41
+* 5.FF Jaro (Pietarsaari)         26 11  5 10  42-34  38
+* 6.FC Inter (Turku)              26 10  7  9  34-32  37
+* 7.Tampere United                26 10  4 12  37-46  34
+* 8.FC Haka (Valkeakoski)         26  9  6 11  30-38  33
+* 9.MyPa-47 (Anjalankoski)        26  7 11  8  36-39  32
+*10.VPS (Vaasa)                   26  8  7 11  29-40  31
+*11.AC Oulu                       26  8  6 12  31-44  30
+*12.IFK Mariehamn                 26  7  7 12  38-43  28
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*13.JJK Jyväskylä                 26  8  3 15  34-41  27  Relegation Playoff
+*-------------------------------------------------------
+*14.FC Lahti                      26  5 11 10  26-37  26  Relegated
+
+Round: 1
+[Apr 16]
+KuPS            0-5 HJK            
+[Apr 17]
+Lahti           1-3 Jaro           
+[Apr 18]
+Honka           3-1 MyPa           
+Oulu            3-0 TamU           
+[Apr 19]
+Haka            0-0 TPS            
+Inter           1-1 Mariehamn      
+[Apr 28]
+VPS             0-1 JJK            
+
+Round: 2
+[Apr 23]
+TamU            0-2 JJK            
+[Apr 24]
+MyPa            1-1 Oulu           
+[Apr 25]
+Jaro            0-1 Inter          
+KuPS            1-1 Lahti          
+Mariehamn       0-3 VPS            
+[Apr 26]
+TPS             1-0 Honka          
+HJK             1-1 Haka           
+
+Round: 3
+[Apr 30]
+Haka            4-3 Jaro           
+[May 1]
+Honka           3-0 Mariehamn      
+[May 2]
+Oulu            2-5 KuPS           
+VPS             0-3 HJK            
+JJK             0-2 TPS            
+[May 3]
+Inter           1-3 Lahti          
+TamU            1-1 MyPa           
+
+Round: 4
+[May 7]
+TPS             1-1 VPS
+[May 8]
+MyPa            2-4 JJK
+[May 9]
+Jaro            0-0 Honka
+KuPS            2-1 Inter
+Mariehamn       2-3 TamU
+[May 10]
+HJK             2-0 Oulu
+Lahti           0-1 Haka
+
+Round: 5
+[May 14]
+Lahti           0-2 MyPa           
+[May 15]
+TPS             2-2 Inter          
+[May 16]
+Honka           3-1 HJK            
+Jaro            3-2 VPS            
+Oulu            0-0 Mariehamn      
+[May 17]
+KuPS            2-0 JJK            
+TamU            2-1 Haka           
+
+Round: 6
+[May 21]
+Haka            2-0 Oulu           
+[May 23]
+JJK             0-1 Honka          
+Mariehamn       0-0 Jaro           
+VPS             2-0 KuPS           
+[May 24]
+HJK             0-0 Lahti          
+Inter           0-2 TamU           
+MyPa            2-2 TPS            
+
+Round: 7
+[May 29]
+Mariehamn       1-2 HJK            
+[May 30]
+Honka           0-0 VPS            
+[May 31]
+Haka            0-1 MyPa           
+Inter           0-2 Oulu           
+[Jan 1]
+Jaro            2-2 TamU           
+KuPS            2-1 TPS            
+Lahti           0-0 JJK            
+
+Round: 8
+[Jun 4]
+TamU            0-0 Lahti          
+[Jun 5]
+Oulu            2-0 Honka          
+[Jun 6]
+HJK             2-1 Jaro           
+TPS             1-4 Mariehamn      
+JJK             0-3 Inter          
+[Jun 7]
+MyPa            1-1 KuPS           
+VPS             2-1 Haka           
+
+Round: 9
+[Jun 11]
+Jaro            1-3 JJK            
+[Jun 12]
+Lahti           0-3 Oulu           
+[Jun 13]
+Mariehamn       2-3 Haka           
+HJK             2-0 MyPa           
+KuPS            0-2 Honka          
+[Jun 14]
+TamU            1-1 TPS            
+Inter           1-0 VPS            
+
+Round: 10
+[Jun 18]
+JJK             0-2 Mariehamn      
+[Jun 19]
+Oulu            0-2 TPS            
+[Jun 20]
+Honka           0-2 TamU           
+MyPa            0-1 Jaro           
+Inter           0-0 HJK            
+[Jun 21]
+Haka            2-1 KuPS           
+VPS             1-1 Lahti          
+
+Round: 11
+[Jun 23]
+Mariehamn       1-2 MyPa           
+HJK             1-0 JJK            
+TPS             0-3 Jaro           
+[Jun 30]
+KuPS            6-2 TamU           
+Lahti           2-4 Honka          
+Haka            1-3 Inter          
+[Jul 2]
+VPS             2-0 Oulu           
+
+Round: 12
+[Jul 3]
+Mariehamn       2-2 Lahti          
+[Jul 4]
+Honka           4-2 Haka           
+MyPa            3-2 Inter          
+TPS             0-1 HJK            
+Jaro            0-1 KuPS           
+[Jul 5]
+TamU            3-0 VPS            
+JJK             6-1 Oulu           
+
+Round: 13
+[Jul 9]
+Inter           2-0 Honka         
+[Jul 10]
+HJK             3-1 TamU           
+[Jul 11]
+Lahti           1-3 TPS            
+Oulu            0-1 Jaro           
+VPS             2-1 MyPa           
+[Jul 12]
+Haka            1-2 JJK            
+KuPS            0-0 Mariehamn      
+
+Round: 14
+[Jul 16]
+Jaro            2-0 Lahti          
+[Jul 17]
+HJK             1-2 KuPS           
+[Jul 18]
+Mariehamn       3-0 Inter          
+MyPa            2-2 Honka          
+TPS             1-1 Haka           
+[Jul 19]
+JJK             0-1 VPS            
+TamU            3-1 Oulu           
+
+Round: 15
+[Jul 23]
+Lahti           2-1 KuPS           
+[Jul 24]
+Haka            0-3 HJK            
+[Jul 25]
+Inter           2-0 Jaro           
+Honka           1-0 TPS            
+[Jul 26]
+JJK             0-1 TamU           
+VPS             1-4 Mariehamn      
+[Aug 12]
+Oulu            1-1 MyPa           
+
+Round: 16
+[Jul 30]
+KuPS            3-1 Oulu           
+[Jul 31]
+HJK             3-0 VPS            
+[Aug 1]
+MyPa            3-0 TamU           
+Mariehamn       2-2 Honka          
+TPS             2-0 JJK            
+Lahti           1-1 Inter          
+[Aug 2]
+Jaro            5-0 Haka           
+
+Round: 17
+[Aug 6]
+Haka            0-0 Lahti          
+[Aug 7]
+Oulu            1-1 HJK            
+[Aug 8]
+Inter           1-3 KuPS           
+Honka           3-1 Jaro           
+JJK             1-1 MyPa           
+TamU            3-4 Mariehamn      
+VPS             0-3 TPS            
+
+Round: 18
+[Aug 13]
+JJK             1-3 KuPS           
+[Aug 14]
+HJK             0-1 Honka          
+[Aug 15]
+Inter           1-2 TPS            
+MyPa            1-1 Lahti          
+[Aug 16]
+Haka            1-0 TamU           
+VPS             1-1 Jaro           
+Mariehamn       0-2 Oulu           
+
+Round: 19
+[Aug 20]
+Jaro            2-0 Mariehamn      
+[Aug 21]
+Oulu            1-1 Haka           
+[Aug 22]
+Lahti           0-1 HJK            
+TamU            0-1 Inter          
+TPS             3-0 MyPa           
+[Aug 23]
+Honka           2-3 JJK            
+KuPS            1-2 VPS            
+
+Round: 20
+[Aug 27]
+JJK             2-2 Lahti          
+[Aug 28]
+TPS             3-0 KuPS           
+[Aug 29]
+Oulu            1-0 Inter          
+VPS             1-3 Honka          
+[Aug 30]
+HJK             3-1 Mariehamn      
+MyPa            2-1 Haka           
+TamU            1-4 Jaro           
+
+Round: 21
+[Sep 10]
+Lahti           0-1 TamU           
+[Sep 11]
+Haka            1-1 VPS            
+[Sep 12]
+Mariehamn       2-1 TPS            
+KuPS            2-1 MyPa           
+Jaro            1-1 HJK            
+[Sep 13]
+Honka           3-4 Oulu           
+Inter           3-2 JJK            
+
+Round: 22
+[Sep 18]
+Oulu            1-2 Lahti          
+TPS             4-3 TamU           
+[Sep 19]
+JJK             1-2 Jaro           
+MyPa            1-1 HJK            
+VPS             0-3 Inter          
+Honka           2-1 KuPS           
+[Sep 20]
+Haka            2-1 Mariehamn      
+
+Round: 23
+[Sep 22]
+TPS             5-0 Oulu           
+HJK             2-2 Inter          
+TamU            2-1 Honka          
+[Sep 24]
+Jaro            3-2 MyPa           
+[Sep 27]
+Lahti           2-1 VPS            
+KuPS            1-0 Haka           
+Mariehamn       3-2 JJK            
+
+Round: 24
+[Oct 2]
+JJK             1-2 HJK            
+MyPa            2-1 Mariehamn      
+[Oct 3]
+Jaro            1-3 TPS            
+TamU            1-3 KuPS           
+Oulu            1-1 VPS            
+[Oct 4]
+Inter           1-0 Haka           
+Honka           1-2 Lahti          
+
+Round: 25
+[Oct 16]
+KuPS            2-1 Jaro           
+Haka            2-0 Honka          
+[Oct 17]
+Lahti           1-1 Mariehamn      
+VPS             3-1 TamU           
+Oulu            1-2 JJK            
+[Oct 18]
+HJK             2-0 TPS            
+Inter           1-1 MyPa            
+
+Round: 26 [Oct 23]
+Honka           1-1 Inter
+TamU            2-0 HJK
+JJK             1-2 Haka
+Mariehamn       1-2 KuPS
+Jaro            1-2 Oulu
+MyPa            2-2 VPS
+TPS             3-2 Lahti
+
+
+* 1.HJK (Helsinki)                26 15  7  4  43-19  52  Champions
+* 2.KuPS (Kuopio)                 26 15  3  8  45-36  48
+* 3.TPS (Turku)                   26 13  6  7  46-30  45
+* 4.FC Honka (Espoo)              26 12  5  9  42-34  41
+* 5.FF Jaro (Pietarsaari)         26 11  5 10  42-34  38
+* 6.FC Inter (Turku)              26 10  7  9  34-32  37
+* 7.Tampere United                26 10  4 12  37-46  34
+* 8.FC Haka (Valkeakoski)         26  9  6 11  30-38  33
+* 9.MyPa-47 (Anjalankoski)        26  7 11  8  36-39  32
+*10.VPS (Vaasa)                   26  8  7 11  29-40  31
+*11.AC Oulu                       26  8  6 12  31-44  30
+*12.IFK Mariehamn                 26  7  7 12  38-43  28
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*13.JJK Jyväskylä                 26  8  3 15  34-41  27  Relegation Playoff
+*-------------------------------------------------------
+*14.FC Lahti                      26  5 11 10  26-37  26  Relegated
+
+Promotion/Relegation Playoff
+
+First Leg [Oct 27]
+Viikingit       1-1 JJK  
+
+Second Leg [Oct 30]
+JJK             2-0 Viikingit
+
+NB: both remain at previous level
+
+
+*Prepared and maintained by Karel Stokkermans and Roberto Di Maggio for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Karel Stokkermans and Roberto Di Maggio 
+*Last updated: 21 Jun 2012
+*(C) Copyright Karel Stokkermans, Roberto Di Maggio and RSSSF 2010/12
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

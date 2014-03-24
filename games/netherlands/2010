@@ -1,0 +1,671 @@
+BlockSource: http://rsssf.com/tablesn/ned2011.html
+Season: 2010-2011
+Competition: Eredivisie
+
+
+* 1.Ajax (Amsterdam)             34  22  7  5  72-30  73  Champions
+* 2.FC Twente (Enschede)         34  21  8  5  65-34  71  Champions League
+* 3.PSV (Eindhoven)              34  20  9  5  79-34  69  Europa League
+* 4.AZ (Alkmaar)                 34  17  8  9  55-44  59  Europa League
+* 5.FC Groningen                 34  17  6 11  65-52  57  Europa League Playoff
+* 6.Roda JC Kerkrade             34  14 13  7  65-50  55  Europa League Playoff
+* 7.ADO Den Haag                 34  16  6 12  63-55  54  Europa League Playoff
+* 8.Heracles Almelo              34  14  7 13  65-56  49  Europa League Playoff
+* 9.FC Utrecht                   34  13  8 13  55-51  47
+*10.Feyenoord (Rotterdam)        34  12  8 14  53-54  44
+*11.NEC (Nĳmegen)                34  10 13 11  57-56  43
+*12.SC Heerenveen                34  10 11 13  60-54  41
+*13.NAC Breda                    34  12  5 17  44-60  40  [-1]
+*14.De Graafschap (Doetinchem)   34   9 11 14  31-56  38
+*15.Vitesse (Arnhem)             34   9  8 17  42-61  35
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.Excelsior (Rotterdam)        34  10  5 19  45-66  35  Relegation Playoff
+*17.VVV-Venlo                    34   6  3 25  34-76  21  Relegation Playoff
+*-------------------------------------------------------
+*18.Willem II (Tilburg)          34   3  6 25  37-98  15  Relegated
+*NB: Roda JC were renamed Roca JC Kerkrade
+
+Round: 1
+Date: 8/6/2010
+
+; Roda JC         ; 0-0;  FC Twente
+
+Date: 8/7/2010
+
+; Heerenveen      ; 1-3;  PSV
+; De Graafschap   ; 3-0;  Excelsior
+; Heracles Almelo ; 3-0;  Willem II
+; NEC             ; 1-0;  VVV Venlo
+
+Date: 8/8/2010
+
+; FC Groningen    ; 2-2;  Ajax
+; Vitesse         ; 3-1;  ADO Den Haag
+; NAC Breda       ; 1-1;  AZ
+; Feyenoord       ; 3-1;  FC Utrecht
+
+Round: 2
+Date: 8/14/2010
+
+; FC Twente       ; 0-0;  Heerenveen
+; Ajax            ; 4-2;  Vitesse
+; PSV             ; 6-0;  De Graafschap
+; VVV Venlo       ; 1-0;  Heracles Almelo
+; AZ              ; 1-1;  FC Groningen
+
+Date: 8/15/2010
+
+; Excelsior       ; 3-2;  Feyenoord
+; FC Utrecht      ; 3-1;  NAC Breda
+; ADO Den Haag    ; 1-3;  Roda JC
+; Willem II       ; 3-5;  NEC
+
+Round: 3
+Date: 8/20/2010
+
+; Excelsior       ; 4-2;  NEC
+
+Date: 8/21/2010
+
+; Vitesse         ; 0-3;  FC Twente
+; Ajax            ; 3-0;  Roda JC
+; FC Groningen    ; 2-1;  De Graafschap
+; Heerenveen      ; 3-1;  NAC Breda
+
+Date: 8/22/2010
+
+; VVV Venlo       ; 2-3;  ADO Den Haag
+; FC Utrecht      ; 3-0;  Willem II
+; PSV             ; 3-1;  AZ
+; Heracles Almelo ; 1-1;  Feyenoord
+
+Round: 4
+Date: 8/27/2010
+
+; Willem II       ; 0-3;  FC Groningen
+
+Date: 8/28/2010
+
+; NAC Breda       ; 2-0;  VVV Venlo
+; Roda JC         ; 4-2;  Heracles Almelo
+; NEC             ; 2-2;  Heerenveen
+
+Date: 8/29/2010
+
+; De Graafschap   ; 0-5;  Ajax
+; FC Twente       ; 4-0;  FC Utrecht
+; ADO Den Haag    ; 2-2;  PSV
+; AZ              ; 1-1;  Excelsior
+; Feyenoord       ; 4-0;  Vitesse
+
+Round: 5
+Date: 9/11/2010
+
+; Heerenveen      ; 2-1;  Vitesse
+; Ajax            ; 2-0;  Willem II
+; PSV             ; 3-1;  NEC
+; AZ              ; 1-2;  Roda JC
+; Excelsior       ; 2-1;  Heracles Almelo
+; VVV Venlo       ; 1-2;  FC Twente
+
+Date: 9/12/2010
+
+; NAC Breda       ; 2-0;  Feyenoord
+; FC Groningen    ; 1-0;  FC Utrecht
+; ADO Den Haag    ; 2-2;  De Graafschap
+
+Round: 6
+Date: 9/17/2010
+
+; De Graafschap   ; 3-2;  Heerenveen
+
+Date: 9/18/2010
+
+; Vitesse         ; 0-0;  NAC Breda
+; Willem II       ; 2-4;  ADO Den Haag
+; FC Groningen    ; 2-0;  Excelsior
+
+Date: 9/19/2010
+
+; Heracles Almelo ; 0-0;  FC Twente
+; Feyenoord       ; 1-2;  Ajax
+; NEC             ; 0-1;  AZ
+; FC Utrecht      ; 3-2;  VVV Venlo
+; Roda JC         ; 0-0;  PSV
+
+Round: 7
+Date: 9/25/2010
+
+; Heerenveen      ; 2-2;  Roda JC
+; ADO Den Haag    ; 3-2;  Heracles Almelo
+; PSV             ; 1-1;  FC Groningen
+; FC Twente       ; 2-2;  Ajax
+; AZ              ; 1-0;  FC Utrecht
+
+Date: 9/26/2010
+
+; NEC             ; 3-0;  Feyenoord
+; VVV Venlo       ; 1-0;  De Graafschap
+; Excelsior       ; 0-2;  Vitesse
+; NAC Breda       ; 2-1;  Willem II
+
+Round: 8
+Date: 10/1/2010
+
+; Vitesse         ; 0-0;  Willem II
+
+Date: 10/2/2010
+
+; Excelsior       ; 1-2;  Roda JC
+; NAC Breda       ; 2-0;  NEC
+
+Date: 10/3/2010
+
+; Heerenveen      ; 0-0;  ADO Den Haag
+; AZ              ; 2-1;  Heracles Almelo
+; PSV             ; 3-0;  VVV Venlo
+; FC Twente       ; 4-2;  FC Groningen
+; Ajax            ; 1-2;  FC Utrecht
+; De Graafschap   ; 1-1;  Feyenoord
+
+Round: 9
+Date: 10/16/2010
+
+; Feyenoord       ; 0-1;  FC Twente
+; ADO Den Haag    ; 2-1;  Excelsior
+; Ajax            ; 3-0;  NAC Breda
+; FC Utrecht      ; 2-2;  De Graafschap
+; VVV Venlo       ; 0-1;  AZ
+
+Date: 10/17/2010
+
+; FC Groningen    ; 1-0;  Heerenveen
+; Heracles Almelo ; 3-2;  NEC
+; Willem II       ; 2-4;  PSV
+; Roda JC         ; 4-1;  Vitesse
+
+Round: 10
+Date: 10/22/2010
+
+; NAC Breda       ; 1-2;  Roda JC
+
+Date: 10/23/2010
+
+; Heerenveen      ; 2-0;  VVV Venlo
+; De Graafschap   ; 1-1;  Heracles Almelo
+; NEC             ; 3-2;  FC Groningen
+
+Date: 10/24/2010
+
+; Vitesse         ; 1-4;  FC Utrecht
+; Excelsior       ; 2-2;  Ajax
+; FC Twente       ; 3-2;  ADO Den Haag
+; AZ              ; 3-0;  Willem II
+; PSV            ; 10-0;  Feyenoord
+
+Round: 11
+Date: 10/26/2010
+
+; Heracles Almelo ; 4-1;  NAC Breda
+; Roda JC         ; 1-1;  NEC
+
+Date: 10/27/2010
+
+; Ajax            ; 3-1;  Heerenveen
+; Feyenoord       ; 3-0;  VVV Venlo
+; FC Utrecht      ; 2-0;  Excelsior
+; De Graafschap   ; 2-1;  AZ
+; FC Groningen    ; 3-1;  ADO Den Haag
+; Willem II       ; 1-3;  FC Twente
+; Vitesse         ; 0-2;  PSV
+
+Round: 12
+Date: 10/30/2010
+
+; Heracles Almelo ; 1-4;  Ajax
+; VVV Venlo       ; 3-5;  FC Groningen
+; NAC Breda       ; 2-0;  De Graafschap
+; Excelsior       ; 0-2;  Heerenveen
+; PSV             ; 0-1;  FC Twente
+
+Date: 10/31/2010
+
+; AZ              ; 2-1;  Feyenoord
+; ADO Den Haag    ; 1-0;  FC Utrecht
+; NEC             ; 0-0;  Vitesse
+; Roda JC         ; 2-2;  Willem II
+
+Round: 13
+Date: 11/5/2010
+
+; Willem II       ; 1-4;  VVV Venlo
+
+Date: 11/6/2010
+
+; De Graafschap   ; 1-4;  NEC
+; FC Twente       ; 2-1;  Excelsior
+; FC Groningen    ; 2-1;  NAC Breda
+; Heerenveen      ; 3-2;  Heracles Almelo
+
+Date: 11/7/2010
+
+; FC Utrecht      ; 1-2;  PSV
+; Feyenoord       ; 1-1;  Roda JC
+; Ajax            ; 0-1;  ADO Den Haag
+; Vitesse         ; 1-1;  AZ
+
+Round: 14
+Date: 11/12/2010
+
+; Heracles Almelo ; 3-0;  FC Groningen
+
+Date: 11/13/2010
+
+; NAC Breda       ; 2-1;  FC Twente
+; PSV             ; 4-2;  Excelsior
+
+Date: 11/14/2010
+
+; NEC             ; 1-1;  ADO Den Haag
+; VVV Venlo       ; 1-5;  Vitesse
+; Feyenoord       ; 2-2;  Heerenveen
+; AZ              ; 2-0;  Ajax
+
+Date: 11/24/2010
+
+; Roda JC         ; 1-1;  FC Utrecht
+; Willem II       ; 0-1;  De Graafschap
+
+Round: 15
+Date: 11/20/2010
+
+; FC Twente       ; 1-2;  AZ
+; Vitesse         ; 2-0;  Heracles Almelo
+; De Graafschap   ; 3-1;  Roda JC
+; Ajax            ; 0-0;  PSV
+; Excelsior       ; 1-0;  VVV Venlo
+
+Date: 11/21/2010
+
+; Heerenveen      ; 5-0;  Willem II
+; FC Utrecht      ; 4-0;  NEC
+; ADO Den Haag    ; 3-0;  NAC Breda
+; FC Groningen    ; 2-0;  Feyenoord
+
+Round: 16
+Date: 11/26/2010
+
+; NAC Breda       ; 4-2;  PSV
+
+Date: 11/27/2010
+
+; AZ              ; 2-2;  Heerenveen
+; Willem II       ; 1-1;  Excelsior
+; NEC             ; 2-4;  FC Twente
+; Roda JC         ; 1-0;  FC Groningen
+
+Date: 11/28/2010
+
+; Heracles Almelo ; 2-1;  FC Utrecht
+; VVV Venlo       ; 0-2;  Ajax
+; Feyenoord       ; 2-1;  ADO Den Haag
+; De Graafschap   ; 1-1;  Vitesse
+
+Round: 17
+Date: 12/3/2010
+
+; FC Groningen    ; 4-1;  Vitesse
+
+Date: 12/4/2010
+
+; Ajax            ; 1-1;  NEC
+; FC Twente       ; 2-0;  De Graafschap
+; PSV             ; 5-2;  Heracles Almelo
+
+Date: 12/5/2010
+
+; Willem II       ; 1-1;  Feyenoord
+; ADO Den Haag    ; 0-2;  AZ
+; FC Utrecht      ; 2-1;  Heerenveen
+
+Date: 12/14/2010
+
+; VVV Venlo       ; 0-4;  Roda JC
+
+Date: 12/15/2010
+
+; Excelsior       ; 1-3;  NAC Breda
+
+Round: 18
+Date: 12/10/2010
+
+; Heracles Almelo ; 2-2;  VVV Venlo
+
+Date: 12/13/2010
+
+; De Graafschap   ; 0-0;  PSV
+; NEC             ; 3-1;  Willem II
+; Roda JC         ; 1-1;  ADO Den Haag
+; NAC Breda       ; 3-1;  FC Utrecht
+
+Date: 12/12/2010
+
+; Heerenveen      ; 6-2;  FC Twente
+; Vitesse         ; 0-1;  Ajax
+; FC Groningen    ; 2-0;  AZ
+; Feyenoord       ; 1-0;  Excelsior
+
+Round: 19
+Date: 12/18/2010
+
+; Excelsior       ; 2-2;  FC Groningen
+; NAC Breda       ; 1-1;  Vitesse
+; ADO Den Haag    ; 2-1;  Willem II
+; Heerenveen      ; 4-0;  De Graafschap
+
+Date: 1/19/2011
+
+; PSV             ; 3-1;  Roda JC
+; AZ              ; 2-2;  NEC
+; FC Twente       ; 5-0;  Heracles Almelo
+; VVV Venlo       ; 1-2;  FC Utrecht
+; Ajax            ; 2-0;  Feyenoord
+
+Round: 20
+Date: 1/21/2011
+
+; ADO Den Haag    ; 3-1;  Heerenveen
+
+Date: 1/22/2011
+
+; Willem II       ; 1-0;  Vitesse
+; Feyenoord       ; 0-1;  De Graafschap
+; NEC             ; 2-2;  NAC Breda
+; Heracles Almelo ; 0-0;  AZ
+
+Date: 1/23/2011
+
+; Roda JC         ; 3-0;  Excelsior
+; FC Utrecht      ; 3-0;  Ajax
+; FC Groningen    ; 1-2;  FC Twente
+; VVV Venlo       ; 0-3;  PSV
+
+Round: 21
+Date: 1/28/2011
+
+; NEC             ; 1-1;  Heracles Almelo
+
+Date: 1/29/2011
+
+; AZ              ; 6-1;  VVV Venlo
+; Vitesse         ; 5-2;  Roda JC
+; PSV             ; 2-1;  Willem II
+
+Date: 1/30/2011
+
+; NAC Breda       ; 0-3;  Ajax
+; Excelsior       ; 1-5;  ADO Den Haag
+; FC Twente       ; 2-1;  Feyenoord
+; Heerenveen      ; 1-4;  FC Groningen
+
+Date: 2/1/2011
+
+; De Graafschap   ; 0-0;  FC Utrecht
+
+Round: 22
+Date: 2/4/2011
+
+; Ajax            ; 2-0;  De Graafschap
+
+Date: 2/5/2011
+
+; VVV Venlo       ; 3-0;  NAC Breda
+; Excelsior       ; 2-1;  AZ
+; Heerenveen      ; 0-0;  NEC
+; PSV             ; 0-1;  ADO Den Haag
+
+Date: 2/6/2011
+
+; Vitesse         ; 1-1;  Feyenoord
+; Heracles Almelo ; 1-0;  Roda JC
+; FC Groningen    ; 7-1;  Willem II
+; FC Utrecht      ; 1-1;  FC Twente
+
+Round: 23
+Date: 2/12/2011
+
+; FC Twente       ; 1-0;  Vitesse
+; ADO Den Haag    ; 3-0;  VVV Venlo
+; Feyenoord       ; 2-1;  Heracles Almelo
+; AZ              ; 0-4;  PSV
+; Willem II       ; 3-3;  FC Utrecht
+
+Date: 2/13/2011
+
+; NAC Breda       ; 0-2;  Heerenveen
+; NEC             ; 2-0;  Excelsior
+; De Graafschap   ; 1-1;  FC Groningen
+; Roda JC         ; 2-2;  Ajax
+
+Round: 24
+Date: 2/18/2011
+
+; FC Utrecht      ; 1-1;  Heracles Almelo
+
+Date: 2/19/2011
+
+; Excelsior       ; 4-0;  Willem II
+; Heerenveen      ; 0-2;  AZ
+; FC Groningen    ; 1-4;  Roda JC
+
+Date: 2/20/2011
+
+; ADO Den Haag    ; 2-2;  Feyenoord
+; FC Twente       ; 1-1;  NEC
+; Ajax            ; 1-0;  VVV Venlo
+; Vitesse         ; 2-0;  De Graafschap
+; PSV             ; 4-1;  NAC Breda
+
+Round: 25
+Date: 2/25/2011
+
+; VVV Venlo       ; 1-0;  Excelsior
+
+Date: 2/26/2011
+
+; Heracles Almelo ; 6-1;  Vitesse
+; Roda JC         ; 1-1;  De Graafschap
+; Willem II       ; 4-3;  Heerenveen
+; NAC Breda       ; 3-2;  ADO Den Haag
+
+Date: 2/27/2011
+
+; AZ              ; 2-1;  FC Twente
+; Feyenoord       ; 5-1;  FC Groningen
+; PSV             ; 0-0;  Ajax
+; NEC             ; 1-1;  FC Utrecht
+
+Round: 26
+Date: 3/4/2011
+
+; De Graafschap   ; 2-1;  Willem II
+
+Date: 3/5/2011
+
+; Excelsior       ; 2-3;  PSV
+; Vitesse         ; 2-0;  VVV Venlo
+; FC Twente       ; 2-0;  NAC Breda
+; ADO Den Haag    ; 5-1;  NEC
+
+Date: 3/6/2011
+
+; FC Groningen    ; 1-4;  Heracles Almelo
+; Heerenveen      ; 0-1;  Feyenoord
+; FC Utrecht      ; 1-1;  Roda JC
+; Ajax            ; 4-0;  AZ
+
+Round: 27
+Date: 3/11/2011
+
+; FC Utrecht      ; 1-0;  FC Groningen
+
+Date: 3/12/2011
+
+; Heracles Almelo ; 4-1;  Excelsior
+; Roda JC         ; 1-2;  AZ
+; Vitesse         ; 1-1;  Heerenveen
+
+Date: 3/13/2011
+
+; NEC             ; 2-2;  PSV
+; Willem II       ; 1-3;  Ajax
+; Feyenoord       ; 2-1;  NAC Breda
+; De Graafschap   ; 1-0;  ADO Den Haag
+; FC Twente       ; 2-1;  VVV Venlo
+
+Round: 28
+Date: 3/18/2011
+
+; AZ              ; 3-1;  Vitesse
+
+Date: 3/19/2011
+
+; NEC             ; 1-0;  De Graafschap
+; VVV Venlo       ; 0-0;  Willem II
+; NAC Breda       ; 0-1;  FC Groningen
+; Heracles Almelo ; 4-2;  Heerenveen
+
+Date: 3/20/2011
+
+; ADO Den Haag    ; 3-2;  Ajax
+; Excelsior       ; 0-2;  FC Twente
+; Roda JC         ; 3-0;  Feyenoord
+; PSV             ; 1-0;  FC Utrecht
+
+Round: 29
+Date: 4/2/2011
+
+; De Graafschap   ; 1-3;  NAC Breda
+; FC Twente       ; 2-0;  PSV
+; Feyenoord       ; 0-1;  AZ
+; Heerenveen      ; 2-3;  Excelsior
+; Willem II       ; 4-5;  Roda JC
+
+Date: 4/3/2011
+
+; FC Groningen    ; 3-2;  VVV Venlo
+; Vitesse         ; 2-1;  NEC
+; FC Utrecht      ; 2-3;  ADO Den Haag
+; Ajax            ; 3-0;  Heracles Almelo
+
+Round: 30
+Date: 4/8/2011
+
+; AZ              ; 1-1;  NAC Breda
+
+Date: 4/9/2011
+
+; Excelsior       ; 0-0;  De Graafschap
+; VVV Venlo       ; 1-4;  NEC
+; Willem II       ; 2-6;  Heracles Almelo
+; ADO Den Haag    ; 1-0;  Vitesse
+
+Date: 4/10/2011
+
+; Ajax            ; 2-0;  FC Groningen
+; PSV             ; 2-2;  Heerenveen
+; FC Twente       ; 1-1;  Roda JC
+; FC Utrecht      ; 0-4;  Feyenoord
+
+Round: 31
+Date: 4/15/2011
+
+; Heerenveen      ; 3-0;  FC Utrecht
+
+Date: 4/16/2011
+
+; AZ              ; 3-1;  ADO Den Haag
+; Vitesse         ; 2-1;  FC Groningen
+; NAC Breda       ; 1-2;  Excelsior
+; Roda JC         ; 5-2;  VVV Venlo
+
+Date: 4/17/2011
+
+; NEC             ; 1-2;  Ajax
+; De Graafschap   ; 1-1;  FC Twente
+; Heracles Almelo ; 0-2;  PSV
+; Feyenoord       ; 6-1;  Willem II
+
+Round: 32
+Date: 4/22/2011
+
+; ADO Den Haag    ; 1-2;  FC Twente
+
+Date: 4/23/2011
+
+; Roda JC         ; 5-1;  NAC Breda
+; Willem II       ; 2-1;  AZ
+; Heracles Almelo ; 2-0;  De Graafschap
+; VVV Venlo       ; 2-2;  Heerenveen
+
+Date: 4/24/2011
+
+; FC Utrecht      ; 4-2;  Vitesse
+; Feyenoord       ; 3-1;  PSV
+; FC Groningen    ; 3-1;  NEC
+; Ajax            ; 4-1;  Excelsior
+
+Round: 33
+Date: 5/1/2011
+
+; ADO Den Haag    ; 2-4;  FC Groningen
+; FC Twente       ; 4-0;  Willem II
+; NAC Breda       ; 1-2;  Heracles Almelo
+; Heerenveen      ; 1-2;  Ajax
+; AZ              ; 5-1;  De Graafschap
+; PSV             ; 2-1;  Vitesse
+; VVV Venlo       ; 3-2;  Feyenoord
+; NEC             ; 5-0;  Roda JC
+; Excelsior       ; 3-1;  FC Utrecht
+
+Round: 34
+Date: 5/15/2011
+
+; De Graafschap   ; 1-0;  VVV Venlo
+; Roda JC         ; 0-0;  Heerenveen
+; FC Utrecht      ; 5-1;  AZ
+; Heracles Almelo ; 3-0;  ADO Den Haag
+; Willem II       ; 0-1;  NAC Breda
+; Feyenoord       ; 1-1;  NEC
+; Vitesse         ; 1-4;  Excelsior
+; FC Groningen    ; 0-0;  PSV
+; Ajax            ; 3-1;  FC Twente
+
+* 1.Ajax (Amsterdam)             34  22  7  5  72-30  73  Champions
+* 2.FC Twente (Enschede)         34  21  8  5  65-34  71  Champions League
+* 3.PSV (Eindhoven)              34  20  9  5  79-34  69  Europa League
+* 4.AZ (Alkmaar)                 34  17  8  9  55-44  59  Europa League
+* 5.FC Groningen                 34  17  6 11  65-52  57  Europa League Playoff
+* 6.Roda JC Kerkrade             34  14 13  7  65-50  55  Europa League Playoff
+* 7.ADO Den Haag                 34  16  6 12  63-55  54  Europa League Playoff
+* 8.Heracles Almelo              34  14  7 13  65-56  49  Europa League Playoff
+* 9.FC Utrecht                   34  13  8 13  55-51  47
+*10.Feyenoord (Rotterdam)        34  12  8 14  53-54  44
+*11.NEC (Nĳmegen)                34  10 13 11  57-56  43
+*12.SC Heerenveen                34  10 11 13  60-54  41
+*13.NAC Breda                    34  12  5 17  44-60  40  [-1]
+*14.De Graafschap (Doetinchem)   34   9 11 14  31-56  38
+*15.Vitesse (Arnhem)             34   9  8 17  42-61  35
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.Excelsior (Rotterdam)        34  10  5 19  45-66  35  Relegation Playoff
+*17.VVV-Venlo                    34   6  3 25  34-76  21  Relegation Playoff
+*-------------------------------------------------------
+*18.Willem II (Tilburg)          34   3  6 25  37-98  15  Relegated
+*
+*NB: Roda JC were renamed Roca JC Kerkrade
+
+*Prepared and maintained by Karel Stokkermans and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Karel Stokkermans and Jan Schoenmakers 
+*Last updated: 9 Aug 2013
+*(C) Copyright Karel Stokkermans, Jan Schoenmakers and RSSSF 2012/13
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
