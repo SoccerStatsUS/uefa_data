@@ -1,0 +1,443 @@
+Competition: 1. Bundesliga
+
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesd/duit96.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference
+
+ 1; Borussia Dortmund           ; 34; 19; 11;  4;  76; 38;  68
+ 2; Bayern München              ; 34; 19;  5; 10;  66; 46;  62
+ 3; Schalke 04                  ; 34; 14; 14;  6;  45; 36;  56
+ 4; Borussia Mönchengladbach    ; 34; 15;  8; 11;  52; 51;  53
+ 5; Hamburger SV                ; 34; 12; 14;  8;  52; 47;  50
+ 6; Hansa Rostock               ; 34; 13; 10; 11;  47; 43;  49
+ 7; Karlsruher SC               ; 34; 12; 12; 10;  53; 47;  48
+ 8; TSV 1860 München            ; 34; 11; 12; 11;  52; 46;  45
+ 9; Werder Bremen               ; 34; 10; 14; 10;  39; 42;  44
+10; VfB Stuttgart               ; 34; 10; 13; 11;  59; 62;  43
+11; SC Freiburg                 ; 34; 11;  9; 14;  30; 41;  42
+12; 1. FC Köln                  ; 34;  9; 13; 12;  33; 35;  40
+13; Fortuna Düsseldorf          ; 34;  8; 16; 10;  40; 47;  40
+14; FC St. Pauli                ; 34;  9; 11; 14;  43; 51;  38
+15; Bayer Leverkusen            ; 34;  8; 14; 12;  37; 38;  38
+16; 1. FC Kaiserslautern        ; 34;  6; 18; 10;  31; 37;  36
+17; Eintracht Frankfurt         ; 34;  7; 11; 16;  43; 68;  32
+18; KFC Uerdingen               ; 34;  5; 11; 18;  33; 56;  26
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesd/duit97.html
+
+ 1; Bayern München              ; 34; 20; 11;  3;  68; 34;  71
+ 2; Bayer Leverkusen            ; 34; 21;  6;  7;  69; 41;  69
+ 3; Borussia Dortmund           ; 34; 19;  6;  9;  63; 41;  63
+ 4; VfB Stuttgart               ; 34; 18;  7;  9;  78; 40;  61
+ 5; VfL Bochum                  ; 34; 14; 11;  9;  54; 51;  53
+ 6; Karlsruher SC               ; 34; 13; 10; 11;  55; 44;  49
+ 7; TSV 1860 München            ; 34; 13; 10; 11;  56; 56;  49
+ 8; Werder Bremen               ; 34; 14;  6; 14;  53; 52;  48
+ 9; MSV Duisburg                ; 34; 12;  9; 13;  44; 49;  45
+10; 1. FC Köln                  ; 34; 13;  5; 16;  62; 62;  44
+11; Borussia Mönchengladbach    ; 34; 12;  7; 15;  46; 48;  43
+12; Schalke 04                  ; 34; 11; 10; 13;  35; 40;  43
+13; Hamburger SV                ; 34; 10; 11; 13;  46; 60;  41
+14; Hansa Rostock               ; 34; 11;  7; 16;  35; 46;  40
+15; Arminia Bielefeld           ; 34; 11;  7; 16;  46; 54;  40
+16; Fortuna Düsseldorf          ; 34;  9;  6; 19;  26; 57;  33
+17; SC Freiburg                 ; 34;  8;  5; 21;  43; 67;  29
+18; FC St. Pauli                ; 34;  7;  6; 21;  32; 69;  27
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesd/duit98.html
+
+ 1; 1. FC Kaiserslautern        ; 34; 19; 11;  4;  63; 39;  68
+ 2; Bayern München              ; 34; 19;  9;  6;  69; 37;  66
+ 3; Bayer Leverkusen            ; 34; 14; 13;  7;  66; 39;  55
+ 4; VfB Stuttgart               ; 34; 14; 10; 10;  55; 49;  52
+ 5; Schalke 04                  ; 34; 13; 13;  8;  38; 32;  52
+ 6; Hansa Rostock               ; 34; 14;  9; 11;  54; 46;  51
+ 7; Werder Bremen               ; 34; 14;  8; 12;  43; 47;  50
+ 8; MSV Duisburg                ; 34; 11; 11; 12;  43; 44;  44
+ 9; Hamburger SV                ; 34; 11; 11; 12;  38; 46;  44
+10; Borussia Dortmund           ; 34; 11; 10; 13;  57; 55;  43
+11; Hertha BSC Berlin           ; 34; 12;  7; 15;  41; 53;  43
+12; VfL Bochum                  ; 34; 11;  8; 15;  41; 49;  41
+13; TSV München 1860            ; 34; 11;  8; 15;  43; 54;  41
+14; VfL Wolfsburg               ; 34; 11;  6; 17;  38; 54;  39
+15; Borussia Mönchengladbach    ; 34;  9; 11; 14;  54; 59;  38
+16; Karlsruher SC               ; 34;  9; 11; 14;  48; 60;  38
+17; 1. FC Köln                  ; 34; 10;  6; 18;  49; 64;  36
+18; Arminia Bielefeld           ; 34;  8;  8; 18;  43; 56;  32
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesd/duit99.html
+
+ 1; Bayern München              ; 34; 24;  6;  4;  76; 28;  78
+ 2; Bayer Leverkusen            ; 34; 17; 12;  5;  61; 30;  63
+ 3; Hertha BSC Berlin           ; 34; 18;  8;  8;  59; 32;  62
+ 4; Borussia Dortmund           ; 34; 16;  9;  9;  48; 34;  57
+ 5; 1. FC Kaiserslautern        ; 34; 17;  6; 11;  51; 47;  57
+ 6; VfL Wolfsburg               ; 34; 15; 10;  9;  54; 49;  55
+ 7; Hamburger SV                ; 34; 13; 11; 10;  47; 46;  50
+ 8; MSV Duisburg                ; 34; 13; 10; 11;  48; 45;  49
+ 9; Schalke 04                  ; 34; 10; 11; 13;  41; 54;  41
+10; TSV 1860 München            ; 34; 11;  8; 15;  49; 56;  41
+11; SC Freiburg                 ; 34; 10;  9; 15;  36; 44;  39
+12; VfB Stuttgart               ; 34;  9; 12; 13;  41; 48;  39
+13; Hansa Rostock               ; 34;  9; 11; 14;  49; 58;  38
+14; Werder Bremen               ; 34; 10;  8; 16;  41; 47;  38
+15; Eintracht Frankfurt         ; 34;  9; 10; 15;  44; 54;  37
+16; 1. FC Nürnberg              ; 34;  7; 16; 11;  40; 50;  37
+17; VfL Bochum                  ; 34;  7;  8; 19;  40; 65;  29
+18; Borussia Mönchengladbach    ; 34;  4;  9; 21;  41; 79;  21
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesd/duit00.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+ 1; FC Bayern München           ; 34; 22;  7;  5;  73; 28;  73;  Champions
+ 2; Bayer 04 Leverkusen         ; 34; 21; 10;  3;  74; 36;  73;  Champions' League
+ 3; Hamburger SV                ; 34; 16; 11;  7;  63; 39;  59;  Champions' League Qualification
+ 4; TSV 1860 München            ; 34; 14; 11;  9;  55; 48;  53;  Champions' League Qualification
+ 5; 1.FC Kaiserslautern         ; 34; 15;  5; 14;  54; 59;  50;  UEFA Cup
+ 6; Hertha BSC                  ; 34; 13; 11; 10;  39; 46;  50;  UEFA Cup
+ 7; VfL Wolfsburg               ; 34; 12; 13;  9;  51; 58;  49;
+ 8; VfB Stuttgart               ; 34; 14;  6; 14;  44; 47;  48;
+ 9; SV Werder Bremen            ; 34; 13;  8; 13;  65; 52;  47;  UEFA Cup (Cup Finalists)
+10; SpVgg Unterhaching          ; 34; 12;  8; 14;  40; 42;  44;
+11; BV 09 Borussia Dortmund     ; 34;  9; 13; 12;  41; 38;  40;
+12; SC Freiburg                 ; 34; 10; 10; 14;  45; 50;  40;
+13; FC Schalke 04               ; 34;  8; 15; 11;  42; 44;  39;
+14; SG Eintracht Frankfurt      ; 34; 12;  5; 17;  42; 44;  39;  2 pts deducted for violations against license conditions
+15; FC Hansa Rostock            ; 34;  8; 14; 12;  44; 60;  38;
+
+16; SSV Ulm 1846                ; 34;  9;  8; 17;  36; 62;  35;  Relegated
+17; DSC Arminia Bielefeld       ; 34;  7;  9; 18;  40; 61;  30;  Relegated
+18; MSV Duisburg                ; 34;  4; 10; 20;  37; 71;  22;  Relegated
+
+
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesd/duit01.html
+
+ 1; FC Bayern München           ; 34; 19;  6;  9;  62; 37;  63;  Champions
+ 2; FC Schalke 04               ; 34; 18;  8;  8;  65; 35;  62;  Champions' League
+ 3; BV 09 Borussia Dortmund     ; 34; 16; 10;  8;  62; 42;  58;  CL Qualifying
+ 4; Bayer 04 Leverkusen         ; 34; 17;  6; 11;  54; 40;  57;  CL Qualifying
+ 5; Hertha BSC                  ; 34; 18;  2; 14;  58; 52;  56;  UEFA Cup
+ 6; SC Freiburg                 ; 34; 15; 10;  9;  54; 37;  55;  UEFA Cup
+ 7; SV Werder Bremen            ; 34; 15;  8; 11;  53; 48;  53;  Intertoto
+ 8; 1.FC Kaiserslautern         ; 34; 15;  5; 14;  49; 54;  50;
+ 9; VfL Wolfsburg               ; 34; 12; 11; 11;  60; 45;  47;  Intertoto
+10; 1.FC Köln                   ; 34; 12; 10; 12;  59; 52;  46;
+11; TSV 1860 München            ; 34; 12;  8; 14;  43; 55;  44;  Intertoto
+12; FC Hansa Rostock            ; 34; 12;  7; 15;  34; 47;  43;
+13; Hamburger SV                ; 34; 10; 11; 13;  58; 58;  41;
+14; FC Energie Cottbus          ; 34; 12;  3; 19;  38; 52;  39;
+15; VfB Stuttgart               ; 34;  9; 11; 14;  42; 49;  38;
+
+16; SpVgg Unterhaching          ; 34;  8; 11; 15;  35; 59;  35;  Relegated
+17; SG Eintracht Frankfurt      ; 34; 10;  5; 19;  41; 68;  35;  Relegated
+18; VfL Bochum                  ; 34;  7;  6; 21;  30; 67;  27;  Relegated
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesd/duit02.html
+
+ 1; BV 09 Borussia Dortmund     ; 34; 21;  7;  6;  62; 33;  70;  Champions
+ 2; Bayer 04 Leverkusen         ; 34; 21;  6;  7;  77; 38;  69;
+ 3; FC Bayern München           ; 34; 20;  8;  6;  65; 25;  68;
+ 4; Hertha BSC                  ; 34; 18;  7;  9;  61; 38;  61;
+ 5; FC Schalke 04               ; 34; 18;  7;  9;  52; 36;  61;
+ 6; SV Werder Bremen            ; 34; 17;  5; 12;  54; 43;  56;
+ 7; 1.FC Kaiserslautern         ; 34; 17;  5; 12;  62; 53;  56;
+ 8; VfB Stuttgart               ; 34; 13; 11; 10;  47; 43;  50;
+ 9; TSV 1860 München            ; 34; 15;  5; 14;  59; 59;  50;
+10; VfL Wolfsburg               ; 34; 13;  7; 14;  57; 49;  46;
+11; Hamburger SV                ; 34; 10; 10; 14;  51; 57;  40;
+12; VfL Borussia Mönchengladbach; 34;  9; 12; 13;  41; 53;  39;
+13; FC Energie Cottbus          ; 34;  9;  8; 17;  36; 60;  35;
+14; FC Hansa Rostock            ; 34;  9;  7; 18;  35; 54;  34;
+15; 1.FC Nürnberg               ; 34; 10;  4; 20;  34; 57;  34;
+
+16; SC Freiburg                 ; 34;  7;  9; 18;  37; 64;  30;  Relegated
+17; 1.FC Köln                   ; 34;  7;  8; 19;  26; 61;  29;  Relegated
+18; FC Sankt Pauli              ; 34;  4; 10; 20;  37; 70;  22;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesd/duit03.html
+
+ 1; FC Bayern München           ; 34; 23;  6;  5;  70; 25;  75;  Champions
+ 2; VfB Stuttgart               ; 34; 17;  8;  9;  53; 39;  59;  Champions League
+ 3; BV 09 Borussia Dortmund     ; 34; 15; 13;  6;  51; 27;  58;  CL Qualifying
+ 4; Hamburger SV                ; 34; 15; 11;  8;  46; 36;  56;  UEFA Cup
+ 5; Hertha BSC                  ; 34; 16;  6; 12;  52; 43;  54;  UEFA Cup
+ 6; SV Werder Bremen            ; 34; 16;  4; 14;  51; 50;  52;
+ 7; FC Schalke 04               ; 34; 12; 13;  9;  46; 40;  49;
+ 8; VfL Wolfsburg               ; 34; 13;  7; 14;  39; 42;  46;
+ 9; VfL Bochum                  ; 34; 12;  9; 13;  55; 56;  45;
+10; TSV 1860 München            ; 34; 12;  9; 13;  44; 52;  45;
+11; Hannover 96                 ; 34; 12;  7; 15;  47; 57;  43;
+12; VfL Borussia Mönchengladbach; 34; 11;  9; 14;  43; 45;  42;
+13; FC Hansa Rostock            ; 34; 11;  8; 15;  35; 41;  41;
+14; 1.FC Kaiserslautern         ; 34; 10; 10; 14;  40; 42;  40;  UEFA Cup (Cup Final)
+15; Bayer 04 Leverkusen         ; 34; 11;  7; 16;  47; 56;  40;
+
+16; DSC Arminia Bielefeld       ; 34;  8; 12; 14;  35; 46;  36;  Relegated
+17; 1.FC Nürnberg               ; 34;  8;  6; 20;  33; 60;  30;  Relegated
+18; FC Energie Cottbus          ; 34;  7;  9; 18;  34; 64;  30;  Relegated 
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesd/duit04.html
+
+
+ 1; SV Werder Bremen            ; 34; 22;  8;  4;  79; 38;  74;  Champions
+ 2; FC Bayern München           ; 34; 20;  8;  6;  70; 39;  68;  Champions League
+ 3; Bayer 04 Leverkusen         ; 34; 19;  8;  7;  73; 39;  65;  CL Qualifying
+ 4; VfB Stuttgart               ; 34; 18; 10;  6;  52; 24;  64;  UEFA Cup
+ 5; VfL Bochum                  ; 34; 15; 11;  8;  57; 39;  56;  UEFA Cup
+ 6; Borussia Dortmund           ; 34; 16;  7; 11;  59; 48;  55;
+ 7; FC Schalke 04 Gelsenkirchen ; 34; 13; 11; 10;  49; 42;  50;
+ 8; Hamburger SV                ; 34; 14;  7; 13;  47; 60;  49;
+ 9; FC Hansa Rostock            ; 34; 12;  8; 14;  55; 54;  44;
+10; VfL Wolfsburg               ; 34; 13;  3; 18;  56; 61;  42;
+11; Borussia Mönchengladbach    ; 34; 10;  9; 15;  40; 49;  39;
+12; Hertha BSC Berlin           ; 34;  9; 12; 13;  42; 59;  39;
+13; SC Freiburg                 ; 34; 10;  8; 16;  42; 67;  38;
+14; Hannover 96                 ; 34;  9; 10; 15;  49; 63;  37;
+15; 1.FC Kaiserslautern         ; 34; 11;  6; 17;  39; 62;  36;  [-3] Kaiserslautern have 3 points deducted
+
+16; Eintracht Frankfurt/Main    ; 34;  9;  5; 20;  36; 53;  32;  Relegated
+17; TSV 1860 München            ; 34;  8;  8; 18;  32; 55;  32;  Relegated
+18; 1.FC Köln                   ; 34;  6;  5; 23;  32; 57;  23;  Relegated
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesd/duit05.html
+
+ 1; FC Bayern München           ; 34; 24;  5;  5;  75; 33;  77;  Champions
+ 2; FC Schalke 04 Gelsenkirchen ; 34; 20;  3; 11;  56; 46;  63;  Champions League
+ 3; SV Werder Bremen            ; 34; 18;  5; 11;  68; 37;  59;  CL Qualifying
+ 4; Hertha BSC Berlin           ; 34; 15; 13;  6;  59; 31;  58;  UEFA Cup
+ 5; VfB Stuttgart               ; 34; 17;  7; 10;  54; 40;  58;  UEFA Cup
+ 6; Bayer 04 Leverkusen         ; 34; 16;  9;  9;  65; 44;  57;  UEFA Cup
+ 7; Borussia Dortmund           ; 34; 15; 10;  9;  47; 44;  55;  UI Cup
+ 8; Hamburger SV                ; 34; 16;  3; 15;  55; 50;  51;  UI Cup
+ 9; VfL Wolfsburg               ; 34; 15;  3; 16;  49; 51;  48;  UI Cup
+10; Hannover 96                 ; 34; 13;  6; 15;  34; 36;  45;
+11; 1.FSV Mainz 05              ; 34; 12;  7; 15;  50; 55;  43;
+12; 1.FC Kaiserslautern         ; 34; 12;  6; 16;  43; 52;  42;
+13; DSC Arminia Bielefeld       ; 34; 11;  7; 16;  37; 49;  40;
+14; 1.FC Nürnberg               ; 34; 10;  8; 16;  55; 63;  38;
+15; Borussia Mönchengladbach    ; 34;  8; 12; 14;  35; 51;  36;
+
+16; VfL Bochum                  ; 34;  9;  8; 17;  47; 68;  35;  Relegated
+17; FC Hansa Rostock            ; 34;  7;  9; 18;  31; 65;  30;  Relegated
+18; SC Freiburg                 ; 34;  3;  9; 22;  30; 75;  18;  Relegated
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesd/duit06.html
+
+ 1; FC Bayern München           ; 34; 22;  9;  3;  67; 32;  75;  Champions
+ 2; SV Werder Bremen            ; 34; 21;  7;  6;  79; 37;  70;  Champions League
+ 3; Hamburger SV                ; 34; 21;  5;  8;  53; 30;  68;  CL Qualifying
+ 4; FC Schalke 04 Gelsenkirchen ; 34; 16; 13;  5;  47; 31;  61;  UEFA Cup
+ 5; Bayer 04 Leverkusen         ; 34; 14; 10; 10;  64; 49;  52;  UEFA Cup
+ 6; Hertha BSC Berlin           ; 34; 12; 12; 10;  52; 48;  48;  UI Cup
+ 7; Borussia Dortmund           ; 34; 11; 13; 10;  45; 42;  46;
+ 8; 1.FC Nürnberg               ; 34; 12;  8; 14;  49; 51;  44;
+ 9; VfB Stuttgart               ; 34;  9; 16;  9;  37; 39;  43;
+10; Borussia Mönchengladbach    ; 34; 10; 12; 12;  42; 50;  42;
+11; 1.FSV Mainz 05              ; 34;  9; 11; 14;  46; 47;  38;
+12; Hannover 96                 ; 34;  7; 17; 10;  43; 47;  38;
+13; DSC Arminia Bielefeld       ; 34; 10;  7; 17;  32; 47;  37;
+14; Eintracht Frankfurt         ; 34;  9;  9; 16;  42; 51;  36;  UEFA Cup (Cup)
+15; VfL Wolfsburg               ; 34;  7; 13; 14;  33; 55;  34;
+
+16; 1.FC Kaiserslautern         ; 34;  8;  9; 17;  47; 71;  33;  Relegated
+17; 1.FC Köln                   ; 34;  7;  9; 18;  49; 71;  30;  Relegated
+18; MSV Duisburg                ; 34;  5; 12; 17;  34; 63;  27;  Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesd/duit07.html
+
+ 1; VfB Stuttgart               ; 34; 21;  7;  6;  61; 37;  70;  Champions
+ 2; FC Schalke 04 Gelsenkirchen ; 34; 21;  5;  8;  53; 32;  68;  Champions League
+ 3; SV Werder Bremen            ; 34; 20;  6;  8;  76; 40;  66;  CL Qualifying
+ 4; FC Bayern München           ; 34; 18;  6; 10;  55; 40;  60;  UEFA Cup
+ 5; Bayer 04 Leverkusen         ; 34; 15;  6; 13;  54; 49;  51;  UEFA Cup
+ 6; 1.FC Nürnberg               ; 34; 11; 15;  8;  43; 32;  48;  UEFA Cup (Cup)
+ 7; Hamburger SV                ; 34; 10; 15;  9;  43; 37;  45;  UI Cup
+ 8; VfL Bochum                  ; 34; 13;  6; 15;  49; 50;  45;
+ 9; Borussia Dortmund           ; 34; 12;  8; 14;  41; 43;  44;
+10; Hertha BSC Berlin           ; 34; 12;  8; 14;  50; 55;  44;
+11; Hannover 96                 ; 34; 12;  8; 14;  41; 50;  44;
+12; DSC Arminia Bielefeld       ; 34; 11;  9; 14;  47; 49;  42;
+13; FC Energie Cottbus          ; 34; 11;  8; 15;  38; 49;  41;
+14; Eintracht Frankfurt         ; 34;  9; 13; 12;  46; 58;  40;
+15; VfL Wolfsburg               ; 34;  8; 13; 13;  37; 45;  37;
+
+16; 1.FSV Mainz 05              ; 34;  8; 10; 16;  34; 57;  34;  Relegated
+17; TSV Alemannia Aachen        ; 34;  9;  7; 18;  46; 70;  34;  Relegated
+18; Borussia Mönchengladbach    ; 34;  6;  8; 20;  23; 44;  26;  Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesd/duit08.html
+
+ 1; FC Bayern München           ; 34; 22; 10;  2;  68; 21;  76;  Champions
+ 2; SV Werder Bremen            ; 34; 20;  6;  8;  75; 45;  66;  Champions League
+ 3; FC Schalke 04 Gelsenkirchen ; 34; 18; 10;  6;  55; 32;  64;  CL Qualifying
+ 4; Hamburger SV                ; 34; 14; 12;  8;  47; 26;  54;  UEFA Cup
+ 5; VfL Wolfsburg               ; 34; 15;  9; 10;  58; 46;  54;  UEFA Cup
+ 6; VfB Stuttgart               ; 34; 16;  4; 14;  57; 57;  52;
+ 7; Bayer 04 Leverkusen         ; 34; 15;  6; 13;  57; 40;  51;
+ 8; Hannover 96                 ; 34; 13; 10; 11;  54; 56;  49;
+ 9; Eintracht Frankfurt         ; 34; 12; 10; 12;  43; 50;  46;
+10; Hertha BSC Berlin           ; 34; 12;  8; 14;  39; 44;  44;
+11; Karlsruher SC               ; 34; 11; 10; 13;  38; 53;  43;
+12; VfL Bochum                  ; 34; 10; 11; 13;  48; 54;  41;
+13; Borussia Dortmund           ; 34; 10; 10; 14;  50; 62;  40;  UEFA Cup (Cup)
+14; FC Energie Cottbus          ; 34;  9;  9; 16;  35; 56;  36;
+15; DSC Arminia Bielefeld       ; 34;  8; 10; 16;  35; 60;  34;
+
+16; 1.FC Nürnberg               ; 34;  7; 10; 17;  35; 51;  31;  Relegated
+17; FC Hansa Rostock            ; 34;  8;  6; 20;  30; 52;  30;  Relegated
+18; MSV Duisburg                ; 34;  8;  5; 21;  36; 55;  29;  Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesd/duit09.html
+
+ 1; VfL Wolfsburg               ; 34; 21;  6;  7;  80; 41;  69;  Champions
+ 2; FC Bayern München           ; 34; 20;  7;  7;  71; 42;  67;  Champions League
+ 3; VfB Stuttgart               ; 34; 19;  7;  8;  63; 43;  64;  CL Qualifying
+ 4; Hertha BSC Berlin           ; 34; 19;  6;  9;  48; 41;  63;  Europa League
+ 5; Hamburger SV                ; 34; 19;  4; 11;  49; 47;  61;  Europa League
+ 6; Borussia Dortmund           ; 34; 15; 14;  5;  60; 37;  59;
+ 7; TSG 1899 Hoffenheim         ; 34; 15; 10;  9;  63; 49;  55;
+ 8; FC Schalke 04 Gelsenkirchen ; 34; 14;  8; 12;  47; 35;  50;
+ 9; Bayer 04 Leverkusen         ; 34; 14;  7; 13;  59; 46;  49;
+10; SV Werder Bremen            ; 34; 12;  9; 13;  64; 50;  45;
+11; Hannover 96                 ; 34; 10; 10; 14;  49; 69;  40;
+12; 1.FC Köln                   ; 34; 11;  6; 17;  35; 50;  39;
+13; Eintracht Frankfurt         ; 34;  8;  9; 17;  39; 60;  33;
+14; VfL Bochum                  ; 34;  7; 11; 16;  39; 55;  32;
+15; Borussia Mönchengladbach    ; 34;  8;  7; 19;  39; 62;  31;
+
+16; FC Energie Cottbus          ; 34;  8;  6; 20;  30; 57;  30;  Relegation Playoff
+
+17; Karlsruher SC               ; 34;  8;  5; 21;  30; 54;  29;  Relegated
+18; DSC Arminia Bielefeld       ; 34;  4; 16; 14;  29; 56;  28;  Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesd/duit2010.html
+
+ 1; FC Bayern München           ; 34; 20; 10;  4;  72; 31;  70;  Champions
+ 2; FC Schalke 04 Gelsenkirchen ; 34; 19;  8;  7;  53; 31;  65;  Champions League
+ 3; SV Werder Bremen            ; 34; 17; 10;  7;  71; 40;  61;  CL Qualifying
+ 4; Bayer 04 Leverkusen         ; 34; 15; 14;  5;  65; 38;  59;  Euro League
+ 5; Borussia Dortmund           ; 34; 16;  9;  9;  54; 42;  57;  Euro League
+ 6; VfB Stuttgart               ; 34; 15; 10;  9;  51; 41;  55;  Euro League
+ 7; Hamburger SV                ; 34; 13; 13;  8;  56; 41;  52;
+ 8; VfL Wolfsburg               ; 34; 14;  8; 12;  64; 58;  50;
+ 9; 1.FSV Mainz 05              ; 34; 12; 11; 11;  36; 42;  47;
+10; Eintracht Frankfurt         ; 34; 12; 10; 12;  47; 54;  46;
+11; TSG 1899 Hoffenheim         ; 34; 11;  9; 14;  44; 42;  42;
+12; Borussia Mönchengladbach    ; 34; 10;  9; 15;  43; 60;  39;
+13; 1.FC Köln                   ; 34;  9; 11; 14;  33; 42;  38;
+14; SC Freiburg                 ; 34;  9;  8; 17;  35; 59;  35;
+15; Hannover 96                 ; 34;  9;  6; 19;  43; 67;  33;
+
+16; 1.FC Nürnberg               ; 34;  8;  7; 19;  32; 58;  31;  Relegation Playoff
+
+17; VfL Bochum                  ; 34;  6; 10; 18;  33; 64;  28;  Relegated
+18; Hertha BSC Berlin           ; 34;  5;  9; 20;  34; 56;  24;  Relegated
+
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesd/duit2011.html
+
+ 1; Borussia Dortmund    ; 34; 23; 6; 5;  67; 22;  75; Champion
+ 2; Bayer Leverkusen     ; 34; 20; 8; 6;  64; 44;  68;
+ 3; Bayern München       ; 34; 19; 8; 7;  81; 40;  65;
+ 4; Hannover '96         ; 34; 19; 3;12;  49; 45;  60;
+ 5; 1. FSV Mainz 05      ; 34; 18; 4;12;  52; 39;  58;
+ 6; 1. FC Nürnberg       ; 34; 13; 8;13;  47; 45;  47;
+ 7; 1. FC Kaiserslautern ; 34; 12; 7;14;  48; 51;  46;
+ 8; Hamburger SV         ; 34; 12; 9;13;  46; 52;  45;
+ 9; SC Freiburg          ; 34; 13; 5;16;  41; 50;  44;
+10; 1. FC Köln           ; 34; 13; 5;16;  47; 62;  44;
+11; 1899 Hoffenheim      ; 34; 11;10;13;  50; 50;  43;
+12; VfB Stuttgart        ; 34; 12; 6;16;  60; 59;  42;
+13; Werder Bremen        ; 34; 10;11;13;  47; 61;  41;
+14; FC Schalke 04        ; 34; 11; 7;16;  38; 44;  40;
+15; VfL Wolfsburg        ; 34;  9;11;14;  43; 48;  38;
+16; Borussia M'gladbach  ; 34; 10; 6;18;  48; 65;  36;
+17; Eintracht Frankfurt  ; 34;  9; 7;18;  31; 49;  34; relegated
+18; FC St. Pauli         ; 34;  8; 5;21;  35; 68;  29; relegated
+
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesd/duit2012.html
+
+ 1; Borussia Dortmund           ; 34;  25;  6;  3;  80; 25;  81;  Champions
+ 2; FC Bayern München           ; 34;  23;  4;  7;  77; 22;  73;
+ 3; FC Schalke 04 Gelsenkirchen ; 34;  20;  4; 10;  74; 44;  64;
+ 4; Borussia Mönchengladbach    ; 34;  17;  9;  8;  49; 24;  60;
+ 5; Bayer 04 Leverkusen         ; 34;  15;  9; 10;  52; 44;  54;
+ 6; VfB Stuttgart               ; 34;  15;  8; 11;  63; 46;  53;
+ 7; Hannover 96                 ; 34;  12; 12; 10;  41; 45;  48;
+ 8; VfL Wolfsburg               ; 34;  13;  5; 16;  47; 60;  44;
+ 9; SV Werder Bremen            ; 34;  11;  9; 14;  49; 58;  42;
+10; 1.FC Nürnberg               ; 34;  12;  6; 16;  38; 49;  42;
+11; TSG 1899 Hoffenheim         ; 34;  10; 11; 13;  41; 47;  41;
+12; SC Freiburg                 ; 34;  10; 10; 14;  45; 61;  40;
+13; 1.FSV Mainz 05              ; 34;   9; 12; 13;  47; 51;  39;
+14; FC Augsburg                 ; 34;   8; 14; 12;  36; 49;  38;
+15; Hamburger SV                ; 34;   8; 12; 14;  35; 57;  36;
+
+16; Hertha BSC Berlin           ; 34;   7; 10; 17;  38; 64;  31;  Relegation Playoff
+
+17; 1.FC Köln                   ; 34;   8;  6; 20;  39; 75;  30;  Relegated
+18; 1.FC Kaiserslautern         ; 34;   4; 11; 19;  24; 54;  23;  Relegated
+
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesd/duit2013.html
+
+ 1; FC Bayern München           ; 34;  29;  4;  1;  98; 18;  91;  Champions
+ 2; Borussia Dortmund           ; 34;  19;  9;  6;  81; 42;  66;
+ 3; Bayer 04 Leverkusen         ; 34;  19;  8;  7;  65; 39;  65;
+ 4; FC Schalke 04 Gelsenkirchen ; 34;  16;  7; 11;  58; 50;  55;
+ 5; SC Freiburg                 ; 34;  14;  9; 11;  45; 40;  51;
+ 6; Eintracht Frankfurt         ; 34;  14;  9; 11;  49; 46;  51;
+ 7; Hamburger SV                ; 34;  14;  6; 14;  42; 53;  48;
+ 8; Borussia Mönchengladbach    ; 34;  12; 11; 11;  45; 49;  47;
+ 9; Hannover 96                 ; 34;  13;  6; 15;  60; 62;  45;
+10; 1.FC Nürnberg               ; 34;  11; 11; 12;  39; 47;  44;
+11; VfL Wolfsburg               ; 34;  10; 13; 11;  47; 52;  43;
+12; VfB Stuttgart               ; 34;  12;  7; 15;  37; 55;  43;
+13; 1.FSV Mainz 05              ; 34;  10; 12; 12;  42; 44;  42;
+14; SV Werder Bremen            ; 34;   8; 10; 16;  50; 66;  34;
+15; FC Augsburg                 ; 34;   8;  9; 17;  33; 51;  33;
+
+16; TSG 1899 Hoffenheim         ; 34;   8;  7; 19;  42; 67;  31;  Relegation Playoff
+
+17; Fortuna Düsseldorf          ; 34;   7;  9; 18;  39; 57;  30;  Relegated
+18; SpVgg Greuther Fürth        ; 34;   4;  9; 21;  26; 60;  21;  Relegated

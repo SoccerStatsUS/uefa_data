@@ -1,0 +1,548 @@
+Competition: Ligue 1
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesf/fran96.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+ 1; Auxerre       ; 38; 22;  6; 10; 66; 30;  72
+ 2; Paris SG      ; 38; 19; 11;  8; 65; 36;  68
+ 3; Monaco        ; 38; 19; 11;  8; 64; 39;  68
+ 4; Metz          ; 38; 18; 11;  9; 42; 30;  65
+ 5; Lens          ; 38; 16; 15;  7; 45; 31;  63
+ 6; Montpellier   ; 38; 17;  9; 12; 51; 40;  60 
+ 7; Nantes        ; 38; 14; 13; 11; 44; 42;  55
+ 8; Rennes        ; 38; 13; 15; 10; 44; 41;  54
+ 9; Strasbourg    ; 38; 14; 12; 12; 46; 44;  54
+10; Guingamp      ; 38; 13; 14; 11; 34; 33;  53
+11; Lyon          ; 38; 10; 18; 10; 41; 41;  48
+12; Nice          ; 38; 12;  9;  7; 37; 44;  45
+13; Le Havre      ; 38; 11; 12; 15; 33; 45;  45
+14; Cannes        ; 38; 12;  8; 18; 45; 51;  44 
+15; Bastia        ; 38; 12;  8; 18; 45; 55;  44
+16; Bordeaux      ; 38; 11;  9; 18; 44; 52;  42
+17; Lille         ; 38;  9; 12; 17; 27; 50;  39
+
+18; Gueugnon      ; 38;  8; 14; 16; 27; 46;  38
+19; Saint-Etienne ; 38;  6; 16; 16; 36; 59;  34
+20; Martigues     ; 38;  9;  7; 22; 31; 58;  34
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesf/fran97.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points; etc
+
+*                             Pd  W  D  L   F A   GD Pts
+
+ 1; AS Monaco                ; 38; 23; 10;  5;  69; 30; +39;  79; CC
+ 2; Paris Saint-Germain      ; 38; 18; 13;  7;  57; 31; +26;  67; CC (qual. round)
+ 3; FC Nantes                ; 38; 16; 16;  6;  61; 32; +29;  64; UC
+ 4; Girondins de Bordeaux    ; 38; 16; 15;  7;  59; 42; +17;  63; UC
+ 5; FC Metz                  ; 38; 17; 11; 10;  40; 30; +10;  62; UC
+ 6; AJ Auxerre               ; 38; 17; 10; 11;  49; 32; +17;  61; UIC
+ 7; SC Bastia                ; 38; 17; 10; 11;  54; 47;  +7;  61; UIC
+ 8; Olympique Lyonnais       ; 38; 16; 12; 10;  59; 50;  +9;  60; UIC
+ 9; RC Strasbourg            ; 38; 19;  3; 16;  52; 49;  +3;  60; UC (League Cup winner)
+10; Montpellier-Herault      ; 38; 12; 15; 11;  40; 40;   0;  51; UIC
+11; Olympique de Marseille   ; 38; 12; 13; 13;  43; 48;  -5;  49;.
+12; En Avant Guingamp        ; 38; 11; 13; 14;  32; 36;  -4;  46;.
+13; RC Lens                  ; 38; 12;  9; 17;  40; 52; -12;  45;.
+14; Le Havre AC              ; 38; 10; 13; 15;  34; 43;  -9;  43;.
+15; AS Cannes                ; 38;  9; 14; 15;  25; 41; -16;  41;.
+16; Stade Rennais            ; 38; 10; 10; 18;  40; 58; -18;  40;.
+17; SM Caen                  ; 38;  7; 16; 15;  35; 46; -11;  37; relegated
+18; AS Nancy-Lorraine        ; 38;  9; 10; 19;  33; 51; -18;  37; relegated
+19; Lille OSC                ; 38;  8; 11; 19;  32; 58; -26;  35; relegated
+20; OGC Nice                 ; 38;  5;  8; 25;  30; 68; -38;  23; relegated, CWC
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; etc
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesf/fran98.html
+
+ 1; RC Lens                  ; 34; 21;  5;  8;  55; 30;  68;  Champions
+
+ 2; FC Metz                  ; 34; 20;  8;  6;  48; 28;  68;  Champions' League
+
+ 3; AS Monaco                ; 34; 18;  5; 11;  51; 33;  59;  UEFA Cup
+ 4; Olympique de Marseille   ; 34; 16;  9;  9;  47; 27;  57;  UEFA Cup
+ 5; Girondins de Bordeaux    ; 34; 15; 11;  8;  49; 41;  56;  UEFA Cup
+ 6; Olympique Lyonnais       ; 34; 16;  5; 13;  39; 37;  53;  UEFA Cup
+
+ 7; AJ Auxerre               ; 34; 14;  9; 11;  55; 45;  51;  UIC
+ 8; Paris Saint-Germain      ; 34; 14;  8; 12;  43; 35;  50;  CWC
+ 9; SC Bastia                ; 34; 13; 11; 10;  36; 31;  50;  UIC
+10; Le Havre AC              ; 34; 10; 14; 10;  38; 35;  44;.
+11; FC Nantes                ; 34; 11;  8; 15;  35; 41;  41;.
+12; Montpellier HSC          ; 34; 10; 11; 13;  32; 42;  41;.
+13; RC Strasbourg            ; 34;  9; 10; 15;  39; 43;  37;.
+14; Stade Rennais            ; 34;  9;  9; 16;  36; 48;  36;.
+15; Toulouse FC              ; 34;  9;  9; 16;  26; 46;  36;.
+
+16; En Avant Guingamp        ; 34;  9;  8; 17;  30; 42;  35;  Relegated
+17; Berrichonne Châteauroux  ; 34;  8;  7; 19;  31; 59;  31;  Relegated
+18; AS Cannes                ; 34;  7;  7; 20;  32; 59;  28;  Relegated
+
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesf/fran99.html
+
+ 1; Girondins de Bordeaux    ; 34; 22;  6;  6;  66; 29;  72;  Champions
+
+ 2; Olympique de Marseille   ; 34; 21;  8;  5;  56; 28;  71;  Champions' League
+
+ 3; Olympique Lyonnais       ; 34; 18;  9;  7;  51; 31;  63;  Champions' League Qualification
+
+ 4; AS Monaco                ; 34; 18;  8;  8;  52; 32;  62;  UEFA Cup
+
+ 5; Stade Rennais            ; 34; 17;  8;  9;  45; 38;  59;.
+ 6; RC Lens                  ; 34; 14;  7; 13;  46; 43;  49;  UEFA Cup (League Cup Winners)
+ 7; FC Nantes                ; 34; 12; 12; 10;  40; 34;  48;  UEFA Cup (Cup Winners)
+ 8; Montpellier HSC          ; 34; 11; 10; 13;  53; 50;  43;.
+ 9; Paris Saint-Germain      ; 34; 10;  9; 15;  34; 35;  39;.
+10; FC Metz                  ; 34;  9; 12; 13;  28; 37;  39;.
+11; AS Nancy-Lorraine        ; 34; 10;  9; 15;  35; 45;  39;.
+12; RC Strasbourg            ; 34;  8; 14; 12;  30; 36;  38;.
+13; SC Bastia                ; 34; 10;  8; 16;  37; 46;  38;.
+14; AJ Auxerre               ; 34;  9; 10; 15;  40; 45;  37;.
+15; Havre AC                 ; 34;  8; 11; 15;  23; 38;  35;.
+
+16; FC Lorient               ; 34;  8; 11; 15;  33; 49;  35;  Relegated
+17; FC Sochaux-Montbéliard   ; 34;  6; 15; 13;  30; 54;  33;  Relegated
+18; Toulouse FC              ; 34;  6; 11; 17;  24; 53;  29;  Relegated
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesf/fran00.html
+
+ 1; AS Monaco                ; 34; 20;  5;  9;  69; 38;  65;  Champions
+ 2; Paris Saint-Germain FC   ; 34; 16; 10;  8;  54; 40;  58;  Champions' League
+ 3; Olympique Lyonnais       ; 34; 16;  8; 10;  45; 42;  56;  Champions' League Qualification
+ 4; FC Girondins de Bordeaux ; 34; 15;  9; 10;  52; 40;  54;  UEFA Cup
+ 5; RC Lens                  ; 34; 14;  7; 13;  42; 41;  49;.
+ 6; AS Saint-Etienne         ; 34; 13;  9; 12;  46; 47;  48;.
+ 7; CS Sedan-Ardennes        ; 34; 13;  9; 12;  43; 44;  48;.
+ 8; AJ Auxerre               ; 34; 13;  8; 13;  37; 39;  47; .
+ 9; RC Strasbourg            ; 34; 13;  7; 14;  42; 52;  46;.
+10; SC Bastia                ; 34; 11; 12; 11;  43; 39;  45;.
+11; FC Metz                  ; 34;  9; 17;  8;  38; 33;  44;.
+12; FC Nantes Atlantique     ; 34; 12;  7; 15;  39; 40;  43;.
+13; Stade Rennais FC         ; 34; 12;  7; 15;  44; 48;  43;.
+14; ATAC Troyes              ; 34; 13;  4; 17;  36; 52;  43;.
+15; Olympique de Marseille   ; 34;  9; 15; 10;  45; 45;  42;.
+
+16; AS Nancy-Lorraine        ; 34; 11;  9; 14;  43; 45;  42;  Relegated
+17; Havre AC                 ; 34;  9;  7; 18;  30; 52;  34;  Relegated
+18; Montpellier HSC          ; 34;  7; 10; 17;  39; 50;  31;  Relegated
+
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesf/fran01.html
+
+
+ 1; FC Nantes Atlantique     ; 34; 21;  5;  8;  58; 36;  68;  Champions
+ 2; Olympique Lyonnais       ; 34; 17; 13;  4;  57; 30;  64;  Champions' League
+ 3; Lille OSC                ; 34; 16; 11;  7;  43; 27;  59;  CL Qualification
+ 4; FC Girondins de Bordeaux ; 34; 15; 12;  7;  48; 33;  57;  UEFA Cup
+ 5; CS Sedan-Ardennes        ; 34; 14; 10; 10;  47; 40;  52;  UEFA Cup
+ 6; Stade Rennais FC         ; 34; 15;  5; 14;  46; 37;  50;  Intertoto  [*4]
+ 7; ES Troyes AC             ; 34; 11; 13; 10;  45; 47;  46;  Intertoto
+ 8; SC Bastia                ; 34; 13;  6; 15;  45; 41;  45;  Intertoto
+ 9; Paris Saint-Germain FC   ; 34; 12;  8; 14;  44; 45;  44; .
+10; En Avant Guingamp        ; 34; 11; 11; 12;  40; 48;  44;.
+11; AS Monaco                ; 34; 12;  7; 15;  53; 50;  43;  [*2]  
+12; FC Metz                  ; 34; 11;  9; 14;  35; 44;  42;  [*3,*4]
+13; AJ Auxerre               ; 34; 11;  8; 15;  31; 41;  41;.
+14; RC Lens                  ; 34;  9; 13; 12;  37; 39;  40;.
+15; Olympique de Marseille   ; 34; 11;  7; 16;  31; 40;  40;.
+
+16; Toulouse FC              ; 34;  9; 10; 15;  34; 49;  37;  [*1,*4]    Relegated
+17; AS Saint-Etienne         ; 34;  8; 10; 16;  42; 56;  34;  [*1]       Relegated
+18; RC Strasbourg            ; 34;  7;  8; 19;  28; 61;  29;  [*3]       Relegated
+
+*[*1] Saint-Etienne had originally had 7 points deducted for using 
+*     players with false documentation (Alex (Brazil) and Maxim 
+*     Levitsky (Ukraine) playing as EU foreigners on false Portuguese 
+*     and Greek passports, respectively); on appeal this was changed
+*     to the award of their round 19 match vs Toulouse (won 1-0) as 
+*     a 0-0 loss against them and a deduction of 3 more points.  In
+*     third instance, the original ruling was however upheld, that is,
+*     Saint-Etienne have 7 points deducted and the match versus
+*     Toulouse is not awarded but counted as a 1-0 win for Saint-Etienne,
+*     as they didn't use more non-EU players than allowed regardless
+*     of false passports.
+*     On May 17, with one round of matches left to play, an administrative
+*     court in Lyon ruled to suspend the point deduction pending further
+*     investigation; the FFF appealed the verdict; on May 23, a civil court in
+*     Toulouse ruled that the round 19 match should be awarded to Toulouse;
+*     Finally, the match was awarded a 0-0 win for Toulouse and the  
+*     point deduction for Saint Etienne was revoked.
+*[*2] Monaco had 2 points deducted for fielding Pablo Contreras (Chile)
+*     on false documentation; on appeal this deduction was cancelled.
+*[*3] the abandoned match from round 22, was first supposed to be replayed
+*     without any penalties to either club apart from the stipulation it
+*     should played behind closed doors; after the French referees decided
+*     they would refuse to officiate the match, it was awarded as a 0-0
+*     loss to both teams; on appeal, it was decided the match was to be
+*     replayed after all, and Strasbourg were penalised 3 points for failing
+*     to provide security; referees still refuse to officiate the replay.
+*     The 3 point penalty was later revoked again.  Later (after the end of
+*     the season, on May 30) the replayed match (which Metz won 1-0) was 
+*     awarded a goalless victory to Strasbourg as Metz fielded 'keeper Mondragón,
+*     who was eligible at the time of the replay but would not have been so at
+*     the time of the original fixture.  Finally, however, Metz' 1-0 victory
+*     in the replay counted.
+*[*4] encouraged by the original success of their appeal against the
+*     result of their match vs St Etienne, Toulouse also claimed the 
+*     points of their round 17 match (1-1 away at Metz) as Metz' Colombian 
+*     goal keeper Mondragón allegedly played on a false Greek passport, 
+*     in spite of the fact that Metz did not use more non-EU players than
+*     allowed regardless of Mondragón's nationality.  This appeal was
+*     unsuccessful.  Rennes first lost an appeal for the points of their 
+*     2-2 draw in round 23 against Metz in which Mondragón played, but
+*     eventually the match was awarded 2-0 to Rennes.
+*
+*NB: ATAC (Troyes) were renamed ESTAC (ES Troyes Aube-Champagne)
+
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesf/fran02.html
+
+ 1; Olympique Lyonnais       ; 34; 20;  6;  8;  62; 32;  66;  Champions
+ 2; RC Lens                  ; 34; 18; 10;  6;  55; 30;  64;  Champions' League
+ 3; AJ Auxerre               ; 34; 16; 11;  7;  48; 38;  59;  CL Qualifying
+ 4; Paris Saint-Germain FC   ; 34; 15; 13;  6;  43; 24;  58;  UEFA Cup
+ 5; Lille OSC                ; 34; 15; 11;  8;  39; 32;  56;  Intertoto Cup
+ 6; FC Girondins de Bordeaux ; 34; 14;  8; 12;  34; 31;  50;  UEFA Cup (as League Cup winners)
+ 7; ES Troyes AC             ; 34; 13;  8; 13;  40; 35;  47;  Intertoto Cup
+ 8; FC Sochaux-Montbéliard   ; 34; 12; 10; 12;  41; 40;  46;.
+ 9; Olympique de Marseille   ; 34; 11; 11; 12;  34; 39;  44;.
+10; FC Nantes Atlantique     ; 34; 12;  7; 15;  35; 41;  43;.
+11; SC Bastia                ; 34; 12;  5; 17;  38; 44;  41;.
+12; Stade Rennais FC         ; 34; 11;  8; 15;  40; 51;  41;.
+13; Montpellier HSC          ; 34;  9; 13; 12;  28; 31;  40;.
+14; CS Sedan-Ardennes        ; 34;  8; 15; 11;  35; 39;  39;.
+15; AS Monaco FC             ; 34;  9; 12; 13;  36; 41;  39;.
+16; En Avant Guingamp        ; 34;  9;  8; 17;  34; 57;  35;.
+
+17; FC Metz                  ; 34;  9;  6; 19;  31; 47;  33;  Relegated  [*]
+18; FC Lorient               ; 34;  7; 10; 17;  43; 64;  31;  Relegated, UEFA Cup (as Cup winners)
+
+*[*] OGC Nice (who were promoted) were initially refused a license for the
+*    first (and second) level 2002/03 and to be replaced by FC Metz but on
+*    July 19 they obtained a license after all (in third instance) 
+
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesf/fran03.html
+
+ 1; Olympique Lyonnais       ; 38; 19; 11;  8;  63; 41;  68;  Champions
+ 2; AS Monaco FC             ; 38; 19; 10;  9;  66; 33;  67;  Champions League
+ 3; Olympique de Marseille   ; 38; 19;  8; 11;  41; 36;  65;  CL Qualifying
+ 4; FC Girondins Bordeaux    ; 38; 18; 10; 10;  57; 36;  64;  UEFA Cup
+ 5; FC Sochaux-Montbéliard   ; 38; 17; 13;  8;  46; 31;  64;  UEFA Cup
+ 6; AJ Auxerre               ; 38; 18; 10; 10;  38; 29;  64;  UEFA Cup (as Cup winners)
+ 7; En Avant Guingamp        ; 38; 19;  5; 14;  59; 46;  62;  Intertoto Cup
+ 8; RC Lens                  ; 38; 14; 15;  9;  43; 31;  57;  UEFA Cup (as UEFA Fair play)
+ 9; FC Nantes                ; 38; 16;  8; 14;  37; 39;  56;  Intertoto Cup
+10; OGC Nice                 ; 38; 13; 16;  9;  39; 31;  55;  Intertoto Cup
+11; Paris-Saint-Germain FC   ; 38; 14; 12; 12;  47; 36;  54;.
+12; SC Bastia                ; 38; 12; 11; 15;  40; 48;  47;.
+13; RC Strasbourg            ; 38; 11; 12; 15;  40; 54;  45;.
+14; Lille OSC                ; 38; 10; 12; 16;  29; 44;  42;.
+15; Stade Rennais FC         ; 38; 10; 10; 18;  35; 45;  40;.
+16; Montpellier HSC          ; 38; 10; 10; 18;  37; 54;  40;.
+17; AC Ajaccio               ; 38;  9; 12; 17;  29; 49;  39;.
+
+18; Le Havre AC              ; 38; 10;  8; 20;  27; 47;  38;  Relegated
+19; CS Sedan-Ardennes        ; 38;  9;  9; 20;  41; 59;  36;  Relegated
+20; ES Troyes AC             ; 38;  7; 10; 21;  23; 48;  31;  Relegated
+
+*NB: after the season, AS Monaco were forcibly relegated to the 2nd
+*    level due to financial problems; the club have appealed. Monaco
+*    stay in Ligue 1 after the appeal.
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesf/fran04.html
+
+ 1; Olympique Lyonnais       ; 38; 24;  7;  7;  64; 26;  79;  Champions
+ 2; Paris-Saint-Germain FC   ; 38; 22; 10;  6;  50; 28;  76;  Champions League
+ 3; AS Monaco FC             ; 38; 21; 12;  5;  59; 30;  75;  CL Qualifying
+ 4; AJ Auxerre               ; 38; 19;  8; 11;  60; 34;  65;  UEFA Cup
+ 5; FC Sochaux-Montbéliard   ; 38; 18;  9; 11;  54; 42;  63;  UEFA Cup (League Cup)
+ 6; FC Nantes                ; 38; 17;  9; 12;  47; 35;  60;.
+ 7; Olympique de Marseille   ; 38; 17;  6; 15;  51; 45;  57;.
+ 8; RC Lens                  ; 38; 15;  8; 15;  34; 48;  53;.
+ 9; Stade Rennais FC         ; 38; 14; 10; 14;  56; 44;  52;.
+10; Lille OSC                ; 38; 14;  9; 15;  41; 41;  51;.
+11; OGC Nice                 ; 38; 11; 17; 10;  42; 39;  50;.
+12; FC Girondins Bordeaux    ; 38; 13; 11; 14;  40; 43;  50;.
+13; RC Strasbourg            ; 38; 10; 13; 15;  43; 50;  43;.
+14; FC Metz                  ; 38; 11;  9; 18;  34; 42;  42;.
+15; AC Ajaccio               ; 38; 10; 10; 18;  33; 55;  40;.
+16; Toulouse FC              ; 38;  9; 12; 17;  31; 44;  39;.
+17; SC Bastia                ; 38;  9; 12; 17;  33; 49;  39;.
+
+18; En Avant Guingamp        ; 38; 10;  8; 20;  36; 58;  38;  Relegated
+19; Le Mans UC72             ; 38;  9; 11; 18;  35; 57;  38;  Relegated
+20; Montpellier HSC          ; 38;  8;  7; 23;  41; 74;  31;  Relegated
+
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesf/fran05.html
+
+ 1; Olympique Lyonnais       ; 38; 22; 13;  3;  56; 22;  79;  Champions
+ 2; Lille OSC                ; 38; 18; 13;  7;  52; 29;  67;  Champions League
+ 3; AS Monaco FC             ; 38; 15; 18;  5;  52; 35;  63;  CL Qualifying
+ 4; Stade Rennais FC         ; 38; 15; 10; 13;  49; 42;  55;  UEFA Cup
+ 5; Olympique de Marseille   ; 38; 15; 10; 13;  47; 42;  55;.
+ 6; AS Saint-Etienne         ; 38; 12; 17;  9;  47; 34;  53;.
+ 7; RC Lens                  ; 38; 13; 13; 12;  45; 39;  52;.
+ 8; AJ Auxerre               ; 38; 14; 10; 14;  48; 47;  52;  UEFA Cup (Cup)
+ 9; Paris-Saint-Germain FC   ; 38; 12; 15; 11;  40; 41;  51;.
+10; FC Sochaux-Montbéliard   ; 38; 13; 11; 14;  42; 41;  50;.
+11; RC Strasbourg            ; 38; 12; 12; 14;  42; 43;  48;  UEFA Cup (League Cup)
+12; OGC Nice                 ; 38; 10; 16; 12;  38; 45;  46;.
+13; Toulouse FC              ; 38; 12; 10; 16;  36; 43;  46;.
+14; AC Ajaccio               ; 38; 10; 15; 13;  36; 40;  45;.
+15; FC Girondins Bordeaux    ; 38;  8; 20; 10;  37; 41;  44;.
+16; FC Metz                  ; 38; 10; 14; 14;  33; 45;  44;.
+17; FC Nantes                ; 38; 10; 13; 15;  33; 38;  43;.
+
+18; Stade Malherbe Caen      ; 38; 10; 12; 16;  36; 60;  42;  Relegated
+19; SC Bastia                ; 38; 11;  8; 19;  32; 48;  41;  Relegated
+20; FC Istres                ; 38;  6; 14; 18;  25; 51;  32;  Relegated
+
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesf/fran06.html
+
+ 1; Olympique Lyonnais       ; 38; 25;  9;  4;  73; 31;  84;  Champions
+ 2; FC Girondins Bordeaux    ; 38; 18; 15;  5;  43; 25;  69;  Champions League
+ 3; Lille OSC                ; 38; 16; 14;  8;  56; 31;  62;  CL Qualifiying
+ 4; RC Lens                  ; 38; 14; 18;  6;  48; 34;  60;  UEFA Cup
+ 5; Olympique de Marseille   ; 38; 16; 12; 10;  44; 35;  60;.
+ 6; AJ Auxerre               ; 38; 17;  8; 13;  50; 39;  59;.
+ 7; Stade Rennais FC         ; 38; 18;  5; 15;  48; 49;  59;.
+ 8; OGC Nice                 ; 38; 16; 10; 12;  36; 31;  58;.
+ 9; Paris-Saint-Germain FC   ; 38; 13; 13; 12;  44; 38;  52;  UEFA Cup (Cup)
+10; AS Monaco FC             ; 38; 13; 13; 12;  42; 36;  52;.
+11; Le Mans UC 72            ; 38; 13; 13; 12;  33; 36;  52;.
+12; AS Nancy Lorraine        ; 38; 12; 12; 14;  35; 37;  48;  UEFA Cup (League Cup)
+13; AS Saint-Etienne         ; 38; 11; 14; 13;  29; 39;  47;.
+14; FC Nantes                ; 38; 11; 12; 15;  37; 41;  45;.
+15; FC Sochaux-Montbéliard   ; 38; 11; 11; 16;  34; 47;  44;.
+16; Toulouse FC              ; 38; 10; 11; 17;  36; 47;  41;.
+17; ES Troyes AC             ; 38;  9; 12; 17;  37; 47;  39;.
+
+18; AC Ajaccio               ; 38;  8;  9; 21;  27; 53;  33;  Relegated
+19; RC Strasbourg            ; 38;  5; 14; 19;  33; 56;  29;  Relegated
+20; FC Metz                  ; 38;  6; 11; 21;  26; 59;  29;  Relegated
+
+*NB: Marseille and PSG temporarily had one point deducted by 
+*    the LFP (Ligue de Football Professionnel) for infantile 
+*    behaviour around their Mar 5 encounter; this deduction
+*    was revoked on appeal
+
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesf/fran07.html
+
+ 1; Olympique Lyonnais       ; 38; 24;  9;  5;  64; 27;  81;  Champions
+ 2; Olympique de Marseille   ; 38; 19;  7; 12;  53; 38;  64;  Champions League
+ 3; Toulouse FC              ; 38; 17;  7; 14;  44; 43;  58;  CL Qualifying
+ 4; Stade Rennais FC         ; 38; 14; 15;  9;  38; 30;  57;  UEFA Cup
+ 5; RC Lens                  ; 38; 15; 12; 11;  47; 41;  57;.
+ 6; FC Girondins Bordeaux    ; 38; 16;  9; 13;  39; 35;  57;  UEFA Cup (League Cup)
+ 7; FC Sochaux-Montbéliard   ; 38; 15; 12; 11;  46; 48;  57;  UEFA Cup (Cup)
+ 8; AJ Auxerre               ; 38; 13; 15; 10;  41; 41;  54;.
+ 9; AS Monaco FC             ; 38; 13; 12; 13;  45; 38;  51;.
+10; Lille OSC                ; 38; 13; 11; 14;  45; 43;  50;.
+11; AS Saint-Etienne         ; 38; 14;  7; 17;  52; 50;  49;.
+12; Le Mans UC 72            ; 38; 11; 16; 11;  45; 46;  49;.
+13; AS Nancy Lorraine        ; 38; 13; 10; 15;  37; 44;  49;.
+14; FC Lorient               ; 38; 12; 13; 13;  33; 40;  49;.
+15; Paris-Saint-Germain FC   ; 38; 12; 12; 14;  42; 42;  48;.
+16; OGC Nice                 ; 38;  9; 16; 13;  34; 40;  43;.
+17; Valenciennes FC          ; 38; 11; 10; 17;  36; 48;  43;.
+
+18; ES Troyes AC             ; 38;  9; 12; 17;  39; 54;  39;  Relegated
+19; CS Sedan Ardennes        ; 38;  7; 14; 17;  46; 58;  35;  Relegated
+20; FC Nantes                ; 38;  7; 13; 18;  29; 49;  34;  Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesf/fran08.html
+
+ 1; Olympique Lyonnais       ; 38; 24;  7;  7;  74; 37;  79;  Champions
+ 2; FC Girondins Bordeaux    ; 38; 22;  9;  7;  65; 38;  75;  Champions League
+ 3; Olympique de Marseille   ; 38; 17; 11; 10;  58; 45;  62;  CL Qualifying
+ 4; AS Nancy Lorraine        ; 38; 15; 15;  8;  44; 30;  60;  UEFA Cup
+ 5; AS Saint-Etienne         ; 38; 16; 10; 12;  47; 34;  58;  UEFA Cup
+ 6; Stade Rennais FC         ; 38; 16; 10; 12;  47; 44;  58;  UEFA Cup
+ 7; Lille OSC                ; 38; 13; 18;  7;  45; 32;  57;.
+ 8; OGC Nice                 ; 38; 13; 16;  9;  35; 30;  55;.
+ 9; Le Mans UC 72            ; 38; 14; 11; 13;  46; 49;  53;.
+10; FC Lorient               ; 38; 12; 16; 10;  32; 35;  52;.
+11; SM Caen                  ; 38; 13; 12; 13;  48; 53;  51;.
+12; AS Monaco FC             ; 38; 13;  8; 17;  40; 48;  47;.
+13; Valenciennes FC          ; 38; 12;  9; 17;  42; 40;  45;.
+14; FC Sochaux-Montbéliard   ; 38; 10; 14; 14;  34; 43;  44;.
+15; AJ Auxerre               ; 38; 12;  8; 18;  33; 52;  44;.
+16; Paris-Saint-Germain FC   ; 38; 10; 13; 15;  37; 45;  43;  UEFA Cup (Cup)
+17; Toulouse FC              ; 38;  9; 15; 14;  36; 42;  42;.
+
+18; RC Lens                  ; 38;  9; 13; 16;  43; 52;  40;  Relegated
+19; RC Strasbourg            ; 38;  9;  8; 21;  34; 55;  35;  Relegated
+20; FC Metz                  ; 38;  5;  9; 24;  28; 64;  24;  Relegated
+
+*NB: FC Metz had 1 point deducted for racist chanting from their fans
+*    in round 25 towards a Valenciennes player; punishment was revoked
+*    on appeal
+
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesf/fran09.html
+
+ 1; FC Girondins Bordeaux    ; 38; 24;  8;  6;  64; 34;  80;  Champions
+ 2; Olympique de Marseille   ; 38; 22; 11;  5;  67; 35;  77;  Champions League
+ 3; Olympique Lyonnais       ; 38; 20; 11;  7;  52; 29;  71;  CL Qualifying
+ 4; Toulouse FC              ; 38; 16; 16;  6;  45; 27;  64;.
+ 5; Lille OSC                ; 38; 17; 13;  8;  51; 39;  64;.
+ 6; Paris-Saint-Germain FC   ; 38; 19;  7; 12;  49; 38;  64;.
+ 7; Stade Rennais FC         ; 38; 15; 16;  7;  42; 34;  61;.
+ 8; AJ Auxerre               ; 38; 16;  7; 15;  35; 35;  55;.
+ 9; OGC Nice                 ; 38; 13; 11; 14;  40; 41;  50;.
+10; FC Lorient               ; 38; 10; 15; 13;  47; 47;  45;.
+11; AS Monaco                ; 38; 11; 12; 15;  41; 45;  45;.
+12; Valenciennes FC          ; 38; 10; 14; 14;  35; 42;  44;.
+13; Grenoble Foot 38         ; 38; 10; 14; 14;  24; 37;  44;.
+14; FC Sochaux-Montbéliard   ; 38; 10; 12; 16;  40; 48;  42;.
+15; AS Nancy Lorraine        ; 38; 10; 12; 16;  38; 47;  42;.
+16; Le Mans UC 72            ; 38; 10; 10; 18;  43; 54;  40;.
+17; AS Saint-Etienne         ; 38; 11;  7; 20;  40; 56;  40;.
+
+18; SM Caen                  ; 38;  8; 13; 17;  42; 49;  37;  Relegated
+19; Nantes FC                ; 38;  9; 10; 19;  33; 54;  37;  Relegated
+20; Le Havre AC              ; 38;  7;  5; 26;  30; 67;  25;  Relegated
+
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesf/fran2010.html
+
+ 1; Olympique de Marseille   ; 38; 23;  9;  6;  69; 36;  78;  Champions
+ 2; Olympique Lyonnais       ; 38; 20; 12;  6;  64; 38;  72;.
+ 3; AJ Auxerre               ; 38; 20; 11;  7;  42; 29;  71;.
+ 4; Lille OSC                ; 38; 21;  7; 10;  72; 40;  70;.
+ 5; Montpellier-Hérault      ; 38; 20;  9;  9;  50; 40;  69;.
+ 6; FC Girondins Bordeaux    ; 38; 19;  7; 12;  58; 40;  64;.
+ 7; FC Lorient               ; 38; 16; 10; 12;  54; 42;  58;.
+ 8; AS Monaco                ; 38; 15; 10; 13;  39; 45;  55;.
+ 9; Stade Rennais FC         ; 38; 14; 11; 13;  52; 41;  53;.
+10; Valenciennes FC          ; 38; 14; 10; 14;  50; 50;  52;.
+11; RC Lens                  ; 38; 12; 12; 14;  40; 44;  48;.
+12; AS Nancy Lorraine        ; 38; 13;  9; 16;  46; 53;  48;.
+13; Paris-Saint-Germain FC   ; 38; 12; 11; 15;  50; 46;  47;.
+14; Toulouse FC              ; 38; 12; 11; 15;  36; 36;  47;.
+15; OGC Nice                 ; 38; 11; 11; 16;  41; 57;  44;.
+16; FC Sochaux-Montbéliard   ; 38; 11;  8; 19;  28; 52;  41;.
+17; AS Saint-Etienne         ; 38; 10; 10; 18;  27; 45;  40;.
+
+18; Le Mans UC 72            ; 38;  8;  8; 22;  36; 59;  32;  Relegated
+19; US Boulogne-sur-mer CO   ; 38;  7; 10; 21;  31; 62;  31;  Relegated
+20; Grenoble Foot 38         ; 38;  5;  8; 25;  31; 61;  23;  Relegated
+
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesf/fran2011.html
+
+ 1; Lille OSC                ; 38; 21; 13;  4;  68; 36;  76;  Champions
+ 2; Olympique de Marseille   ; 38; 18; 14;  6;  62; 39;  68;.
+ 3; Olympique Lyonnais       ; 38; 17; 13;  8;  61; 40;  64;.
+ 4; Paris-Saint-Germain FC   ; 38; 15; 15;  8;  56; 41;  60;.
+ 5; FC Sochaux-Montbéliard   ; 38; 17;  7; 14;  60; 43;  58;.
+ 6; Stade Rennais FC         ; 38; 15; 11; 12;  38; 35;  56;.
+ 7; FC Girondins Bordeaux    ; 38; 12; 15; 11;  43; 42;  51;.
+ 8; Toulouse FC              ; 38; 14;  8; 16;  38; 36;  50;.
+ 9; AJ Auxerre               ; 38; 10; 19;  9;  45; 41;  49;.
+10; AS Saint-Etienne         ; 38; 12; 13; 13;  46; 47;  49;.
+11; FC Lorient               ; 38; 12; 13; 13;  46; 48;  49;.
+12; Valenciennes FC          ; 38; 10; 18; 10;  45; 41;  48;.
+13; AS Nancy Lorraine        ; 38; 13;  9; 16;  43; 48;  48;.
+14; Montpellier-Hérault      ; 38; 12; 11; 15;  32; 43;  47;.
+15; SM Caen                  ; 38; 11; 13; 14;  46; 51;  46;.
+16; Stade Brestois           ; 38; 11; 13; 14;  36; 43;  46;.
+17; OGC Nice                 ; 38; 11; 13; 14;  33; 48;  46;.
+
+18; AS Monaco                ; 38;  9; 17; 12;  36; 40;  44;  Relegated
+19; RC Lens                  ; 38;  7; 14; 17;  35; 58;  35;  Relegated
+20; AC Arles-Avignon         ; 38;  3; 11; 24;  21; 70;  20;  Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesf/fran2012.html
+
+ 1; Montpellier-Hérault      ; 38;  25;  7;  6;  68; 34;  82;  Champions
+ 2; Paris-Saint-Germain FC   ; 38;  23; 10;  5;  75; 41;  79;.
+ 3; Lille OSC                ; 38;  21; 11;  6;  72; 39;  74;.
+ 4; Olympique Lyonnais       ; 38;  19;  7; 12;  64; 51;  64;.
+ 5; FC Girondins Bordeaux    ; 38;  16; 13;  9;  53; 41;  61;.
+ 6; Stade Rennais FC         ; 38;  17;  9; 12;  53; 44;  60;.
+ 7; AS Saint-Etienne         ; 38;  16;  9; 13;  49; 45;  57;.
+ 8; Toulouse FC              ; 38;  15; 11; 12;  37; 34;  56;.
+ 9; Evian-Thonon Gaillard FC ; 38;  13; 11; 14;  54; 55;  50;.
+10; Olympique de Marseille   ; 38;  12; 12; 14;  45; 41;  48;.
+11; AS Nancy Lorraine        ; 38;  11; 12; 15;  38; 48;  45;.
+12; Valenciennes FC          ; 38;  12;  7; 19;  40; 50;  43;.
+13; OGC Nice                 ; 38;  10; 12; 16;  39; 46;  42;.
+14; FC Sochaux-Montbéliard   ; 38;  11;  9; 18;  40; 60;  42;.
+15; Stade Brestois           ; 38;   8; 17; 13;  31; 38;  41;.
+16; AC Ajaccio               ; 38;   9; 14; 15;  40; 61;  41;.
+17; FC Lorient               ; 38;   9; 12; 17;  35; 49;  39;.
+
+18; SM Caen                  ; 38;   9; 11; 18;  39; 59;  38;  Relegated
+19; Dijon FCO                ; 38;   9;  9; 20;  38; 63;  36;  Relegated
+20; AJ Auxerre               ; 38;   7; 13; 18;  46; 57;  34;  Relegated
+
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesf/fran2013.html
+
+ 1; Paris-Saint-Germain FC   ; 38;  25;  8;  5;  69; 23;  83;  Champions
+ 2; Olympique de Marseille   ; 38;  21;  8;  9;  42; 36;  71;.
+ 3; Olympique Lyonnais       ; 38;  19; 10;  9;  61; 38;  67;.
+ 4; OGC Nice                 ; 38;  18; 10; 10;  57; 46;  64;.
+ 5; AS Saint-Etienne         ; 38;  16; 15;  7;  60; 32;  63;.
+ 6; Lille OSC                ; 38;  16; 14;  8;  59; 40;  62;.
+ 7; FC Girondins Bordeaux    ; 38;  13; 16;  9;  40; 34;  55;.
+ 8; FC Lorient               ; 38;  14; 11; 13;  57; 58;  53;.
+ 9; Montpellier-Hérault      ; 38;  15;  7; 16;  54; 51;  52;.
+10; Toulouse FC              ; 38;  13; 12; 13;  49; 47;  51;.
+11; Valenciennes FC          ; 38;  12; 12; 14;  49; 53;  48;.
+12; SC Bastia                ; 38;  13;  8; 17;  50; 66;  47;.
+13; Stade Rennais FC         ; 38;  13;  7; 18;  48; 59;  46;.
+14; Stade de Reims           ; 38;  10; 13; 15;  33; 42;  43;.
+15; FC Sochaux-Montbéliard   ; 38;  10; 11; 17;  41; 57;  41;.
+16; Evian-Thonon Gaillard FC ; 38;  10; 10; 18;  46; 53;  40;.
+17; AC Ajaccio               ; 38;   9; 15; 14;  39; 51;  40;  [-2]
+
+18; AS Nancy Lorraine        ; 38;   9; 11; 18;  38; 58;  38;  Relegated
+19; ES Troyes AC             ; 38;   8; 13; 17;  43; 61;  37;  Relegated
+20; Stade Brestois           ; 38;   8;  5; 25;  32; 62;  29;  Relegated
+
+*NB: Ajaccio 2 points deducted for incidents during a league match against Lyon last season

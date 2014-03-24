@@ -1,0 +1,643 @@
+Competition: La Liga
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tabless/span96.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+*                           Pd   W  D  L  GF GA Pts  [*]
+ 1; Atletico de Madrid     ; 42 ; 26 ; 9 ; 7 ; 75; 32 ; 87
+ 2; Valencia CF            ; 42 ; 26 ; 5 ;11 ; 77; 51 ; 83
+ 3; FC Barcelona           ; 42 ; 22 ;14 ; 6 ; 72; 39 ; 80
+ 4; RCD Español            ; 42 ; 20 ;14 ; 8 ; 63; 36 ; 74
+ 5; CD Tenerife            ; 42 ; 20 ;12 ;10 ; 69; 54 ; 72
+ 6; Real Madrid            ; 42 ; 20 ;10 ;12 ; 75; 51 ; 70
+ 7; Real Sociedad          ; 42 ; 17 ;12 ;13 ; 62; 53 ; 63
+ 8; Real Betis             ; 42 ; 16 ;14 ;12 ; 61; 54 ; 62
+ 9; RC Deportivo           ; 42 ; 16 ;13 ;13 ; 63; 44 ; 61
+10; SD Compostela          ; 42 ; 17 ; 8 ;17 ; 47; 54 ; 59
+11; RC Celta               ; 42 ; 12 ;16 ;14 ; 49; 51 ; 52
+12; Sevilla FC             ; 42 ; 11 ;15 ;16 ; 43; 55 ; 48
+13; Real Zaragoza          ; 42 ; 11 ;15 ;16 ; 51; 59 ; 48
+14; Real Oviedo            ; 42 ; 12 ;12 ;18 ; 48; 67 ; 48
+15; Athletic de Bilbao     ; 42 ; 11 ;15 ;16 ; 44; 55 ; 48
+16; Real Valladolid        ; 42 ; 11 ;14 ;17 ; 57; 62 ; 47
+17; Racing de Santander    ; 42 ; 11 ;14 ;17 ; 47; 69 ; 47
+18; Sporting de Gijón      ; 42 ; 13 ; 7 ;22 ; 51; 60 ; 46
+19; Rayo Vallecano         ; 42 ; 12 ; 8 ;22 ; 47; 75 ; 44
+20; Albacete               ; 42 ; 10 ;12 ;20 ; 55; 81 ; 42
+21; Mérida CP              ; 42 ; 10 ;12 ;20 ; 37; 62 ; 42
+22; UD Salamanca           ; 42 ;  8 ; 9 ;25 ; 53; 82 ; 33
+
+*[*] starting from the 1995/96 season, victories are worth 3 points.
+*
+*Note: original relegation of Albacete and Real Valladolid cancelled after
+*Sevilla FC and RC Celta had their licenses revoked for not meeting a deadline
+*of the Spanish FA for submitting financial guarantees.  This decision was
+*later revoked as well, and the first division was extended to 22 teams.
+
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tabless/span97.html
+
+ 1; Real Madrid             ; 42 ; 27; 11;  4 ; 85; 36;  92
+*  Champion
+
+ 2; FC Barcelona            ; 42 ; 28;  6;  8 ;102; 48;  90
+*  Champions' League
+
+ 3; RC Deportivo            ; 42 ; 21; 14;  7 ; 57; 30;  77
+*  UEFA Cup
+ 4; Real Betis              ; 42 ; 21; 14;  7 ; 81; 46;  77
+*  Cup Winners' Cup
+ 5; Atlético de Madrid      ; 42 ; 20; 11; 11 ; 76; 64;  71
+*  UEFA Cup
+ 6; Athletic de Bilbao      ; 42 ; 16; 16; 10 ; 72; 57;  64
+*  UEFA Cup
+ 7; Real Valladolid         ; 42 ; 18; 10; 14 ; 57; 46;  64
+*  UEFA Cup
+
+ 8; Real Sociedad           ; 42 ; 18;  9; 15 ; 50; 47;  63
+ 9; CD Tenerife             ; 42 ; 15; 11; 16 ; 69; 57;  56
+10; Valencia CF             ; 42 ; 15; 11; 16 ; 63; 59;  56
+11; SD Compostela           ; 42 ; 13; 14; 15 ; 52; 65;  53
+12; RCD Espanyol            ; 42 ; 14;  9; 19 ; 51; 57;  51
+13; Racing de Santander     ; 42 ; 11; 17; 14 ; 52; 54;  50
+14; Real Zaragoza           ; 42 ; 12; 14; 16 ; 58; 66;  50
+15; Sporting de Gijón       ; 42 ; 13; 11; 18 ; 45; 63;  50
+16; RC Celta                ; 42 ; 12; 13; 17 ; 51; 54;  49
+17; Real Oviedo             ; 42 ; 12; 12; 18 ; 49; 65;  48
+
+18; Rayo Vallecano          ; 42 ; 13;  6; 23 ; 43; 62;  45  
+*Relegation Playoff
+
+19; CF Extremadura          ; 42 ; 11; 11; 20 ; 35; 64;  44  
+*Relegated 
+20; Sevilla FC              ; 42 ; 12;  7; 23 ; 50; 69;  43  
+*Relegated 
+21; Hércules CF             ; 42 ; 12;  5; 25 ; 40; 77;  41  
+*Relegated 
+22; CD Logroñés             ; 42 ;  9;  6; 27 ; 33; 85;  33  
+*Relegated
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tabless/span98.html
+
+ 1; FC Barcelona                 ; 38; 23;  5; 10; 78; 56;  74  
+*Champions
+ 2; Athletic de Bilbao           ; 38; 17; 14;  7; 52; 42;  65  
+*Champions' League
+
+ 3; Real Sociedad (San Sebastián); 38; 16; 15;  7; 60; 37;  63  
+*UEFA Cup
+ 4; Real Madrid                  ; 38; 17; 12;  9; 63; 45;  63  
+*Champions' League
+ 5; RCD Mallorca                 ; 38; 16; 12; 10; 55; 39;  60  
+*CWC
+ 6; RC Celta (Vigo)              ; 38; 17;  9; 12; 54; 47;  60  
+*UEFA Cup
+ 7; Atlético de Madrid           ; 38; 16; 12; 10; 79; 56;  60  
+*UEFA Cup
+ 8; Real Betis (Sevilla)         ; 38; 17;  8; 13; 49; 50;  59  
+*UEFA Cup
+
+ 9; Valencia CF                  ; 38; 16;  7; 15; 58; 52;  55
+10; RCD Espanyol                 ; 38; 12; 17;  9; 44; 31;  53
+11; Real Valladolid              ; 38; 13; 11; 14; 36; 47;  50
+12; RC Deportivo (La Coruña)     ; 38; 12; 13; 13; 44; 46;  49
+13; Real Zaragoza                ; 38; 12; 12; 14; 45; 53;  48
+14; Racing de Santander          ; 38; 12;  9; 17; 46; 55;  45
+15; CD Tenerife                  ; 38; 11; 12; 15; 44; 57;  45
+16; UD Salamanca                 ; 38; 12;  9; 17; 46; 46;  45
+
+17; SD Compostela                ; 38; 11; 11; 16; 56; 66;  44 
+* Relegation Playoff
+18; Real Oviedo                  ; 38;  9; 13; 16; 36; 51;  40 
+* Relegation Playoff
+
+19; Mérida CP                    ; 38;  9; 12; 17; 33; 53;  39  
+*Relegated
+20; Sporting de Gijón            ; 38;  2;  7; 29; 31; 80;  13  
+*Relegated
+
+*[first tie-breaker is head-to-head]
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tabless/span99.html
+
+ 1; FC Barcelona                 ; 38; 24;  7;  7; 87; 43;  79  
+*Champions
+
+ 2; Real Madrid                  ; 38; 21;  5; 12; 77; 62;  68  
+*Champions' League
+
+ 3; RCD Mallorca                 ; 38; 20;  6; 12; 48; 31;  66  
+*Champions' League Qualification
+ 4; Valencia CF                  ; 38; 19;  8; 11; 63; 39;  65  
+*Champions' League Qualification
+
+ 5; RC Celta (Vigo)              ; 38; 17; 13;  8; 69; 41;  64  
+*UEFA Cup
+ 6; RC Deportivo (La Coruña)     ; 38; 17; 12;  9; 55; 43;  63  
+*UEFA Cup
+
+ 7; RCD Espanyol                 ; 38; 16; 13;  9; 49; 38;  61
+ 8; Athletic de Bilbao           ; 38; 17;  9; 12; 53; 47;  60
+ 9; Real Zaragoza                ; 38; 16;  9; 13; 57; 46;  57
+10; Real Sociedad (San Sebastián); 38; 14; 12; 12; 47; 43;  54
+11; Real Betis (Sevilla)         ; 38; 14;  7; 17; 47; 58;  49
+12; Real Valladolid              ; 38; 13;  9; 16; 35; 44;  48
+13; Atlético de Madrid           ; 38; 12; 10; 16; 54; 50;  46 
+* UEFA Cup (Cup Final)
+14; Real Oviedo                  ; 38; 11; 12; 15; 41; 57;  45
+15; Racing de Santander          ; 38; 10; 12; 16; 41; 53;  42
+16; Deportivo Alavés             ; 38; 11;  7; 20; 36; 63;  40
+
+17; CF Extremadura               ; 38;  9; 12; 17; 27; 53;  39 
+* Relegation Playoff
+18; Villarreal CF                ; 38;  8; 12; 18; 47; 63;  36 
+* Relegation Playoff
+
+19; CD Tenerife                  ; 38;  7; 13; 18; 41; 63;  34  
+*Relegated
+20; UD Salamanca                 ; 38;  7;  6; 25; 29; 66;  27  
+*Relegated
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tabless/span00.html
+
+ 1; RC Deportivo (La Coruña)     ; 38; 21;  6; 11; 66; 44;  69  
+*Champions
+ 2; FC Barcelona                 ; 38; 19;  7; 12; 70; 46;  64  
+ 3; Valencia CF                  ; 38; 18; 10; 10; 59; 39;  64  
+ 4; Real Zaragoza                ; 38; 16; 15;  7; 60; 40;  63  
+*UEFA Cup
+ 5; Real Madrid                  ; 38; 16; 14;  8; 58; 48;  62  
+*Champions' League (holders)
+ 6; Deportivo Alavés (Vitoria)   ; 38; 17; 10; 11; 41; 37;  61
+*  UEFA Cup
+ 7; RC Celta (Vigo)              ; 38; 15;  8; 15; 45; 43;  53  
+ 8; Real Valladolid              ; 38; 14; 11; 13; 36; 44;  53  
+ 9; Rayo Vallecano               ; 38; 15;  7; 16; 51; 53;  52
+10; RCD Mallorca                 ; 38; 14;  9; 15; 52; 45;  51
+11; Athletic de Bilbao           ; 38; 12; 14; 12; 47; 57;  50
+12; Málaga CF                    ; 38; 11; 15; 12; 55; 50;  48
+13; Real Sociedad (San Sebastián); 38; 11; 14; 13; 42; 49;  47  
+14; RCD Espanyol                 ; 38; 12; 11; 15; 51; 48;  47  
+*UEFA Cup (cup winners)
+15; Racing de Santander          ; 38; 10; 16; 12; 52; 50;  46
+16; Real Oviedo                  ; 38; 11; 12; 15; 44; 60;  45  
+17; Numancia (Soria)             ; 38; 11; 12; 15; 47; 59;  45  
+
+18; Real Betis (Sevilla)         ; 38; 11;  9; 18; 33; 56;  42 
+* Relegated
+19; Atlético de Madrid           ; 38;  9; 11; 18; 48; 64;  38 
+* Relegated
+20; Sevilla FC                   ; 38;  5; 13; 20; 42; 67;  28 
+* Relegated
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tabless/span01.html
+
+ 1; Real Madrid                  ; 38; 24;  8;  6; 81; 40;  80  
+*Champions
+ 2; RC Deportivo (La Coruña)     ; 38; 22;  7;  9; 73; 44;  73  
+*Champions' League
+ 3; RCD Mallorca                 ; 38; 20; 11;  7; 61; 43;  71
+*  CL Qualifiying
+ 4; FC Barcelona                 ; 38; 17; 12;  9; 80; 57;  63
+*   CL Qualifying
+ 5; Valencia CF                  ; 38; 18;  9; 11; 55; 34;  63
+*  UEFA Cup
+ 6; RC Celta (Vigo)              ; 38; 16; 11; 11; 51; 49;  59
+*  UEFA Cup
+ 7; Villarreal                   ; 38; 16;  9; 13; 58; 52;  57
+ 8; Málaga CF                    ; 38; 16;  8; 14; 60; 61;  56
+ 9; RCD Espanyol                 ; 38; 14;  8; 16; 46; 44;  50
+10; Deportivo Alavés (Vitoria)   ; 38; 14;  7; 17; 58; 59;  49 
+11; UD Las Palmas                ; 38; 13;  7; 18; 42; 62;  46
+12; Athletic de Bilbao           ; 38; 11; 10; 17; 44; 60;  43  
+13; Real Sociedad (San Sebastián); 38; 11; 10; 17; 52; 68;  43  
+14; Rayo Vallecano               ; 38; 10; 13; 15; 56; 68;  43  
+15; CA Osasuna (Pamplona)        ; 38; 10; 12; 16; 43; 54;  42  
+16; Real Valladolid              ; 38;  9; 15; 14; 42; 50;  42  
+17; Real Zaragoza                ; 38;  9; 15; 14; 54; 57;  42  
+
+18; Real Oviedo                  ; 38; 11;  8; 19; 51; 67;  41  
+*Relegated
+19; Racing de Santander          ; 38; 10;  9; 19; 48; 62;  39  
+*Relegated
+20; Numancia (Soria)             ; 38; 10;  9; 19; 40; 64;  39  
+*Relegated 
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tabless/span02.html
+
+ 1; Valencia CF                  ; 38; 21; 12;  5; 51; 27;  75  
+*Champions
+ 2; RC Deportivo (La Coruña)     ; 38; 20;  8; 10; 65; 41;  68  
+*Champions' League
+ 3; Real Madrid                  ; 38; 19;  9; 10; 69; 44;  66 
+* CL Qualifying
+ 4; FC Barcelona                 ; 38; 18; 10; 10; 65; 37;  64 
+* CL Qualifying
+ 5; RC Celta (Vigo)              ; 38; 16; 12; 10; 64; 46;  60 
+* UEFA Cup
+ 6; Real Betis Balompié (Sevilla); 38; 15; 14;  9; 42; 34;  59 
+* UEFA Cup
+ 7; Deportivo Alavés (Vitoria)   ; 38; 17;  3; 18; 41; 44;  54 
+* UEFA Cup
+ 8; Athletic de Bilbao           ; 38; 14; 11; 13; 54; 66;  53  
+ 9; Sevilla FC                   ; 38; 14; 11; 13; 51; 40;  53  
+10; Málaga CF                    ; 38; 13; 14; 11; 44; 44;  53  
+11; Rayo Vallecano (Madrid)      ; 38; 13; 10; 15; 46; 52;  49
+12; Real Valladolid              ; 38; 13;  9; 16; 45; 58;  48
+13; Real Sociedad (San Sebastián); 38; 13;  8; 17; 48; 54;  47  
+14; RCD Espanyol (Barcelona)     ; 38; 13;  8; 17; 47; 56;  47  
+15; Villarreal                   ; 38; 11; 10; 17; 46; 55;  43  
+16; RCD Mallorca (Palma de M.)   ; 38; 11; 10; 17; 40; 52;  43  
+17; CA Osasuna (Pamplona)        ; 38; 10; 12; 16; 36; 49;  42
+
+18; UD Las Palmas                ; 38;  9; 13; 16; 40; 50;  40  
+*Relegated
+19; CD Tenerife (Santa Cruz)     ; 38; 10;  8; 20; 32; 58;  38  
+*Relegated
+20; Real Zaragoza                ; 38;  9; 10; 19; 35; 54;  37  
+*Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tabless/span03.html
+
+ 1; Real Madrid CF               ; 38; 22; 12;  4; 86; 42;  78  
+*Champions 
+ 2; Real Sociedad (San Sebastián); 38; 22; 10;  6; 71; 45;  76  
+*Champions League
+ 3; RC Deportivo (La Coruña)     ; 38; 22;  6; 10; 67; 47;  72
+*  CL Qualifying
+ 4; RC Celta (Vigo)              ; 38; 17; 10; 11; 45; 36;  61
+*  CL Qualifying
+ 5; Valencia CF                  ; 38; 17;  9; 12; 56; 35;  60
+*  UEFA Cup
+ 6; FC Barcelona                 ; 38; 15; 11; 12; 63; 47;  56
+*  UEFA Cup
+ 7; Athletic de Bilbao           ; 38; 15; 10; 13; 63; 61;  55
+ 8; Real Betis Balompié (Sevilla); 38; 14; 12; 12; 56; 53;  54
+ 9; RCD Mallorca (Palma de M.)   ; 38; 14; 10; 14; 49; 56;  52
+10; Sevilla FC                   ; 38; 13; 11; 14; 38; 39;  50
+11; Atlético de Madrid           ; 38; 12; 11; 15; 51; 56;  47
+12; CA Osasuna (Pamplona)        ; 38; 12; 11; 15; 40; 48;  47
+13; Real Valladolid              ; 38; 12; 10; 16; 37; 40;  46
+14; Málaga CF                    ; 38; 11; 13; 14; 44; 49;  46
+15; Villarreal CF                ; 38; 11; 12; 15; 44; 53;  45
+16; Racing de Santander          ; 38; 13;  5; 20; 54; 64;  44
+17; RCD Espanyol (Barcelona)     ; 38; 10; 13; 15; 48; 54;  43
+
+18; Recreativo Huelva            ; 38;  8; 12; 18; 35; 61;  36  
+*Relegated
+19; Deportivo Alavés (Vitoria)   ; 38;  8; 11; 19; 38; 68;  35  
+*Relegated
+20; Rayo Vallecano (Madrid)      ; 38;  7; 11; 20; 31; 62;  32  
+*Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tabless/span04.html
+
+ 1; Valencia CF                  ; 38; 23;  8;  7; 71; 27;  77  
+*Champions
+ 2; FC Barcelona                 ; 38; 21;  9;  8; 63; 39;  72  
+*Champions League
+ 3; RC Deportivo (La Coruña)     ; 38; 21;  8;  9; 60; 34;  71
+*  CL Qualifying
+ 4; Real Madrid CF               ; 38; 21;  7; 10; 72; 54;  70
+*  CL Qualifying
+ 5; Athletic de Bilbao           ; 38; 15; 11; 12; 53; 49;  56
+*  UEFA Cup
+ 6; Sevilla FC                   ; 38; 15; 10; 13; 56; 45;  55
+*  UEFA Cup
+ 7; Atlético de Madrid           ; 38; 15; 10; 13; 51; 53;  55
+ 8; Villarreal CF                ; 38; 15;  9; 14; 47; 49;  54
+ 9; Real Betis Balompié (Sevilla); 38; 13; 13; 12; 46; 43;  52
+10; Málaga CF                    ; 38; 15;  6; 17; 50; 55;  51
+11; RCD Mallorca (Palma de M.)   ; 38; 15;  6; 17; 54; 66;  51
+12; Real Zaragoza                ; 38; 13;  9; 16; 46; 55;  48
+*  UEFA Cup (Cup winners)
+13; CA Osasuna (Pamplona)        ; 38; 11; 15; 12; 38; 37;  48
+14; Albacete Balompié            ; 38; 13;  8; 17; 40; 48;  47
+15; Real Sociedad (San Sebastián); 38; 11; 13; 14; 49; 53;  46
+16; RCD Espanyol (Barcelona)     ; 38; 13;  4; 21; 48; 64;  43
+17; Racing de Santander          ; 38; 11; 10; 17; 48; 63;  42
+*  [*]
+
+18; Real Valladolid              ; 38; 10; 11; 17; 46; 56;  41  
+*Relegated
+19; RC Celta (Vigo)              ; 38;  9; 12; 17; 48; 68;  39  
+*Relegated
+20; Real Murcia CF               ; 38;  5; 11; 22; 29; 57;  26  
+*Relegated
+
+*[*] Racing have 1 point deducted for having one non-EU player
+*    more than allowed for 3 minutes in their match vs Osasuna
+*    on Dec 14
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tabless/span05.html
+
+ 1; FC Barcelona                 ; 38; 25;  9;  4; 73; 29;  84  
+*Champions
+ 2; Real Madrid CF               ; 38; 25;  5;  8; 71; 32;  80  
+*Champions League
+ 3; Villarreal CF                ; 38; 18; 11;  9; 69; 37;  65 
+* CL Qualifying
+ 4; Real Betis Balompié (Sevilla); 38; 16; 14;  8; 62; 50;  62 
+* CL Qualifying
+ 5; RCD Espanyol (Barcelona)     ; 38; 17; 10; 11; 54; 46;  61 
+* UEFA Cup
+ 6; Sevilla FC                   ; 38; 17;  9; 12; 44; 41;  60 
+* UEFA Cup
+ 7; Valencia CF                  ; 38; 14; 16;  8; 54; 39;  58 
+* UI Cup
+ 8; RC Deportivo (La Coruña)     ; 38; 12; 15; 11; 46; 50;  51
+* UI Cup
+ 9; Athletic de Bilbao           ; 38; 14;  9; 15; 59; 54;  51
+10; Málaga CF                    ; 38; 15;  6; 17; 40; 48;  51
+11; Atlético de Madrid           ; 38; 13; 11; 14; 40; 34;  50
+12; Real Zaragoza                ; 38; 14;  8; 16; 52; 57;  50
+13; Getafe CF                    ; 38; 12; 11; 15; 38; 46;  47
+14; Real Sociedad (San Sebastián); 38; 13;  8; 17; 47; 56;  47
+15; CA Osasuna (Pamplona)        ; 38; 12; 10; 16; 46; 65;  46
+*  UEFA Cup (Cup Final)
+16; Racing de Santander          ; 38; 12;  8; 18; 41; 58;  44
+17; RCD Mallorca (Palma de M.)   ; 38; 10;  9; 19; 42; 63;  39
+
+18; Levante UD                   ; 38;  9; 10; 19; 39; 58;  37  
+*Relegated
+19; CD Numancia (Soria)          ; 38;  6; 11; 21; 30; 61;  29  
+*Relegated
+20; Albacete Balompié            ; 38;  6; 10; 22; 33; 56;  28  
+*Relegated
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tabless/span06.html
+
+ 1; FC Barcelona                 ; 38; 25;  7;  6; 80; 35;  82  
+*Champions
+ 2; Real Madrid CF               ; 38; 20; 10;  8; 70; 40;  70
+ 3; Valencia CF                  ; 38; 19; 12;  7; 58; 33;  69
+ 4; CA Osasuna (Pamplona)        ; 38; 21;  5; 12; 49; 43;  68 
+ 5; Sevilla FC                   ; 38; 20;  8; 10; 54; 39;  68 
+ 6; RC Celta (Vigo)              ; 38; 20;  4; 14; 45; 33;  64
+ 7; Villarreal CF                ; 38; 14; 15;  9; 50; 39;  57
+ 8; RC Deportivo (La Coruña)     ; 38; 15; 10; 13; 47; 45;  55
+ 9; Getafe CF                    ; 38; 15;  9; 14; 54; 49;  54
+10; Atlético de Madrid           ; 38; 13; 13; 12; 45; 37;  52
+11; Real Zaragoza                ; 38; 10; 16; 12; 46; 51;  46
+12; Athletic de Bilbao           ; 38; 11; 12; 15; 40; 46;  45
+13; RCD Mallorca (Palma de M.)   ; 38; 10; 13; 15; 37; 51;  43
+14; Real Betis Balompié (Sevilla); 38; 10; 12; 16; 34; 51;  42
+15; RCD Espanyol (Barcelona)     ; 38; 10; 11; 17; 36; 56;  41
+16; Real Sociedad (San Sebastián); 38; 11;  7; 20; 48; 65;  40 
+17; Racing de Santander          ; 38;  9; 13; 16; 36; 49;  40 
+
+18; Deportivo Alavés (Vitoria)   ; 38;  9; 12; 17; 35; 54;  39  
+*Relegated
+19; Cádiz CF                     ; 38;  8; 12; 18; 36; 52;  36  
+*Relegated
+20; Málaga CF                    ; 38;  5;  9; 24; 36; 68;  24  
+*Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tabless/span07.html
+
+ 1; Real Madrid CF               ; 38; 23;  7;  8; 66; 40;  76 
+*Champions
+ 2; FC Barcelona                 ; 38; 22; 10;  6; 78; 33;  76 
+*Champions League
+ 3; Sevilla FC                   ; 38; 21;  8;  9; 64; 35;  71 
+* CL Qualifying
+ 4; Valencia CF                  ; 38; 20;  6; 12; 57; 42;  66 
+* CL Qualifying
+ 5; Villarreal CF                ; 38; 18;  8; 12; 48; 44;  62 
+* UEFA Cup
+ 6; Real Zaragoza                ; 38; 16; 12; 10; 55; 43;  60 
+*UEFA Cup
+ 7; Atlético de Madrid           ; 38; 17;  9; 12; 46; 39;  60
+ 8; RC Recreativo de Huelva      ; 38; 15;  9; 14; 54; 52;  54
+ 9; Getafe CF                    ; 38; 14; 10; 14; 39; 33;  52
+*  UEFA Cup (Cup)
+10; Racing de Santander          ; 38; 12; 14; 12; 42; 48;  50
+11; RCD Espanyol (Barcelona)     ; 38; 12; 13; 13; 46; 53;  49
+12; RCD Mallorca (Palma de M.)   ; 38; 14;  7; 17; 41; 47;  49
+13; RC Deportivo (La Coruña)     ; 38; 12; 11; 15; 32; 45;  47
+14; CA Osasuna (Pamplona)        ; 38; 13;  7; 18; 51; 49;  46
+15; Levante UD (Valencia)        ; 38; 10; 12; 16; 37; 53;  42
+16; Real Betis Balompié (Sevilla); 38;  8; 16; 14; 36; 49;  40
+17; Athletic de Bilbao           ; 38; 10; 10; 18; 44; 62;  40
+
+18; RC Celta (Vigo)              ; 38; 10;  9; 19; 40; 59;  39  
+*Relegated
+19; Real Sociedad (San Sebastián); 38;  8; 11; 19; 32; 47;  35  
+*Relegated
+20; Club Gimnàstic de Tarragona  ; 38;  7;  7; 24; 34; 69;  28  
+*Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tabless/span08.html
+
+ 1; Real Madrid CF               ; 38; 27;  4;  7; 84; 36;  85  
+*Champions
+ 2; Villarreal CF                ; 38; 24;  5;  9; 63; 40;  77  
+*Champions League
+ 3; FC Barcelona                 ; 38; 19; 10;  9; 76; 43;  67 
+* CL Qualifying
+ 4; Atlético de Madrid           ; 38; 19;  7; 12; 66; 47;  64 
+*CL Qualifying
+ 5; Sevilla FC                   ; 38; 20;  4; 14; 75; 49;  64 
+*UEFA Cup
+ 6; Racing de Santander          ; 38; 17;  9; 12; 42; 41;  60
+*  UEFA Cup
+ 7; RCD Mallorca (Palma de M.)   ; 38; 15; 14;  9; 69; 54;  59
+ 8; UD Almería                   ; 38; 14; 10; 14; 42; 45;  52
+ 9; RC Deportivo (La Coruña)     ; 38; 15;  7; 16; 46; 47;  52
+10; Valencia CF                  ; 38; 15;  6; 17; 48; 62;  51
+*  UEFA Cup (Cup)
+11; Athletic de Bilbao           ; 38; 13; 11; 14; 40; 43;  50
+12; RCD Espanyol (Barcelona)     ; 38; 13;  9; 16; 43; 53;  48
+13; Real Betis Balompié (Sevilla); 38; 12; 11; 15; 45; 51;  47
+14; Getafe CF                    ; 38; 12; 11; 15; 44; 48;  47
+15; Real Valladolid              ; 38; 11; 12; 15; 42; 57;  45
+16; RC Recreativo de Huelva      ; 38; 11; 11; 16; 40; 60;  44
+17; CA Osasuna (Pamplona)        ; 38; 12;  7; 19; 37; 44;  43
+
+18; Real Zaragoza                ; 38; 10; 12; 16; 50; 61;  42  
+*Relegated
+19; Real Murcia                  ; 38;  7;  9; 22; 36; 65;  30  
+*Relegated
+20; Levante UD (Valencia)        ; 38;  7;  5; 26; 33; 75;  26  
+*Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tabless/span09.html
+
+ 1; FC Barcelona                 ; 38; 27;  6;  5; 105; 35;  87  
+*Champions
+ 2; Real Madrid CF               ; 38; 25;  3; 10;  83; 52;  78  
+*Champions League
+ 3; Sevilla FC                   ; 38; 21;  7; 10;  54; 39;  70  
+*Champions League
+ 4; Atlético de Madrid           ; 38; 20;  7; 11;  80; 57;  67
+*  CL Qualifying
+ 5; Villarreal CF                ; 38; 18; 11;  9;  61; 54;  65
+*  Europa League
+ 6; Valencia CF                  ; 38; 18;  8; 12;  68; 54;  62
+*  Europa League
+ 7; RC Deportivo (La Coruña)     ; 38; 16; 10; 12;  48; 47;  58
+ 8; Málaga CF                    ; 38; 15; 10; 13;  55; 59;  55
+ 9; RCD Mallorca (Palma de M.)   ; 38; 14;  9; 15;  53; 60;  51
+10; RCD Espanyol (Barcelona)     ; 38; 12; 11; 15;  46; 49;  47
+11; UD Almería                   ; 38; 13;  7; 18;  45; 61;  46
+12; Racing de Santander          ; 38; 12; 10; 16;  49; 48;  46
+13; Athletic de Bilbao           ; 38; 12;  8; 18;  47; 62;  44
+*  Europa League (Cup)
+14; Sporting de Gijón            ; 38; 14;  1; 23;  47; 79;  43
+15; CA Osasuna (Pamplona)        ; 38; 10; 13; 15;  41; 47;  43
+16; Real Valladolid              ; 38; 12;  7; 19;  46; 58;  43
+17; Getafe CF                    ; 38; 10; 12; 16;  50; 56;  42
+
+18; Real Betis Balompié (Sevilla); 38; 10; 12; 16;  51; 58;  42
+*Relegated
+19; CD Numancia (Soria)          ; 38; 10;  5; 23;  38; 69;  35  
+*Relegated
+20; RC Recreativo de Huelva      ; 38;  8;  9; 21;  34; 57;  33  
+*Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tabless/span2010.html
+
+ 1; FC Barcelona                 ; 38; 31;  6;  1;  98; 24;  99  
+*Champions
+ 2; Real Madrid CF               ; 38; 31;  3;  4; 102; 35;  96
+ 3; Valencia CF                  ; 38; 21;  8;  9;  59; 40;  71
+ 4; Sevilla FC                   ; 38; 19;  6; 13;  65; 49;  63
+ 5; RCD Mallorca (Palma de M.)   ; 38; 18;  8; 12;  59; 44;  62
+ 6; Getafe CF                    ; 38; 17;  7; 14;  58; 48;  58
+ 7; Villarreal CF                ; 38; 16;  8; 14;  58; 57;  56
+ 8; Athletic de Bilbao           ; 38; 15;  9; 14;  50; 53;  54
+ 9; Atlético de Madrid           ; 38; 13;  8; 17;  57; 61;  47
+10; RC Deportivo (La Coruña)     ; 38; 13;  8; 17;  35; 49;  47
+11; RCD Espanyol (Barcelona)     ; 38; 11; 11; 16;  29; 46;  44
+12; CA Osasuna (Pamplona)        ; 38; 11; 10; 17;  37; 46;  43
+13; UD Almería                   ; 38; 10; 12; 16;  43; 55;  42
+14; Real Zaragoza                ; 38; 10; 11; 17;  46; 64;  41
+15; Sporting de Gijón            ; 38;  9; 13; 16;  36; 51;  40
+16; Racing de Santander          ; 38;  9; 12; 17;  42; 59;  39
+17; Málaga CF                    ; 38;  7; 16; 15;  42; 48;  37
+
+18; Real Valladolid              ; 38;  7; 15; 16;  37; 62;  36
+*Relegated
+19; CD Tenerife                  ; 38;  9;  9; 20;  40; 74;  36
+*Relegated
+20; Xerez CD                     ; 38;  8; 10; 20;  38; 66;  34  
+*Relegated
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tabless/span2011.html
+
+ 1; FC Barcelona                 ; 38; 30;  6;  2;  95; 21;  96  
+*Champions
+ 2; Real Madrid CF               ; 38; 29;  5;  4; 102; 33;  92
+ 3; Valencia CF                  ; 38; 21;  8;  9;  64; 44;  71
+ 4; Villarreal CF                ; 38; 18;  8; 12;  54; 44;  62
+ 5; Sevilla FC                   ; 38; 17;  7; 14;  62; 61;  58
+ 6; Athletic de Bilbao           ; 38; 18;  4; 16;  59; 55;  58
+ 7; Atlético de Madrid           ; 38; 17;  7; 14;  62; 53;  58
+ 8; RCD Espanyol (Barcelona)     ; 38; 15;  4; 19;  46; 55;  49
+ 9; CA Osasuna (Pamplona)        ; 38; 13;  8; 17;  45; 46;  47
+10; Sporting de Gijón            ; 38; 11; 14; 13;  35; 42;  47
+11; Málaga CF                    ; 38; 13;  7; 18;  54; 68;  46
+12; Racing de Santander          ; 38; 12; 10; 16;  41; 56;  46
+13; Real Zaragoza                ; 38; 12;  9; 17;  40; 53;  45
+14; Real Sociedad (San Sebastián); 38; 14;  3; 21;  49; 66;  45
+15; Levante UD (Valencia)        ; 38; 12;  9; 17;  41; 52;  45
+16; Getafe CF                    ; 38; 12;  8; 18;  49; 60;  44
+17; RCD Mallorca (Palma de M.)   ; 38; 12;  8; 18;  41; 56;  44
+
+18; RC Deportivo (La Coruña)     ; 38; 10; 13; 15;  31; 47;  43  
+*Relegated
+19; Hércules CF (Alicante)       ; 38;  9;  8; 21;  36; 60;  35  
+*Relegated
+20; UD Almería                   ; 38;  6; 12; 20;  36; 70;  30  
+*Relegated
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tabless/span2012.html
+
+ 1; Real Madrid CF               ; 38;  32;  4;  2; 121; 32; 100  
+*Champions
+ 2; FC Barcelona                 ; 38;  28;  7;  3; 114; 29;  91
+ 3; Valencia CF                  ; 38;  17; 10; 11;  59; 44;  61
+ 4; Málaga CF                    ; 38;  17;  7; 14;  54; 53;  58
+ 5; Atlético de Madrid           ; 38;  15; 11; 12;  53; 46;  56
+ 6; Levante UD (Valencia)        ; 38;  16;  7; 15;  54; 50;  55
+ 7; CA Osasuna (Pamplona)        ; 38;  13; 15; 10;  44; 61;  54
+ 8; RCD Mallorca (Palma de M.)   ; 38;  14; 10; 14;  42; 46;  52
+ 9; Sevilla FC                   ; 38;  13; 11; 14;  48; 47;  50
+10; Athletic de Bilbao           ; 38;  12; 13; 13;  49; 52;  49
+11; Getafe CF                    ; 38;  12; 11; 15;  40; 51;  47
+12; Real Sociedad (San Sebastián); 38;  12; 11; 15;  46; 52;  47
+13; Real Betis Balompié (Sevilla); 38;  13;  8; 17;  47; 56;  47
+14; RCD Espanyol (Barcelona)     ; 38;  12; 10; 16;  46; 56;  46
+15; Rayo Vallecano               ; 38;  13;  4; 21;  53; 73;  43
+16; Real Zaragoza                ; 38;  12;  7; 19;  36; 61;  43
+17; Granada CF                   ; 38;  12;  6; 20;  35; 56;  42
+
+18; Villarreal CF                ; 38;   9; 14; 15;  39; 53;  41  
+*Relegated
+19; Sporting de Gijón            ; 38;  10;  7; 21;  42; 69;  37  
+*Relegated
+20; Racing de Santander          ; 38;   4; 15; 19;  28; 63;  27  
+*Relegated
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tabless/span2013.html
+
+ 1; FC Barcelona                 ; 38;  32;  4;  2; 115; 40; 100  
+*Champions
+ 2; Real Madrid CF               ; 38;  26;  7;  5; 103; 42;  85
+ 3; Atlético de Madrid           ; 38;  23;  7;  8;  65; 31;  76
+ 4; Real Sociedad (San Sebastián); 38;  18; 12;  8;  70; 49;  66
+ 5; Valencia CF                  ; 38;  19;  8; 11;  67; 54;  65
+ 6; Málaga CF                    ; 38;  16;  9; 13;  53; 50;  57
+ 7; Real Betis Balompié (Sevilla); 38;  16;  8; 14;  57; 56;  56
+ 8; Rayo Vallecano               ; 38;  16;  5; 17;  50; 66;  53
+ 9; Sevilla FC                   ; 38;  14;  8; 16;  58; 54;  50
+10; Getafe CF                    ; 38;  13;  8; 17;  43; 57;  47
+11; Levante UD (Valencia)        ; 38;  12; 10; 16;  40; 57;  46
+12; Athletic de Bilbao           ; 38;  12;  9; 17;  44; 65;  45
+13; RCD Espanyol (Barcelona)     ; 38;  11; 11; 16;  43; 52;  44
+14; Real Valladolid              ; 38;  11; 10; 17;  49; 58;  43
+15; Granada CF                   ; 38;  11;  9; 18;  37; 54;  42
+16; CA Osasuna (Pamplona)        ; 38;  10;  9; 19;  33; 50;  39
+17; RC Celta (Vigo)              ; 38;  10;  7; 21;  37; 52;  37
+
+18; RCD Mallorca (Palma de M.)   ; 38;   9;  9; 20;  43; 72;  36  
+*Relegated
+19; RC Deportivo (La Coruña)     ; 38;   8; 11; 19;  47; 70;  35  
+*Relegated
+20; Real Zaragoza                ; 38;   9;  7; 22;  37; 62;  34  
+*Relegated

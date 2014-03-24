@@ -1,0 +1,476 @@
+Competition: Ekstraklasa
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesp/pol2013.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+
+ 1; Legia Warszawa                   ; 30;  20;  7;  3;  59; 22;  67;  Champions
+ 2; Lech Poznań                      ; 30;  19;  4;  7;  46; 22;  61;
+ 3; Śląsk Wrocław                    ; 30;  13;  8;  9;  44; 42;  47;
+ 4; Piast Gliwice                    ; 30;  13;  7; 10;  41; 41;  46;
+ 5; Górnik Zabrze                    ; 30;  12;  7; 11;  35; 31;  43;
+ 6; Polonia Warszawa                 ; 30;  11;  9; 10;  45; 34;  42;  Demoted
+ 7; Wisła Kraków                     ; 30;  10;  8; 12;  28; 35;  38;  [2 1 1 0 1-0 4]
+ 8; Lechia Gdańsk                    ; 30;  10;  8; 12;  42; 43;  38;  [2 0 1 1 0-1 1]
+ 9; Zagłębie Lubin                   ; 30;  11;  7; 12;  38; 37;  37;  [-3]    [2 1 1 0 2-1 4]
+10; Jagiellonia Białystok            ; 30;   8; 13;  9;  31; 45;  37;          [2 0 1 1 1-2 1]
+11; Korona Kielce                    ; 30;   9;  9; 12;  32; 37;  36;
+12; Pogoń Szczecin                   ; 30;  10;  5; 15;  29; 39;  35;
+13; Widzew Łódź                      ; 30;   8;  9; 13;  30; 41;  33;
+14; Podbeskidzie Bielsko-Biała       ; 30;   8;  8; 14;  39; 43;  32;
+15; Ruch Chorzów                     ; 30;   8;  7; 15;  35; 48;  31;  [2 2 0 0 5-1 6]
+
+16; GKS Bełchatów                    ; 30;   7; 10; 13;  24; 38;  31;  [2 0 0 2 1-5 0]  Relegated
+
+*NB: Zagłębie Lubin 3 points deducted for corruption affair in 2005/06;
+*    Polonia Warszawa demoted after failing to obtain a license for 2013/14
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesp/pol2012.html
+
+ 1; Śląsk Wrocław                    ; 30;  17;  5;  8;  47; 31;  56;  Champions
+ 2; Ruch Chorzów                     ; 30;  16;  7;  7;  44; 28;  55;
+ 3; Legia Warszawa                   ; 30;  15;  8;  7;  42; 17;  53;
+ 4; Lech Poznań                      ; 30;  15;  7;  8;  42; 22;  52;
+ 5; Korona Kielce                    ; 30;  13;  9;  8;  34; 29;  48;
+ 6; Polonia Warszawa                 ; 30;  13;  6; 11;  33; 32;  45;
+ 7; Wisła Kraków                     ; 30;  12;  7; 11;  29; 26;  43;
+ 8; Górnik Zabrze                    ; 30;  11;  9; 10;  36; 30;  42;
+ 9; Zagłębie Lubin                   ; 30;  11;  7; 12;  36; 42;  40;
+10; Jagiellonia Białystok            ; 30;  11;  6; 13;  35; 45;  39;
+11; Widzew Łódź                      ; 30;   9; 12;  9;  25; 26;  39;
+12; Podbeskidzie Bielsko-Biała       ; 30;   9;  8; 13;  26; 39;  35;
+13; Lechia Gdańsk                    ; 30;   7; 10; 13;  21; 30;  31;
+14; GKS Bełchatów                    ; 30;   7; 10; 13;  34; 36;  31;
+
+15; Łódzki KS                        ; 30;   5;  9; 16;  23; 53;  24;  Relegated
+16; Cracovia (Kraków)                ; 30;   4; 10; 16;  20; 41;  22;  Relegated
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesp/pol2011.html
+
+ 1; Wisła Kraków                     ; 30;  17;  5;  8;  44; 29;  56;  Champions
+ 2; Śląsk Wrocław                    ; 30;  13; 10;  7;  46; 34;  49;
+ 3; Legia Warszawa                   ; 30;  15;  4; 11;  45; 38;  49;
+ 4; Jagiellonia Białystok            ; 30;  14;  6; 10;  38; 32;  48;
+ 5; Lech Poznań                      ; 30;  13;  6; 11;  37; 23;  45;
+ 6; Górnik Zabrze                    ; 30;  13;  6; 11;  36; 40;  45;
+ 7; Polonia Warszawa                 ; 30;  12;  8; 10;  41; 26;  44;
+ 8; Lechia Gdańsk                    ; 30;  12;  7; 11;  37; 36;  43;
+ 9; Widzew Łódź                      ; 30;  11; 10;  9;  41; 34;  43;
+10; GKS Bełchatów                    ; 30;  10; 10; 10;  31; 33;  40;
+11; Zagłębie Lubin                   ; 30;  10;  9; 11;  31; 38;  39;
+12; Ruch Chorzów                     ; 30;  10;  8; 12;  29; 32;  38;
+13; Korona Kielce                    ; 30;  10;  7; 13;  34; 48;  37;
+14; Cracovia (Kraków)                ; 30;   8;  5; 17;  37; 47;  29;
+
+15; Arka Gdynia                      ; 30;   6; 10; 14;  22; 43;  28;  Relegated
+16; Polonia Bytom                    ; 30;   6;  9; 15;  29; 45;  27;  Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesp/pol2010.html
+
+ 1; Lech Poznań                      ; 30; 19;  8;  3; 51; 20; 65;  Champions
+ 2; Wisła Kraków                     ; 30; 19;  5;  6; 48; 20; 62;
+ 3; Ruch Chorzów                     ; 30; 16;  5;  9; 40; 30; 53;
+ 4; Legia Warszawa                   ; 30; 15;  7;  8; 36; 22; 52;
+ 5; GKS Bełchatów                    ; 30; 13;  9;  8; 37; 27; 48;
+ 6; Korona Kielce                    ; 30;  9; 10; 11; 35; 41; 37;  [4 2 1 1 3-2 7]
+ 7; Polonia Bytom                    ; 30;  9; 10; 11; 29; 31; 37;  [4 1 2 1 2-2 5]
+ 8; Lechia Gdańsk                    ; 30;  9; 10; 11; 30; 32; 37;  [4 0 3 1 2-3 3]
+ 9; Śląsk Wrocław                    ; 30;  8; 12; 10; 32; 33; 36;
+10; Zagłębie Lubin                   ; 30;  8; 11; 11; 30; 38; 35;
+11; Jagiellonia Białystok            ; 30; 11; 11;  8; 29; 27; 34;  [-10]  [2 1 1 0 1-0 4]
+12; Cracovia (Kraków)                ; 30;  9;  7; 14; 25; 39; 34;         [2 0 1 1 0-1 1]
+13; Polonia Warszawa                 ; 30;  9;  6; 15; 25; 38; 33;
+14; Arka Gdynia                      ; 30;  7;  7; 16; 28; 39; 28;
+
+15; Odra Wodzisław Śląski            ; 30;  7;  6; 17; 27; 45; 27;  [2 1 0 1 3-2 3]  Relegated
+16; Piast Gliwice                    ; 30;  7;  6; 17; 30; 50; 27;  [2 1 0 1 2-3 3]  Relegated
+
+*NB: Jagiellonia 10 points deducted
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesp/pol09.html
+
+ 1; Wisła Kraków                     ; 30; 19;  7;  4; 53; 21; 64;  Champions
+ 2; Legia Warszawa                   ; 30; 18;  7;  5; 52; 17; 61;
+ 3; Lech Poznań                      ; 30; 16; 11;  3; 51; 24; 59;
+ 4; Polonia Warszawa                 ; 30; 15;  9;  6; 40; 23; 54;  [2 2 0 0 3-1 6]  [*]
+ 5; GKS Bełchatów                    ; 30; 17;  3; 10; 40; 28; 54;  [2 0 0 2 1-3 0]
+ 6; Śląsk Wrocław                    ; 30; 11; 12;  7; 40; 34; 45;
+ 7; Polonia Bytom                    ; 30; 10;  5; 15; 30; 46; 35;
+ 8; Jagiellonia Białystok            ; 30;  9;  7; 14; 28; 34; 34;  [2 1 1 0 1-0 4]
+ 9; Ruch Chorzów                     ; 30;  9;  7; 14; 22; 32; 34;  [2 0 1 1 0-1 1]
+10; Piast Gliwice                    ; 30;  9;  6; 15; 17; 26; 33;
+11; Lechia Gdańsk                    ; 30;  9;  5; 16; 30; 44; 32;  [2 1 0 1 3-2 3]
+12; Odra Wodzisław Śląski            ; 30;  8;  8; 14; 23; 40; 32;  [2 1 0 1 2-3 3]
+13; Arka Gdynia                      ; 30;  7;  9; 14; 27; 39; 30;  [2 1 1 0 2-1 4]  
+
+14; Cracovia (Kraków)                ; 30;  7;  9; 14; 24; 40; 30;  [2 0 1 1 1-2 1]  Relegation Playoff
+
+15; Górnik Zabrze                    ; 30;  7;  8; 15; 20; 33; 29;  Relegated
+16; Łódzki KS                        ; 30; 10;  5; 15; 27; 43; 35;  [!]  Relegated
+
+*[*] Dyskobolia Grodzisk Wielkopolski merged with Polonia Warszawa
+*      into Polonia Warszawa
+*[!] Łódzki KS failed to obtain license for next season, are
+*      ranked last and relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesp/pol08.html
+
+ 1; Wisła Kraków                     ; 30; 24;  5;  1; 68; 18; 77;  Champions
+ 2; Legia Warszawa                   ; 30; 20;  3;  7; 48; 17; 63;
+ 3; Dyskobolia Grodzisk Wielkopolski ; 30; 18;  6;  6; 52; 24; 60;
+ 4; Lech Poznań                      ; 30; 17;  6;  7; 55; 32; 57;
+ 5; Zagłębie Lubin                   ; 30; 15;  7;  8; 43; 30; 52;  Relegated to 2nd level
+ 6; Korona Kielce                    ; 30; 15;  6;  9; 38; 32; 51;  Relegated to 2nd level
+ 7; Cracovia (Kraków)                ; 30; 11;  6; 13; 30; 32; 39;  [2 1 0 1 3-1 3]
+ 8; Górnik Zabrze                    ; 30; 11;  6; 13; 34; 39; 39;  [2 1 0 1 1-3 3]
+ 9; GKS Bełchatów                    ; 30;  9; 11; 10; 26; 32; 38;
+10; Ruch Chorzów                     ; 30;  8; 10; 12; 35; 41; 34;
+11; Łódzki KS                        ; 30;  7;  9; 14; 25; 31; 30;
+12; Odra Wodzisław Śląski            ; 30;  8;  5; 17; 28; 47; 29;
+13; Polonia Bytom                    ; 30;  7;  7; 16; 22; 45; 28;
+14; Jagiellonia Białystok            ; 30;  7;  6; 17; 27; 57; 27;
+
+15; Widzew Łódź                      ; 30;  5; 11; 14; 27; 42; 26;  Relegated to 3rd level
+16; Zagłębie Sosnowiec               ; 30;  4;  4; 22; 19; 58; 16;  Relegated to 3rd level
+
+*NB: Zagłębie Sosnowiec are relegated an additional level due
+*    to corruption
+*
+*NB: after the season, also Zagłębie Lubin and Korona Kielce were
+*      relegated on corruption charges, while Polonia Bytom were
+*      readmitted after appealing their original demotion;
+*    Dyskobolia Grodzisk Wielkopolski merged with Polonia Warszawa
+*      into Polonia Warszawa
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesp/pol07.html
+
+ 1; Zagłębie Lubin                  ; 30; 18;  8;  4; 57; 29; 62;  Champions
+ 2; GKS Bełchatów                   ; 30; 19;  4;  7; 63; 32; 61;
+ 3; Legia Warszawa                  ; 30; 16;  4; 10; 53; 33; 52;
+ 4; Cracovia (Kraków)               ; 30; 14;  7;  9; 48; 41; 49;
+ 5; Dyskobolia Grodzisk Wielkopolski; 30; 11; 15;  4; 40; 26; 48;
+ 6; Lech Poznań                     ; 30; 12; 11;  7; 53; 36; 47;  [*]   [2 1 1 0 5-2 4]
+ 7; Korona Kielce                   ; 30; 14;  5; 11; 41; 34; 47;        [2 0 1 1 2-5 1]
+ 8; Wisła Kraków                    ; 30; 10; 16;  4; 41; 25; 46;
+ 9; Łódzki KS                       ; 30; 10; 11;  9; 31; 30; 41;
+10; Odra Wodzisław Śląski           ; 30; 10; 10; 10; 29; 36; 40;        [2 1 1 0 2-1 4]
+11; Arka Gdynia                     ; 30; 10; 10; 10; 43; 39; 40;  [R2]  [2 0 1 1 1-2 1]
+12; Widzew Łódź                     ; 30;  7;  7; 16; 27; 48; 28;
+13; Górnik Łęczna                   ; 30;  7;  5; 18; 24; 64; 26;  [R3]
+14; Górnik Zabrze                   ; 30;  6;  7; 17; 30; 51; 25;
+
+15; Wisła Płock                     ; 30;  4; 11; 15; 20; 47; 23;  Relegated
+16; Pogoń Szczecin                  ; 30;  3;  7; 20; 24; 53; 16;  Relegated
+
+* [*] Lech Poznań absorbed Amica Wronki
+* NB: Łódzki KS had a deduction of 3 points apparently revoked;
+*
+*[R2] Arka Gdynia relegated to second level for 2007/08 due to corruption
+*     scandal
+*[R3] Górnik Łęczna relegated to third level for 2007/08 due to
+*     corruption scandal
+*
+*NB: due to the forced relegation of Arka Gdynia and Górnik Łęczna,
+*    who both finished above the relegation zone, the 14th placed team
+*    does not have to enter a promotion/relegation playoff and 4 teams
+*    are promoted from the 2nd level
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesp/pol06.html
+
+ 1; Legia Warszawa                  ; 30; 20;  6;  4; 47; 17; 66;  Champions
+ 2; Wisła Kraków                    ; 30; 19;  7;  4; 50; 20; 64;
+ 3; Zagłębie Lubin                  ; 30; 14;  7;  9; 45; 32; 49;  [2 1 0 1  3- 3 3 1 ag]
+ 4; Amica Wronki                    ; 30; 14;  7;  9; 50; 28; 49;  [2 1 0 1  3- 3 3 0 ag]
+ 5; Korona Kielce                   ; 30; 12; 11;  7; 46; 33; 47;
+ 6; Lech Poznań                     ; 30; 11;  9; 10; 45; 45; 42;
+ 7; Odra Wodzisław Śląski           ; 30; 10; 10; 10; 23; 27; 40;
+ 8; Dyskobolia Grodzisk Wielkopolski; 30; 10;  7; 13; 37; 45; 37;  [6 4 1 1 16- 9 13]
+ 9; Cracovia (Kraków)               ; 30; 10;  7; 13; 32; 44; 37;  [6 3 0 3  7-11  9]
+10; GKS Bełchatów                   ; 30;  9; 10; 11; 30; 32; 37;  [6 2 2 2  8- 7  8]
+11; Pogoń Szczecin                  ; 30;  9; 10; 11; 29; 34; 37;  [6 1 1 4  5- 9  4]
+12; Wisła Płock                     ; 30; 10;  4; 16; 30; 45; 34;
+13; Górnik Łęczna                   ; 30;  7; 12; 11; 23; 31; 33;
+
+14; Górnik Zabrze                   ; 30;  8;  5; 17; 29; 46; 29;  Relegation Playoff
+
+15; Arka Gdynia                     ; 30;  4; 15; 11; 21; 33; 27;  Relegated
+16; Polonia Warszawa                ; 30;  6;  7; 17; 20; 45; 25;  Relegated
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesp/pol05.html
+
+ 1; Wisła Kraków                    ; 26; 19;  5;  2; 70; 23; 62;  Champions
+ 2; Dyskobolia Grodzisk Wielkopolski; 26; 16;  3;  7; 46; 28; 51;
+ 3; Legia Warszawa                  ; 26; 13;  8;  5; 42; 19; 47;
+ 4; Wisła Płock                     ; 26; 12;  5;  9; 35; 30; 41;
+ 5; Cracovia (Kraków)               ; 26; 12;  4; 10; 37; 29; 40;
+ 6; Amica Wronki                    ; 26; 10;  8;  8; 29; 28; 38;
+ 7; Górnik Łęczna                   ; 26; 10;  6; 10; 36; 36; 36;
+ 8; Lech Poznań                     ; 26; 10;  4; 12; 34; 40; 34;
+ 9; Pogoń Szczecin                  ; 26;  7; 10;  9; 34; 43; 31;
+10; Polonia Warszawa                ; 26;  8;  5; 13; 27; 52; 29;
+11; Górnik Zabrze                   ; 26;  7;  7; 12; 27; 30; 28;  [2 0 2 0 2-2 2]
+12; Zagłębie Lubin                  ; 26;  6; 10; 10; 31; 41; 28;  [2 0 2 0 2-2 2]
+
+13; Odra Wodzisław Śląski           ; 26;  7;  3; 16; 27; 41; 24;  Relegation Playoff
+
+14; GKS Katowice                    ; 26;  4;  4; 18; 23; 58; 16;  Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesp/pol04.html
+
+ 1; Wisla Kraków                ; 26; 21;  2;  3; 73; 30; 65;  Champions
+ 2; Legia Warszawa              ; 26; 18;  6;  2; 56; 19; 60;
+ 3; Amica Wronki                ; 26; 14;  6;  6; 47; 25; 48;
+ 4; Groclin-Dyskobolia Grodzisk ; 26; 13;  7;  6; 59; 31; 46;
+ 5; Wisla Plock                 ; 26; 10;  8;  8; 41; 39; 38;
+ 6; Lech Poznan                 ; 26; 10;  7;  9; 43; 34; 37;
+ 7; Górnik Zabrze               ; 26;  8;  9;  9; 26; 33; 33;  [2 1 0 1 2-1 3]
+ 8; Górnik Leczna               ; 26; 10;  3; 13; 22; 38; 33;  [2 1 0 1 1-2 3]
+ 9; Odra Wodzislaw              ; 26;  8;  4; 14; 27; 40; 28;
+10; Dospel Katowice             ; 26;  6;  8; 12; 20; 42; 26;
+11; Polonia Warszawa            ; 26;  6;  7; 13; 25; 40; 25;
+
+12; Górnik Polkowice            ; 26;  6;  5; 15; 17; 37; 23;  Relegation Playoff
+
+13; Lukullus/Swit Nowy Dwór     ; 26;  5;  7; 14; 21; 42; 22;  Relegated
+14; Widzew Lódz                 ; 26;  4;  7; 15; 25; 52; 19;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesp/pol03.html
+
+ 1; Wisla Kraków                ; 30; 21;  5;  4; 75; 28; 68;  Champions
+ 2; Groclin-Dyskobolia Grodzisk ; 30; 18;  8;  4; 56; 26; 62;  UEFA Cup
+ 3; Dospel Katowice             ; 30; 19;  4;  7; 39; 21; 61;  [*2] 
+ 4; Legia Warszawa              ; 30; 17;  9;  4; 61; 29; 60;
+ 5; Odra Wodzislaw              ; 30; 17;  5;  8; 55; 42; 56;
+ 6; Amica Wronki                ; 30; 11; 10;  9; 43; 34; 43;
+ 7; Górnik Zabrze               ; 30; 10; 11;  9; 46; 32; 41;  [2 0 2 0 1-1 2 1 ag]
+ 8; Polonia Warszawa            ; 30; 11;  8; 11; 37; 45; 41;  [2 0 2 0 1-1 2 0 ag]
+ 9; Widzew Lódz                 ; 30; 10;  7; 13; 29; 39; 37;  [2 1 0 1 3-3 3 2 ag]
+10; Wisla Plock                 ; 30; 10;  7; 13; 29; 38; 37;  [2 1 0 1 3-3 3 0 ag] [*1]
+11; Lech Poznan                 ; 30;  8; 11; 11; 41; 38; 35;
+
+12; Zaglebie Lubin              ; 30;  8;  8; 14; 34; 44; 32;  [4 3 1 0 7-2 10]  Playoff
+13; Garbarnia Szczakowianka     ; 30;  8;  8; 14; 40; 54; 32;  [4 1 2 1 8-5  5]  Playoff
+
+14; Ruch Chorzów                ; 30;  7; 11; 12; 29; 39; 32;  [4 0 1 3 4-12 0]  Relegated
+15; KSZO Ostrowiec              ; 30;  4;  3; 23; 21; 63; 15;  Relegated
+16; Pogon Szczecin              ; 30;  2;  3; 25; 14; 77;  9;  Relegated
+
+*[*1] Orlen Plock changed name to Wisla Plock before the season
+*[*2] GKS Katowice took the name Dospel Katowice after their 
+*     new sponsor on Oct 14, 2002.
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesp/pol02.html
+
+Group: A
+
+ 1; Odra Wodzislaw              ; 14; 10;  1;  3; 28; 14; 31;  Qualified
+ 2; Wisla Kraków                ; 14;  9;  1;  4; 28; 15; 28;  Qualified
+ 3; Polonia Warszawa            ; 14;  7;  4;  3; 25; 13; 25;  Qualified
+ 4; GKS Katowice                ; 14;  5;  3;  6; 17; 23; 18;  [2 1 1 0 3-2 4]  Qualified
+
+ 5; Zaglebie Lubin              ; 14;  5;  3;  6; 23; 28; 18;  [2 0 1 1 2-3 1]
+ 6; KSZO Ostrowiec              ; 14;  4;  3;  7; 14; 18; 15;
+ 7; Górnik Zabrze               ; 14;  2;  5;  7; 13; 22; 11;  [2 1 1 0 3-2 4] 
+ 8; Widzew Lódz                 ; 14;  3;  2;  9;  9; 24; 11;  [2 0 1 1 2-3 1]
+
+Group: B
+
+ 1; Legia Warszawa              ; 14;  8;  3;  3; 31; 14; 27;  Qualified
+ 2; Pogon Szczecin              ; 14;  7;  3;  4; 20; 16; 24;  [2 1 1 0 4-2 4] Qualified
+ 3; Amica Wronki                ; 14;  6;  6;  2; 26; 16; 24;  [2 0 1 1 2-4 1] Qualified
+ 4; Ruch Chorzów                ; 14;  5;  4;  5; 16; 18; 19;  Qualified
+
+ 5; Slask Wroclaw               ; 14;  5;  3;  6; 21; 25; 18; 
+ 6; RKS-FAMEG Radomsko          ; 14;  4;  4;  6; 10; 16; 16;
+ 7; Groclin-Dyskobolia Grodzisk ; 14;  4;  3;  7; 18; 23; 15;
+ 8; Stomil Olsztyn              ; 14;  2;  4;  8; 10; 24; 10;
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesp/pol01.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+ 1; Wisla Kraków                ; 30; 19;  5;  6; 66; 27; 62;  Champions
+ 2; Pogon Szczecin              ; 30; 16;  5;  9; 43; 33; 53; 
+ 3; Legia Warszawa              ; 30; 14;  8;  8; 45; 29; 50;
+ 4; Polonia Warszawa            ; 30; 13;  7; 10; 38; 30; 46;  [2 2 0 0 3-0 6]
+ 5; Zaglebie Lubin              ; 30; 14;  4; 12; 43; 40; 46;  [2 0 0 2 0-3 0]
+ 6; Ruch Chorzów                ; 30; 13;  5; 12; 50; 48; 44;  [2 1 0 1 4-3 3]
+ 7; Amica Wronki                ; 30; 13;  5; 12; 48; 44; 44;  [2 1 0 1 3-4 3]
+ 8; GKS Katowice                ; 30;  9; 15;  6; 28; 22; 42; 
+ 9; Odra Wodzislaw              ; 30; 10;  9; 11; 39; 46; 39;
+10; Groclin-Dyskobolia Grodzisk ; 30;  9; 10; 11; 35; 38; 37; 
+11; Slask Wroclaw               ; 30;  9;  9; 12; 32; 38; 36;  [2 1 1 0 3-0 4]
+12; Widzew Lódz                 ; 30;  9;  9; 12; 33; 40; 36;  [2 0 1 1 0-3 1]
+13; Górnik Zabrze               ; 30;  9;  7; 14; 29; 35; 34;  [2 1 0 1 2-1 3]
+
+14; Stomil Olsztyn              ; 30; 10;  4; 16; 22; 41; 34;  [2 1 0 1 1-2 3] Relegation Playoff
+
+15; Orlen Plock                 ; 30;  9;  4; 17; 37; 55; 31;  [2 1 0 1 7-5 3] Relegated [*]
+16; Ruch Radzionków             ; 30;  9;  4; 17; 29; 51; 31;  [2 1 0 1 5-7 3] Relegated  
+
+*[*] Petrochemia Plock changed name to Orlen Plock before the season
+
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesp/pol00.html
+
+ 1; Polonia Warszawa            ; 30; 20;  5;  5;  56; 26;  65;  Champions
+ 2; Wisła Kraków                ; 30; 16;  8;  6;  64; 38;  56;
+ 3; Ruch Chorzów                ; 30; 15; 10;  5;  53; 32;  55; 
+ 4; Legia Warszawa              ; 30; 14; 10;  6;  53; 34;  52; 
+ 5; Zagłębie Lubin              ; 30; 12;  9;  9;  42; 37;  45;
+ 6; Amica Wronki                ; 30; 11; 11;  8;  43; 37;  44; 
+ 7; Widzew Łódz                 ; 30; 11;  7; 12;  48; 54;  40; 
+ 8; Stomil Olsztyn              ; 30;  8; 13;  9;  33; 43;  37;  [4 3 0 1 5-4 9]
+ 9; Odra Wodzisław Śląski       ; 30; 10;  7; 13;  34; 38;  37;  [4 1 1 2 5-5 4]
+10; Ruch Radzionków             ; 30; 11;  4; 15;  38; 49;  37;  [4 1 1 2 2-3 4]
+11; Groclin-Dyskobolia Grodzisk ; 30; 11;  3; 16;  29; 46;  36; 
+12; Petrochemia Płock           ; 30;  9;  7; 14;  35; 48;  34;  [2 1 0 1 4-3 3]
+13; Pogoń Szczecin              ; 30;  8; 10; 12;  41; 53;  34;  [2 1 0 1 3-4 3]
+14; Górnik Zabrze               ; 30;  8;  8; 14;  42; 41;  32;
+
+15; ŁKS Łódź                    ; 30;  7;  7; 16;  29; 42;  28;  Relegated
+16; Lech Poznań                 ; 30;  6;  7; 17;  34; 57;  25;  Relegated
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesp/pol99.html
+
+ 1; Wisła Kraków                ; 30; 23;  4;  3; 75; 23; 73; Champions
+
+ 2; Widzew-Piast Łódź           ; 30; 18;  2; 10; 50; 33; 56; [2 1 0 1  3- 3 3]  Champions' League 
+
+ 3; Legia Daewoo Warszawa       ; 30; 16;  8;  6; 41; 25; 56; [2 1 0 1  3- 3 3]  UEFA Cup
+ 4; Lech Poznań                 ; 30; 17;  3; 10; 55; 36; 54;  UEFA Cup
+
+ 5; Polonia Warszawa            ; 30; 13;  7; 10; 38; 31; 46;  UEFA-Intertoto Cup
+ 6; Ruch Radzionków             ; 30; 10; 11;  9; 40; 35; 41;
+ 7; Górnik Zabrze               ; 30;  9; 12;  9; 34; 31; 39;
+ 8; Zagłębie Lubin              ; 30;  9; 11; 10; 42; 44; 38;
+ 9; Stomil Olsztyn              ; 30; 10;  7; 13; 29; 38; 37;
+10; Ruch Chorzów                ; 30;  9;  9; 12; 23; 36; 36;
+11; ŁKS-Ptak Łódź               ; 30;  8; 10; 12; 33; 45; 34; [2 2 0 0  4- 1 6]
+12; Amica Wronki                ; 30;  9;  7; 14; 31; 39; 34; [2 0 0 2  1- 4 0]  UEFA Cup ?
+13; Pogoń Szczecin              ; 30;  9;  6; 15; 33; 54; 33;
+14; Odra Wodzisław              ; 30;  8;  8; 14; 33; 41; 32;
+
+15; GKS Bełchatów               ; 30;  7;  7; 16; 26; 48; 28;  Relegated, UEFA Cup ?
+16; GKS Katowice                ; 30;  5;  8; 17; 25; 49; 23;  Relegated
+
+*[*] Widzew Łódź added the name of the sponsor to their name in the middle of the season.
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesp/pol98.html
+
+*Thanks to Pawel Mogielnicki and Michal Kaczmarek (mk@arrakis.cs.put.poznan.pl).
+ 
+ 1; LKS-Ptak Lodz               ; 34; 19;  9;  6;  52; 23; 66;  Champions
+
+ 2; Polonia Warszawa            ; 34; 18;  9;  7;  46; 30; 63;  UEFA Cup
+ 3; Wisla Krakow                ; 34; 18;  7;  9;  50; 30; 61;  UEFA Cup  [2 1 1 0 7-1 4]
+
+ 4; Widzew Lodz                 ; 34; 18;  7;  9;  53; 34; 61;  [2 0 1 1 1-7 1]
+ 5; Legia-Daewoo Warszawa       ; 34; 16; 11;  7;  50; 32; 59;
+ 6; Ruch Chorzow                ; 34; 15; 10;  9;  48; 39; 55;  UIC?
+ 7; Amica Wronki                ; 34; 13; 11; 10;  38; 31; 50;
+ 8; Gornik Zabrze               ; 34; 12; 12; 10;  48; 42; 48;  [2 1 0 1 7-3 3]
+ 9; Odra Wodzislaw              ; 34; 14;  6; 14;  51; 50; 48;  [2 1 0 1 3-7 3]
+10; Lech Poznan                 ; 34; 12; 10; 12;  41; 37; 46;
+11; Stomil Olsztyn              ; 34; 12;  9; 13;  38; 45; 45;
+12; GKS Katowice                ; 34; 10; 13; 11;  37; 33; 43;  [4 2 2 0 8-6 8]
+13; Zaglebie Lubin              ; 34; 12;  7; 15;  39; 40; 43;  [4 1 3 0 6-3 6]
+14; Pogon Szczecin              ; 34; 10; 13; 11;  36; 40; 43;  [4 0 1 3 5-10 1]
+
+15; Petrochemia Plock           ; 34; 10;  8; 16;  28; 54; 38;  Relegated
+16; Groclin-Dyskobolia Grodzisk ; 34;  8;  5; 21;  30; 55; 29;  Relegated
+17; KSZO Ostrowiec              ; 34;  6;  6; 22;  24; 47; 24;  Relegated
+18; Rakow Czestochowa           ; 34;  4;  5; 25;  21; 68; 17;  Relegated
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesp/pol97.html
+
+*With thanks to Piotr Dabrowski.
+
+  1; Widzew Lodz       ; 34;  25;  6;  3;  74; 21;   81;  Champions
+  2; Legia Warszawa    ; 34;  24;  5;  5;  66; 27;   77;  CWC
+  3; Odra Wodzislaw    ; 34;  16;  7; 11;  51; 44;   55;  UEFA Cup
+  4; GKS Katowice      ; 34;  14; 11;  9;  47; 40;   53;  
+  5; Amica Wronki      ; 34;  14; 10; 10;  41; 40;   52;
+  6; LKS Lodz          ; 34;  13; 10; 11;  55; 45;   49;  [2 1 0 1 3-3 3]
+  7; Zaglebie Lubin    ; 34;  13; 10; 11;  44; 38;   49;  [2 1 0 1 3-3 3]
+  8; Polonia Warszawa  ; 34;  13;  9; 12;  40; 44;   48;
+  9; Stomil Olsztyn    ; 34;  12;  8; 14;  45; 46;   44;  [4 3 0 1 8-2 9]
+ 10; Rakow Czestochowa ; 34;  11; 11; 12;  35; 39;   44;  [4 2 1 1 5-5 7]
+ 11; Lech Poznan       ; 34;  11; 11; 12;  40; 40;   44;  [4 0 1 3 1-7 1]
+ 12; Wisla Krakow      ; 34;  11;  9; 14;  33; 42;   42;
+ 13; Gornik Zabrze     ; 34;  11;  8; 15;  40; 45;   41;
+ 14; Ruch Chorzow      ; 34;   9; 13; 12;  41; 41;   40;  [2 2 0 0 4-0 6]
+
+ 15; GKS Belchatow     ; 34;  11;  7; 16;  36; 43;   40;  [2 0 0 2 0-4 0]
+ 16; Hutnik Krakow     ; 34;   8; 11; 15;  34; 46;   35;  
+ 17; Slask Wroclaw     ; 34;   6;  6; 22;  24; 56;   24;  [withdrew]
+ 18; Sokol Tychy       ; 34;   5;  6; 23;  18; 67;   21;  [withdrew]
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesp/pol96.html
+
+*Thanks to Ken Butler, Piotr T. Prussak, Piotr Dabrowski and Andrei Zlotkowski.
+
+*                           pl    w  d  l   gf ga  pts
+*
+*c  1 WIDZEW LODZ           34   27  7  0   84 22   88
+*
+*u  2 LEGIA WARSZAWA        34   27  4  3   95 22   85
+*u  3 HUTNIK KRAKOW         34   15  7 12   48 43   52
+*
+*   4 LKS Lodz              34   13 10 11   44 38   49
+*   5 Amica Wronki          34   13  9 12   35 37   48
+*   6 Stomil Olsztyn        34   13  7 14   32 41   46
+*   7 Lech Poznan           34   11 12 11   45 40   45
+*   8 Rakow Czestochowa     34   12  8 14   33 36   44
+*   9 Sokol Tychy           34   11 11 12   36 40   44
+*  10 Zaglebie Lubin        34   11 11 12   34 35   44
+*  11 GKS Katowice          34   11 10 13   36 37   43
+*  12 Gornik Zabrze         34   10 13 11   45 52   43
+*  13 GKS Belchatow         34   12  6 16   40 54   42
+*  14 Slask Wroclaw         34    9 15 10   39 41   42
+*
+*r 15 Pogon Szczecin        34   11  9 14   33 41   42
+*r 16 Olimpia/Lechia Gdansk 34   11  7 16   39 59   40
+*r 17 Stal Mielec           34    8  4 22   33 67   28
+*r 18 Siarka Tarnobrzeg     34    3  6 25   23 70   15
+
+*[Olimpia Poznan played most home games in Gdansk and Sokol Pniewy in Tychy,
+* after the mergers (of Olimpia with Lechia Gdansk and Sokol with GKS Tychy)
+* intended were prohibited by the Polish FA.]
