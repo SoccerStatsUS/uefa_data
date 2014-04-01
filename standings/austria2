@@ -1,0 +1,368 @@
+Competition: Austrian Football Bundesliga
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tableso/oost96.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+ 1; SK Rapid Wien               ; 36; 22;  7;  7;  68; 38; 73;  Champions
+
+ 2; SK Sturm Graz               ; 36; 20;  7;  9;  61; 35; 67;  CWC
+ 3; FC Tirol Innsbruck          ; 36; 18;  8; 10;  64; 40; 62;  UEFA Cup
+
+ 4; Grazer AK                   ; 36; 14; 15;  7;  46; 36; 57;  UEFA Cup
+ 5; FK Austria Wien             ; 36; 14;  9; 13;  42; 35; 51;  UIC
+ 6; Linzer ASK                  ; 36; 13;  9; 14;  36; 35; 48;  UIC
+ 7; SV Ried im Innkreis         ; 36; 11; 14; 11;  47; 53; 47;  UIC
+ 8; SV Austria Salzburg         ; 36; 10; 14; 12;  53; 51; 44;
+
+ 9; FC Admira/Wacker            ; 36;  7; 13; 16;  35; 61; 34;  Relegation Playoff
+
+10; SK Vorwärts Steyr           ; 36;  0;  6; 30;  25; 93;  6;  Relegated
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tableso/oost97.html
+
+ 1; SV Austria Salzburg         ; 36; 19; 12;  5;  54; 25; 69;  Champions
+
+ 2; SK Rapid Wien               ; 36; 18; 12;  6;  69; 36; 66;  UEFA Cup
+ 3; SK Sturm Graz               ; 36; 14; 13;  9;  50; 31; 55;  CWC
+ 4; FC Tirol Innsbruck          ; 36; 16;  7; 13;  49; 40; 55;  UEFA Cup
+
+ 5; Grazer AK                   ; 36; 11; 14; 11;  39; 42; 47;  UIC
+ 6; FK Austria Wien             ; 36; 12; 10; 14;  41; 51; 46;  UIC
+ 7; LASK Linz                   ; 36;  9; 17; 10;  38; 47; 44;  [*]
+ 8; SV Ried im Innkreis         ; 36; 12;  6; 18;  44; 59; 42;  UIC
+
+ 9; FC Linz                     ; 36;  6; 13; 17;  30; 47; 31;  [*]
+
+10; SCN FC Admira/Wacker        ; 36;  6; 10; 20;  35; 71; 28;  [*] Relegation Playoff
+
+*[*] LASK and FC Linz are to merge into LASK Linz at the end of the season;
+*    because of that, Admira/Wacker will play the relegation playoff against
+*    Vorwärts Steyr.  Admira/Wacker themselves are to merge with VfB
+*    Mödling (into "VfB Admira/Wacker Mödling"); what happens with
+*    the place of Mödling in the second division is still unclear and
+*    depends on the result of the relegation playoff.
+*
+* 
+*Note: FC Admira/Wacker changed name to SC Niederösterreich FC Admira/Wacker.
+*Grazer AK played most home matches in the Alpen-Stadion of Kapfenberg, while
+*their own Casino-Stadion was being renovated.  FC Linz and LASK Linz (new
+*name for Linzer ASK) played the first few matches of the season in the
+*Union-Stadion of Wels.  SCN FC Admira/Wacker played several matches in
+*Krems and Sankt Pölten in a vain effort to gain a new identity as the
+*club of the "Land" (province) Niederösterreich.
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tableso/oost98.html
+
+ 1; SK Sturm Graz               ; 36; 24;  9;  3; 80; 28;  81;  Champions
+
+ 2; SK Rapid Wien               ; 36; 18;  8; 10; 42; 36;  62;  UEFA Cup
+ 3; Grazer AK                   ; 36; 18;  7; 11; 53; 33;  61;  UEFA Cup
+
+ 4; SV Austria Salzburg         ; 36; 16;  8; 12; 48; 33;  56;  UIC
+ 5; LASK Linz                   ; 36; 17;  4; 15; 67; 58;  55;  UIC
+ 6; FC Tirol Innsbruck          ; 36; 12; 12; 12; 49; 51;  48;
+ 7; FK Austria Wien             ; 36; 10; 10; 16; 39; 54;  40;
+ 8; SV Ried im Innkreis         ; 36; 10;  9; 17; 42; 55;  39;  CWC
+ 9; SC Austria Lustenau         ; 36;  6; 14; 16; 38; 59;  32;
+
+10; VfB Admira/Wacker Mödling   ; 36;  5;  7; 24; 34; 85;  22;  Relegated
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tableso/oost99.html
+
+ 1; SK Sturm Graz               ; 36; 23;  4;  9; 72; 32;  73;  Champions
+
+ 2; SK Rapid Wien               ; 36; 19; 13;  4; 50; 25;  70;  Champions' League Qualifying
+
+ 3; Grazer AK                   ; 36; 20;  5; 11; 46; 29;  65;  UEFA Cup
+
+ 4; SV Austria Salzburg         ; 36; 15; 12;  9; 55; 40;  57;
+ 5; LASK Linz                   ; 36; 17;  6; 13; 53; 44;  57;  UEFA Cup (Cup Finalists)
+ 6; FC Tirol Innsbruck          ; 36; 15; 10; 11; 49; 41;  55;
+ 7; FK Austria Wien             ; 36; 13; 11; 12; 41; 44;  50;
+ 8; SV Ried im Innkreis         ; 36;  8;  8; 20; 25; 47;  32;
+ 9; SC Austria Lustenau         ; 36;  4; 11; 21; 24; 61;  22;
+
+10; SK Vorwärts Steyr           ; 36;  3;  6; 27; 29; 81;  12;  [*]  Relegated
+
+*[*] Vorwärts 3 points deducted because of failure to meet license
+*    criteria in time
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tableso/oost00.html
+
+ 1; FC Tirol Innsbruck          ; 36; 24;  5;  7; 54; 30;  77;  Champions
+ 2; SK Sturm Graz               ; 36; 22;  8;  6; 77; 32;  74;  Champions' League Qualification
+ 3; SK Rapid Wien               ; 36; 20;  6; 10; 59; 29;  66;  UEFA Cup
+ 4; FK Austria Wien             ; 36; 16;  6; 14; 49; 44;  54;
+ 5; SV Ried im Innkreis         ; 36; 15;  8; 13; 56; 39;  53;
+ 6; SV Austria Salzburg         ; 36; 12; 10; 14; 39; 45;  46;
+ 7; Grazer AK                   ; 36; 12;  6; 18; 41; 62;  42;  UEFA Cup (Cup Winners)
+ 8; LASK Linz                   ; 36; 10;  9; 17; 41; 49;  39;
+ 9; Schwarz-Weiß Bregenz        ; 36; 10;  5; 21; 39; 73;  35;
+
+10; SC Austria Lustenau         ; 36;  4;  7; 25; 22; 74;  19;  Relegated
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tableso/oost01.html
+
+ 1; FC Tirol Innsbruck          ; 36; 20;  8;  8; 63; 31;  68;  Champions
+ 2; SK Rapid Wien               ; 36; 16; 12;  8; 62; 36;  60;  UEFA Cup
+ 3; Grazer AK                   ; 36; 16;  9; 11; 49; 40;  57;  UEFA Cup
+ 4; SK Sturm Graz               ; 36; 16;  7; 13; 58; 44;  55;  Intertoto
+ 5; FK Austria Wien             ; 36; 14;  8; 13; 47; 43;  50;
+ 6; SV Austria Salzburg         ; 36; 13; 10; 13; 49; 45;  49;
+ 7; SV Ried im Innkreis         ; 36; 13;  9; 14; 51; 52;  48;
+ 8; Schwarz-Weiß Bregenz        ; 36; 10;  8; 18; 40; 67;  38;
+ 9; VfB Admira/Wacker Mödling   ; 36;  8; 12; 16; 29; 63;  36;
+
+10; LASK Linz                   ; 36;  8;  9; 19; 43; 70;  33;  Relegated
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tableso/oost02.html
+
+ 1; FC Tirol Innsbruck          ; 36; 23;  6;  7; 63; 20;  75;  [*]  Champions
+ 2; SK Sturm Graz               ; 36; 18; 11;  7; 68; 42;  65;  [*]  CL Qualifying
+ 3; Grazer AK                   ; 36; 17; 12;  7; 69; 39;  63;  [*]  UEFA Cup (cup winners)
+ 4; FK Austria Wien             ; 36; 14; 11; 11; 53; 38;  53;  [*]  UEFA Cup
+ 5; FC Kärnten                  ; 36; 14;  8; 14; 40; 52;  50;  [*]
+ 6; SV Austria Salzburg         ; 36; 13; 10; 13; 42; 40;  49;
+ 7; Schwarz-Weiß Bregenz        ; 36; 12;  9; 15; 51; 70;  45;
+ 8; SK Rapid Wien               ; 36; 11; 10; 15; 37; 49;  43;
+ 9; SV Ried im Innkreis         ; 36;  9;  9; 18; 37; 54;  36;
+
+10; VfB Admira/Wacker Mödling   ; 36;  3;  6; 27; 25; 81;  15;  [*]  Relegated
+
+*[*] on June 6, FC Tirol were refused a professional license for the
+*    2002/03 season (in an earlier decision, they had obtained it but
+*    were to start with a 5 point penalty) due to grave financial
+*    problems; due to this, Admira/Wacker Mödling will remain at the
+*    first level.  
+*    Sturm will take Tirol's place in the final qualifying round for
+*    the Champions' League, GAK obtain Sturm's place in the second
+*    qualifying round for the Champions' League, Austria Wien obtain 
+*    GAK's place in the first round of the UEFA Cup and FC Kärnten 
+*    obtain Austria's place in the qualifying round for the UEFA Cup.
+*    FC Tirol are refounded as FC Wacker Innsbruck (the traditional
+*    name) and will form a 'Spielgemeinschaft' (playing community)
+*    with WSG Wattens of the 3rd level (Regionalliga West), and will
+*    consequently play as WSG Swarovski Wattens/Wacker Tirol in 2002/03. 
+*
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tableso/oost03.html
+
+ 1; FK Austria Wien             ; 36; 21;  7;  8; 59; 28;  70;  Champions
+ 2; Grazer AK                   ; 36; 15; 12;  9; 56; 39;  57;  CL Qualifying
+ 3; SV Austria Salzburg         ; 36; 15; 11; 10; 51; 46;  56;  UEFA Cup
+ 4; SK Rapid Wien               ; 36; 13; 12; 11; 40; 38;  51;
+ 5; SV Pasching                 ; 36; 13; 10; 13; 41; 37;  49;
+ 6; SK Sturm Graz               ; 36; 14;  5; 17; 50; 62;  47;
+ 7; VfB Admira/Wacker Mödling   ; 36; 11; 11; 14; 36; 46;  44;
+ 8; FC Kärnten                  ; 36; 11;  8; 17; 45; 57;  41;  UEFA Cup (Cup Final)
+ 9; Schwarz-Weiß Bregenz        ; 36;  9; 12; 15; 48; 58;  39;
+
+10; SV Ried im Innkreis         ; 36; 10;  8; 18; 41; 56;  38;  Relegated
+
+*NB: champions FC Tirol Innsbruck were refused a professional license
+*    for the 2002/03 season; they are refounded as FC Wacker Innsbruck 
+*    (the traditional name of the club) and have formed a 'Spielgemeinschaft'
+*    (playing community) with WSG Wattens of the 3rd level (Regionalliga West),
+*    and play as WSG Swarovski Wattens/Wacker Tirol in 2002/03. 
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tableso/oost04.html
+
+ 1; Grazer AK                   ; 36; 21;  9;  6; 62; 32;  72;  Champions
+ 2; FK Austria Wien             ; 36; 21;  8;  7; 63; 31;  71;
+ 3; SV Pasching                 ; 36; 17; 12;  7; 59; 41;  63;
+ 4; SK Rapid Wien               ; 36; 16;  9; 11; 50; 47;  57;
+ 5; Schwarz-Weiß Bregenz        ; 36; 11; 12; 13; 47; 58;  45;
+ 6; VfB Admira/Wacker Mödling   ; 36; 11;  9; 16; 42; 49;  42;  [*]
+ 7; SV Austria Salzburg         ; 36; 11;  5; 20; 44; 48;  38;
+ 8; SV Mattersburg              ; 36;  9; 10; 17; 39; 61;  37;
+ 9; SK Sturm Graz               ; 36;  8; 11; 17; 39; 52;  35;
+
+10; FC Kärnten                  ; 36;  7; 11; 18; 36; 62;  32;  Relegated
+
+*[*] the reported name change of VfB Admira/Wacker Mödling refers
+*    only to the visual appearance of their logo, from which Wacker 
+*    and Mödling were dropped to be replaced by the gratuitous slogan 
+*    'Wir Niederösterreicher'; their officially registered name has
+*    not been changed.
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tableso/oost05.html
+
+ 1; SK Rapid Wien               ; 36; 21;  8;  7; 67; 31;  71;  Champions
+ 2; Grazer AK                   ; 36; 21;  7;  8; 58; 28;  70;
+ 3; FK Austria Wien             ; 36; 19; 12;  5; 64; 24;  69;
+ 4; SV Pasching                 ; 36; 17;  9; 10; 53; 48;  60;
+ 5; SV Mattersburg              ; 36; 12;  9; 15; 48; 58;  45;
+ 6; FC Wacker Tirol (Innsbruck) ; 36; 11; 11; 14; 48; 48;  44;
+ 7; SK Sturm Graz               ; 36; 10; 10; 16; 37; 47;  40;
+ 8; VfB Admira/Wacker Mödling   ; 36; 10;  8; 18; 36; 63;  38;
+ 9; SV Austria Salzburg         ; 36;  9;  9; 18; 37; 51;  36;
+
+10; Schwarz-Weiß Bregenz        ; 36;  4;  9; 23; 30; 80;  21;  [*]  Relegated
+
+*[*] Schwarz-Weiß Bregenz were refused a professional license for 2005/06
+*    and will be relegated to the fifth level (Landesliga Vorarlberg)
+*    under a new name
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tableso/oost06.html
+
+ 1; FK Austria Wien             ; 36; 19; 10;  7; 51; 33;  67;  Champions
+ 2; SV Austria Salzburg         ; 36; 20;  3; 13; 62; 42;  63;
+ 3; SV Pasching                 ; 36; 16; 10; 10; 43; 32;  58;
+ 4; SV Ried                     ; 36; 13; 13; 10; 48; 47;  52;
+ 5; SK Rapid Wien               ; 36; 13; 10; 13; 51; 41;  49;
+ 6; Grazer AK                   ; 36; 13;  6; 17; 47; 48;  45;
+ 7; SV Mattersburg              ; 36; 12;  8; 16; 40; 54;  44;
+ 8; SK Sturm Graz               ; 36; 10; 12; 14; 44; 51;  42;
+ 9; FC Wacker Tirol (Innsbruck) ; 36; 10; 12; 14; 44; 55;  42;
+
+10; VfB Admira/Wacker Mödling   ; 36;  9;  6; 21; 42; 69;  33;  Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tableso/oost07.html
+
+ 1; RB Salzburg                 ; 36; 22;  9;  5; 72; 25;  75;  Champions
+ 2; SV Ried                     ; 36; 15; 11; 10; 47; 42;  56;  UEFA Cup
+ 3; SV Mattersburg              ; 36; 16;  7; 13; 61; 58;  55;  UEFA Cup
+ 4; SK Rapid Wien               ; 36; 14; 10; 12; 55; 49;  52;
+ 5; SV Pasching                 ; 36; 14; 10; 12; 47; 41;  52;
+ 6; FK Austria Wien             ; 36; 11; 12; 13; 43; 43;  45;  UEFA Cup (Cup)
+ 7; SK Sturm Graz               ; 36; 16;  6; 14; 40; 40;  41;  [-13]
+ 8; SC Rheindorf Altach         ; 36; 11;  5; 20; 45; 64;  38;
+ 9; FC Wacker Tirol (Innsbruck) ; 36;  8; 10; 18; 40; 64;  34;
+
+10; Grazer AK                   ; 36;  8; 10; 18; 43; 67;   6;  [-28]  Relegated
+
+*NB: Sturm 3 points deducted for irregularities in license application
+*      prior to the season, and 10 more points on Mar 26 for going into
+*      insolvency.
+*    GAK 6 points deducted on Mar 14 by FIFA decision for failure to
+*      pay debt to former player Daniel Kimoni and 22 more points on
+*      Mar 26 (10 for going into insolvency and 12 for rule infringements
+*      in license application process).
+*    GAK were refused a license (also for the 2nd level) for 2007/08 and
+*      are relegated to the third level (Regionalliga Mitte).
+*    SV Pasching to move to Klagenfurt for 2007/08 as SK Austria Kärnten.
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tableso/oost08.html
+
+ 1; SK Rapid Wien               ; 36; 21;  6;  9; 69; 36;  69;  Champions
+ 2; RB Salzburg                 ; 36; 18;  9;  9; 63; 42;  63;
+ 3; FK Austria Wien             ; 36; 15; 13;  8; 46; 33;  58;
+ 4; SK Sturm Graz               ; 36; 15; 11; 10; 60; 41;  56;
+ 5; SV Mattersburg              ; 36; 13; 14;  9; 55; 43;  53;
+ 6; LASK Linz                   ; 36; 14; 11; 11; 54; 47;  53;
+ 7; SV Ried                     ; 36; 10;  8; 18; 38; 53;  38;
+ 8; SC Rheindorf Altach         ; 36;  8; 12; 16; 37; 64;  36;
+ 9; SK Austria Kärnten          ; 36;  8;  9; 19; 26; 58;  33;  [*2]
+
+10; FC Wacker Innsbruck         ; 36;  6; 11; 19; 32; 63;  29;  [*1]  Relegated
+
+*[*1] Wacker Tirol changed name to Wacker Innsbruck on July 1, 2007
+*[*2] Pasching moved to Klagenfurt and changed name to Austria Kärnten
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tableso/oost09.html
+
+ 1; RB Salzburg                 ; 36; 23;  5;  8; 86; 50;  74;  Champions
+ 2; SK Rapid Wien               ; 36; 21;  7;  8; 89; 43;  70;  Europa League
+ 3; FK Austria Wien             ; 36; 17; 11;  8; 59; 46;  62;  Europa League (Cup)
+ 4; SK Sturm Graz               ; 36; 17;  9; 10; 68; 45;  60;  Europa League
+ 5; SV Ried                     ; 36; 17;  9; 10; 58; 38;  60;
+ 6; SK Austria Kärnten          ; 36; 11;  8; 17; 47; 57;  41;
+ 7; LASK Linz                   ; 36; 11;  4; 21; 35; 67;  37;
+ 8; Kapfenberger SV             ; 36; 10;  6; 20; 48; 81;  36;
+ 9; SV Mattersburg              ; 36;  8;  9; 19; 42; 71;  33;
+
+10; SC Rheindorf Altach         ; 36;  8;  6; 22; 56; 90;  30;  Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tableso/oost2010.html
+
+ 1; RB Salzburg                 ; 36; 22; 10;  4;  68; 27;  76;  Champions
+ 2; FK Austria Wien             ; 36; 23;  6;  7;  60; 34;  75;
+ 3; SK Rapid Wien               ; 36; 21; 10;  5;  80; 38;  73;
+ 4; SK Sturm Graz               ; 36; 16; 10; 10;  50; 36;  58;
+ 5; SC Wiener Neustadt          ; 36; 13;  8; 15;  54; 58;  47;  [*]
+ 6; SV Mattersburg              ; 36; 12;  5; 19;  45; 71;  41;
+ 7; LASK Linz                   ; 36;  9; 13; 14;  59; 70;  40;
+ 8; SV Ried                     ; 36; 10;  8; 18;  39; 47;  38;
+ 9; Kapfenberger SV             ; 36;  8;  9; 19;  44; 67;  33;
+
+10; SK Austria Kärnten          ; 36;  2;  9; 25;  29; 80;  15;  Relegated
+
+*[*] FC Magna were renamed SC Wiener Neustadt
+
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tableso/oost2011.html
+
+ 1; SK Sturm Graz               ; 36;  19;  9;  8;  66; 33;  66;  Champions
+ 2; RB Salzburg                 ; 36;  17; 12;  7;  53; 31;  63;
+ 3; FK Austria Wien             ; 36;  17; 10;  9;  65; 37;  61;
+ 4; SV Ried                     ; 36;  16; 10; 10;  51; 38;  58;
+ 5; SK Rapid Wien               ; 36;  14; 11; 11;  52; 42;  53;
+ 6; FC Wacker Innsbruck         ; 36;  13; 11; 12;  43; 42;  50;
+ 7; SC Wiener Neustadt          ; 36;  14;  8; 14;  44; 52;  50;
+ 8; Kapfenberger SV             ; 36;   9; 11; 16;  42; 61;  38;
+ 9; SV Mattersburg              ; 36;   7; 10; 19;  29; 56;  31;
+
+10; LASK Linz                   ; 36;   3; 10; 23;  22; 75;  19;  Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tableso/oost2012.html
+
+ 1; RB Salzburg                 ; 36;  19; 11;  6;  60; 30;  68;  Champions
+ 2; SK Rapid Wien               ; 36;  16; 14;  6;  52; 30;  62;
+ 3; FC Admira Wacker Mödling    ; 36;  15; 10; 11;  59; 52;  55;
+ 4; FK Austria Wien             ; 36;  14; 12; 10;  52; 44;  54;
+ 5; SK Sturm Graz               ; 36;  12; 15;  9;  47; 41;  51;
+ 6; SV Ried                     ; 36;  11; 15; 10;  44; 38;  48;
+ 7; FC Wacker Innsbruck         ; 36;  10; 15; 11;  36; 45;  45;
+ 8; SV Mattersburg              ; 36;   9; 11; 16;  41; 43;  38;
+ 9; SC Wiener Neustadt          ; 36;   6; 15; 15;  26; 51;  33;
+
+10; Kapfenberger SV             ; 36;   5;  8; 23;  21; 64;  23;  Relegated
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tableso/oost2013.html
+
+ 1; FK Austria Wien             ; 36;  25;  9;  4;  84; 31;  82;  Champions
+ 2; RB Salzburg                 ; 36;  22; 11;  3;  91; 39;  77;
+ 3; SK Rapid Wien               ; 36;  16;  9; 11;  57; 39;  57;
+ 4; SK Sturm Graz               ; 36;  13;  9; 14;  49; 56;  48;
+ 5; Wolfsberger AC/SK St. Andrä ; 36;  12; 11; 13;  53; 56;  47;
+ 6; SV Ried                     ; 36;  13;  7; 16;  60; 59;  46;
+ 7; SC Wiener Neustadt          ; 36;   9;  9; 18;  32; 60;  36;
+ 8; FC Wacker Innsbruck         ; 36;  11;  3; 22;  41; 75;  36;
+ 9; FC Admira Wacker Mödling    ; 36;   9;  8; 19;  47; 68;  35;
+
+10; SV Mattersburg              ; 36;   9;  8; 19;  36; 67;  35;  Relegated
+

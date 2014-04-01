@@ -1,0 +1,341 @@
+BlockSource: http://rsssf.com/tablesp/port2012.html
+Season: 2011-2012
+Competition: Primeira Liga
+
+
+* 1.FC do Porto                  30  23  6  1  69-19  75  Champions
+* 2.SL Benfica                   30  21  6  3  66-27  69
+* 3.Sporting de Braga            30  19  5  6  59-29  62
+* 4.Sporting CP                  30  18  5  7  47-26  59
+* 5.CS Marítimo                  30  14  8  8  41-38  50
+* 6.Vitória SC (Guimarães)       30  14  3 13  40-40  45
+* 7.CD Nacional                  30  13  5 12  48-50  44
+* 8.SC Olhanense                 30   9 12  9  36-38  39
+* 9.Gil Vicente FC               30   8 10 12  31-42  34
+*10.FC Paços de Ferreira         30   8  7 15  35-53  31
+*11.Vitória FC (Setúbal)         30   8  6 16  24-49  30
+*12.SC Beira-Mar                 30   8  5 17  26-38  29
+*13.Académica de Coimbra         30   7  8 15  27-38  29
+*14.Rio Ave FC                   30   7  7 16  33-42  28
+*-------------------------------------------------------
+*15.CD Feirense                  30   5  9 16  27-49  24  Relegated
+*16.União de Leiria              30   5  4 21  25-56  19  Relegated
+
+Round: 1
+Date: 8/12/2011
+
+; Gil Vicente       ; 2-2;    Benfica
+
+Date: 8/13/2011
+
+; Rio Ave           ; 0-0;    SC Braga
+; Sporting          ; 1-1;    Olhanense
+
+Date: 8/14/2011
+
+; Maritimo          ; 0-0;    Beira-Mar
+; Feirense          ; 0-0;    Nacional
+; Vitoria Setúbal   ; 2-1;    Paços Ferreira
+; Vitoria Guimarães ; 0-1;    FC Porto
+
+Date: 8/15/2011
+
+; UD Leiria         ; 1-2;    Académica
+
+Round: 2
+Date: 8/19/2011
+
+; FC Porto          ; 3-1;    Gil Vicente
+
+Date: 8/20/2011
+
+; Benfica           ; 3-1;    Feirense
+
+Date: 8/21/2011
+
+; Paços Ferreira    ; 2-1;    UD Leiria
+; Académica         ; 1-0;    Rio Ave
+; Beira-Mar;          0-0;    Sporting
+; SC Braga          ; 2-0;    Maritimo
+
+Date: 8/22/2011
+
+; Olhanense         ; 2-2;    Vitoria Setúbal
+
+Date: 9/4/2011
+
+; Nacional          ; 1-4;    Vitoria Guimarães
+
+Round: 3
+Date: 8/27/2011
+
+; Gil Vicente       ; 2-0;    Académica
+
+Date: 8/28/2011
+
+; Rio Ave           ; 0-1;    Olhanense
+; Vitoria Guimarães ; 0-3;    Beira-Mar
+; Feirense          ; 0-0;    Paços Ferreira
+; Sporting          ; 2-3;    Maritimo
+
+Date: 8/29/2011
+
+; Vitoria Setúbal   ; 0-1;    SC Braga
+; Nacional          ; 0-2;    Benfica
+
+Date: 9/6/2011
+
+; UD Leiria         ; 2-5;    FC Porto
+
+Round: 4
+Date: 9/9/2011
+
+; FC Porto          ; 3-0;    Vitoria Setúbal
+
+Date: 9/10/2011
+
+; Benfica           ; 2-1;    Vitoria Guimarães
+; Paços Ferreira    ; 2-3;    Sporting
+
+Date: 9/11/2011
+
+; Beira-Mar;          0-1;    UD Leiria
+; Olhanense         ; 1-2;    Feirense
+; SC Braga          ; 3-1;    Gil Vicente
+; Maritimo          ; 2-1;    Rio Ave
+
+Date: 9/12/2011
+
+; Académica         ; 4-0;    Nacional
+
+Round: 5
+Date: 9/16/2011
+
+; Gil Vicente       ; 1-1;    Olhanense
+
+Date: 9/17/2011
+
+; Nacional          ; 1-0;    Paços Ferreira
+
+Date: 9/18/2011
+
+; UD Leiria         ; 1-3;    Maritimo
+; Vitoria Setúbal   ; 1-0;    Beira-Mar
+; Feirense          ; 0-0;    FC Porto
+; Benfica           ; 4-1;    Académica
+
+Date: 9/19/2011
+
+; Vitoria Guimarães ; 1-1;    SC Braga
+; Rio Ave           ; 2-3;    Sporting
+
+Round: 6
+Date: 9/23/2011
+
+; FC Porto          ; 2-2;    Benfica
+
+Date: 9/24/2011
+
+; SC Braga          ; 2-0;    Nacional
+; Sporting          ; 3-0;    Vitoria Setúbal
+
+Date: 9/25/2011
+
+; Beira-Mar;          0-0;    Rio Ave
+; Paços Ferreira    ; 1-2;    Gil Vicente
+; Olhanense         ; 2-1;    UD Leiria
+; Maritimo          ; 1-0;    Vitoria Guimarães
+
+Date: 9/26/2011
+
+; Académica         ; 4-0;    Feirense
+
+Round: 7
+Date: 9/30/2011
+
+; Vitoria Setúbal   ; 2-1;    Rio Ave
+
+Date: 10/1/2011
+
+; Benfica           ; 4-1;    Paços Ferreira
+
+Date: 10/2/2011
+
+; Nacional          ; 4-1;    Olhanense
+; UD Leiria         ; 1-0;    SC Braga
+; Académica         ; 0-3;    FC Porto
+; Vitoria Guimarães ; 0-1;    Sporting
+; Feirense          ; 2-2;    Maritimo
+
+Date: 10/3/2011
+
+; Gil Vicente       ; 0-0;    Beira-Mar
+
+Round: 8
+Date: 10/21/2011
+
+; Paços Ferreira    ; 2-0;    Académica
+
+Date: 10/22/2011
+
+; Olhanense         ; 1-0;    Vitoria Guimarães
+; Beira-Mar;          0-1;    Benfica
+
+Date: 10/23/2011
+
+; SC Braga          ; 3-0;    Feirense
+; FC Porto          ; 5-0;    Nacional
+; Maritimo          ; 1-0;    Vitoria Setúbal
+; Rio Ave           ; 2-0;    UD Leiria
+
+Date: 10/24/2011
+
+; Sporting          ; 6-1;    Gil Vicente
+
+Round: 9
+Date: 10/28/2011
+
+; FC Porto          ; 3-0;    Paços Ferreira
+
+Date: 10/29/2011
+
+; Académica         ; 0-0;    SC Braga
+; Benfica           ; 2-1;    Olhanense
+
+Date: 10/30/2011
+
+; Nacional          ; 2-1;    Beira-Mar
+; UD Leiria         ; 2-0;    Vitoria Setúbal
+; Vitoria Guimarães ; 2-1;    Rio Ave
+; Feirense          ; 0-2;    Sporting
+
+Date: 10/31/2011
+
+; Gil Vicente       ; 0-0;    Maritimo
+
+Round: 10
+Date: 11/4/2011
+
+; Paços Ferreira    ; 1-5;    Vitoria Guimarães
+
+Date: 11/5/2011
+
+; Maritimo          ; 3-2;    Académica
+; Olhanense         ; 0-0;    FC Porto
+
+Date: 11/6/2011
+
+; Vitoria Setúbal   ; 0-0;    Gil Vicente
+; Sporting          ; 3-1;    UD Leiria
+; Rio Ave           ; 2-1;    Nacional
+; SC Braga          ; 1-1;    Benfica
+; Beira-Mar;          2-1;    Feirense
+
+Round: 11
+Date: 11/25/2011
+
+; Académica         ; 0-1;    Beira-Mar
+
+Date: 11/26/2011
+
+; Nacional          ; 2-2;    Maritimo
+; Benfica           ; 1-0;    Sporting
+
+Date: 11/27/2011
+
+; Gil Vicente       ; 2-1;    UD Leiria
+; Feirense          ; 2-0;    Rio Ave
+; FC Porto          ; 3-2;    SC Braga
+; Paços Ferreira    ; 1-0;    Olhanense
+
+Date: 11/28/2011
+
+; Vitoria Guimarães ; 3-0;    Vitoria Setúbal
+
+Round: 12
+Date: 12/9/2011
+
+; SC Braga          ; 5-2;    Paços Ferreira
+
+Date: 12/10/2011
+
+; Beira-Mar;          1-2;    FC Porto
+; Sporting          ; 1-0;    Nacional
+
+Date: 12/11/2011
+
+; Vitoria Setúbal   ; 1-1;    Feirense
+; UD Leiria         ; 1-0;    Vitoria Guimarães
+; Rio Ave           ; 2-0;    Gil Vicente
+; Maritimo          ; 0-1;    Benfica
+
+Date: 12/12/2011
+
+; Olhanense         ; 0-2;    Académica
+
+Round: 13
+Date: 12/16/2011
+
+; Benfica           ; 5-1;    Rio Ave
+
+Date: 12/17/2011
+
+; Vitoria Guimarães ; 1-1;    Gil Vicente
+; FC Porto          ; 2-0;    Maritimo
+
+Date: 12/18/2011
+
+; Nacional          ; 1-1;    Vitoria Setúbal
+; Paços Ferreira    ; 0-3;    Beira-Mar
+; Académica         ; 1-1;    Sporting
+; Feirense          ; 2-1;    UD Leiria
+
+Date: 12/19/2011
+
+; Olhanense         ; 3-4;    SC Braga
+
+Round: 14
+Date: 1/6/2012
+
+; Vitoria Setúbal   ; 1-1;    Académica
+
+Date: 1/7/2012
+
+; Sporting          ; 0-0;    FC Porto
+
+Date: 1/8/2012
+
+; Vitoria Guimarães ; 1-0;    Feirense
+; Maritimo          ; 2-1;    Olhanense
+; UD Leiria         ; 0-4;    Benfica
+; Gil Vicente       ; 0-3;    Nacional
+; Rio Ave           ; 1-0;    Paços Ferreira
+
+Date: 1/9/2012
+
+; Beira-Mar;          1-2;    SC Braga
+
+
+* 1.FC do Porto                  30  23  6  1  69-19  75  Champions
+* 2.SL Benfica                   30  21  6  3  66-27  69
+* 3.Sporting de Braga            30  19  5  6  59-29  62
+* 4.Sporting CP                  30  18  5  7  47-26  59
+* 5.CS Marítimo                  30  14  8  8  41-38  50
+* 6.Vitória SC (Guimarães)       30  14  3 13  40-40  45
+* 7.CD Nacional                  30  13  5 12  48-50  44
+* 8.SC Olhanense                 30   9 12  9  36-38  39
+* 9.Gil Vicente FC               30   8 10 12  31-42  34
+*10.FC Paços de Ferreira         30   8  7 15  35-53  31
+*11.Vitória FC (Setúbal)         30   8  6 16  24-49  30
+*12.SC Beira-Mar                 30   8  5 17  26-38  29
+*13.Académica de Coimbra         30   7  8 15  27-38  29
+*14.Rio Ave FC                   30   7  7 16  33-42  28
+*-------------------------------------------------------
+*15.CD Feirense                  30   5  9 16  27-49  24  Relegated
+*16.União de Leiria              30   5  4 21  25-56  19  Relegated
+
+*Prepared and maintained by Jan Schoenmakers the Rec.Sport.Soccer Statistics Foundation
+*Author: Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com) 
+*Last updated: 28 Feb 2013
+*(C) Copyright Jan Schoenmakers and RSSSF 2011/13
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

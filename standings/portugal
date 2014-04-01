@@ -1,0 +1,449 @@
+Competition: Primeira Liga
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesp/porthist199596.html
+
+*                         Pd  W  D  L    G    Pt  
+ 1; FC Porto             ; 34; 26;  6;  2;  84; 20; 84  
+ 2; SL Benfica           ; 34; 22;  7;  5;  57; 27; 73  
+ 3; Sporting CP          ; 34; 19; 10;  5;  69; 27; 67  
+ 4; Boavista FC          ; 34; 19;  8;  7;  59; 28; 65  
+ 5; VSC Guimarães        ; 34; 19;  5; 10;  55; 39; 62  
+ 6; CF Belenenses        ; 34; 14;  9; 11;  53; 33; 51  
+ 7; UD Leiria            ; 34; 14;  5; 15;  38; 50; 47  
+ 8; SC Braga             ; 34; 12;  9; 13;  44; 47; 45  
+ 9; CS Marítimo          ; 34; 12;  7; 15;  39; 53; 43  
+10; SC Salgueiros        ; 34;  7; 15; 12;  39; 49; 36  
+11; CFE Amadora          ; 34;  7; 14; 13;  35; 50; 35  
+12; Gil Vicente FC       ; 34;  9;  9; 16;  31; 49; 36  
+13; SC Farense           ; 34; 10;  6; 18;  36; 45; 36  
+14; Leça FC              ; 34;  9;  7; 18;  29; 55; 34  
+15; GD Chaves            ; 34;  9;  7; 18;  38; 56; 34  
+16; FC Felgueiras        ; 34;  8;  9; 17;  29; 47; 33  
+17; SC Campomaiorense    ; 34; 10;  3; 21;  32; 69; 33  
+18; FC Tirsense          ; 34;  7; 10; 17;  30; 53; 31  
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesp/port97.html
+
+ 1; FC Porto        ; 34;  27;  4;  3;  80; 24;  85
+ 2; Sporting CP     ; 34;  22;  6;  6;  55; 19;  72
+ 3; SL Benfica      ; 34;  17;  7; 10;  49; 30;  58
+ 4; Sp. Braga       ; 34;  15; 10;  9;  39; 40;  55
+ 5; Vit. Guimarães  ; 34;  15;  8; 11;  51; 46;  53
+ 6; Salgueiros      ; 34;  14; 10; 10;  49; 48;  52
+ 7; Boavista FC     ; 34;  12; 13;  9;  62; 39;  49
+ 8; Marítimo        ; 34;  13;  8; 13;  39; 38;  47
+ 8; Estrela Amadora ; 34;  12; 11; 11;  39; 38;  47
+10; Desp. Chaves    ; 34;  12; 10; 12;  39; 45;  46
+11; Sp. Farense     ; 34;  10; 12; 12;  34; 34;  42
+12; Vit. Setúbal    ; 34;  10; 10; 14;  38; 42;  40
+13; Belenenses      ; 34;  10; 10; 14;  37; 50;  40
+14; Leça            ; 34;   9;  9; 16;  33; 42;  36
+15; Rio Ave         ; 34;   8; 11; 15;  35; 42;  35
+
+16; Espinho         ; 34;   9;  6; 19;  27; 56;  33
+17; U. Leiria       ; 34;   8;  6; 20;  25; 53;  30
+18; Gil Vicente     ; 34;   4;  7; 23;  29; 74;  19
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesp/port98.html
+
+ 1; FC Porto        ; 34;  24;  5;  5;  75; 38;  77;  Champions
+
+ 2; SL Benfica      ; 34;  20;  8;  6;  62; 29;  68;  Champions League
+
+ 3; Vit. Guimarães  ; 34;  17;  8;  9;  42; 25;  59;  UEFA Cup
+ 4; Sporting CP     ; 34;  15; 11;  8;  45; 33;  56;  UEFA Cup
+ 5; CS Marítimo     ; 34;  16;  8; 10;  44; 35;  56;  UEFA Cup
+
+ 6; Boavista FC     ; 34;  15; 10;  9;  54; 31;  55;  UIC
+ 7; Estrela Amadora ; 34;  14;  8; 12;  42; 41;  50;
+ 8; SC Salgueiros   ; 34;  13; 10; 11;  48; 44;  49;
+ 9; Rio Ave FC      ; 34;  12; 10; 12;  43; 43;  46;
+10; SC Braga        ; 34;  11; 12; 11;  48; 49;  45;  CWC
+11; Campomaiorense  ; 34;  11;  7; 16;  53; 58;  40;
+12; Leça FC         ; 34;  10;  8; 16;  29; 52;  38;  Relegated [*]
+13; Vit. Setúbal    ; 34;  10;  7; 17;  38; 43;  37;
+14; SC Farense      ; 34;   8; 13; 13;  41; 50;  37;
+15; Académica       ; 34;   8; 12; 14;  27; 41;  36;
+16; GD Chaves       ; 34;  10;  5; 19;  31; 55;  35;  
+
+17; Varzim          ; 34;   6; 11; 17;  26; 51;  29;  Relegated
+18; CF Belenenses   ; 34;   5;  9; 20;  22; 52;  24;  Relegated
+
+*Promoted: União Leiria, Beira Mar and Alverca.
+*
+*[*] after the season, Leça FC were relegated due to a bribery
+*    attempt in 1996, and thereby GD Chaves remain in the I. Divisão.
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesp/port99.html
+
+ 1; FC Porto               ; 34; 24;  7;  3; 85; 26; 79;  Champions
+
+ 2; Boavista FC            ; 34; 20; 11;  3; 57; 29; 71;  Champions' League
+
+ 3; SL Benfica             ; 34; 19;  8;  7; 71; 29; 65;
+ 4; Sporting CP            ; 34; 17; 12;  5; 64; 32; 63;
+ 5; Vitória FC (Setúbal)   ; 34; 15;  8; 11; 37; 38; 53;
+ 6; União de Leiria        ; 34; 14; 10; 10; 36; 29; 52;
+ 7; Vitória SC (Guimarães) ; 34; 14;  8; 12; 53; 41; 50;
+ 8; CF Estrela da Amadora  ; 34; 11; 12; 11; 33; 40; 45;
+ 9; Sporting de Braga      ; 34; 10; 12; 12; 38; 50; 42;
+10; CS Marítimo            ; 34; 10; 11; 13; 44; 45; 41;
+11; Sporting Farense       ; 34; 10;  9; 15; 39; 54; 39;
+12; SC Salgueiros          ; 34;  7; 17; 10; 45; 55; 38;
+13; Sporting Campomaiorense; 34; 10;  7; 17; 41; 51; 37;
+14; Rio Ave FC             ; 34;  8; 11; 15; 26; 47; 35;
+15; FC Alverca             ; 34;  8; 11; 15; 36; 50; 35;
+
+16; SC Beira-Mar           ; 34;  6; 15; 13; 36; 53; 33;  Relegated
+17; GD Chaves              ; 34;  5; 10; 19; 39; 70; 25;  Relegated
+18; Académica              ; 34;  4;  9; 21; 30; 71; 21;  Relegated
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesp/port00.html
+
+ 1; Sporting CP            ; 34; 23;  8;  3; 57; 22; 77;  Champions
+ 2; FC do Porto            ; 34; 22;  7;  5; 66; 26; 73;  Champions' League
+ 3; SL Benfica             ; 34; 21;  6;  7; 58; 33; 69;
+ 4; Boavista FC            ; 34; 16;  7; 11; 40; 31; 55;
+ 5; Gil Vicente FC         ; 34; 14; 11;  9; 48; 34; 53;
+ 6; CS Marítimo            ; 34; 13; 11; 10; 42; 36; 50;
+ 7; Vitória SC (Guimarães) ; 34; 14;  6; 14; 48; 43; 48;
+ 8; CF Estrela da Amadora  ; 34; 10; 15;  9; 40; 35; 45;
+ 9; Sporting de Braga      ; 34; 12;  7; 15; 44; 45; 43;
+10; União de Leiria        ; 34; 10; 12; 12; 31; 35; 42;
+11; FC Alverca             ; 34; 11;  8; 15; 39; 48; 41;
+12; CF "Os Belenenses"     ; 34;  9; 13; 12; 36; 38; 40;  
+13; Sporting Campomaiorense; 34; 10;  6; 18; 31; 51; 36;
+14; Sporting Farense       ; 34;  8; 11; 15; 35; 60; 35;
+15; SC Salgueiros          ; 34;  9;  7; 18; 30; 49; 34;
+
+16; Vitória FC (Setúbal)   ; 34;  9;  6; 19; 25; 49; 33;  Relegated
+17; Rio Ave FC             ; 34;  8;  9; 17; 34; 54; 33;  Relegated
+18; CD Santa Clara         ; 34;  7; 10; 17; 35; 50; 31;  Relegated
+
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesp/port01.html
+
+ 1; Boavista FC            ; 34; 23;  8;  3; 63; 22; 77;  Champions
+ 2; FC do Porto            ; 34; 24;  4;  6; 73; 27; 76;  CL Qualifying
+ 3; Sporting CP            ; 34; 19;  5; 10; 56; 37; 62;
+ 4; Sporting de Braga      ; 34; 16;  9;  9; 58; 48; 57;
+ 5; União de Leiria        ; 34; 15; 11;  8; 46; 41; 56;
+ 6; SL Benfica             ; 34; 15;  9; 10; 54; 44; 54;
+ 7; CF "Os Belenenses"     ; 34; 14; 10; 10; 43; 36; 52;
+ 8; SC Beira Mar           ; 34; 14;  7; 13; 45; 49; 49;
+ 9; FC Paços de Ferreira   ; 34; 12; 12; 10; 47; 39; 48;  
+10; SC Salgueiros          ; 34; 13;  4; 17; 41; 55; 43;
+11; CS Marítimo            ; 34; 12;  7; 15; 34; 37; 43;
+12; FC Alverca             ; 34; 12;  7; 15; 45; 52; 43;
+13; Sporting Farense       ; 34; 10;  9; 15; 37; 47; 39;
+14; Gil Vicente FC         ; 34; 10;  7; 17; 34; 41; 37;
+15; Vitória SC (Guimarães) ; 34;  9;  9; 16; 41; 49; 36;
+
+16; Sporting Campomaiorense; 34;  7; 11; 16; 29; 58; 32;  Relegated
+17; CD Aves                ; 34;  4; 10; 20; 31; 68; 22;  Relegated
+18; CF Estrela da Amadora  ; 34;  4;  7; 23; 30; 57; 19;  Relegated
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesp/port02.html
+
+ 1; Sporting CP            ; 34; 22;  9;  3; 74; 25; 75;  Champions
+ 2; Boavista FC            ; 34; 21;  7;  6; 53; 20; 70;
+ 3; FC do Porto            ; 34; 21;  5;  8; 66; 34; 68;
+ 4; SL Benfica             ; 34; 17; 12;  5; 66; 37; 63;
+ 5; CF "Os Belenenses"     ; 34; 17;  6; 11; 54; 44; 57;
+ 6; CS Marítimo            ; 34; 17;  5; 12; 48; 35; 56;
+ 7; União de Leiria        ; 34; 15; 10;  9; 52; 35; 55;
+ 8; FC Paços de Ferreira   ; 34; 12; 10; 12; 41; 44; 46;
+ 9; Vitória SC (Guimarães) ; 34; 11;  9; 14; 35; 41; 42;
+10; Sporting de Braga      ; 34; 10; 12; 12; 43; 43; 42;
+11; SC Beira Mar           ; 34; 10;  9; 15; 48; 56; 39;
+12; Gil Vicente FC         ; 34; 10;  8; 16; 42; 56; 38;
+13; Vitória FC (Setúbal)   ; 34;  9; 11; 14; 40; 46; 38;
+14; CD Santa Clara         ; 34;  9; 10; 15; 32; 46; 37;
+15; Varzim SC              ; 34;  8;  8; 18; 27; 55; 32;
+
+16; SC Salgueiros          ; 34;  8;  6; 20; 29; 71; 30;  Relegated
+17; Sporting Farense       ; 34;  7;  7; 20; 29; 63; 28;  Relegated
+18; FC Alverca             ; 34;  7;  6; 21; 39; 67; 27;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesp/port03.html
+
+ 1; FC do Porto            ; 34; 27;  5;  2; 73; 26; 86;  Champions
+ 2; SL Benfica             ; 34; 23;  6;  5; 74; 27; 75;  [Lisboa]
+ 3; Sporting CP            ; 34; 17;  8;  9; 52; 38; 59;  [Lisboa]
+ 4; Vitória SC             ; 34; 14;  8; 12; 47; 46; 50;  [Guimarães]
+ 5; União de Leiria        ; 34; 13; 10; 11; 49; 47; 49;
+ 6; FC Paços de Ferreira   ; 34; 12;  9; 13; 40; 47; 45;
+ 7; CS Marítimo            ; 34; 13;  5; 16; 36; 48; 44;  [Funchal]
+ 8; Gil Vicente FC         ; 34; 13;  5; 16; 42; 53; 44;  [Barcelos]
+ 9; CF "Os Belenenses"     ; 34; 11; 10; 13; 47; 48; 43;  [Lisboa]
+10; Boavista FC            ; 34; 10; 13; 11; 32; 31; 43;  [Porto]
+11; CD Nacional            ; 34;  9; 13; 12; 40; 46; 40;  [Funchal]
+12; Moreirense FC          ; 34;  9; 12; 13; 42; 46; 39;  [Moreira de Cónegos]
+13; SC Beira-Mar           ; 34; 10;  9; 15; 43; 50; 39;  [Aveiro]
+14; Sporting de Braga      ; 34;  8; 14; 12; 34; 47; 38;
+15; Académica de Coimbra   ; 34;  8; 13; 13; 38; 48; 37;
+
+16; Varzim SC              ; 34; 10;  6; 18; 38; 51; 36;  Relegated  [Povoa de Varzim]
+17; CD Santa Clara         ; 34;  8; 11; 15; 39; 54; 35;  Relegated  [Ponta Delgada]
+18; Vitória FC             ; 34;  6; 13; 15; 40; 53; 31;  Relegated  [Setúbal]
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesp/port04.html
+
+ 1; FC do Porto            ; 34; 25;  7;  2; 63; 19; 82;  Champions
+ 2; SL Benfica             ; 34; 22;  8;  4; 62; 28; 74;  [Lisboa]
+ 3; Sporting CP            ; 34; 23;  4;  7; 60; 33; 73;  [Lisboa]
+ 4; CD Nacional            ; 34; 17;  5; 12; 56; 35; 56;  [Funchal]
+ 5; Sporting de Braga      ; 34; 15;  9; 10; 36; 38; 54;
+ 6; CS Marítimo            ; 34; 12; 12; 10; 35; 33; 48;  [Funchal]
+ 7; Rio Ave                ; 34; 12; 12; 10; 42; 37; 48;  [Vila do Conde] 
+ 8; Boavista FC            ; 34; 12; 11; 11; 32; 31; 47;  [Porto]
+ 9; Moreirense FC          ; 34; 12; 10; 12; 33; 33; 46;  [Moreira de Cónegos]
+10; União de Leiria        ; 34; 11; 12; 11; 43; 45; 45;
+11; SC Beira-Mar           ; 34; 11;  8; 15; 36; 45; 41;  [Aveiro]
+12; Gil Vicente FC         ; 34; 10; 10; 14; 43; 40; 40;  [Barcelos] 
+13; Académica de Coimbra   ; 34; 11;  5; 18; 40; 42; 38;
+14; Vitória SC             ; 34;  9; 10; 15; 31; 40; 37;  [Guimarães]
+15; CF "Os Belenenses"     ; 34;  8; 11; 15; 35; 54; 35;  [Lisboa]
+
+16; Alverca                ; 34; 10;  5; 19; 33; 49; 35;  Relegated [Alverca do Ribatejo]
+17; FC Paços de Ferreira   ; 34;  8;  4; 22; 27; 53; 28;  Relegated
+18; Estrêla da Amadora     ; 34;  4;  5; 25; 22; 74; 17;  Relegated  [Amadora]
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesp/port05.html
+
+ 1; SL Benfica             ; 34; 19;  8;  7; 51; 31; 65;  [Lisboa]
+ 2; FC do Porto            ; 34; 17; 11;  6; 39; 26; 62;
+ 3; Sporting CP            ; 34; 18;  7;  9; 66; 36; 61;  [Lisboa]
+ 4; Sporting de Braga      ; 34; 16; 10;  8; 45; 28; 58;
+ 5; Vitória SC             ; 34; 15;  9; 10; 38; 29; 54;  [Guimarães]
+ 6; Boavista FC            ; 34; 13; 11; 10; 39; 43; 50;  [Porto]
+ 7; CS Marítimo            ; 34; 12; 13;  9; 39; 32; 49;  [Funchal]
+ 8; Rio Ave                ; 34; 10; 17;  7; 35; 35; 47;  [Vila do Conde]
+ 9; CF "Os Belenenses"     ; 34; 13;  7; 14; 38; 34; 46;  [Lisboa]
+10; Vitória FC             ; 34; 11; 11; 12; 46; 45; 44;  [Setúbal]
+11; FC Penafiel            ; 34; 13;  4; 17; 39; 53; 43;
+12; CD Nacional            ; 34; 12;  5; 17; 46; 48; 41;  [Funchal]
+13; Gil Vicente FC         ; 34; 11;  7; 16; 34; 40; 40;  [Barcelos]
+14; Académica de Coimbra   ; 34;  9; 11; 14; 29; 41; 38;  
+15; União de Leiria        ; 34;  8; 14; 12; 29; 36; 38;  
+
+16; Moreirense FC          ; 34;  7; 13; 14; 30; 43; 34;  Relegated  [Moreira de Cónegos]
+17; GD Estoril-Praia       ; 34;  8;  6; 20; 38; 55; 30;  Relegated
+18; SC Beira-Mar           ; 34;  6; 12; 16; 30; 56; 30;  Relegated  [Aveiro]
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesp/port06.html
+
+ 1; FC do Porto            ; 34; 24;  7;  3; 54; 16; 79;  Champions
+ 2; Sporting CP            ; 34; 22;  6;  6; 50; 24; 72;  [Lisboa]
+ 3; SL Benfica             ; 34; 20;  7;  7; 51; 29; 67;  [Lisboa]
+ 4; Sporting de Braga      ; 34; 17;  7; 10; 38; 22; 58;
+ 5; CD Nacional            ; 34; 14; 10; 10; 40; 32; 52;  [Funchal]
+ 6; Boavista FC            ; 34; 12; 14;  8; 37; 29; 50;  [Porto]
+ 7; União de Leiria        ; 34; 13;  8; 13; 44; 42; 47;
+ 8; Vitória FC             ; 34; 14;  4; 16; 28; 33; 46;  [Setúbal]
+ 9; Estrela Amadora        ; 34; 12;  9; 13; 31; 33; 45;
+10; CS Marítimo            ; 34; 10; 14; 10; 38; 37; 44;  [Funchal]
+11; Paços de Ferreira      ; 34; 11;  9; 14; 38; 49; 42;
+12; Gil Vicente FC         ; 34; 11;  7; 16; 37; 42; 40;  Relegated  [Barcelos] 
+13; Naval                  ; 34; 11;  6; 17; 35; 48; 39;  [Figueira da Foz]
+14; Académica de Coimbra   ; 34; 10;  9; 15; 37; 48; 39;  
+
+15; CF "Os Belenenses"     ; 34; 11;  6; 17; 40; 42; 39;  Reprieved  [Lisboa]
+16; Rio Ave                ; 34;  8; 10; 16; 34; 53; 34;  Relegated  [Vila do Conde]
+17; Vitória SC             ; 34;  8; 10; 16; 28; 41; 34;  Relegated  [Guimarães]
+18; FC Penafiel            ; 34;  2;  9; 23; 21; 61; 15;  Relegated
+
+*NB: 4 teams relegated, 2 promoted as league is reduced to 16 clubs 2006/07
+*    Gil Vicente were relegated after Belenenses successfully protested
+*    against their use of Mateus (from Angola) in various matches, as Mateus
+*    was not entitled to signing a professional contract in Portugal.
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesp/port07.html
+
+ 1; FC do Porto            ; 30; 22;  3;  5; 65; 20; 69;  Champions
+ 2; Sporting CP            ; 30; 20;  8;  2; 54; 15; 68;  [Lisboa]  Champions League
+ 3; SL Benfica             ; 30; 20;  7;  3; 55; 20; 67;  [Lisboa]  CL Qualifying
+ 4; Sporting de Braga      ; 30; 14;  8;  8; 35; 30; 50;  UEFA Cup
+ 5; CF "Os Belenenses"     ; 30; 15;  4; 11; 36; 29; 49;  [Lisboa]  UEFA Cup (Cup)
+ 6; Paços de Ferreira      ; 30; 10; 12;  8; 31; 36; 42;  UEFA Cup
+ 7; União de Leiria        ; 30; 10; 11;  9; 25; 27; 41;
+ 8; CD Nacional            ; 30; 11;  6; 13; 41; 38; 39;  [Funchal]
+ 9; Estrêla Amadora        ; 30;  9;  8; 13; 23; 36; 35;
+10; Boavista FC            ; 30;  8; 11; 11; 32; 34; 35;  [Porto]
+11; CS Marítimo            ; 30;  8;  8; 14; 30; 44; 32;  [Funchal]
+12; Naval                  ; 30;  7; 11; 12; 28; 37; 32;  [Figueira da Foz]
+13; Académica de Coimbra   ; 30;  6;  8; 16; 28; 46; 26;
+14; Vitória FC             ; 30;  5;  9; 16; 21; 45; 24;  [Setúbal]
+
+15; SC Beira-Mar           ; 30;  4; 11; 15; 28; 55; 23;  Relegated  [Aveiro]
+16; Desportivo Aves        ; 30;  5;  7; 18; 22; 42; 22;  Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesp/port08.html
+
+ 1; FC do Porto            ; 30; 24;  3;  3; 60; 13; 69;  [-6]  Champions
+ 2; Sporting CP            ; 30; 16;  7;  7; 46; 28; 55;  [Lisboa]
+ 3; Vitória SC             ; 30; 15;  8;  7; 35; 31; 53;  [Guimarães]
+ 4; SL Benfica             ; 30; 13; 13;  4; 45; 21; 52;  [Lisboa]
+ 5; CS Marítimo            ; 30; 14;  4; 12; 39; 28; 46;  [Funchal]
+ 6; Vitória FC             ; 30; 11; 12;  7; 37; 33; 45;  [Setúbal]
+ 7; Sporting de Braga      ; 30; 10; 11;  9; 32; 34; 41;
+ 8; CF "Os Belenenses"     ; 30; 11; 10;  9; 35; 33; 40;  [-3]  [Lisboa] 
+ 9; Boavista FC            ; 30;  8; 12; 10; 32; 41; 36;  Relegated  [Porto]
+10; CD Nacional            ; 30;  9;  8; 13; 23; 28; 35;  [Funchal]
+11; Naval                  ; 30;  9;  7; 14; 26; 45; 34;  [Figueira da Foz]
+12; Académica de Coimbra   ; 30;  6; 14; 10; 31; 38; 32;
+13; Estrêla Amadora        ; 30;  6; 13; 11; 29; 41; 31;
+14; Leixões SC             ; 30;  4; 14; 12; 27; 37; 26;  [Matosinhos]
+15; Paços de Ferreira      ; 30;  6;  7; 17; 31; 49; 25;
+
+16; União de Leiria        ; 30;  3;  7; 20; 25; 53; 13;  [-3]  Relegated
+
+*NB: Belenenses 3 points deducted for fielding ineligible player in round 16;
+*    FC Porto 6 points deducted for corruption affair 2003/04;
+*    União de Leiria 3 points deducted for corruption affair 2003/04;
+*    Boavista relegated for corruption affair 2003/04; due to this, 
+*    Paços de Ferreira will remain at the top level
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesp/port09.html
+
+
+ 1; FC do Porto                 ; 30;  21;  7;  2;  61; 18;  70;  Champions
+ 2; Sporting CP                 ; 30;  20;  6;  4;  45; 20;  66;  [Lisboa]
+ 3; SL Benfica                  ; 30;  17;  8;  5;  54; 32;  59;  [Lisboa]
+ 4; CD Nacional                 ; 30;  15;  7;  8;  47; 32;  52;  [Funchal]
+ 5; Sporting de Braga           ; 30;  13; 11;  6;  38; 21;  50;
+ 6; Leixões SC                  ; 30;  12;  9;  9;  30; 31;  46;  [Matosinhos]
+ 7; Académica de Coimbra        ; 30;  10;  9; 11;  28; 32;  39;
+ 8; Vitória SC                  ; 30;  10;  8; 12;  32; 36;  38;  [Guimarães]
+ 9; CS Marítimo                 ; 30;   9; 10; 11;  35; 36;  37;  [Funchal]
+10; Paços de Ferreira           ; 30;   9;  7; 14;  37; 42;  34;       
+11; Estrêla Amadora             ; 30;   8; 10; 12;  26; 38;  34;  [*]  
+12; Rio Ave FC                  ; 30;   8;  6; 16;  20; 35;  30;  [Vila de Conde]
+13; Naval                       ; 30;   7;  8; 15;  25; 39;  29;  [Figueira da Foz]
+14; Vitória FC                  ; 30;   7;  5; 18;  21; 46;  26;  [Setúbal]
+
+15; CF "Os Belenenses"          ; 30;   5;  9; 16;  28; 52;  24;  [*]  [Lisboa]
+16; CD Trofense                 ; 30;   5;  8; 17;  25; 42;  23;  Relegated
+
+*[*] Belenenses escaped relegation due to the financial collapse of
+*    Estrêla Amadora, who were demoted to the third level
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesp/port2010.html
+
+ 1; SL Benfica                  ; 30;  24;  4;  2;  78; 20;  76;  Champions  [Lisboa]
+ 2; Sporting de Braga           ; 30;  22;  5;  3;  48; 20;  71;
+ 3; FC do Porto                 ; 30;  21;  5;  4;  70; 26;  68;
+ 4; Sporting CP                 ; 30;  13;  9;  8;  42; 26;  48;  [Lisboa]
+ 5; CS Marítimo                 ; 30;  11;  8; 11;  42; 43;  41;  [2 1 0 1 2-2 3]  [Funchal]
+ 6; Vitória SC                  ; 30;  11;  8; 11;  31; 34;  41;  [2 1 0 1 2-2 3]  [Guimarães]
+ 7; CD Nacional                 ; 30;  10;  9; 11;  36; 46;  39;  [Funchal]
+ 8; Naval                       ; 30;  10;  6; 14;  20; 35;  36;  [Figueira da Foz]
+ 9; União de Leiria             ; 30;   9;  8; 13;  35; 41;  35;  
+10; Paços de Ferreira           ; 30;   8; 11; 11;  32; 37;  35;  
+11; Académica de Coimbra        ; 30;   8;  9; 13;  37; 42;  33;
+12; Rio Ave FC                  ; 30;   6; 13; 11;  22; 33;  31;  [Vila de Conde]
+13; SC Olhanense                ; 30;   5; 14; 11;  31; 46;  29;
+14; Vitória FC                  ; 30;   5; 10; 15;  29; 57;  25;  [Setúbal]
+
+15; CF "Os Belenenses"          ; 30;   4; 11; 15;  23; 44;  23;  Relegated  [Lisboa]
+16; Leixões SC                  ; 30;   5;  6; 19;  25; 51;  21;  Relegated  [Matosinhos]
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesp/port2011.html
+
+ 1; FC do Porto                 ; 30;  27;  3;  0;  73; 16;  84;  Champions
+ 2; SL Benfica                  ; 30;  20;  3;  7;  61; 31;  63;
+ 3; Sporting CP                 ; 30;  13;  9;  8;  41; 31;  48;
+ 4; Sporting de Braga           ; 30;  13;  7; 10;  45; 33;  46;
+ 5; Vitória SC (Guimarães)      ; 30;  12;  7; 11;  36; 37;  43;
+ 6; CD Nacional                 ; 30;  11;  9; 10;  28; 31;  42;
+ 7; FC Paços de Ferreira        ; 30;  10; 11;  9;  35; 42;  41;
+ 8; Rio Ave FC                  ; 30;  10;  8; 12;  35; 33;  38;
+ 9; CS Marítimo                 ; 30;   9;  8; 13;  33; 32;  35;
+10; União de Leiria             ; 30;   9;  8; 13;  25; 38;  35;
+11; SC Olhanense                ; 30;   7; 13; 10;  24; 34;  34;
+12; Vitória FC (Setúbal)        ; 30;   8; 10; 12;  29; 42;  34;
+13; SC Beira-Mar                ; 30;   7; 12; 11;  32; 36;  33;
+14; Académica de Coimbra        ; 30;   7;  9; 14;  32; 48;  30;
+
+15; Portimonense SC             ; 30;   6;  7; 17;  29; 49;  25;  Relegated
+16; Naval                       ; 30;   5;  8; 17;  26; 51;  23;  Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesp/port2012.html
+
+ 1; FC do Porto                 ; 30;  23;  6;  1;  69; 19;  75;  Champions
+ 2; SL Benfica                  ; 30;  21;  6;  3;  66; 27;  69;
+ 3; Sporting de Braga           ; 30;  19;  5;  6;  59; 29;  62;
+ 4; Sporting CP                 ; 30;  18;  5;  7;  47; 26;  59;
+ 5; CS Marítimo                 ; 30;  14;  8;  8;  41; 38;  50;
+ 6; Vitória SC (Guimarães)      ; 30;  14;  3; 13;  40; 40;  45;
+ 7; CD Nacional                 ; 30;  13;  5; 12;  48; 50;  44;
+ 8; SC Olhanense                ; 30;   9; 12;  9;  36; 38;  39;
+ 9; Gil Vicente FC              ; 30;   8; 10; 12;  31; 42;  34;
+10; FC Paços de Ferreira        ; 30;   8;  7; 15;  35; 53;  31;
+11; Vitória FC (Setúbal)        ; 30;   8;  6; 16;  24; 49;  30;
+12; SC Beira-Mar                ; 30;   8;  5; 17;  26; 38;  29;
+13; Académica de Coimbra        ; 30;   7;  8; 15;  27; 38;  29;
+14; Rio Ave FC                  ; 30;   7;  7; 16;  33; 42;  28;
+
+15; CD Feirense                 ; 30;   5;  9; 16;  27; 49;  24;  Relegated
+16; União de Leiria             ; 30;   5;  4; 21;  25; 56;  19;  Relegated
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesp/port2013.html
+
+ 1; FC do Porto                 ; 30;  24;  6;  0;  70; 14;  78;  Champions
+ 2; SL Benfica                  ; 30;  24;  5;  1;  77; 20;  77;
+ 3; FC Paços de Ferreira        ; 30;  14; 12;  4;  42; 29;  54;
+ 4; Sporting de Braga           ; 30;  16;  4; 10;  60; 44;  52;
+ 5; GD Estoril Praia            ; 30;  13;  6; 11;  47; 37;  45;
+ 6; Rio Ave FC                  ; 30;  12;  6; 12;  35; 42;  42;
+ 7; Sporting CP                 ; 30;  11;  9; 10;  36; 36;  42;
+ 8; CD Nacional                 ; 30;  11;  7; 12;  45; 51;  40;
+ 9; Vitória SC (Guimarães)      ; 30;  11;  7; 12;  36; 47;  40;
+10; CS Marítimo                 ; 30;   9; 11; 10;  34; 45;  38;
+11; Académica de Coimbra        ; 30;   6; 10; 14;  33; 45;  28;
+12; Vitória FC (Setúbal)        ; 30;   7;  5; 18;  30; 55;  26;
+13; Gil Vicente FC              ; 30;   6;  7; 17;  31; 54;  25;
+14; SC Olhanense                ; 30;   5; 10; 15;  26; 42;  25;
+
+15; Moreirense FC               ; 30;   5;  9; 16;  30; 51;  24;  Relegated
+16; SC Beira-Mar                ; 30;   5;  8; 17;  35; 55;  23;  Relegated

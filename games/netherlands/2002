@@ -1,0 +1,846 @@
+BlockSource: http://www.rsssf.com/tablesn/ned03ext.html
+Competition: Eredivisie
+Season: 2002-2003
+
+* 1.PSV                          34 26  6  2  87-20  84  Champions
+* 2.Ajax                         34 26  5  3  96-32  83  CL Qualifying
+* 3.Feyenoord                    34 25  5  4  89-39  80  UEFA Cup
+* 4.NAC Breda                    34 13 13  8  42-31  52  UEFA Cup  [*]
+* 5.NEC                          34 14  9 11  41-40  51  UEFA Cup
+* 6.Roda JC                      34 14  8 12  58-54  50
+* 7.SC Heerenveen                34 13  8 13  61-55  47
+* 8.FC Utrecht                   34 12 11 11  49-49  47
+* 9.RKC Waalwijk                 34 14  4 16  44-51  46
+*10.AZ                           34 12  8 14  50-69  44
+*11.Willem II                    34 11  9 14  48-51  42
+*12.FC Twente                    34 10 11 13  36-45  41
+*13.RBC Roosendaal               34 10  6 18  33-54  36
+*14.Vitesse                      34  8  9 17  37-51  33
+*15.FC Groningen                 34  7 11 16  28-44  32
+* - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.FC Zwolle                    34  8  8 18  31-62  32  Relegation Playoff
+*17.Excelsior                    34  5  8 21  38-72  23  Relegation Playoff
+*------------------------------------------------------
+*18.De Graafschap                34  6  5 23  35-84  23  Relegated
+*[*] on Jan 10, 2003, NAC changed name to NAC Breda.
+
+Round: 1
+Date: 8/16/2002
+
+; RBC            ; 1-1; Zwolle
+
+Date: 8/17/2002
+
+; Twente         ; 0-2; Willem II
+; Excelsior      ; 0-2; PSV
+; NAC            ; 2-2; Roda
+; AZ             ; 3-3; Heerenveen
+
+Date: 8/18/2002
+
+; Groningen      ; 1-2; Vitesse
+; Ajax           ; 3-1; Utrecht
+; Feyenoord      ; 2-0; NEC
+; RKC            ; 4-2; Graafschap
+
+Round: 2
+Date: 8/23/2002
+
+; NEC            ; 2-0; AZ
+
+Date: 8/24/2002
+
+; Graafschap     ; 2-0; RBC
+; Heerenveen     ; 1-2; RKC
+; PSV            ; 1-0; Groningen
+; Roda           ; 2-2; Feyenoord
+; Zwolle         ; 1-1; Excelsior
+
+Date: 8/25/2002
+
+; Twente         ; 1-1; Utrecht
+; Vitesse        ; 1-2; Ajax
+; Willem II      ; 1-1; NAC
+
+Round: 3
+Date: 8/30/2002
+
+; RKC            ; 3-2; Twente
+
+Date: 8/31/2002
+
+; NAC            ; 0-0; NEC
+; Zwolle         ; 1-0; Vitesse
+; Roda           ; 1-0; Willem II
+
+Date: 9/1/2002
+
+; Groningen      ; 1-3; Ajax
+; RBC            ; 3-0; Heerenveen
+
+Date: 9/10/2002
+
+; Feyenoord      ; 4-1; Excelsior
+; AZ             ; 0-4; PSV
+; Utrecht        ; 4-0; Graafschap
+
+Round: 4
+Date: 9/13/2002
+
+; Vitesse        ; 3-0; RBC
+
+Date: 9/14/2002
+
+; PSV            ; 4-0; RKC
+; Heerenveen     ; 0-2; NAC
+; Willem II      ; 2-0; Utrecht
+; Excelsior      ; 4-2; Groningen
+; Ajax           ; 2-0; Zwolle
+; Twente         ; 1-5; Feyenoord
+
+Date: 9/15/2002
+
+; Graafschap     ; 1-2; AZ
+; NEC            ; 2-4; Roda
+
+Round: 5
+Date: 9/20/2002
+
+; NAC            ; 2-0; Twente
+; Excelsior      ; 1-2; AZ
+
+Date: 9/21/2002
+
+; Zwolle         ; 1-3; PSV
+; RBC            ; 2-3; Ajax
+; Willem II      ; 1-1; NEC
+; Feyenoord      ; 2-0; Graafschap
+
+Date: 9/22/2002
+
+; Roda           ; 1-0; Heerenveen
+; Vitesse        ; 1-1; RKC
+; Groningen      ; 0-0; Utrecht
+
+Round: 6
+Date: 9/27/2002
+
+; AZ             ; 4-1; Groningen
+
+Date: 9/28/2002
+
+; Willem II      ; 5-2; Zwolle
+; RBC            ; 4-2; Feyenoord
+; PSV            ; 4-0; Graafschap
+; Twente         ; 3-3; Roda
+
+Date: 9/29/2002
+
+; Ajax           ; 2-2; NAC
+; RKC            ; 0-3; Excelsior
+; Utrecht        ; 1-0; Vitesse
+; NEC            ; 4-2; Heerenveen
+
+Round: 7
+Date: 10/2/2002
+
+; NEC            ; 2-0; Groningen
+
+Date: 10/4/2002
+
+; RKC            ; 0-2; Zwolle
+
+Date: 10/5/2002
+
+; NAC            ; 2-2; PSV
+; Roda           ; 2-3; Excelsior
+; Graafschap     ; 0-1; Twente
+
+Date: 10/6/2002
+
+; Feyenoord      ; 1-2; Ajax
+; AZ             ; 1-3; Vitesse
+; Heerenveen     ; 1-1; Willem II
+; Utrecht        ; 2-2; RBC
+
+Round: 8
+Date: 10/18/2002
+
+; Graafschap     ; 1-3; NEC
+
+Date: 10/19/2002
+
+; Ajax           ; 6-2; AZ
+; PSV            ; 0-0; Roda
+; Vitesse        ; 1-1; Feyenoord
+; Willem II      ; 3-1; RBC
+; Twente         ; 1-1; Heerenveen
+
+Date: 10/20/2002
+
+; Excelsior      ; 1-1; Utrecht
+; Groningen      ; 2-3; RKC
+; Zwolle         ; 0-3; NAC
+
+Round: 9
+Date: 10/25/2002
+
+; NAC            ; 0-0; Vitesse
+
+Date: 10/26/2002
+
+; RKC            ; 1-1; Ajax
+; Roda           ; 5-0; Graafschap
+; Heerenveen     ; 2-0; Excelsior
+; AZ             ; 1-2; Twente
+; NEC            ; 0-5; PSV
+; Feyenoord      ; 5-1; Willem II
+
+Date: 11/12/2002
+
+; RBC            ; 2-0; Groningen
+
+Date: 11/13/2002
+
+; Utrecht        ; 2-0; Zwolle
+
+Round: 10
+Date: 10/22/2002
+
+; Vitesse        ; 0-2; Roda
+
+Date: 11/1/2002
+
+; Zwolle         ; 5-1; AZ
+
+Date: 11/2/2002
+
+; Heerenveen     ; 3-1; Graafschap
+; RBC            ; 0-0; RKC
+; Excelsior      ; 0-0; NEC
+; Twente         ; 0-0; PSV
+
+Date: 11/3/2002
+
+; Groningen      ; 0-2; Feyenoord
+; Utrecht        ; 1-0; NAC
+; Ajax           ; 3-0; Willem II
+
+Round: 11
+Date: 11/8/2002
+
+; Roda           ; 1-1; Ajax
+
+Date: 11/9/2002
+
+; PSV            ; 3-1; Heerenveen
+; NAC            ; 0-0; Groningen
+; Graafschap     ; 1-1; Excelsior
+; Willem II      ; 1-3; Vitesse
+; AZ             ; 2-0; RBC
+
+Date: 11/10/2002
+
+; NEC            ; 1-2; Twente
+; Feyenoord      ; 2-0; Zwolle
+; RKC            ; 0-1; Utrecht
+
+Round: 12
+Date: 11/15/2002
+
+; Willem II      ; 0-1; RKC
+
+Date: 11/16/2002
+
+; Groningen      ; 3-1; Graafschap
+
+Date: 11/17/2002
+
+; PSV            ; 1-2; Feyenoord
+; Excelsior      ; 0-3; NAC
+; Utrecht        ; 2-2; AZ
+; Ajax           ; 6-0; NEC
+; Vitesse        ; 1-2; Heerenveen
+; RBC            ; 4-0; Roda
+; Zwolle         ; 1-1; Twente
+
+Round: 13
+Date: 11/22/2002
+
+; Excelsior      ; 0-3; Willem II
+
+Date: 11/23/2002
+
+; Graafschap     ; 3-2; NAC
+; Heerenveen     ; 0-3; Ajax
+; Roda           ; 1-3; AZ
+; RBC            ; 0-3; PSV
+; RKC            ; 1-0; Feyenoord
+; Twente         ; 1-0; Vitesse
+
+Date: 11/24/2002
+
+; Zwolle         ; 0-2; Groningen
+; Utrecht        ; 3-2; NEC
+
+Round: 14
+Date: 11/29/2002
+
+; Roda           ; 2-0; Zwolle
+
+Date: 11/30/2002
+
+; NAC            ; 1-0; RBC
+; PSV            ; 2-1; Willem II
+; AZ             ; 2-0; RKC
+
+Date: 12/1/2002
+
+; Feyenoord      ; 2-1; Utrecht
+; Groningen      ; 1-1; Heerenveen
+; Ajax           ; 2-1; Twente
+; Vitesse        ; 1-1; Graafschap
+*Excelsior       bye
+*NEC             bye
+
+Round: 15
+
+Date: 12/6/2002
+
+; RBC            ; 1-1; Excelsior
+
+Date: 12/7/2002
+
+; Willem II      ; 3-1; AZ
+; Graafschap     ; 1-1; Ajax
+; Heerenveen     ; 3-1; Feyenoord
+
+Date: 12/8/2002
+
+; Utrecht        ; 1-3; PSV
+; NEC            ; 2-0; Vitesse
+; Twente         ; 0-0; Groningen
+; RKC            ; 2-1; Roda
+*NAC             bye
+*Zwolle          bye
+
+Round: 16
+
+Date: 12/13/2002
+
+; Groningen      ; 3-2; Roda
+
+Date: 12/14/2002
+
+; Graafschap     ; 1-1; Willem II
+; Excelsior      ; 2-2; Twente
+; Zwolle         ; 0-0; NEC
+; NAC            ; 1-0; RKC
+
+Date: 12/15/2002
+
+; Ajax           ; 2-4; PSV
+; Feyenoord      ; 6-1; AZ
+; Heerenveen     ; 2-2; Utrecht
+*RBC             bye
+*Vitesse         bye
+
+*Moved Matches
+
+Date: 12/17/2002
+
+; NEC            ; 3-0; RBC
+
+Date: 12/18/2002
+
+; Heerenveen     ; 2-0; Zwolle
+; Vitesse        ; 1-2; Excelsior
+
+Round: 17
+
+Date: 12/20/2002
+
+; Roda           ; 1-0; Utrecht
+; Twente         ; 3-0; RBC
+
+Date: 12/21/2002
+
+; Willem II      ; 1-0; Groningen
+; PSV            ; 1-0; Vitesse
+; Graafschap     ; 3-2; Zwolle
+; NEC            ; 0-0; RKC
+
+Date: 12/22/2002
+
+; NAC            ; 1-1; Feyenoord
+; Excelsior      ; 0-2; Ajax
+*AZ              bye
+*Heerenveen      bye
+
+Round: 18
+
+Date: 1/31/2003
+
+; PSV            ; 3-0; RBC
+
+Date: 2/1/2003
+
+; NAC            ; 1-1; Heerenveen
+; AZ             ; 0-0; NEC
+
+Date: 2/2/2003
+
+; Feyenoord      ; 4-2; Twente
+; RKC            ; 1-0; Groningen
+; Willem II      ; 0-6; Ajax
+
+Date: 2/19/2003
+
+; Vitesse        ; 2-1; Zwolle
+; Excelsior      ; 0-2; Roda
+
+Date: 3/12/2003
+
+; Graafschap     ; 1-0; Utrecht
+
+Round: 19
+
+Date: 2/7/2003
+
+; Zwolle         ; 0-3; Willem II
+
+Date: 2/8/2003
+
+; RBC            ; 1-0; Graafschap
+; Heerenveen     ; 5-0; AZ
+; RKC            ; 0-1; PSV
+; Roda           ; 2-0; Vitesse
+
+Date: 2/9/2003
+
+; Ajax           ; 1-1; Feyenoord
+; NEC            ; 2-0; NAC
+; Utrecht        ; 2-2; Excelsior
+; Groningen      ; 0-0; Twente
+
+Round: 20
+
+Date: 2/14/2003
+
+; RBC            ; 0-1; Utrecht
+
+Date: 2/15/2003
+
+; PSV            ; 6-0; Zwolle
+; Ajax           ; 2-1; Groningen
+; Willem II      ; 5-0; Roda
+; NAC            ; 2-1; Excelsior
+; AZ             ; 1-4; Feyenoord
+
+Date: 2/16/2003
+
+; RKC            ; 1-0; Vitesse
+; Twente         ; 1-2; NEC
+; Graafschap     ; 1-5; Heerenveen
+
+*Moved Match 
+Date: 2/19/2003
+
+; AZ             ; 3-1; NAC
+
+Round: 21
+
+Date: 2/21/2003
+
+; NEC            ; 1-0; Graafschap
+
+Date: 2/22/2003
+
+; Excelsior      ; 1-2; RBC
+; Roda           ; 2-0; Twente
+; PSV            ; 1-0; NAC
+; Vitesse        ; 2-2; AZ
+
+Date: 2/23/2003
+
+; Utrecht        ; 1-0; Ajax
+; Zwolle         ; 2-1; RKC
+; Feyenoord      ; 4-1; Groningen
+*Willem II       bye
+*Heerenveen      bye     
+
+*Moved Matches
+Date: 2/25/2003
+
+; NEC            ; 1-0; Willem II
+
+Date: 2/26/2003
+
+; Utrecht        ; 2-2; Heerenveen
+
+Round: 22
+
+Date: 2/28/2003
+
+; Graafschap     ; 1-1; Roda
+; RBC            ; 1-0; Willem II
+
+Date: 3/1/2003
+
+; Excelsior      ; 1-2; RKC
+; Heerenveen     ; 0-1; PSV
+; Twente         ; 0-0; AZ
+
+Date: 3/2/2003
+
+; Ajax           ; 2-0; Vitesse
+; Groningen      ; 4-0; Zwolle
+; Feyenoord      ; 2-1; NAC
+*NEC             bye
+*Utrecht         bye
+
+Round: 23
+
+Date: 3/7/2003
+
+; AZ             ; 1-0; Roda
+
+Date: 3/8/2003
+
+; Willem II      ; 1-2; Twente
+; PSV            ; 2-1; NEC
+; Excelsior      ; 2-6; Feyenoord
+; NAC            ; 1-0; Graafschap
+; Zwolle         ; 0-5; Ajax
+
+Date: 3/9/2003
+
+; RKC            ; 3-0; Heerenveen
+; Vitesse        ; 1-4; Utrecht
+; Groningen      ; 1-0; RBC
+
+Round: 24
+
+Date: 3/15/2003
+
+; Roda           ; 0-0; NAC
+; Graafschap     ; 2-4; RKC
+; Zwolle         ; 1-1; RBC
+; Heerenveen     ; 3-0; Twente
+; Vitesse        ; 0-5; PSV
+
+Date: 3/16/2003
+
+; NEC            ; 1-2; Feyenoord
+; Groningen      ; 1-1; Willem II
+; AZ             ; 2-0; Utrecht
+; Ajax           ; 2-1; Excelsior
+
+Round: 25
+
+Date: 3/21/2003
+
+; Excelsior      ; 0-1; Zwolle
+
+Date: 3/22/2003
+
+; Feyenoord      ; 5-0; Heerenveen
+; RBC            ; 3-1; Vitesse
+; Roda           ; 2-1; NEC
+; Twente         ; 2-1; RKC
+; AZ             ; 3-1; Graafschap
+
+Date: 3/23/2003
+
+; PSV            ; 2-0; Ajax
+; NAC            ; 0-0; Willem II
+; Utrecht        ; 0-0; Groningen
+
+Round: 26
+
+Date: 4/5/2003
+
+; Ajax           ; 4-1; RBC
+; Graafschap     ; 3-4; Feyenoord
+; Heerenveen     ; 3-2; Roda
+; Twente         ; 0-0; NAC
+; Vitesse        ; 0-0; Groningen
+
+Date: 4/6/2003
+
+; NEC            ; 1-0; Excelsior
+; RKC            ; 2-0; AZ
+; Willem II      ; 1-1; PSV
+; Zwolle         ; 3-1; Utrecht
+
+Round: 27
+
+Date: 4/11/2003
+
+; Utrecht        ; 1-1; Willem II
+; Roda           ; 2-3; PSV
+
+Date: 4/12/2003
+
+; Heerenveen     ; 2-3; NEC
+; Feyenoord      ; 2-1; Vitesse
+; AZ             ; 1-1; Zwolle
+; Twente         ; 3-0; Graafschap
+
+Date: 4/13/2003
+
+; NAC            ; 0-3; Ajax
+; Groningen      ; 1-0; Excelsior
+; RKC            ; 1-2; RBC
+
+Round: 28
+
+Date: 4/18/2003
+
+; Utrecht        ; 4-3; RKC
+
+Date: 4/19/2003
+
+; RBC            ; 0-0; AZ
+; Ajax           ; 4-2; Roda
+; Excelsior      ; 1-0; Heerenveen
+; PSV            ; 2-0; Twente
+; Willem II      ; 3-0; Graafschap
+
+Date: 4/20/2003
+
+; Zwolle         ; 1-3; Feyenoord
+; Vitesse        ; 1-1; NEC
+
+Date: 4/27/2003
+
+; Groningen      ; 0-0; NAC
+
+Round: 29
+
+Date: 4/25/2003
+
+; RKC            ; 3-1; Willem II
+
+Date: 4/26/2003
+
+; Graafschap     ; 1-6; PSV
+; Heerenveen     ; 2-2; Vitesse
+; Twente         ; 1-0; Excelsior
+
+Date: 4/27/2003
+
+; AZ             ; 1-3; Ajax
+; Feyenoord      ; 1-0; RBC
+; NEC            ; 1-2; Utrecht
+
+Date: 5/6/2003
+
+; NAC            ; 2-0; Zwolle
+
+Date: 5/13/2003
+
+; Roda           ; 5-1; Groningen
+
+Round: 30
+
+Date: 5/2/2003
+
+; Excelsior      ; 3-4; Graafschap
+
+Date: 5/3/2003
+
+; Willem II      ; 1-5; Heerenveen
+; Ajax           ; 6-1; RKC
+; Zwolle         ; 3-1; Roda
+; PSV            ; 2-2; AZ
+; Vitesse        ; 3-1; NAC
+
+Date: 5/4/2003
+
+; Utrecht        ; 1-2; Feyenoord
+; RBC            ; 1-0; Twente
+; Groningen      ; 0-0; NEC
+
+Round: 31
+
+Date: 5/9/2003
+
+; Heerenveen     ; 2-1; Groningen
+; Roda           ; 1-0; RBC
+
+Date: 5/10/2003
+
+; NAC            ; 2-0; Utrecht
+; PSV            ; 7-0; Excelsior
+; AZ             ; 3-2; Willem II
+; Twente         ; 0-0; Zwolle
+
+Date: 5/11/2003
+
+; NEC            ; 1-2; Ajax
+; Feyenoord      ; 2-1; RKC
+; Graafschap     ; 0-1; Vitesse
+
+Round: 32 
+Date: 5/16/2003
+
+; Utrecht        ; 4-4; Roda
+
+Date: 5/17/2003
+
+; RBC            ; 0-2; NEC
+; Zwolle         ; 0-1; Heerenveen
+; Vitesse        ; 0-1; Twente
+; Willem II      ; 2-1; Excelsior
+
+Date: 5/18/2003
+
+; Feyenoord      ; 3-1; PSV
+; Groningen      ; 1-0; AZ
+; RKC            ; 2-3; NAC
+; Ajax           ; 7-1; Graafschap
+
+Round: 33 
+Date: 5/25/2003
+
+; Willem II      ; 1-1; Feyenoord
+; Twente         ; 1-2; Ajax
+; Graafschap     ; 1-0; Groningen
+; NEC            ; 0-0; Zwolle
+; PSV            ; 2-0; Utrecht
+; NAC            ; 4-0; AZ
+; Excelsior      ; 4-4; Vitesse
+; Heerenveen     ; 6-0; RBC
+; Roda           ; 1-0; RKC
+
+Round: 34 
+Date: 5/29/2003
+
+; Feyenoord      ; 3-1; Roda
+; Vitesse        ; 2-0; Willem II
+; Ajax           ; 3-0; Heerenveen
+; RBC            ; 1-2; NAC
+; Zwolle         ; 2-1; Graafschap
+; Utrecht        ; 3-2; Twente
+; Groningen      ; 0-0; PSV
+; AZ             ; 4-1; Excelsior
+; RKC            ; 0-1; NEC
+
+* 1.PSV                          34 26  6  2  87-20  84  Champions
+* 2.Ajax                         34 26  5  3  96-32  83  CL Qualifying
+* 3.Feyenoord                    34 25  5  4  89-39  80  UEFA Cup
+* 4.NAC Breda                    34 13 13  8  42-31  52  UEFA Cup  [*]
+* 5.NEC                          34 14  9 11  41-40  51  UEFA Cup
+* 6.Roda JC                      34 14  8 12  58-54  50
+* 7.SC Heerenveen                34 13  8 13  61-55  47
+* 8.FC Utrecht                   34 12 11 11  49-49  47
+* 9.RKC Waalwijk                 34 14  4 16  44-51  46
+*10.AZ                           34 12  8 14  50-69  44
+*11.Willem II                    34 11  9 14  48-51  42
+*12.FC Twente                    34 10 11 13  36-45  41
+*13.RBC Roosendaal               34 10  6 18  33-54  36
+*14.Vitesse                      34  8  9 17  37-51  33
+*15.FC Groningen                 34  7 11 16  28-44  32
+* - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.FC Zwolle                    34  8  8 18  31-62  32  Relegation Playoff
+*17.Excelsior                    34  5  8 21  38-72  23  Relegation Playoff
+*------------------------------------------------------
+*18.De Graafschap                34  6  5 23  35-84  23  Relegated
+*
+*[*] on Jan 10, 2003, NAC changed name to NAC Breda.
+
+
+*Nacompetitie
+
+Group: A
+Round: 1 
+Date: 6/3/2003
+
+; Helmond        ; 0-0; Zwolle
+; Den Bosch      ; 4-1; Go Ahead
+
+Round: 2 
+Date: 6/6/2003
+
+; Zwolle         ; 2-0; Den Bosch
+; Go Ahead       ; 5-0; Helmond
+
+Round: 3 
+Date: 6/9/2003
+
+; Zwolle         ; 2-1; Go Ahead
+; Helmond        ; 3-0; Den Bosch
+
+Round: 4 
+Date: 6/13/2003
+
+; Go Ahead       ; 2-3; Zwolle
+; Den Bosch      ; 1-3; Helmond
+
+Round: 5 
+Date: 6/16/2003
+
+; Den Bosch      ; 1-1; Zwolle
+; Helmond        ; 2-0; Go Ahead
+
+Round: 6 
+Date: 6/19/2003
+
+; Zwolle         ; 4-1; Helmond
+; Go Ahead       ; 0-1; Den Bosch
+
+* 1.FC Zwolle                     6  4  2  0  12- 5  14  Remain in Eredivisie
+*------------------------------------------------------
+* 2.Helmond Sport                 6  3  1  2   9-10  10  Remain in 1e Divisie
+* 3.FC Den Bosch                  6  2  1  3   7-10   7  Remain in 1e Divisie
+* 4.Go Ahead Eagles               6  1  0  5   9-12   3  Remain in 1e Divisie
+
+Group: B
+Round: 1 
+Date: 6/3/2003
+
+; Heracles       ; 1-2; Volendam
+; Emmen          ; 1-0; Excelsior
+
+Round: 2 
+Date: 6/6/2003
+
+; Excelsior      ; 1-2; Heracles
+; Volendam       ; 2-0; Emmen
+
+Round: 3 
+Date: 6/9/2003
+
+; Volendam       ; 3-0; Excelsior
+; Heracles       ; 1-2; Emmen
+
+Round: 4 
+Date: 6/13/2003
+
+; Excelsior      ; 3-2; Volendam
+; Emmen          ; 0-1; Heracles
+
+Round: 5 
+Date: 6/16/2003
+
+; Heracles       ; 0-2; Excelsior
+; Emmen          ; 2-0; Volendam
+
+Round: 6 
+Date: 6/19/2003
+
+; Volendam       ; 3-1; Heracles
+; Excelsior      ; 2-1; Emmen
+
+* 1.FC Volendam                   6  4  0  2  12- 7  12  Promoted
+*------------------------------------------------------
+* 2.Emmen                         6  3  0  3   6- 6   9  Remain in 1e Divisie
+* 3.Excelsior                     6  3  0  3   8- 9   9  Relegated
+* 4.Heracles Almelo               6  2  0  4   6-10   6  Remain in 1e Divisie
+
+*Prepared and maintained by the RSSSF
+*Author: RSSSF
+*Last updated: 20 Feb 2005
+*(C) Copyright RSSSF 2002/05
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the RSSSF. All rights reserved.

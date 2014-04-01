@@ -1,0 +1,530 @@
+BlockSource: http://www.rsssf.com/tablesn/ned96ext.html
+Season: 1995-1996
+Competition: Eredivisie
+
+* 1.Ajax                         34 26  5  3  97-24 83  Champions
+*-----------------------------------------------------
+* 2.PSV                          34 24  5  5  97-25 77  CWC
+* 3.Feyenoord                    34 18  9  7  66-36 63  UEFA Cup
+* 4.Roda JC                      34 15 12  7  51-35 57  UEFA Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Vitesse                      34 15  8 11  48-44 53
+* 6.Sparta                       34 14 11  9  53-53 53 
+* 7.SC Heerenveen                34 14 11  9  66-68 53  UIC
+* 8.NAC                          34 14 10 10  58-44 52
+* 9.FC Groningen                 34 12 13  9  48-45 49  UIC
+*10.FC Twente                    34 14  6 14  46-55 48
+*11.RKC                          34 11 11 12  44-44 44
+*12.Willem II                    34  9 12 13  53-59 39
+*13.Fortuna Sittard              34  6 13 15  27-54 31
+*14.De Graafschap                34  6 11 17  37-66 29
+*15.FC Utrecht                   34  6 10 18  27-59 28
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.FC Volendam                  34  6  9 19  29-65 27  Relegation Playoff
+*17.NEC                          34  6  7 21  33-73 25  Relegation Playoff
+*-----------------------------------------------------
+*18.Go Ahead Eagles              34  5  7 22  40-71 22  Relegated
+
+
+Round: 1
+
+; Fortuna Sittard; 1-3; PSV
+; Willem II      ; 6-0; Sparta
+; Go Ahead Eagles; 2-2; Groningen
+; Roda JC        ; 2-2; Heerenveen
+; Volendam       ; 1-3; Twente
+; Ajax           ; 4-0; Utrecht
+; De Graafschap  ; 2-3; NEC
+; Feyenoord      ; 5-2; Vitesse
+; RKC            ; 2-2; NAC
+
+Round: 2
+
+; Groningen      ; 2-0; Fortuna Sittard
+; NEC            ; 0-6; Ajax
+; Heerenveen     ; 2-1; RKC
+; Go Ahead Eagles; 0-2; Willem II
+; Twente         ; 2-2; Feyenoord
+; Vitesse        ; 0-0; Roda JC
+; Sparta         ; 4-1; De Graafschap
+; NAC            ; 3-0; PSV
+; Utrecht        ; 2-2; Volendam
+
+Round: 3
+
+; RKC            ; 0-2; Vitesse
+; Willem II      ; 4-0; Fortuna Sittard
+; PSV            ; 5-1; Heerenveen
+; Roda JC        ; 0-0; Twente
+; NEC            ; 2-0; Utrecht
+; Ajax           ; 4-0; Sparta
+; Feyenoord      ; 5-1; Volendam
+; Graafschap     ; 3-2; Go Ahead Eagles
+; Groningen      ; 3-1; NAC
+
+Round: 4
+
+; Heerenveen     ; 1-0; Groningen
+; Sparta         ; 3-1; NEC
+; Vitesse        ; 0-1; PSV
+; NAC            ; 0-1; Willem II
+; Fortuna Sittard; 1-0; Graafschap
+; Volendam       ; 1-0; Roda JC
+; Twente         ; 0-1; RKC
+; Go Ahead Eagles; 0-4; Ajax
+; Utrecht        ; 1-0; Feyenoord
+
+Round: 5
+
+; De Graafschap  ; 1-1; NAC
+; RKC            ; 2-0; Volendam
+; Groningen      ; 2-0; Vitesse
+; Sparta         ; 0-0; Utrecht
+; NEC            ; 0-2; Go Ahead Eagles
+; Roda JC        ; 1-1; Feyenoord
+; PSV            ; 3-0; Twente
+; Ajax           ; 4-0; Fortuna Sittard
+; Willem II      ; 1-1; Heerenveen
+
+Round: 6
+
+; Go Ahead Eagles; 1-3; Sparta
+; Heerenveen     ; 2-2; De Graafschap
+; Volendam       ; 0-5; PSV
+; Fortuna Sittard; 1-1; NEC
+; Utrecht        ; 0-1; Roda JC
+; Feyenoord      ; 4-2; RKC
+; Twente         ; 2-2; Groningen
+; Vitesse        ; 2-2; Willem II
+; NAC            ; 0-1; Ajax
+
+Round: 7
+
+; Willem II      ; 5-2; Twente
+; NEC            ; 1-3; NAC
+; Go Ahead Eagles; 2-3; Utrecht
+; De Graafschap  ; 2-3; Vitesse
+; Heerenveen     ; 0-4; Ajax
+; RKC            ; 2-0; Roda JC
+; Sparta         ; 0-1; Fortuna Sittard
+; Groningen      ; 2-1; Volendam
+; PSV            ; 3-0; Feyenoord
+
+Round: 8
+
+; Volendam       ; 0-0; Willem II
+; De Graafschap  ; 0-3; Twente
+; NEC            ; 1-3; Heerenveen
+; NAC            ; 0-0; Sparta
+; RKC            ; 1-0; Utrecht
+; Ajax           ; 3-0; Vitesse
+; Fortuna Sittard; 2-2; Go Ahead Eagles
+; Roda JC        ; 1-1; PSV
+; Feyenoord      ; 4-1; Groningen
+
+Round: 9
+
+; PSV            ; 4-0; RKC
+; Go Ahead Eagles; 1-1; NAC
+; Groningen      ; 0-1; Roda JC
+; Utrecht        ; 2-3; Fortuna Sittard
+; Heerenveen     ; 4-0; Sparta
+; Volendam       ; 1-1; De Graafschap
+; Willem II      ; 2-2; Feyenoord
+; Vitesse        ; 2-2; NEC
+; Twente         ; 0-3; Ajax
+
+Round: 10
+
+; NAC            ; 3-0; Utrecht
+; Sparta         ; 4-2; Twente
+; De Graafschap  ; 0-2; Roda JC
+; Willem II      ; 1-2; RKC
+; Fortuna Sittard; 1-2; Heerenveen
+; Go Ahead Eagles; 1-3; Vitesse
+; NEC            ; 2-1; Volendam
+; PSV            ; 7-1; Groningen
+; Feyenoord      ; 2-4; Ajax
+
+Round: 11
+
+; Utrecht        ; 1-4; PSV
+; Twente         ; 2-0; NEC
+; RKC            ; 1-3; Groningen
+; Sparta         ; 3-0; Vitesse
+; Heerenveen     ; 2-1; Go Ahead Eagles
+; NAC            ; 2-0; Fortuna Sittard
+; Roda JC        ; 1-1; Willem II
+; Ajax           ; 4-0; Volendam
+; Feyenoord      ; 2-0; De Graafschap
+
+Round: 12
+
+; PSV            ; 2-0; Willem II
+; Heerenveen     ; 1-1; NAC
+; Ajax           ; 6-1; Roda JC
+; De  Graafschap ; 1-1; RKC
+; NEC            ; 1-3; Feyenoord
+; Twente         ; 2-1; Go Ahead Eagles
+; Vitesse        ; 5-1; Fortuna Sittard
+; Groningen      ; 0-0; Utrecht
+; Volendam       ; 1-1; Sparta
+
+Round: 13
+
+; Go Ahead Eagles; 1-2; Volendam
+; Willem II      ; 5-2; Groningen
+; Fortuna Sittard; 1-1; Twente
+; NEC            ; 1-4; Roda JC
+; Sparta         ; 3-2; Feyenoord
+; NAC            ; 2-2; Vitesse
+; Utrecht        ; 1-1; Heerenveen
+; RKC            ; 0-3; Ajax
+; PSV            ; 8-0; De Graafschap
+
+Round: 14
+
+; Ajax           ; 1-1; PSV
+; Groningen      ; 3-0; De Graafschap
+; Roda JC        ; 1-0; Sparta
+; Volendam       ; 2-0; Fortuna Sittard
+; RKC            ; 4-0; NEC
+; Feyenoord      ; 2-2; Go Ahead Eagles
+; Twente         ; 0-3; NAC
+; Vitesse        ; 2-2; Heerenveen
+; Utrecht        ; 3-3; Willem II
+
+Round: 15
+
+; Ajax           ; 4-1; Groningen
+; Heerenveen     ; 1-1; Twente
+; Fortuna Sittard; 1-0; Feyenoord
+; NAC            ; 4-0; Volendam
+; Go Ahead Eagles; 1-2; Roda JC
+; De Graafschap  ; 1-2; Willem II
+; NEC            ; 0-5; PSV
+; Sparta         ; 1-0; RKC
+; Vitesse        ; 2-1; Utrecht
+
+Round: 16
+
+; Roda JC        ; 1-1; Fortuna Sittard
+; PSV            ; 1-2; Sparta
+; De Graafschap  ; 3-0; Utrecht
+; Willem II      ; 1-0; Ajax    
+; RKC            ; 1-1; Go Ahead Eagles
+; Feyenoord      ; 2-2; NAC 
+; Volendam       ; 1-1; Heerenveen
+; Twente         ; 1-0; Vitesse
+; Groningen      ; 0-0; NEC
+
+Round: 17
+
+; Heerenveen     ; 0-1; Feyenoord
+; Fortuna Sittard; 0-0; RKC
+; NEC            ; 1-1; Willem II
+; Vitesse        ; 2-1; Volendam
+; Sparta         ; 1-1; Groningen
+; Utrecht        ; 0-3; Twente
+; Go Ahead Eagles; 0-5; PSV                
+; NAC            ; 0-0; Roda JC         
+; Ajax           ; 1-0; De Graafschap    
+
+Round: 18
+
+; Sparta         ; 1-1; Willem II
+; NAC            ; 0-1; RKC
+; Groningen      ; 0-0; Go Ahead Eagles
+; PSV            ; 3-0; Fortuna Sittard
+; Heerenveen     ; 3-2; Roda JC
+; NEC            ; 1-1; De Graafschap
+; Vitesse        ; 0-2; Feyenoord
+; Twente         ; 2-1; Volendam
+; Utrecht        ; 0-3; Ajax
+
+Round: 19
+
+; Fortuna Sittard; 0-0; Groningen
+; De Graafschap  ; 5-2; Sparta
+; RKC            ; 2-3; Heerenveen
+; Roda JC        ; 0-1; Vitesse
+; Willem II      ; 1-2; Go Ahead Eagles
+; Ajax           ; 3-1; NEC
+; Feyenoord      ; 1-0; Twente
+; Volendam       ; 0-1; Utrecht 
+; PSV            ; 4-1; NAC  
+
+Round: 20
+
+; Heerenveen     ; 1-3; PSV
+; Fortuna Sittard; 0-0; Willem II
+; NAC            ; 1-1; Groningen
+; Go Ahead Eagles; 4-0; De Graafschap 
+; Vitesse        ; 2-1; RKC
+; Twente         ; 0-3; Roda JC
+; Volendam       ; 0-3; Feyenoord
+; Utrecht        ; 1-2; NEC
+; Sparta         ; 3-3; Ajax
+
+Round: 21
+
+; Groningen      ; 1-1; Heerenveen   
+; NEC            ; 2-2; Sparta
+; PSV            ; 1-0; Vitesse   
+; Willem II      ; 1-3; NAC   
+; Graafschap     ; 1-1; Fortuna Sittard
+; Roda JC        ; 2-0; Volendam  
+; RKC            ; 1-0; Twente
+; Ajax           ; 2-1; Go Ahead Eagles   
+; Feyenoord      ; 3-0; Utrecht    
+
+Round: 22
+
+; Utrecht        ; 0-0; Sparta
+; Vitesse        ; 0-0; Groningen
+; Feyenoord      ; 2-0; Roda JC
+; NAC            ; 2-1; De Graafschap
+; Volendam       ; 1-1; RKC  
+; Go Ahead Eagles; 2-2; NEC  
+; Twente         ; 3-2; PSV 
+; Fortuna Sittard; 1-2; Ajax 
+; Heerenveen     ; 2-2; Willem II 
+
+Round: 23
+
+; Willem II      ; 0-5; Vitesse
+; PSV            ; 7-0; Volendam
+; De Graafschap  ; 2-2; Heerenveen  
+; NEC            ; 0-2; Fortuna Sittard
+; Roda JC        ; 3-1; Utrecht  
+; Groningen      ; 2-2; Twente         
+; Ajax           ; 2-0; NAC 
+; Sparta         ; 2-0; Go Ahead Eagles
+; RKC            ; 1-1; Feyenoord
+
+Round: 24
+
+; Roda JC        ; 2-2; RKC 
+; Fortuna Sittard; 0-1; Sparta
+; NAC            ; 2-1; NEC
+; Utrecht        ; 1-0; Go Ahead Eagles  
+; Vitesse        ; 0-1; De Graafschap 
+; Ajax           ; 6-2; Heerenveen
+; Feyenoord      ; 0-0; PSV
+; Volendam       ; 2-1; Groningen  
+; Twente         ; 2-1; Willem II 
+
+Round: 25
+
+; PSV            ; 3-0; Roda JC
+; Heerenveen     ; 4-1; NEC
+; Go Ahead Eagles; 2-0; Fortuna Sittard
+; Willem II      ; 1-0; Volendam
+; Vitesse        ; 2-1; Ajax
+; Sparta         ; 3-1; NAC
+; Groningen      ; 1-0; Feyenoord
+; Utrecht        ; 0-0; RKC
+; Twente         ; 1-0; De Graafschap
+
+Round: 26
+
+; RKC            ; 1-3; PSV
+; Roda JC        ; 0-0; Groningen
+; NAC            ; 2-0; Go Ahead Eagles
+; De Graafschap  ; 1-0; Volendam
+; Sparta         ; 5-2; Heerenveen
+; NEC            ; 0-1; Vitesse
+; Ajax           ; 6-1; Twente
+; Fortuna Sittard; 2-1; Utrecht  
+; Feyenoord      ; 2-0; Willem II      
+
+Round: 27
+
+; NEC            ; 1-4; Twente
+; Willem II      ; 1-2; Roda JC
+; Go Ahead Eagles; 2-3; Heerenveen
+; Fortuna Sittard; 2-2; NAC
+; PSV            ; 0-0; Utrecht
+; De Graafschap  ; 1-1; Feyenoord
+; Volendam       ; 0-0; Ajax
+; Vitesse        ; 3-2; Sparta
+; Groningen      ; 1-1; RKC
+
+Round: 28
+
+; Vitesse        ; 0-3; Go Ahead Eagles
+; Roda JC        ; 3-1; De Graafschap
+; Heerenveen     ; 5-1; Fortuna Sittard
+; RKC            ; 3-2; Willem II
+; Utrecht        ; 0-4; NAC
+; Twente         ; 1-0; Sparta
+; Volendam       ; 1-0; NEC
+; Groningen      ; 1-0; PSV
+; Ajax           ; 2-0; Feyenoord
+
+Round: 29
+
+; Roda JC        ; 2-0; Ajax
+; Fortuna Sittard; 0-0; Vitesse
+; NAC            ; 5-1; Heerenveen
+; Sparta         ; 1-0; Volendam
+; Go Ahead Eagles; 1-3; Twente
+; Feyenoord      ; 2-1; NEC
+; Willem II      ; 2-5; PSV
+; Utrecht        ; 0-1; Groningen
+; RKC            ; 5-0; De Graafschap
+
+Round: 30
+
+; Volendam       ; 2-1; Go Ahead Eagles
+; Groningen      ; 3-0; Willem II
+; Heerenveen     ; 4-2; Utrecht
+; Twente         ; 1-0; Fortuna Sittard
+; Vitesse        ; 2-0; NAC
+; Feyenoord      ; 1-1; Sparta
+; De Graafschap  ; 1-2; PSV
+; Roda JC        ; 1-0; NEC
+; Ajax           ; 1-0; RKC
+
+Round: 31 
+
+; Sparta         ; 2-2; Roda JC
+; NEC            ; 2-1; RKC
+; PSV            ; 1-1; Ajax
+; Fortuna Sittard; 2-2; Volendam
+; Willem II      ; 1-1; Utrecht
+; Heerenveen     ; 1-2; Vitesse
+; De Graafschap  ; 3-1; Groningen
+; Go Ahead Eagles; 0-3; Feyenoord
+; NAC            ; 4-1; Twente
+
+Round: 32
+
+; Roda JC        ; 5-0; Go Ahead Eagles
+; Willem II      ; 1-1; De Graafschap
+; PSV            ; 1-0; NEC
+; Groningen      ; 3-4; Ajax
+; Utrecht        ; 2-0; Vitesse
+; Twente         ; 0-1; Heerenveen
+; Volendam       ; 1-2; NAC
+; Feyenoord      ; 1-0; Fortuna Sittard
+; RKC            ; 0-0; Sparta
+
+Round: 33
+
+; Ajax           ; 5-1; Willem II
+; Sparta         ; 2-1; PSV
+; NAC            ; 0-3; Feyenoord
+; Vitesse        ; 2-0; Twente
+; Fortuna Sittard; 1-1; Roda JC
+; Heerenveen     ; 4-3; Volendam
+; Utrecht        ; 1-1; De Graafschap
+; NEC            ; 0-2; Groningen
+; Go Ahead Eagles; 1-3; RKC
+
+Round: 34
+
+; De Graafschap  ; 0-0; Ajax
+; Volendam       ; 1-1; Vitesse
+; Feyenoord      ; 4-1; Heerenveen
+; Roda JC        ; 5-1; NAC
+; RKC            ; 1-1; Fortuna Sittard
+; PSV            ; 3-1; Go Ahead Eagles
+; Groningen      ; 5-1; Sparta
+; Willem II      ; 1-3; NEC
+; Twente         ; 1-2; Utrecht
+
+* 1.Ajax                         34 26  5  3  97-24 83  Champions
+*-----------------------------------------------------
+* 2.PSV                          34 24  5  5  97-25 77  CWC
+* 3.Feyenoord                    34 18  9  7  66-36 63  UEFA Cup
+* 4.Roda JC                      34 15 12  7  51-35 57  UEFA Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Vitesse                      34 15  8 11  48-44 53
+* 6.Sparta                       34 14 11  9  53-53 53
+* 7.SC Heerenveen                34 14 11  9  66-68 53  UIC
+* 8.NAC                          34 14 10 10  58-44 52
+* 9.FC Groningen                 34 12 13  9  48-45 49  UIC
+*10.FC Twente                    34 14  6 14  46-55 48
+*11.RKC                          34 11 11 12  44-44 44
+*12.Willem II                    34  9 12 13  53-59 39
+*13.Fortuna Sittard              34  6 13 15  27-54 31
+*14.De Graafschap                34  6 11 17  37-66 29
+*15.FC Utrecht                   34  6 10 18  27-59 28 
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.FC Volendam                  34  6  9 19  29-65 27  Relegation Playoff
+*17.NEC                          34  6  7 21  33-73 25  Relegation Playoff
+*-----------------------------------------------------
+*18.Go Ahead Eagles              34  5  7 22  40-71 22  Relegated
+
+
+Netherlands 1996 Nacompetitie (Promotion/Relegation Playoffs)
+
+Group A:
+ 1.FC Volendam           6  6  0  0 10- 2 18  Remain in Eredivisie
+ 2.SC Heracles           6  3  1  2 13- 7 10
+ 3.VVV                   6  1  1  4  3- 9  4
+ 4.FC Den Bosch          6  0  2  4  2-10  2
+
+Round: 1 (May 11)
+Den Bosch  0-1 Volendam
+VVV        0-3 Heracles
+
+Round: 2 (May 18)
+Heracles   2-0 Den Bosch
+Volendam   1-0 VVV
+
+Round: 3 (May 21)
+Den Bosch  0-0 VVV
+Volendam   2-1 Heracles
+
+Round: 4 (May 25)
+VVV        2-0 Den Bosch
+Heracles   1-2 Volendam
+
+Round: 5 (May 28)
+VVV        0-1 Volendam
+Den Bosch  2-2 Heracles
+
+Round: 6 (June 1)
+Volendam   3-0 Den Bosch
+Heracles   4-1 VVV
+
+
+Group B:
+ 1.NEC                   6  5  0  1 12- 4 15   Remain in Eredivisie
+ 2.SC Veendam            6  3  1  2  8- 7 10
+ 3.SC Emmen              6  3  0  3 10- 8  9
+ 4.Cambuur Leeuwarden    6  0  1  5  2-13  1
+
+Round: 1 (May 11)
+NEC        3-1 Emmen
+Cambuur L  2-2 Veendam
+
+Round: 2 (May 18)
+Veendam    1-0 NEC
+Emmen      4-0 Cambuur L
+
+Round: 3 (May 21)
+NEC        2-0 Cambuur L
+Emmen      2-1 Veendam
+
+Round: 4 (May 25)
+Cambuur L  0-1 NEC
+Veendam    1-0 Emmen
+
+Round: 5 (May 28)
+Cambuur L  0-1 Emmen
+NEC        3-0 Veendam
+
+Round: 6 (June 1)
+Emmen      2-3 NEC
+Veendam    3-0 Cambuur L
+
+
+
+*Prepared and maintained by Timo Bootsma for the Rec.Sport.Soccer Statistics Foundation
+*Author: Timo Bootsma (Timo.Bootsma@asml.nl) 
+*Last updated: 27 Jan 2001
+*(C) Copyright Timo Bootsma and RSSSF 2001
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

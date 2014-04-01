@@ -1,0 +1,641 @@
+BlockSource: http://www.rsssf.com/tablesn/ned97ext.html
+Competition: Eredivisie
+Season: 1996-1997
+
+
+* 1.PSV                          34 24  5  5  90-26 77  Champions
+*-----------------------------------------------------
+* 2.Feyenoord                    34 22  7  5  67-34 73  Champions Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 3.FC Twente                    34 20  5  9  60-33 65  UEFA Cup
+* 4.Ajax                         34 17 10  7  55-31 61  UEFA Cup
+* 5.Vitesse                      34 15 10  9  53-41 55  UEFA Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 6.Roda JC                      34 16  7 11  56-47 55  CWC
+* 7.SC Heerenveen                34 13 11 10  58-47 50
+* 8.De Graafschap                34 13  6 15  52-55 45
+* 9.NAC                          34 10 10 14  41-54 40
+*10.FC Groningen                 34  9 12 13  43-56 39
+*11.Fortuna Sittard              34  9 12 13  36-52 39
+*12.FC Utrecht                   34  8 14 12  42-52 38
+*13.Sparta                       34 11  5 18  40-56 38
+*14.FC Volendam                  34  9 11 14  36-55 38
+*15.Willem II                    34  9  8 17  34-51 35
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.RKC Waalwijk                 34  9  7 18  39-61 34  Relegation Playoff
+*17.NEC                          34  7 11 16  35-61 32  Relegation Playoff
+*-----------------------------------------------------
+*18.AZ                           34  6  7 21  27-52 25  Relegated
+*NB: RKC is now officially called RKC Waalwijk.
+
+Round: 1 
+*[Aug 20-22]
+Date: 8/20/1996
+
+; Roda           ; 1-1; Feyenoord
+; Volendam       ; 1-1; Graafschap
+; Groningen      ; 0-0; Willem II
+; AZ             ; 0-2; Vitesse
+; Utrecht        ; 2-2; RKC
+; Sparta         ; 0-0; Fortuna 
+; Heerenveen     ; 1-3; Twente
+; Ajax           ; 1-0; NAC
+; NEC            ; 1-4; PSV
+
+Round: 2 
+*[Aug 24-25]
+Date: 8/24/1996
+
+; Graafschap     ; 3-2; RKC
+; Willem II      ; 0-1; Fortuna
+; Heerenveen     ; 2-0; Ajax
+; NAC            ; 1-0; Sparta
+; Feyenoord      ; 3-0; Volendam
+; NEC            ; 0-0; AZ
+; Vitesse        ; 1-0; Utrecht
+; Twente         ; 1-1; Roda
+; PSV            ; 4-1; Groningen
+
+Round: 3 
+*[Aug 27-29]
+Date: 8/27/1996
+
+; Fortuna        ; 2-4; Heerenveen
+; Vitesse        ; 1-1; Sparta
+; Utrecht        ; 0-0; Twente
+; Groningen      ; 1-1; Roda
+; Volendam       ; 1-3; PSV
+; Willem II      ; 1-3; RKC
+; Feyenoord      ; 2-1; Graafschap
+; Ajax           ; 1-0; AZ
+; NAC            ; 1-1; NEC
+
+Round: 4 
+*[Sep 3-5]
+Date: 9/3/1996
+
+; Fortuna        ; 0-2; Feyenoord
+; Utrecht        ; 0-0; Groningen
+; Heerenveen     ; 0-1; NAC
+; Sparta         ; 1-2; Twente
+; AZ             ; 2-1; Volendam
+; Roda           ; 0-0; Ajax
+; Graafschap     ; 4-0; NEC
+; Willem II      ; 2-1; Vitesse
+; PSV            ; 4-0; RKC
+
+Round: 5 
+*[Sep 6-8]
+Date: 9/6/1996
+
+; Groningen      ; 1-5; Heerenveen
+; AZ             ; 0-1; Fortuna
+; Roda           ; 3-0; Volendam
+; Feyenoord      ; 4-1; Willem II
+; NEC            ; 2-0; Ajax
+; Sparta         ; 3-2; Utrecht
+; PSV            ; 5-0; NAC
+; Twente         ; 1-0; Graafschap
+9/26/1996; RKC            ; 0-1; Vitesse     
+
+Round: 6 
+*[Sep 13-15]
+Date: 9/13/1996
+
+; Vitesse        ; 1-1; Heerenveen
+; Fortuna        ; 1-3; Utrecht
+; NAC            ; 1-0; AZ
+; Groningen      ; 2-4; NEC
+; Volendam       ; 2-1; Willem II
+; Twente         ; 0-1; Feyenoord
+; Graafschap     ; 2-1; PSV
+; Ajax           ; 2-0; Sparta
+; RKC            ; 0-2; Roda
+
+Round: 7 
+*[Sep 20-22]
+Date: 9/20/1996
+
+; Heerenveen     ; 1-1; NEC
+; Fortuna        ; 1-1; Volendam
+; NAC            ; 0-1; Roda
+; Sparta         ; 0-1; Feyenoord
+; Willem II      ; 1-2; Twente
+; PSV            ; 0-0; Vitesse
+; AZ             ; 3-1; Utrecht
+; Groningen      ; 1-2; RKC
+; Ajax           ; 1-1; Graafschap
+
+Round: 8 
+*[Sep 28-29]
+Date: 9/28/1996
+
+; Roda           ; 0-1; Fortuna 
+; Graafschap     ; 2-2; Willem II
+; Groningen      ; 1-0; AZ
+; Sparta         ; 1-0; NEC
+; Vitesse        ; 4-2; Feyenoord
+; Volendam       ; 2-2; Heerenveen
+; RKC            ; 1-2; NAC
+; Twente         ; 1-1; Ajax
+; Utrecht        ; 2-2; PSV
+
+Round: 9 
+*[Oct 8-9]
+Date: 10/8/1996
+
+; PSV            ; 2-0; Twente
+; Fortuna        ; 0-3; Graafschap
+; AZ             ; 1-2; Sparta
+; Vitesse        ; 1-2; Roda
+; NEC            ; 1-1; Heerenveen
+; RKC            ; 0-0; Volendam
+; NAC            ; 3-3; Utrecht
+; Feyenoord      ; 3-1; Groningen
+; Ajax           ; 3-0; Willem II
+
+Round: 10 
+*[Oct 11-13]
+Date: 10/11/1996
+
+; Fortuna        ; 1-1; PSV
+; RKC            ; 1-1; Feyenoord
+; Roda           ; 0-2; AZ
+; NAC            ; 1-2; Twente
+; Willem II      ; 3-1; Groningen
+; Heerenveen     ; 0-0; Sparta
+; Volendam       ; 1-0; NEC
+; Graafschap     ; 2-1; Vitesse
+; Utrecht        ; 1-1; Ajax
+
+Round: 11 
+*[Oct 18-20]
+Date: 10/18/1996
+
+; NEC            ; 2-2; Utrecht
+; Willem II      ; 2-2; Heerenveen
+; AZ             ; 2-3; Graafschap
+; Vitesse        ; 3-0; NAC
+; Twente         ; 3-0; RKC
+; Groningen      ; 2-0; Fortuna
+; Ajax           ; 1-1; Volendam
+; Sparta         ; 4-0; Roda
+; PSV            ; 7-2; Feyenoord
+
+Round: 12 
+*[Oct 22-24]
+Date: 10/22/1996
+
+; Utrecht        ; 0-0; Willem II
+; NAC            ; 1-1; Groningen
+; Roda           ; 1-1; Vitesse
+; Sparta         ; 0-3; Volendam
+; NEC            ; 1-1; Fortuna
+; Feyenoord      ; 1-0; AZ
+; Heerenveen     ; 0-1; PSV
+; Ajax           ; 2-0; RKC
+
+Round: 13 
+*[Oct 26,27]
+Date: 10/26/1996
+
+; PSV            ; 8-0; Roda 
+; Graafschap     ; 2-0; Fortuna
+; Feyenoord      ; 2-1; Utrecht
+; AZ             ; 2-2; NEC
+; Willem II      ; 2-0; NAC
+; Volendam       ; 2-2; Groningen
+; Twente         ; 0-2; Sparta
+; RKC            ; 0-3; Heerenveen
+; Vitesse        ; 1-4; Ajax
+
+Round: 14 
+*[Nov 1,2,3]
+Date: 11/1/1996
+
+; Fortuna        ; 1-5; Vitesse
+; AZ             ; 0-2; Heerenveen
+; NEC            ; 3-2; Sparta
+; Roda           ; 3-0; Graafschap
+; Twente         ; 1-2; PSV
+; Utrecht        ; 3-1; NAC
+; Willem II      ; 0-1; Ajax
+; Groningen      ; 0-1; Feyenoord
+; Volendam       ; 1-0; RKC
+
+*Moved Matches [Nov 5,6]
+Date: 11/5/1996
+
+; Sparta         ; 1-2; AZ
+; Utrecht        ; 1-0; Volendam
+
+Round: 15 
+*[Nov 12,13,14]
+Date: 11/12/1996
+
+; Feyenoord      ; 1-0; NAC
+; Heerenveen     ; 2-1; Graafschap
+; Roda           ; 2-0; NEC
+; Vitesse        ; 2-2; RKC
+; Twente         ; 5-0; Willem II
+; Ajax           ; 2-2; Fortuna
+; PSV            ; 2-1; Sparta
+
+Round: 16 
+*[Nov 15,16,17]
+Date: 11/15/1996
+
+; Heerenveen     ; 1-0; Feyenoord
+; Fortuna        ; 1-1; Twente
+; Utrecht        ; 1-1; Roda
+; AZ             ; 2-1; RKC
+; Graafschap     ; 1-0; Volendam
+; NAC            ; 2-0; Ajax
+; Willem II      ; 1-0; PSV
+; Sparta         ; 0-2; Groningen
+; NEC            ; 0-1; Vitesse
+
+*Moved Matches 
+*[Nov 21]
+Date: 11/21/1996
+
+; Twente         ; 2-1; Heerenveen
+; Graafschap     ; 2-0; Groningen
+
+Round: 17 
+*[Nov 23,24]
+Date: 11/23/1996
+
+; Sparta         ; 3-1; Willem II
+; NEC            ; 0-3; Twente
+; RKC            ; 1-1; Fortuna
+; Volendam       ; 4-1; NAC
+; Groningen      ; 3-2; Vitesse
+; AZ             ; 0-2; PSV
+; Utrecht        ; 2-0; Graafschap
+; Feyenoord      ; 2-2; Ajax
+
+Round: 18 
+*[Nov 30, Dec 1]
+Date: 11/30/1996
+
+; NAC            ; 2-1; Graafschap
+; PSV            ; 4-1; NEC
+; Willem II      ; 0-1; Roda
+; Heerenveen     ; 2-2; Utrecht
+; Vitesse        ; 1-0; AZ
+; Ajax           ; 1-1; Groningen
+; RKC            ; 2-0; Sparta
+; Volendam       ; 0-1; Twente
+*Feyenoord       Ppd Fortuna
+
+Round: 19 
+*[Dec 6,7,8]
+Date: 12/6/1996
+
+; RKC            ; 1-2; Willem II
+; Heerenveen     ; 2-2; Fortuna
+; PSV            ; 6-0; Volendam
+; Roda           ; 2-0; Groningen
+; NEC            ; 0-3; NAC
+; AZ             ; 1-1; Ajax
+; Sparta         ; 1-2; Vitesse
+; Twente         ; 2-0; Utrecht
+; Graafschap     ; 0-4; Feyenoord
+
+*Moved Matches 
+12/18/1996; Fortuna        ; 2-2; NAC
+12/18/1996; Feyenoord      ; 1-0; Roda
+
+Round: 20 
+*[Dec 20,21,22]
+Date: 12/20/1996
+
+; Willem II      ; 3-0; Utrecht
+; Roda           ; 6-1; Heerenveen
+; Fortuna        ; 0-0; RKC
+; Volendam       ; 1-1; Vitesse
+; NEC            ; 1-2; Feyenoord
+; Twente         ; 1-0; AZ
+; Ajax           ; 0-2; PSV
+2/9/1996; Groningen      ; 2-4; Graafschap   
+
+Round: 21 
+*[Feb 15,16]
+Date: 2/15/1997
+
+; Roda           ; 1-3; Twente
+; Heerenveen     ; 0-0; AZ
+; Willem II      ; 3-1; NEC
+; Utrecht        ; 0-1; Fortuna
+; Graafschap     ; 0-2; Ajax
+; RKC            ; 1-1; Groningen
+; Vitesse        ; 1-0; PSV
+; Volendam       ; 0-2; Feyenoord
+; Sparta         ; 2-4; NAC
+
+Round: 22 
+*[Feb 22,23]
+Date: 2/22/1997
+
+; NAC            ; 2-2; Heerenveen
+; Roda           ; 2-1; Willem II
+; PSV            ; 2-1; AZ
+; Graafschap     ; 1-2; Twente
+; RKC            ; 3-1; NEC
+; Utrecht        ; 0-1; Sparta
+; Volendam       ; 2-0; Fortuna
+; Vitesse        ; 6-1; Groningen
+; Ajax           ; 3-0; Feyenoord
+
+Round: 23 
+*[Mar 1,2]
+Date: 3/1/1997
+
+; Fortuna        ; 2-0; Willem II
+; Heerenveen     ; 3-1; Roda
+; Feyenoord      ; 2-0; NEC
+; Twente         ; 1-0; Vitesse
+; Groningen      ; 1-1; Volendam
+; AZ             ; 0-1; NAC
+; Graafschap     ; 1-2; Utrecht
+; RKC            ; 1-4; PSV
+*Sparta          Ppd Ajax
+
+Round: 24 
+*[Mar 7,8,9]
+Date: 3/7/1997
+
+; Heerenveen     ; 3-0; Vitesse
+; NEC            ; 3-1; RKC
+; NAC            ; 3-0; Volendam
+; Sparta         ; 1-1; Graafschap
+; Willem II      ; 2-2; AZ
+; Fortuna        ; 0-3; Roda
+; Ajax           ; 1-0; Utrecht
+; Feyenoord      ; 0-0; PSV
+; Groningen      ; 2-1; Twente
+
+Round: 25 
+*[Mar 14,15,16]
+Date: 3/14/1997
+
+; Ajax           ; 3-1; Roda
+; NAC            ; 0-1; Willem II
+; PSV            ; 1-0; Fortuna
+; NEC            ; 0-0; Groningen
+; Feyenoord      ; 5-0; RKC
+; Twente         ; 4-0; Volendam
+; Utrecht        ; 2-0; AZ
+; Vitesse        ; 3-2; Graafschap
+
+Round: 26 
+*[Mar 21,22,23]
+Date: 3/21/1997
+
+; Groningen      ; 2-2; NAC
+; Fortuna        ; 2-1; Sparta
+; PSV            ; 0-1; Heerenveen
+; Volendam       ; 2-1; Roda
+; AZ             ; 0-2; Feyenoord
+; Twente         ; 3-0; NEC
+; RKC            ; 1-2; Ajax
+
+*Intermediate Round: [Mar 28]
+Date: 3/28/1997
+
+; Roda           ; 1-1; Utrecht
+; NEC            ; 3-0; Volendam
+; Graafschap     ; 1-1; AZ
+; Sparta         ; 0-3; Heerenveen
+
+Round: 27 
+*[Apr 5,6]
+Date: 4/5/1997
+
+; Heerenveen     ; 3-1; Willem II
+; Fortuna        ; 0-2; Groningen
+; Graafschap     ; 0-2; Sparta
+; Feyenoord      ; 0-0; Vitesse
+; RKC            ; 3-2; Twente
+; Volendam       ; 0-3; Ajax
+; NAC            ; 2-2; PSV
+; Utrecht        ; 1-1; NEC
+
+Round: 28 
+*[Apr 12,13]
+Date: 4/12/1997
+
+; Fortuna        ; 1-0; AZ
+; Roda           ; 4-1; Sparta
+; Willem II      ; 0-2; Feyenoord
+; Utrecht        ; 2-2; Heerenveen
+; Graafschap     ; 2-2; NAC
+; Twente         ; 0-1; Groningen
+; Vitesse        ; 1-1; Volendam
+; PSV            ; 2-0; Ajax
+
+Round: 29 
+*[Apr 18,19,20]
+Date: 4/18/1997
+
+; Ajax           ; 5-0; NEC
+; AZ             ; 1-3; Roda
+; PSV            ; 5-0; Graafschap
+; NAC            ; 1-1; Vitesse
+; Willem II      ; 1-1; Sparta
+; Feyenoord      ; 4-4; Fortuna
+; Groningen      ; 2-2; Utrecht
+; Heerenveen     ; 2-0; RKC
+4/25/1997; Vitesse        ; 4-2; Twente       
+
+*Moved Matches [Apr 26]
+Date: 4/26/1997
+
+; Roda           ; 4-0; RKC
+; NEC            ; 0-0; Willem II
+5/4/1997; Sparta         ; 2-1; Ajax         
+
+Round: 30 
+*[May 2,3,4]
+Date: 5/2/1997
+
+; RKC            ; 1-0; Utrecht
+; Graafschap     ; 2-1; Heerenveen
+; Twente         ; 2-1; Fortuna
+; Vitesse        ; 2-0; Willem II
+; NAC            ; 0-2; Feyenoord
+; Volendam       ; 2-2; AZ
+5/7/1997; Groningen      ; 1-1; Ajax         
+5/7/1997; Sparta         ; 1-3; PSV          
+
+Round: 31 
+*[May 10,11,12]
+Date: 5/10/1997
+
+; AZ             ; 1-0; Willem II
+; Fortuna        ; 3-1; NEC
+; Ajax           ; 2-1; Heerenveen
+; RKC            ; 0-3; Graafschap
+; Groningen      ; 0-1; PSV
+; Volendam       ; 0-2; Sparta
+; Utrecht        ; 1-0; Vitesse
+; Feyenoord      ; 1-1; Twente
+; Roda           ; 2-1; NAC
+
+Round: 32 
+*[May 16,17,19]
+Date: 5/16/1997
+
+; NEC            ; 2-1; Roda
+; Ajax           ; 3-2; Twente
+; AZ             ; 1-4; Groningen
+; NAC            ; 0-2; RKC
+; Heerenveen     ; 1-2; Volendam
+; PSV            ; 6-1; Utrecht
+; Vitesse        ; 2-1; Fortuna
+; Willem II      ; 2-0; Graafschap
+; Feyenoord      ; 6-1; Sparta
+
+Round: 33 
+*[May 25]
+Date: 5/25/1997
+
+; Fortuna        ; 2-1; Ajax
+; Twente         ; 4-0; NAC
+; Graafschap     ; 5-2; Roda
+; Vitesse        ; 1-1; NEC
+; RKC            ; 5-0; AZ
+; Groningen      ; 1-2; Sparta
+; Volendam       ; 5-2; Utrecht
+; Feyenoord      ; 4-2; Heerenveen
+; PSV            ; 3-1; Willem II
+
+Round: 34 
+*[May 31, Jun 1]
+Date: 5/31/1997
+
+; NEC            ; 2-1; Graafschap
+; Willem II      ; 0-0; Volendam
+; Heerenveen     ; 1-3; Groningen
+; AZ             ; 1-2; Twente
+; NAC            ; 1-1; Fortuna
+; Roda           ; 3-1; PSV
+; Ajax           ; 4-0; Vitesse
+; Sparta         ; 1-3; RKC
+; Utrecht        ; 2-1; Feyenoord
+ 
+* 1.PSV                          34 24  5  5  90-26 77  Champions
+*-----------------------------------------------------
+* 2.Feyenoord                    34 22  7  5  67-34 73  Champions Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 3.FC Twente                    34 20  5  9  60-33 65  UEFA Cup
+* 4.Ajax                         34 17 10  7  55-31 61  UEFA Cup
+* 5.Vitesse                      34 15 10  9  53-41 55  UEFA Cup
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 6.Roda JC                      34 16  7 11  56-47 55  CWC
+* 7.SC Heerenveen                34 13 11 10  58-47 50
+* 8.De Graafschap                34 13  6 15  52-55 45
+* 9.NAC                          34 10 10 14  41-54 40
+*10.FC Groningen                 34  9 12 13  43-56 39
+*11.Fortuna Sittard              34  9 12 13  36-52 39
+*12.FC Utrecht                   34  8 14 12  42-52 38
+*13.Sparta                       34 11  5 18  40-56 38
+*14.FC Volendam                  34  9 11 14  36-55 38
+*15.Willem II                    34  9  8 17  34-51 35
+*- - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.RKC Waalwijk                 34  9  7 18  39-61 34  Relegation Playoff
+*17.NEC                          34  7 11 16  35-61 32  Relegation Playoff
+*-----------------------------------------------------
+*18.AZ                           34  6  7 21  27-52 25  Relegated
+*
+*NB: RKC is now officially called RKC Waalwijk.
+
+
+*Season: 1996-1997 
+Stage: Promotion/Relegation Playoffs
+
+Group: A
+
+Round: 1 
+
+6/4/1997; RKC            ; 2-0; Emmen
+6/4/1997; Den Haag       ; 0-2; Zwolle
+
+Round: 2 
+*6/7,8/1997
+
+6/7/1997; Zwolle         ; 1-0; RKC
+6/7/1997; Emmen          ; 1-0; Den Haag
+
+Round: 3 
+
+6/11/1997; Den Haag       ; 1-2; RKC
+6/11/1997; Emmen          ; 2-1; Zwolle
+
+Round: 4 
+*[Jun 14,15]
+
+6/14/1997; Zwolle         ; 1-0; Emmen
+6/14/1997; RKC            ; 4-0; Den Haag
+
+Round: 5 
+
+6/18/1997; Den Haag       ; 1-1; Emmen
+6/18/1997; RKC            ; 6-0; Zwolle
+
+Round: 6 
+
+6/22/1997; Emmen          ; 4-5; RKC
+6/22/1997; Zwolle         ; 1-1; Den Haag
+
+* 1.RKC Waalwijk                  6  5  0  1  19- 6 15
+* 2.FC Zwolle                     6  3  1  2   6- 9 10
+* 3.Emmen                         6  2  1  3   8-10  7
+* 4.ADO Den Haag                  6  0  2  4   3-11  2
+
+Group: B
+
+Round: 1
+
+6/4/1997; NEC            ; 2-1; Cambuur
+6/4/1997; VVV            ; 1-3; Go Ahead
+
+Round: 2
+
+6/7/1997; Go Ahead       ; 2-1; NEC
+6/7/1997; Cambuur        ; 3-2; VVV
+
+Round: 3 
+*[Jun 10,11]
+
+6/10/1997; Go Ahead       ; 3-2; Cambuur
+6/10/1997; VVV            ; 2-3; NEC
+
+Round: 4
+* [Jun 13,14]
+
+6/13/1997; Cambuur        ; 0-4; Go Ahead
+6/13/1997; NEC            ; 6-0; VVV
+
+Round: 5
+
+6/18/1997; NEC            ; 3-0; Go Ahead
+6/18/1997; VVV            ; 0-2; Cambuur
+
+Round: 6
+
+6/21/1997; Go Ahead       ; 5-1; VVV
+6/21/1997; Cambuur        ; 0-4; NEC
+
+* 1.NEC                           6  5  0  1  19- 5 15
+* 2.Go Ahead Eagles               6  5  0  1  17- 8 15
+* 3.Cambuur Leeuwarden            6  2  0  4   8-15  6
+* 4.VVV                           6  0  0  6   6-22  0
+
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans (karel@rsssf.com) 
+*Last updated: 27 Jan 2001
+*(C) Copyright Karel Stokkermans and RSSSF 2001
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

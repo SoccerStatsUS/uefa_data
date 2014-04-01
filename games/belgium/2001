@@ -1,0 +1,656 @@
+BlockSource: http://rsssf.com/tablesb/belg02.html
+Competition: Belgian Pro League
+Season: 2001-2002
+
+* 1.KRC Genk                      34 20 12  2  85-43  72  Champions
+* 2.Club Brugge KV                34 22  4  8  74-41  70
+* 3.RSC Anderlecht                34 18 12  4  71-37  66
+* 4.RAA Gent                      34 16 10  8  62-51  58
+* 5.Standard CL (Liège)           34 15 12  7  57-38  57
+* 6.Excelsior Mouscron            34 17  5 12  68-40  56
+* 7.Sporting Lokeren SNW          34 15 10  9  43-33  55
+* 8.Sint Truidense VV             34 16  5 13  52-47  53
+* 9.Germinal Beerschot Antwerpen  34 11 16  7  68-51  49
+*10.RWD Molenbeek                 34 13  5 16  50-59  44  Relegated [-]
+*11.AA Louvièroise                34 12  8 14  41-52  44
+*12.R Charleroi SC                34 11  6 17  40-63  39
+*13.KFC Lommelse SK               34 10  9 15  54-66  39
+*14.VC Westerlo                   34  9  9 16  49-61  36
+*15.Lierse SK                     34  9  8 17  55-65  35
+*16.Royal Antwerp FC              34  7 10 17  47-67  31
+*-------------------------------------------------------
+*17.KSC Eendracht Aalst           34  4  9 21  32-73  21  Relegated [*]
+*18.SK Beveren Waas               34  2  8 24  30-91  14
+
+*[*] Eendracht Aalst have gone into liquidation and will automatically be
+*    relegated to the 3rd level, as they were refused a 2nd division license
+*    for 2002/03; they will be renamed VC Eendracht Aalst 2002 for next season.
+*[-] RWD Molenbeek were refused a professional license for 2002/03 and were
+*    relegated to the 3rd level; however, they withdrew entirely and instead
+*    2nd level side Strombeek moved to Molenbeek, play there 2002/03, and 
+*    will be renamed FC Brussels for 2003/04.
+
+Round: 1
+Date: 8/11/2001
+
+; Anderlecht ; 3-0; Antwerp 
+; Genk       ; 5-1; Beveren 
+; Lierse     ; 1-1; Lokeren 
+; Gent       ; 4-2; St Truiden 
+; Lommel     ; 1-0; RWDM
+
+Date: 8/12/2001
+
+; Germinal   ; 8-2; La Louvière
+; Brugge     ; 4-2; Westerlo
+*; Aalst       awd Mouscron          [awarded; 0-5; due to ineligible players Aalst, originally 1-0]
+; Charleroi  ; 0-0; Standard           
+
+Round: 2
+Date: 8/17/2001
+
+; Mouscron   ; 0-1; Gent 
+
+Date: 8/18/2001
+
+; La Louvière; 1-3; Anderlecht     
+; Standard   ; 3-0; Germinal
+; RWDM       ; 0-1; Charleroi
+; St Truiden ; 4-3; Lommel
+; Westerlo   ; 0-1; Aalst   
+; Beveren    ; 1-1; Lierse 
+; Antwerp    ; 3-0; Genk   
+
+Date: 8/19/2001
+
+; Lokeren    ; 0-1; Brugge 
+
+Round: 3
+Date: 8/25/2001
+
+; Charleroi  ; 0-3; St Truiden 
+; Lierse     ; 2-1; Antwerp
+; Gent       ; 4-1; Westerlo
+; Lommel     ; 3-2; Mouscron 
+
+Date: 8/26/2001
+
+; Genk       ; 5-1; La Louvière
+; Brugge     ; 6-1; Beveren
+; Aalst      ; 2-1; Lokeren
+; Standard   ; 2-1; RWDM
+; Germinal   ; 1-1; Anderlecht
+
+Round: 4
+Date: 9/7/2001
+
+; Mouscron   ; 0-1; Charleroi
+
+Date: 9/8/2001
+
+; La Louvière; 0-0; Lierse
+; Anderlecht ; 3-3; Genk   
+; St Truiden ; 1-1; Standard
+; Westerlo   ; 6-0; Lommel
+; Beveren    ; 0-4; Aalst
+
+Date: 9/9/2001
+
+; Lokeren    ; 0-1; Gent    
+; RWDM       ; 2-2; Germinal
+; Antwerp    ; 1-2; Brugge
+
+Round: 5
+Date: 9/15/2001
+
+; Lierse     ; 2-0; Anderlecht 
+; RWDM       ; 1-2; St Truiden 
+; Gent       ; 2-1; Beveren 
+; Lommel     ; 3-4; Lokeren 
+; Germinal   ; 1-1; Genk 
+
+Date: 9/16/2001
+
+; Standard   ; 2-1; Mouscron     
+; Aalst      ; 0-0; Antwerp
+; Brugge     ; 2-1; La Louvière 
+; Charleroi  ; 4-2; Westerlo     
+
+Round: 6
+Date: 9/22/2001
+
+; La Louvière; 1-3; Aalst 
+; Genk       ; 4-2; Lierse 
+; St Truiden ; 2-2; Germinal
+; Mouscron   ; 4-1; RWDM
+
+Date: 9/23/2001
+
+; Beveren    ; 0-2; Lommel
+; Antwerp    ; 2-3; Gent
+
+Date: 10/31/2001
+
+; Lokeren    ; 1-0; Charleroi
+
+Date: 12/21/2001
+
+; Anderlecht ; 1-0; Brugge
+
+Date: 12/22/2001
+
+; Westerlo   ; 1-2; Standard
+
+Round: 7
+Date: 9/29/2001
+
+; Charleroi  ; 1-1; Beveren  
+; RWDM       ; 0-1; Westerlo     
+; St Truiden ; 1-2; Mouscron 
+; Gent       ; 2-1; La Louvière 
+; Lommel     ; 2-2; Antwerp 
+; Germinal   ; 2-0; Lierse      
+
+Date: 9/30/2001
+
+; Standard   ; 0-2; Lokeren
+; Brugge     ; 1-2; Genk 
+; Aalst      ; 1-5; Anderlecht     
+
+Round: 8
+Date: 10/9/2001
+
+; La Louvière; 0-0; Lommel
+
+Date: 10/10/2001
+
+; Anderlecht ; 2-0; Gent  
+; Genk       ; 5-0; Aalst     
+; Lierse     ; 0-2; Brugge
+; Mouscron   ; 3-1; Germinal
+; Westerlo   ; 0-0; St Truiden
+; Lokeren    ; 4-0; RWDM
+; Beveren    ; 1-1; Standard
+; Antwerp    ; 2-0; Charleroi
+
+Round: 9
+Date: 10/13/2001
+
+; Charleroi  ; 2-1; La Louvière     
+; Standard   ; 4-2; Antwerp 
+; RWDM       ; 3-0; Beveren     
+; St Truiden ; 1-0; Lokeren 
+; Mouscron   ; 1-2; Westerlo     
+; Gent       ; 0-0; Genk     
+; Lommel     ; 2-2; Anderlecht    
+
+Date: 10/14/2001
+
+; Aalst      ; 0-2; Lierse 
+; Germinal   ; 1-2; Brugge 
+
+Round: 10
+Date: 10/20/2001
+
+; Anderlecht ; 2-1; Charleroi
+; Genk       ; 4-2; Lommel
+; Lokeren    ; 2-1; Mouscron     
+; Antwerp    ; 1-2; RWDM
+
+Date: 10/21/2001
+
+; La Louvière; 3-1; Standard 
+; Lierse     ; 1-2; Gent   
+; Westerlo   ; 1-2; Germinal
+; Brugge     ; 3-0; Aalst   
+; Beveren    ; 3-2; St Truiden
+
+Round: 11
+Date: 10/27/2001
+
+; Charleroi  ; 0-3; Genk             
+; Standard   ; 1-0; Anderlecht      
+; RWDM       ; 1-0; La Louvière      
+; St Truiden ; 3-1; Antwerp          
+; Westerlo   ; 0-1; Lokeren
+; Germinal   ; 4-0; Aalst  
+
+Date: 10/28/2001
+
+; Lommel     ; 2-2; Lierse
+; Mouscron   ; 3-0; Beveren 
+; Gent       ; 2-2; Brugge           
+
+Round: 12
+Date: 11/3/2001
+
+; Anderlecht ; 2-2; RWDM      
+; Lierse     ; 1-2; Charleroi
+; Lokeren    ; 3-2; Germinal    
+; Beveren    ; 1-1; Westerlo    
+; Antwerp    ; 2-1; Mouscron
+
+Date: 11/4/2001
+
+; Genk       ; 1-1; Standard 
+; La Louvière; 1-0; St Truiden  
+; Brugge     ; 3-1; Lommel
+; Aalst      ; 1-3; Gent             
+
+Round: 13
+Date: 11/24/2001
+
+; Standard   ; 2-1; Lierse 
+; St Truiden ; 0-2; Anderlecht      
+; Mouscron   ; 2-0; La Louvière      
+; Westerlo   ; 2-1; Antwerp          
+; Lokeren    ; 1-0; Beveren          
+; Lommel     ; 1-1; Aalst            
+; Germinal   ; 3-2; Gent   
+
+Date: 11/25/2001
+
+; Charleroi  ; 0-4; Brugge           
+; RWDM       ; 2-5; Genk         
+
+Round: 16
+Date: 11/11/2001
+
+; Germinal   ; 2-0; Antwerp
+
+Date: 11/28/2001
+
+; Anderlecht ; 0-0; Lokeren          
+; Lierse     ; 3-3; Mouscron         
+; Gent       ; 2-5; Standard         
+; Lommel     ; 5-1; Charleroi        
+; La Louvière; 3-2; Beveren          
+; Genk       ; 2-0; Westerlo         
+; Brugge     ; 2-0; St Truiden       
+; Aalst      ; 2-4; RWDM             
+
+Round: 14
+Date: 12/1/2001
+
+; La Louvière; 3-3; Westerlo         
+; Anderlecht ; 4-2; Mouscron         
+; Genk       ; 2-2; St Truiden       
+; Lierse     ; 1-2; RWDM             
+; Gent       ; 0-0; Lommel           
+; Beveren    ; 1-1; Germinal         
+; Antwerp    ; 1-1; Lokeren          
+
+Date: 12/2/2001
+
+; Aalst      ; 1-1; Charleroi        
+; Brugge     ; 1-3; Standard         
+
+Round: 15
+Date: 12/8/2001
+
+; Charleroi  ; 0-3; Gent             
+; Standard   ; 2-0; Aalst            
+; St Truiden ; 0-2; Lierse           
+; Mouscron   ; 2-4; Genk             
+; Lokeren    ; 2-2; La Louvière      
+; Beveren    ; 2-3; Antwerp          
+; Germinal   ; 3-0; Lommel           
+; Westerlo   ; 1-2; Anderlecht      
+
+Date: 12/9/2001
+
+; RWDM       ; 2-3; Brugge    
+
+Round: 17
+Date: 12/18/2001
+
+; Mouscron   ; 2-0; Brugge           
+; Beveren    ; 1-4; Anderlecht      
+
+Date: 12/19/2001
+
+; Charleroi  ; 1-0; Germinal         
+; Standard   ; 2-1; Lommel           
+; RWDM       ; 0-1; Gent             
+; St Truiden ; 3-1; Aalst  
+; Westerlo   ; 5-4; Lierse           
+; Lokeren    ; 2-2; Genk     
+; Antwerp    ; 0-0; La Louvière      
+
+Round: 18
+Date: 1/11/2002
+
+; La Louvière; 1-1; Germinal  
+
+Date: 1/12/2002
+
+; Beveren    ; 1-6; Genk             
+; Lokeren    ; 2-1; Lierse           
+; Westerlo   ; 1-4; Brugge           
+; Mouscron   ; 6-1; Aalst            
+; St Truiden ; 0-1; Gent             
+; RWDM       ; 0-1; Lommel           
+
+Date: 1/13/2002
+
+; Standard   ; 6-0; Charleroi        
+; Antwerp    ; 2-2; Anderlecht
+
+Round: 19
+Date: 1/19/2002
+
+; Anderlecht ; 5-2; La Louvière      
+; Charleroi  ; 3-1; RWDM             
+; Lommel     ; 0-1; St Truiden       
+; Gent       ; 1-1; Mouscron         
+; Genk       ; 2-1; Antwerp          
+
+Date: 1/20/2002
+
+; Aalst      ; 0-1; Westerlo         
+; Brugge     ; 2-4; Lokeren          
+; Lierse     ; 3-3; Beveren          
+
+Date: 4/16/2002
+
+; Germinal   ; 2-2; Standard          
+*[Standard fielded ineligible player (Spehar), match but GBA decided not to file a protest]
+
+Round: 20
+Date: 1/25/2002
+
+; Anderlecht ; 1-0; Germinal   
+
+Date: 1/26/2002
+
+; St Truiden ; 2-1; Charleroi        
+; La Louvière; 0-0; Genk             
+; Antwerp    ; 1-4; Lierse           
+; Beveren    ; 0-4; Brugge           
+; Lokeren    ; 1-0; Aalst            
+; Westerlo   ; 3-1; Gent   
+
+Date: 1/27/2002
+
+; RWDM       ; 2-1; Standard         
+; Mouscron   ; 1-0; Lommel           
+
+Round: 21
+Date: 2/2/2002
+
+; Germinal   ; 2-2; RWDM             
+; Standard   ; 1-3; St Truiden       
+; Lommel     ; 3-0; Westerlo         
+; Gent       ; 1-1; Lokeren          
+; Charleroi  ; 0-2; Mouscron
+
+Date: 2/3/2002
+
+; Lierse     ; 0-1; La Louvière
+; Aalst      ; 0-1; Beveren  
+; Brugge     ; 4-1; Antwerp  
+
+Date: 3/13/2002
+
+; Genk       ; 1-1; Anderlecht
+
+Round: 22
+Date: 2/9/2002
+
+; Anderlecht ; 7-1; Lierse           
+; La Louvière; 1-2; Brugge           
+; Antwerp    ; 2-0; Aalst            
+; Beveren    ; 2-2; Gent             
+; Lokeren    ; 1-0; Lommel           
+; Genk       ; 4-4; Germinal         
+
+Date: 2/10/2002
+
+; Mouscron   ; 2-0; Standard         
+; Westerlo   ; 3-3; Charleroi        
+; St Truiden ; 1-2; RWDM             
+
+Round: 23
+Date: 2/16/2002
+
+; Lierse     ; 1-2; Genk             
+; Germinal   ; 1-0; St Truiden       
+; RWDM       ; 1-1; Mouscron         
+; Charleroi  ; 1-0; Lokeren          
+; Lommel     ; 3-1; Beveren          
+
+Date: 2/17/2002
+
+; Aalst      ; 0-0; La Louvière      
+; Standard   ; 2-2; Westerlo         
+; Gent       ; 3-3; Antwerp          
+; Brugge     ; 1-0; Anderlecht      
+
+Round: 24
+Date: 2/22/2002
+
+; La Louvière; 3-1; Gent     
+
+Date: 2/23/2002
+
+; Beveren    ; 1-1; Charleroi        
+; Lokeren    ; 1-1; Standard         
+; Mouscron   ; 3-0; St Truiden       
+; Anderlecht ; 3-1; Aalst            
+; Antwerp    ; 3-3; Lommel           
+; Lierse     ; 1-1; Germinal     
+
+Date: 2/24/2002
+
+; Genk       ; 3-2; Brugge         
+; Westerlo   ; 4-0; RWDM             
+
+Round: 25
+Date: 3/2/2002
+
+; Lommel     ; 3-0; La Louvière      
+; Germinal   ; 2-2; Mouscron         
+; St Truiden ; 2-0; Westerlo         
+; RWDM       ; 1-0; Lokeren          
+; Standard   ; 4-1; Beveren          
+; Charleroi  ; 5-0; Antwerp          
+
+Date: 3/3/2002
+
+; Gent       ; 2-2; Anderlecht  
+; Aalst      ; 0-0; Genk             
+; Brugge     ; 3-1; Lierse           
+
+Round: 26
+Date: 3/8/2002
+
+; La Louvière; 2-1; Charleroi   
+; Genk       ; 2-1; Gent   
+
+Date: 3/9/2002
+
+; Beveren    ; 1-3; RWDM             
+; Lokeren    ; 0-1; St Truiden       
+; Westerlo   ; 0-2; Mouscron         
+; Lierse     ; 3-1; Aalst   
+; Anderlecht ; 2-0; Lommel    
+
+Date: 3/10/2002
+
+; Antwerp    ; 0-0; Standard         
+; Brugge     ; 3-2; Germinal         
+
+Round: 27
+Date: 3/16/2002
+
+; Charleroi  ; 1-1; Anderlecht      
+; Standard   ; 1-2; La Louvière      
+; Lommel     ; 1-5; Genk             
+; Gent       ; 2-3; Lierse           
+; Germinal   ; 1-1; Westerlo         
+; Mouscron   ; 4-0; Lokeren       
+
+Date: 3/17/2002
+
+; RWDM       ; 2-0; Antwerp          
+; Aalst      ; 1-1; Brugge           
+; St Truiden ; 4-2; Beveren          
+
+Round: 28
+Date: 3/22/2002
+
+; Anderlecht ; 0-0; Standard         
+
+Date: 3/23/2002
+
+; Genk       ; 3-2; Charleroi        
+; Antwerp    ; 4-1; St Truiden       
+; Beveren    ; 0-1; Mouscron         
+; Lokeren    ; 2-0; Westerlo         
+; Lierse     ; 6-3; Lommel  
+
+Date: 3/24/2002
+
+; La Louvière; 1-0; RWDM
+; Brugge     ; 0-1; Gent             
+; Aalst      ; 3-3; Germinal         
+
+Round: 29
+Date: 3/30/2002
+
+; St Truiden ; 1-0; La Louvière      
+; Standard   ; 2-0; Genk  
+; Charleroi  ; 3-1; Lierse           
+; Gent       ; 2-2; Aalst            
+; Germinal   ; 0-0; Lokeren          
+; Westerlo   ; 1-0; Beveren          
+; Mouscron   ; 5-1; Antwerp          
+; Lommel     ; 0-2; Brugge           
+
+Date: 4/1/2002
+
+; RWDM       ; 2-3; Anderlecht  
+
+Round: 30
+Date: 4/5/2002
+
+; Brugge     ; 1-0; Charleroi        
+
+Date: 4/6/2002
+
+; Lierse     ; 1-1; Standard         
+; Genk       ; 2-0; RWDM             
+; Anderlecht ; 0-2; St Truiden       
+; La Louvière; 1-0; Mouscron         
+; Antwerp    ; 1-1; Westerlo         
+; Beveren    ; 0-2; Lokeren          
+; Gent       ; 1-1; Germinal         
+
+Date: 4/7/2002
+
+; Aalst      ; 0-1; Lommel           
+
+Round: 31
+Date: 4/12/2002
+
+; Standard   ; 1-1; Brugge       
+
+Date: 4/13/2002
+
+; Westerlo   ; 0-1; La Louvière     
+; St Truiden ; 0-1; Genk 
+; RWDM       ; 1-0; Lierse     
+; Charleroi  ; 2-1; Aalst  
+; Lommel     ; 2-4; Gent     
+; Germinal   ; 4-1; Beveren   
+
+Date: 4/14/2002
+
+; Lokeren    ; 0-0; Antwerp          
+; Mouscron   ; 1-1; Anderlecht      
+
+Round: 32
+Date: 4/20/2002
+
+; Gent       ; 3-0; Charleroi        
+; Lierse     ; 0-2; St Truiden       
+; Anderlecht ; 3-3; Westerlo         
+; La Louvière; 0-1; Lokeren          
+; Antwerp    ; 4-0; Beveren
+; Lommel     ; 2-2; Germinal         
+
+Date: 4/21/2002
+
+; Brugge     ; 1-1; RWDM            
+; Aalst      ; 1-2; Standard
+; Genk       ; 3-1; Mouscron         
+
+Round: 33
+Date: 4/27/2002
+
+; Charleroi  ; 1-3; Lommel
+
+Date: 4/28/2002
+
+; Beveren    ; 0-3; La Louvière      
+; Lokeren    ; 0-1; Anderlecht
+; Westerlo   ; 0-0; Genk        
+; Mouscron   ; 2-0; Lierse      
+; St Truiden ; 5-3; Brugge
+; RWDM       ; 4-3; Aalst     
+; Standard   ; 0-1; Gent       
+; Antwerp    ; 2-3; Germinal         
+
+Round: 34 
+Date: 5/4/2002
+
+; Germinal   ; 4-1; Charleroi   
+; La Louvière; 3-0; Antwerp      
+
+Date: 5/5/2002
+
+; Lommel     ; 1-1; Standard    
+; Gent       ; 3-5; RWDM 
+; Aalst      ; 1-1; St Truiden     
+; Brugge     ; 2-0; Mouscron 
+; Lierse     ; 4-1; Westerlo
+; Genk       ; 3-3; Lokeren 
+; Anderlecht ; 3-0; Beveren 
+
+
+* 1.KRC Genk                      34 20 12  2  85-43  72  Champions
+* 2.Club Brugge KV                34 22  4  8  74-41  70
+* 3.RSC Anderlecht                34 18 12  4  71-37  66
+* 4.RAA Gent                      34 16 10  8  62-51  58
+* 5.Standard CL (Liège)           34 15 12  7  57-38  57
+* 6.Excelsior Mouscron            34 17  5 12  68-40  56
+* 7.Sporting Lokeren SNW          34 15 10  9  43-33  55
+* 8.Sint Truidense VV             34 16  5 13  52-47  53
+* 9.Germinal Beerschot Antwerpen  34 11 16  7  68-51  49
+*10.RWD Molenbeek                 34 13  5 16  50-59  44  Relegated [-]
+*11.AA Louvièroise                34 12  8 14  41-52  44
+*12.R Charleroi SC                34 11  6 17  40-63  39
+*13.KFC Lommelse SK               34 10  9 15  54-66  39
+*14.VC Westerlo                   34  9  9 16  49-61  36
+*15.Lierse SK                     34  9  8 17  55-65  35
+*16.Royal Antwerp FC              34  7 10 17  47-67  31
+*-------------------------------------------------------
+*17.KSC Eendracht Aalst           34  4  9 21  32-73  21  Relegated [*]
+*18.SK Beveren Waas               34  2  8 24  30-91  14
+
+*[*] Eendracht Aalst have gone into liquidation and will automatically be
+*    relegated to the 3rd level, as they were refused a 2nd division license
+*    for 2002/03; they will be renamed VC Eendracht Aalst 2002 for next season.
+*[-] RWD Molenbeek were refused a professional license for 2002/03 and were
+*    relegated to the 3rd level; however, they withdrew entirely and instead
+*    2nd level side Strombeek moved to Molenbeek, play there 2002/03, and 
+*    will be renamed FC Brussels for 2003/04.
+
+*R Charleroi SC change name to Sporting du Pays de Charleroi for 2002/03.
+
+
+*Prepared and maintained by Luc Nackaerts for the Rec.Sport.Soccer Statistics Foundation
+*Author: Luc Nackaerts (luc_nackaerts@vtm.be) 
+*Last updated: 12 Dec 2002
+*(C) Copyright Luc Nackaerts and RSSSF 2001/02
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

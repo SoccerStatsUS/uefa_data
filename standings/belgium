@@ -1,0 +1,606 @@
+Competition: Belgian Pro League
+
+
+Season: 1993-1994
+BlockSource: http://en.wikipedia.org/wiki/1993%E2%80%9394_Belgian_First_Division
+
+Key: number; team; games; wins; ties; losses; goals_for; goals_against; points; goal_differential
+
+1 ;           R.S.C. Anderlecht        ;  34     ; 24     ; 7      ; 3      ; 79     ; 31     ; 55     ; +48
+2 ;           Club Brugge              ;  34     ; 20     ; 13     ; 1      ; 54     ; 19     ; 53     ; +35
+3 ;           R.F.C. Seraing           ;  34     ; 15     ; 13     ; 6      ; 50     ; 27     ; 43     ; +23
+4 ;           R. Charleroi S.C.        ;  34     ; 18     ; 5      ; 11     ; 61     ; 49     ; 41     ; +12
+5 ;           R. Antwerp F.C.          ;  34     ; 14     ; 13     ; 7      ; 44     ; 38     ; 41     ; +6
+6 ;           Standard Liège           ;  34     ; 13     ; 12     ; 9      ; 43     ; 22     ; 38     ; +21
+7 ;           K.V. Oostende            ;  34     ; 10     ; 16     ; 8      ; 45     ; 41     ; 36     ; +4
+8 ;           Y.R. K.V. Mechelen       ;  34     ; 10     ; 15     ; 9      ; 40     ; 40     ; 35     ; 0
+9 ;           K.S.K. Beveren           ;  34     ; 11     ; 11     ; 12     ; 42     ; 40     ; 33     ; +2
+10;           K.F.C. Germinal Beerschot;  34     ; 11     ; 10     ; 13     ; 49     ; 48     ; 32     ; +1
+11;           K.F.C. Lommel S.K.       ;  34     ; 10     ; 10     ; 14     ; 42     ; 50     ; 30     ; -8
+12;           Cercle Brugge K.S.V.     ;  34     ; 9      ; 11     ; 14     ; 52     ; 63     ; 29     ; -11
+13;           R.F.C. de Liège          ;  34     ; 9      ; 11     ; 14     ; 40     ; 59     ; 29     ; -19
+14;           Lierse S.K.              ;  34     ; 7      ; 14     ; 13     ; 30     ; 42     ; 28     ; -12
+15;           K.A.A. Gent              ;  34     ; 7      ; 13     ; 14     ; 43     ; 57     ; 27     ; -14
+16;           R.W.D. Molenbeek         ;  34     ; 7      ; 11     ; 16     ; 32     ; 49     ; 25     ; -17
+17;           K.S.V. Waregem           ;  34     ; 6      ; 7      ; 21     ; 32     ; 62     ; 19     ; -30
+
+
+
+Season: 1994-1995
+BlockSource: http://en.wikipedia.org/wiki/1994%E2%80%9395_Belgian_First_Division
+
+
+1 ;           R.S.C. Anderlecht        ;  34     ; 23     ; 6      ; 5      ; 80     ; 31     ; 52     ; +49     
+2 ;           Standard Liège           ;  34     ; 21     ; 9      ; 4      ; 52     ; 23     ; 51     ; +29     
+3 ;           Club Brugge              ;  34     ; 21     ; 7      ; 6      ; 68     ; 31     ; 49     ; +37     
+4 ;           K.S.C. Eendracht Aalst   ;  34     ; 14     ; 11     ; 9      ; 63     ; 57     ; 39     ; +6  
+5 ;           Lierse S.K.              ;  34     ; 14     ; 9      ; 11     ; 52     ; 52     ; 37     ; 0
+6 ;           K.F.C. Germinal Beerschot;  34     ; 12     ; 13     ; 9      ; 57     ; 39     ; 37     ; +18 
+7 ;           K.F.C. Lommel S.K.       ;  34     ; 13     ; 9      ; 12     ; 44     ; 41     ; 35     ; +3
+8 ;           K. Sint-Truidense V.V.   ;  34     ; 11     ; 13     ; 10     ; 34     ; 35     ; 35     ; -1
+9 ;           R.F.C. Seraing           ;  34     ; 12     ; 10     ; 12     ; 53     ; 45     ; 34     ; +8
+10;           K.S.K. Beveren           ;  34     ; 10     ; 12     ; 12     ; 40     ; 46     ; 32     ; -6      
+11;           Y.R. K.V. Mechelen       ;  34     ; 11     ; 9      ; 14     ; 41     ; 46     ; 31     ; -5
+12;           R.W.D. Molenbeek         ;  34     ; 10     ; 11     ; 13     ; 34     ; 41     ; 31     ; -7
+13;           R. Charleroi S.C.        ;  34     ; 10     ; 11     ; 13     ; 33     ; 43     ; 31     ; -10
+14;           K.A.A. Gent              ;  34     ; 11     ; 8      ; 15     ; 41     ; 53     ; 30     ; -12
+15;           Cercle Brugge K.S.V.     ;  34     ; 9      ; 10     ; 15     ; 43     ; 52     ; 28     ; -9
+16;           R. Antwerp F.C.          ;  34     ; 8      ; 8      ; 18     ; 40     ; 56     ; 24     ; -16
+17;           K.V. Oostende            ;  34     ; 5      ; 9      ; 20     ; 34     ; 81     ; 19     ; -47
+
+
+Season: 1995-1996
+BlockSource: http://en.wikipedia.org/wiki/1995%E2%80%9396_Belgian_First_Division
+
+1 ;           Club Brugge       ; 34     ; 25     ; 6      ; 3      ; 83     ; 30     ; 81     ; +53  
+2 ;           Anderlecht        ; 34     ; 22     ; 5      ; 7      ; 83     ; 37     ; 71     ; +46  
+3 ;           Beerschot         ; 34     ; 15     ; 8      ; 11     ; 53     ; 37     ; 53     ; +16
+4 ;           Molenbeek         ; 34     ; 13     ; 14     ; 7      ; 43     ; 29     ; 53     ; +14
+5 ;           Lierse            ; 34     ; 14     ; 10     ; 10     ; 54     ; 45     ; 52     ; +9   
+6 ;           Standard Liège    ; 34     ; 13     ; 12     ; 9      ; 51     ; 46     ; 51     ; +5
+7 ;           Charleroi         ; 34     ; 13     ; 11     ; 10     ; 59     ; 53     ; 50     ; +6
+8 ;           Cercle Brugge     ; 34     ; 13     ; 10     ; 11     ; 51     ; 47     ; 49     ; +4   
+9 ;           Lommel            ; 34     ; 14     ; 6      ; 14     ; 40     ; 45     ; 48     ; -5
+10;           Mechelen          ; 34     ; 12     ; 8      ; 14     ; 40     ; 46     ; 44     ; -6
+11;           Harelbeke         ; 34     ; 13     ; 4      ; 17     ; 40     ; 48     ; 43     ; -8
+12;           Eendracht Aalst   ; 34     ; 11     ; 9      ; 14     ; 51     ; 58     ; 42     ; -7
+13;           Royal Antwerp     ; 34     ; 11     ; 9      ; 14     ; 38     ; 46     ; 42     ; -8
+14;           Gent              ; 34     ; 10     ; 11     ; 13     ; 39     ; 49     ; 41     ; -10
+15;           Sint-Truiden      ; 34     ; 11     ; 7      ; 16     ; 42     ; 60     ; 40     ; -18
+16;           Seraing           ; 34     ; 8      ; 5      ; 21     ; 35     ; 75     ; 29     ; -40  
+17;           Beveren           ; 34     ; 6      ; 9      ; 19     ; 38     ; 57     ; 27     ; -19
+18;           Waregem           ; 34     ; 4      ; 9      ; 21     ; 30     ; 70     ; 21     ; -40
+
+
+Season: 1996-1997
+BlockSource: http://en.wikipedia.org/wiki/1996%E2%80%9397_Belgian_First_Division
+
+1 ;           Lierse S.K.                       ; 34     ; 21     ; 10     ; 3      ; 70     ; 38     ; 73     ; +32  
+2 ;           Club Brugge                       ; 34     ; 22     ; 5      ; 7      ; 69     ; 34     ; 71     ; +35  
+3 ;           R.E. Mouscron                     ; 34     ; 17     ; 10     ; 7      ; 60     ; 38     ; 61     ; +22
+4 ;           R.S.C. Anderlecht                 ; 34     ; 16     ; 10     ; 8      ; 59     ; 36     ; 58     ; +23
+5 ;           K.F.C. Lommel S.K.                ; 34     ; 16     ; 9      ; 9      ; 50     ; 48     ; 57     ; +2   
+6 ;           R. Antwerp F.C.                   ; 34     ; 16     ; 5      ; 13     ; 51     ; 49     ; 53     ; +2
+7 ;           Standard Liège                    ; 34     ; 16     ; 2      ; 16     ; 55     ; 55     ; 50     ; 0
+8 ;           K.R.C. Genk                       ; 34     ; 13     ; 9      ; 12     ; 49     ; 43     ; 48     ; +6
+9 ;           K.R.C. Zuid-West-Vlaanderen       ; 34     ; 12     ; 11     ; 11     ; 50     ; 42     ; 47     ; +8
+10;           K.F.C. Germinal Beerschot         ; 34     ; 13     ; 7      ; 14     ; 56     ; 57     ; 46     ; -1 
+11;           K. Sint-Truidense V.V.            ; 34     ; 10     ; 9      ; 15     ; 46     ; 56     ; 39     ; -10
+12;           K.S.C. Lokeren Oost-Vlaanderen    ; 34     ; 10     ; 8      ; 16     ; 41     ; 57     ; 38     ; -16
+13;           R. Charleroi S.C.                 ; 34     ; 10     ; 7      ; 17     ; 44     ; 58     ; 37     ; -14
+14;           K.A.A. Gent                       ; 34     ; 10     ; 6      ; 18     ; 44     ; 58     ; 36     ; -14
+15;           K.S.C. Eendracht Aalst            ; 34     ; 8      ; 12     ; 14     ; 44     ; 55     ; 36     ; -11
+16;           R.W.D. Molenbeek                  ; 34     ; 8      ; 11     ; 15     ; 32     ; 43     ; 35     ; -11
+17;           Y.R. K.V. Mechelen                ; 34     ; 7      ; 10     ; 17     ; 33     ; 55     ; 31     ; -22
+18;           Cercle Brugge K.S.V.              ; 34     ; 6      ; 9      ; 19     ; 36     ; 67     ; 27     ; -31
+
+
+Season: 1997-1998
+BlockSource: http://en.wikipedia.org/wiki/1997%E2%80%9398_Belgian_First_Division
+
+
+1 ;           Club Brugge                       ; 34     ; 26     ; 6      ; 2      ; 78     ; 29     ; 84     ; +49    
+2 ;           K.R.C. Genk                       ; 34     ; 20     ; 6      ; 8      ; 65     ; 40     ; 66     ; +25    
+3 ;           K.F.C. Germinal Beerschot         ; 34     ; 17     ; 7      ; 10     ; 60     ; 48     ; 58     ; +12
+4 ;           R.S.C. Anderlecht                 ; 34     ; 16     ; 9      ; 9      ; 53     ; 37     ; 57     ; +16
+5 ;           K.R.C. Zuid-West-Vlaanderen       ; 34     ; 15     ; 10     ; 9      ; 50     ; 31     ; 55     ; +19
+6 ;           K.S.C. Lokeren Oost-Vlaanderen    ; 34     ; 16     ; 4      ; 14     ; 68     ; 68     ; 52     ; 0
+7 ;           Lierse S.K.                       ; 34     ; 14     ; 8      ; 12     ; 54     ; 45     ; 50     ; +9
+8 ;           K.A.A. Gent                       ; 34     ; 11     ; 14     ; 9      ; 50     ; 44     ; 47     ; +6
+9 ;           Standard Liège                    ; 34     ; 11     ; 10     ; 13     ; 53     ; 50     ; 43     ; +3
+10;           R.E. Mouscron                     ; 34     ; 11     ; 8      ; 15     ; 39     ; 45     ; 41     ; -6
+11;           K.F.C. Lommel S.K.                ; 34     ; 10     ; 11     ; 13     ; 46     ; 50     ; 41     ; -4
+12;           K.V.C. Westerlo                   ; 34     ; 9      ; 14     ; 11     ; 52     ; 56     ; 41     ; -4
+13;           R. Charleroi S.C.                 ; 34     ; 9      ; 12     ; 13     ; 46     ; 57     ; 39     ; -11
+14;           K. Sint-Truidense V.V.            ; 34     ; 8      ; 13     ; 13     ; 32     ; 45     ; 37     ; -13
+15;           K.S.C. Eendracht Aalst            ; 34     ; 9      ; 9      ; 16     ; 51     ; 66     ; 36     ; -15
+16;           K.S.K. Beveren                    ; 34     ; 7      ; 11     ; 16     ; 30     ; 48     ; 32     ; -18
+17;           R.W.D. Molenbeek                  ; 34     ; 8      ; 7      ; 19     ; 39     ; 74     ; 31     ; -35
+18;           R. Antwerp F.C.                   ; 34     ; 6      ; 7      ; 21     ; 38     ; 71     ; 25     ; -33
+
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesb/belg99.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+ 1; RC Genk           ; 34; 22;  7;  5;  74; 38;  73  
+*Champions
+
+ 2; FC Brugge         ; 34; 22;  5;  7;  65; 38;  71
+ 3; RSC Anderlecht    ; 34; 21;  7;  6;  76; 39;  70
+ 4; Excelsior Mouscron; 34; 19;  9;  6;  76; 47;  66
+ 5; KSC Lokeren       ; 34; 17;  6; 11;  69; 61;  57
+ 6; Standard CL       ; 34; 17;  3; 14;  55; 47;  54
+ 7; Lierse SK         ; 34; 16;  6; 12;  72; 47;  54
+ 8; AA Gent           ; 34; 14; 10; 10;  55; 59;  52
+ 9; Sint Truidense VV ; 34; 14;  9; 11;  52; 46;  51
+10; Germinal Ekeren   ; 34; 14;  7; 13;  48; 46;  49
+11; RC Harelbeke      ; 34; 10; 11; 13;  44; 46;  41
+12; VC Westerlo       ; 34; 11;  7; 16;  56; 62;  40
+13; Eendracht Aalst   ; 34;  9;  8; 17;  48; 66;  35
+14; RSC Charleroi     ; 34;  7; 11; 16;  40; 54;  32
+15; SK Beveren Waas   ; 34;  8;  6; 20;  33; 60;  30
+16; Lommel SK         ; 34;  7;  7; 20;  33; 56;  28
+
+17; KV Kortrijk       ; 34;  6;  7; 21;  49; 81;  25  
+*Relegated
+18; KV Oostende       ; 34;  4; 10; 20;  27; 79;  22  
+*Relegated
+
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesb/belg00.html
+
+
+ 1; RSC Anderlecht               ; 34; 22;  9;  3;  86; 36;  75  
+*Champions
+
+ 2; FC Brugge                    ; 34; 21;  4;  9;  70; 32;  67
+ 3; AA Gent                      ; 34; 20;  3; 11;  78; 54;  63
+ 4; Excelsior Mouscron           ; 34; 16;  9;  9;  67; 45;  57
+ 5; Standard CL (Liège)          ; 34; 18;  2; 14;  66; 52;  56  
+ 6; VC Westerlo                  ; 34; 16;  8; 10;  73; 66;  56
+ 7; Germinal Beerschot (Antw.)   ; 34; 16;  7; 11;  56; 45;  55
+ 8; RC Genk                      ; 34; 16;  6; 12;  63; 59;  54
+ 9; Lierse SK                    ; 34; 15;  7; 12;  65; 47;  52
+10; KSC Lokeren                  ; 34; 12; 11; 11;  56; 58;  47
+11; KV Mechelen                  ; 34; 12;  5; 17;  47; 77;  41
+12; RC Harelbeke                 ; 34; 11;  5; 18;  62; 70;  38
+13; Eendracht Aalst              ; 34; 11;  4; 19;  53; 72;  37 
+14; Sint Truidense VV            ; 34; 10;  7; 17;  41; 65;  37
+15; SK Beveren Waas              ; 34;  8;  8; 18;  49; 75;  32
+16; RSC Charleroi                ; 34;  7; 10; 17;  42; 62;  31
+
+17; KFC Verbroedering (Geel)     ; 34;  5; 13; 16;  32; 60;  28  
+*Relegated
+18; Lommel SK                    ; 34;  5; 12; 17;  35; 66;  27  
+*Relegated
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesb/belg01.html
+
+ 1; RSC Anderlecht               ; 34; 25;  8;  1;  88; 25;  83
+*  Champions
+ 2; Club Brugge KV               ; 34; 23;  9;  2;  83; 24;  78
+*  CL Qualifying
+ 3; Standard CL (Liège)          ; 34; 16; 12;  6;  71; 44;  60
+*  UEFA Cup
+ 4; Sporting Lokeren SNW         ; 34; 16;  9;  9;  58; 41;  57
+*  Intertoto [*]
+ 5; RAA Gent                     ; 34; 16;  9;  9;  61; 49;  57
+*  Intertoto [*]
+ 6; Germinal Beerschot Antwerpen ; 34; 17;  3; 14;  62; 53;  54
+ 7; Excelsior Mouscron           ; 34; 15;  8; 11;  63; 49;  53
+ 8; VC Westerlo                  ; 34; 15;  8; 11;  61; 53;  53
+ 9; R Charleroi SC               ; 34; 14;  5; 15;  51; 65;  47 
+10; Lierse SK                    ; 34; 12;  7; 15;  44; 51;  43
+11; KRC Genk                     ; 34; 11;  9; 14;  45; 51;  42
+12; Royal Antwerp FC             ; 34; 11;  7; 16;  38; 45;  40
+13; Sint Truidense VV            ; 34;  9;  8; 17;  44; 54;  35
+14; SK Beveren Waas              ; 34;  9;  8; 17;  30; 64;  35
+15; AA Louvièroise               ; 34;  6; 12; 16;  32; 56;  30   
+16; SC Eendracht Aalst           ; 34;  7;  8; 19;  33; 65;  29
+
+17; KRC Harelbeke                ; 34;  8;  4; 22;  35; 79;  28  
+*Relegated
+18; KV Mechelen                  ; 34;  4; 10; 20;  39; 72;  22  
+*Relegated
+
+*NB: Harelbeke will change name to KRC Zuid-West Vlaanderen in the next season.
+*
+*[*] following a draw (officially Lokeren and Gent finished equal 4th), Gent were
+*    drawn as 1st Belgian UIC participant, Lokeren as 2nd, meaning Gent enter one
+*    round later.
+
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesb/belg02.html
+
+ 1; KRC Genk                     ; 34; 20; 12;  2;  85; 43;  72  
+*Champions
+ 2; Club Brugge KV               ; 34; 22;  4;  8;  74; 41;  70
+ 3; RSC Anderlecht               ; 34; 18; 12;  4;  71; 37;  66
+ 4; RAA Gent                     ; 34; 16; 10;  8;  62; 51;  58
+ 5; Standard CL (Liège)          ; 34; 15; 12;  7;  57; 38;  57
+ 6; Excelsior Mouscron           ; 34; 17;  5; 12;  68; 40;  56
+ 7; Sporting Lokeren SNW         ; 34; 15; 10;  9;  43; 33;  55
+ 8; Sint Truidense VV            ; 34; 16;  5; 13;  52; 47;  53
+ 9; Germinal Beerschot Antwerpen ; 34; 11; 16;  7;  68; 51;  49
+10; RWD Molenbeek                ; 34; 13;  5; 16;  50; 59;  44
+*  Relegated [-]
+11; AA Louvièroise               ; 34; 12;  8; 14;  41; 52;  44
+12; R Charleroi SC               ; 34; 11;  6; 17;  40; 63;  39
+13; KFC Lommelse SK              ; 34; 10;  9; 15;  54; 66;  39
+14; VC Westerlo                  ; 34;  9;  9; 16;  49; 61;  36
+15; Lierse SK                    ; 34;  9;  8; 17;  55; 65;  35
+16; Royal Antwerp FC             ; 34;  7; 10; 17;  47; 67;  31
+
+17; KSC Eendracht Aalst          ; 34;  4;  9; 21;  32; 73;  21 
+* Relegated [*]
+18; SK Beveren Waas              ; 34;  2;  8; 24;  30; 91;  14
+
+*[*] Eendracht Aalst have gone into liquidation and will automatically be
+*    relegated to the 3rd level, as they were refused a 2nd division license
+*    for 2002/03; they will be renamed VC Eendracht Aalst 2002 for next season.
+*[-] RWD Molenbeek were refused a professional license for 2002/03 and were
+*    relegated to the 3rd level; however, they withdrew entirely and instead
+*    2nd level side Strombeek moved to Molenbeek, play there 2002/03, and 
+*    will be renamed FC Brussels for 2003/04.
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesb/belg03.html
+
+ 1; Club Brugge KV               ; 32; 25;  4;  3;  96; 33;  79
+*  Champions
+ 2; RSC Anderlecht               ; 32; 23;  2;  7;  72; 33;  71
+ 3; Sporting Lokeren SNW         ; 32; 18;  6;  8;  69; 51;  60
+ 4; Sint Truidense VV            ; 32; 16;  8;  8;  63; 44;  56
+ 5; Lierse SK                    ; 32; 16;  8;  8;  51; 41;  56
+ 6; KRC Genk                     ; 32; 16;  7;  9;  73; 52;  55
+ 7; Standard CL (Liège)          ; 32; 14;  8; 10;  53; 39;  50
+ 8; RAA Gent                     ; 32; 15;  2; 15;  49; 55;  47
+ 9; RAEC Mons                    ; 32; 13;  4; 15;  45; 45;  43
+10; VC Westerlo                  ; 32; 12;  4; 16;  39; 46;  40
+11; SK Beveren Waas              ; 32; 12;  2; 18;  52; 69;  38
+12; Royal Antwerp FC             ; 32;  9;  7; 16;  44; 55;  34
+13; Excelsior Mouscron           ; 32;  9;  5; 18;  42; 72;  32
+14; Germinal Beerschot Antwerpen ; 32;  8;  7; 17;  49; 57;  31
+15; AA Louvièroise               ; 32;  7;  9; 16;  34; 44;  30
+16; Sporting du Pays de Charleroi; 32;  6;  9; 17;  39; 66;  27
+
+17; KV Mechelen                  ; 32;  4;  6; 22;  18; 86;  18  
+*Relegated  [*1]
+* -; KFC Lommelse SK              ; wi;thd;rew;   ;    ;   ;      Relegated  [*2]
+
+*[*1] KV Mechelen went into liquidation and have not applied for a license;
+*     they will play 2003/04 in the third level independent of their final
+*     position.  They will start next season as Geel Red KV and have a 
+*     9-point penalty (3 points per period).
+*[*2] KFC Lommelse SK have only 13 players left and go into liquidation;
+*     they withdrew from the league with 8 matches remaining; all their
+*     results were annulled; their record before withdrawal:
+*   KFC Lommelse SK               26  7  3 16  28-48  24 
+*     (5 more matches were awarded 0-5 forfait defeats before it was
+*     decided to annul all matches); Lommel officially does not exist
+*     anymore but 'merged' with KVV Overpelt Fabriek into KVSK United
+*     (Koninklijke Voetbalvereniging en Sportkring United), who will
+*     play at the 3rd level in Lommel 2003/04. 
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesb/belg04.html
+
+ 1; RSC Anderlecht               ; 34; 25;  6;  3;  77; 27;  81
+*  Champions
+ 2; Club Brugge KV               ; 34; 22;  6;  6;  77; 31;  72  
+*CL Qualifying
+ 3; Standard CL (Liège)          ; 34; 18; 11;  5;  68; 31;  65
+*  UEFA Cup
+ 4; KRC Genk                     ; 34; 17;  8;  9;  58; 40;  59
+ 5; Excelsior Mouscron           ; 34; 15; 14;  5;  64; 42;  59
+ 6; VC Westerlo                  ; 34; 14; 10; 10;  51; 45;  52
+ 7; Germinal Beerschot Antwerpen ; 34; 11; 11; 12;  34; 40;  44
+ 8; AA Louviéroise               ; 34; 10; 14; 10;  45; 46;  44
+ 9; RAA Gent                     ; 34;  8; 16; 10;  33; 34;  40
+10; Sporting Lokeren SNW         ; 34; 10;  9; 15;  45; 54;  39
+11; Lierse SK                    ; 34;  8; 15; 11;  33; 40;  39  
+12; SK Beveren Waas              ; 34; 11;  5; 18;  45; 58;  38
+*  UEFA Cup (Cup Final)
+13; Sint Truidense VV            ; 34;  9; 11; 14;  36; 50;  38
+14; Cercle Brugge KSV            ; 34;  7; 14; 13;  28; 52;  35
+15; Sporting du Pays de Charleroi; 34;  8;  9; 17;  35; 47;  33
+16; RAEC Mons                    ; 34;  7; 12; 15;  29; 52;  33
+
+17; K Heusden-Zolder             ; 34;  7;  7; 20;  36; 68;  28  
+*Relegated  [*]
+*18; Royal Antwerp FC             ; 34;  7;  6; 21;  30; 67;  27  
+*Relegated
+
+*[*] play in Genk
+
+
+Key: number; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesb/belg05.html
+
+ 1; Club Brugge KV               ; 34; 24;  7;  3;  83; 25;  79; Champions
+ 2; RSC Anderlecht               ; 34; 23;  7;  4;  75; 34;  76; CL Qualifying
+ 3; R. Standard de Liège         ; 34; 21;  7;  6;  64; 30;  70; UEFA Cup Playoff
+ 3; KRC Genk                     ; 34; 21;  7;  6;  59; 37;  70; UEFA Cup Playoff
+ 5; R. Charleroi SC              ; 34; 19;  7;  8;  47; 34;  64;
+ 6; KAA Gent                     ; 34; 18;  5; 11;  46; 36;  59;
+ 7; RAA Louviéroise              ; 34; 12;  8; 14;  43; 43;  44;
+ 8; KSC Lokeren OV               ; 34; 11; 11; 12;  36; 38;  44;
+ 9; Germinal Beerschot           ; 34; 12;  6; 16;  36; 45;  42; UEFA Cup (Cup)
+10; K. Lierse SK                 ; 34; 12;  5; 17;  57; 60;  41;
+10; Cercle Brugge KSV            ; 34; 12;  5; 17;  45; 74;  41;
+12; KVC Westerlo                 ; 34; 11;  6; 17;  34; 54;  39;
+13; R. Excelsior Mouscron        ; 34; 10;  6; 18;  40; 43;  36;
+13; K. Sint-Truiden VV           ; 34; 10;  6; 18;  40; 58;  36;
+15; FC Brussels                  ; 34; 10;  3; 21;  32; 60;  33;
+16; KSK Beveren                  ; 34;  8;  8; 18;  43; 59;  32;
+
+17; KV Oostende                  ; 34;  6;  9; 19;  31; 62;  27;  Relegated
+
+18; RAEC Mons                    ; 34;  7;  5; 22;  39; 58;  26;  Relegated
+
+
+Key: number; team; games; wins; ties; losses; goals_for; goals_against; points
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesb/belg06.html
+
+ 1; RSC Anderlecht               ; 34; 20; 10;  4;  72; 27;  70
+*  Champions
+ 2; R. Standard de Liège         ; 34; 19;  8;  7;  51; 28;  65
+*  CL Qualifying
+ 3; Club Brugge KV               ; 34; 18; 10;  6;  51; 33;  64
+*  UEFA Cup
+ 4; KAA Gent                     ; 34; 18;  7;  9;  48; 34;  61
+*  UI Cup
+ 5; KRC Genk                     ; 34; 16;  9;  9;  52; 38;  57
+ 6; KFC Germinal Beerschot       ; 34; 14;  7; 13;  50; 45;  49
+ 7; SV Zulte-Waregem             ; 34; 14;  7; 13;  51; 49;  49
+*  UEFA Cup (Cup)
+ 8; KSC Lokeren OV               ; 34; 12; 11; 11;  48; 49;  47
+ 9; KVC Westerlo                 ; 34; 13;  7; 14;  42; 48;  46
+10; FC Brussels                  ; 34; 12; 10; 12;  30; 30;  46
+11; R. Charleroi SC              ; 34; 11; 12; 11;  39; 39;  45
+12; KSV Roeselare                ; 34; 10; 11; 13;  44; 42;  41
+*  UEFA Cup (Fair Play)
+
+13; R. Excelsior Mouscron        ; 34; 11;  4; 19;  43; 43;  37
+14; Cercle Brugge KSV            ; 34; 10;  7; 17;  38; 61;  37
+15; K. Sint-Truiden VV           ; 34;  8; 10; 16;  36; 49;  34
+16; KSK Beveren                  ; 34;  9;  6; 19;  35; 55;  33
+
+17; K. Lierse SK                 ; 34;  8;  8; 18;  22; 52;  32
+*  Relegation Playoff
+
+18; RAA Louviéroise              ; 34;  4; 14; 16;  26; 56;  26
+*  Relegated
+
+*NB: For the next two seasons (2005/06, 2006/07) the number 17
+*    have to play the Tweede Klasse Eindronde together with
+*    the three period winners.
+
+
+BlockSource: http://www.rsssf.com/tablesb/belg07.html
+Season: 2006-2007
+
+ 1; RSC Anderlecht               ; 34; 23;  8;  3;  75; 30;  77  
+*Champions
+ 2; KRC Genk                     ; 34; 22;  6;  6;  71; 37;  72  
+*CL Qualifying
+ 3; R. Standard de Liège         ; 34; 19;  7;  8;  62; 38;  64 
+* UEFA Cup
+ 4; KAA Gent                     ; 34; 18;  6; 10;  56; 40;  60 
+* UI Cup
+ 5; R. Charleroi SC              ; 34; 17;  9;  8;  51; 40;  60
+ 6; Club Brugge KV               ; 34; 14;  9; 11;  58; 40;  51  
+*UEFA Cup (Cup)
+ 6; KFC Germinal Beerschot       ; 34; 14;  9; 11;  52; 46;  51
+ 8; KVC Westerlo                 ; 34; 12; 10; 12;  41; 44;  46
+ 9; RAEC Mons                    ; 34; 12;  8; 14;  41; 41;  44
+10; R. Excelsior Mouscron        ; 34; 10; 12; 12;  51; 55;  42
+11; KSV Roeselare                ; 34; 10;  9; 15;  50; 72;  39
+12; Cercle Brugge KSV            ; 34; 10;  8; 16;  31; 36;  38
+13; FC Brussels                  ; 34;  8; 14; 12;  39; 50;  38
+14; SV Zulte-Waregem             ; 34;  9; 10; 15;  40; 54;  37
+15; K. Sint-Truiden VV           ; 34;  9;  8; 17;  39; 52;  35
+16; KSC Lokeren OV               ; 34;  5; 15; 14;  32; 48;  30
+
+17; K. Lierse SK                 ; 34;  6;  8; 20;  33; 66;  26
+*  Relegation Playoff
+
+18; KSK Beveren                  ; 34;  5; 10; 19;  31; 64;  25  
+*Relegated
+
+*NB: the number 17 enter the Tweede Klasse Eindronde together
+*    with the three period winners at the second level.
+
+
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesb/belg08.html
+
+ 1; R. Standard de Liège         ; 34; 22; 11;  1;  61; 19;  77  
+*Champions
+ 2; RSC Anderlecht               ; 34; 21;  7;  6;  59; 31;  70  
+*CL Qualifying
+ 3; Club Brugge KV               ; 34; 20;  7;  7;  45; 30;  67  
+*UEFA Cup
+ 4; Cercle Brugge KSV            ; 34; 17;  9;  8;  62; 33;  60
+ 5; KFC Germinal Beerschot       ; 34; 16;  7; 11;  46; 34;  55 
+* UI Cup
+ 6; KAA Gent                     ; 34; 14; 10; 10;  57; 46;  52 
+* UEFA Cup (Cup)
+ 7; SV Zulte-Waregem             ; 34; 13;  8; 13;  47; 54;  47
+ 8; R. Charleroi SC              ; 34; 13;  7; 14;  41; 45;  46
+ 9; KVC Westerlo                 ; 34; 12;  9; 13;  43; 37;  45
+ 9; KRC Genk                     ; 34; 12;  9; 13;  54; 55;  45
+11; R. Excelsior Mouscron        ; 34; 12;  6; 16;  38; 43;  42
+12; KSC Lokeren OV               ; 34;  9; 15; 10;  32; 33;  42
+13; KV Mechelen                  ; 34; 10; 10; 14;  45; 52;  40
+14; KSV Roeselare                ; 34;  9; 11; 14;  36; 55;  38
+15; FC Verbroedering Dender EH   ; 34;  9;  6; 19;  33; 59;  33
+16; RAEC Mons                    ; 34;  7; 12; 15;  37; 45;  33
+
+17; K. Sint-Truiden VV           ; 34;  6;  9; 19;  32; 58;  27
+*  Relegated
+18; FC Brussels                  ; 34;  4;  7; 23;  27; 66;  19
+*  Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesb/belg09.html
+
+ 1; RSC Anderlecht               ; 34; 24;  5;  5;  75; 30;  77
+*  Championship Playoff
+  ; R. Standard de Liège         ; 34; 24;  5;  5;  66; 26;  77
+*  Championship Playoff
+ 3; Club Brugge KV               ; 34; 18;  5; 11;  59; 50;  59
+ 4; KAA Gent                     ; 34; 17;  8;  9;  67; 42;  59
+ 5; SV Zulte-Waregem             ; 34; 16;  7; 11;  55; 36;  55
+ 6; KVC Westerlo                 ; 34; 15;  7; 12;  42; 38;  52
+ 7; KSC Lokeren OV               ; 34; 13; 12;  9;  40; 32;  51
+ 8; KRC Genk                     ; 34; 15;  5; 14;  48; 51;  50
+ 9; Cercle Brugge KSV            ; 34; 14;  5; 15;  48; 53;  47
+10; KV Mechelen                  ; 34; 12; 10; 12;  46; 52;  46
+11; R. Excelsior Mouscron        ; 34; 12;  8; 14;  42; 49;  44
+12; R. Charleroi SC              ; 34; 12;  7; 15;  43; 48;  43
+13; KFC Germinal Beerschot       ; 34; 11;  9; 14;  44; 42;  42
+14; KV Kortrijk                  ; 34;  9; 11; 14;  37; 55;  38
+
+15; FC Verbroedering Dender EH   ; 34;  9;  8; 17;  44; 58;  35
+*  Relegation Playoff
+16; KSV Roeselare                ; 34;  8;  6; 20;  33; 59;  30
+*  Relegation Playoff
+
+17; AFC Tubize                   ; 34;  7;  6; 21;  35; 77;  27  
+*Relegated
+18; RAEC Mons                    ; 34;  3; 10; 21;  31; 57;  19  
+*Relegated
+
+*NB: The Jupiler Pro League is reduced from 18 to 16 teams for 2009/10;
+*    therefore numbers 17 and 18 are relegated and numbers 15 and 16
+*    will play eindronde EXQI League.
+
+
+Key: number; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesb/belg2010.html
+
+ 1; RSC Anderlecht               ; 28; 22;  3;  3;  62; 20;  69;  
+ 2; Club Brugge KV               ; 28; 17;  6;  5;  52; 33;  57;  
+ 3; KAA Gent                     ; 28; 14;  7;  7;  49; 30;  49;  
+ 4; KV Kortrijk                  ; 28; 12;  9;  7;  39; 30;  45;  
+ 5; K. Sint-Truiden VV           ; 28; 12;  6; 10;  35; 35;  42;  
+ 6; SV Zulte-Waregem             ; 28; 10; 11;  7;  39; 32;  41;  
+
+ 7; KV Mechelen                  ; 28; 12;  3; 13;  36; 46;  39;  
+ 8; R. Standard de Liège         ; 28; 10;  9;  9;  38; 34;  39;  
+ 9; Cercle Brugge KSV            ; 28; 11;  5; 12;  45; 40;  38; 
+10; KFC Germinal Beerschot       ; 28;  9;  8; 11;  30; 43;  35;  
+11; KRC Genk                     ; 28;  8; 10; 10;  33; 31;  34;   0-2]
+12; KVC Westerlo                 ; 28;  8;  8; 12;  28; 34;  32;  
+13; R. Charleroi SC              ; 28;  5;  8; 15;  28; 45;  23;  
+14; KSC Lokeren OV               ; 28;  5;  3; 20;  22; 54;  18;   5-0]
+
+15; KSV Roeselare                ; 28;  4;  6; 18;  29; 58;  18;   1-2]  Relegation Playoff
+
+* -.R. Excelsior Mouscron         excluded; all results annulled
+*   record at exclusion:          20  6  5  9  22-37  23
+
+*NB: Mouscron excluded after threatening a third forfeit in round 21;
+*      all results annulled; between square brackets results against
+*      Mouscron;
+*    top 6 after regular season enter championship playoff;
+*    teams finishing 7th to 14th play off for one place in
+*      UEFA Europea league;
+*    15th team enter promotion/relegation playoff;
+*    bottom club relegated
+
+
+
+Key: number; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesb/belg2011.html
+
+ 1; Anderlecht     ; 30; 19; 8; 3;  58; 20;  65
+ 2; KRC Genk       ; 30; 19; 7; 4 ; 64; 27 ; 64
+ 3; AA Gent        ; 30; 17; 6; 7 ; 59; 42 ; 57
+ 4; Club Brugge    ; 30; 16; 5; 9 ; 60; 35 ; 53
+ 5; Lokeren        ; 30; 13;11; 6 ; 43; 36 ; 50
+ 6; Standard Luik  ; 30; 15; 4;11 ; 50; 38 ; 49
+ 7; KV Mechelen    ; 30; 13; 9; 8 ; 34; 30 ; 48
+ 8; Westerlo       ; 30; 11; 8;11 ; 41; 40 ; 31
+ 9; Cercle Brugge  ; 30; 11; 6;13 ; 33; 34 ; 39
+10; Kortrijk       ; 30; 11; 5;14 ; 36; 39 ; 38
+11; Zulte Waregem  ; 30;  7;12;11 ; 39; 41 ; 33
+12; Sint Truiden   ; 30;  8; 5;17 ; 20; 51 ; 29
+13; Germ.Beerschot ; 30;  5;11;14 ; 24; 40 ; 26
+14; Lierse SK      ; 30;  4;12;14 ; 26; 58 ; 24
+15; Eupen          ; 30;  5; 8;17 ; 28; 50 ; 23
+16; Charleroi      ; 30;  4; 7;19 ; 20; 54 ; 19
+
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesb/belg2012.html
+
+ 1; RSC Anderlecht               ; 30;  20;  7;  3;  61; 26;  67
+ 2; Club Brugge KV               ; 30;  19;  4;  7;  51; 32;  61
+ 3; KAA Gent                     ; 30;  17;  5;  8;  63; 35;  56
+ 4; R. Standard de Liège         ; 30;  14;  9;  7;  43; 33;  51
+ 5; KRC Genk                     ; 30;  13;  7; 10;  60; 44;  46
+ 6; KV Kortrijk                  ; 30;  13;  7; 10;  39; 36;  46
+
+ 7; Cercle Brugge KSV            ; 30;  13;  7; 10;  36; 37;  46
+ 8; KSC Lokeren OV               ; 30;  11; 11;  8;  48; 40;  44
+ 9; KV Mechelen                  ; 30;  10;  7; 13;  40; 50;  37
+10; RAEC Mons                    ; 30;   9;  9; 12;  50; 55;  36
+11; K. Beerschot AC              ; 30;   9;  9; 12;  45; 51;  36
+*[*] KFC Germinal Beerschot were renamed K. Beerschot AC
+12; K. Lierse SK                 ; 30;   6; 13; 11;  24; 36;  31
+13; SV Zulte-Waregem             ; 30;   6; 12; 12;  32; 38;  30
+14; Oud-Heverlee Leuven          ; 30;   7;  8; 15;  38; 58;  29
+
+15; KVC Westerlo                 ; 30;   5;  5; 20;  29; 59;  20
+16; K. Sint-Truiden VV           ; 30;   3; 10; 17;  32; 61;  19
+
+
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesb/belg2013.html
+
+ 1; RSC Anderlecht                  ; 30;  20;  7;  3;  69; 27;  67
+ 2; SV Zulte-Waregem                ; 30;  19;  6;  5;  49; 29;  63
+ 3; KRC Genk                        ; 30;  15; 10;  5;  63; 40;  55
+ 4; Club Brugge KV                  ; 30;  15;  9;  6;  66; 43;  54
+ 5; KSC Lokeren OV                  ; 30;  14;  9;  7;  53; 38;  51
+ 6; R. Standard de Liège            ; 30;  15;  5; 10;  54; 33;  50
+
+ 7; RAEC Mons                       ; 30;  13;  5; 12;  48; 53;  44
+ 8; KV Mechelen                     ; 30;  12;  5; 13;  44; 42;  41
+ 9; KV Kortrĳk                      ; 30;  11;  6; 13;  31; 30;  39
+10; Oud-Heverlee Leuven             ; 30;   8; 12; 10;  46; 51;  36
+11; R. Charleroi SC                 ; 30;  10;  4; 16;  30; 49;  34
+12; KAA Gent                        ; 30;   8; 10; 12;  33; 40;  34
+13; KV Red Star Waasland-SK Beveren ; 30;   7;  9; 14;  28; 49;  30
+14; K. Lierse SK                    ; 30;   5; 11; 14;  28; 53;  26
+
+15; K. Beerschot AC                 ; 30;   6;  5; 19;  31; 61;  23
+16; Cercle Brugge KSV               ; 30;   3;  5; 22;  30; 65;  14

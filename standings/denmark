@@ -1,0 +1,401 @@
+Competition: Superligaen
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesd/den96.html
+
+ 1; Brøndby        ; 33; 20;  7;  6;  71; 32;  67
+ 2; AGF            ; 33; 18; 12;  3;  61; 28;  66
+ 3; OB             ; 33; 17;  9;  7;  57; 33;  60
+ 4; Lyngby         ; 33; 14; 11;  8;  61; 35;  53
+ 5; AaB            ; 33; 15;  6; 12;  57; 38;  51
+ 6; Silkeborg      ; 33; 14;  7; 12;  44; 42;  49
+ 7; København      ; 33; 13;  9; 11;  48; 49;  48
+ 8; Viborg         ; 33;  9; 11; 13;  48; 67;  38
+ 9; Vejle          ; 33;  8;  9; 16;  34; 50;  33
+10; Herfølge       ; 33;  6;  9; 18;  41; 62;  27
+
+11; Ikast          ; 33;  5; 10; 18;  28; 63;  25
+12; Næstved        ; 33;  5;  8; 20;  29; 80;  23
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesd/den97.html
+
+ 1; Brøndby        ; 33; 20;  8;  5;  64; 39;  68
+ 2; Vejle          ; 33; 14; 12;  7;  57; 38;  54
+ 3; AGF            ; 33; 14; 10;  9;  75; 51;  52
+ 4; Herfølge       ; 33; 15;  7; 11;  46; 42;  52
+ 5; AaB            ; 33; 12; 11; 10;  46; 40;  47
+ 6; Silkeborg      ; 33; 10; 15;  8;  51; 55;  45
+ 7; OB             ; 33; 11;  8; 14;  59; 61;  41
+ 8; FC København   ; 33; 10; 11; 12;  35; 43;  41
+ 9; Lyngby         ; 33; 10; 10; 13;  50; 61;  40
+10; AB             ; 33;  8; 12; 13;  56; 62;  36
+
+11; Viborg         ; 33;  6; 11; 16;  31; 58;  29
+12; Hvidovre       ; 33;  5; 11; 17;  39; 59;  26
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesd/den98.html
+
+ 1; Brøndby IF     ; 33; 24;  4;  5;  81; 33;  76  
+*Champions
+ 2; Silkeborg IF   ; 33; 17; 12;  4;  55; 31;  63  
+*UEFA Cup
+ 3; FC København   ; 33; 18;  7;  8;  66; 48;  61  
+*CWC
+ 4; Vejle B        ; 33; 16;  4; 13;  53; 51;  52  
+*UEFA Cup
+ 5; AB             ; 33; 13;  8; 12;  61; 52;  47  
+*UIC
+ 6; Lyngby FC      ; 33; 13;  6; 14;  53; 62;  45  
+*UIC
+ 7; AaB            ; 33; 12;  8; 13;  54; 48;  44
+ 8; AGF            ; 33; 11; 10; 12;  53; 52;  43
+ 9; Herfølge BK    ; 33;  9;  7; 17;  44; 69;  34
+10; Aarhus Fremad  ; 33;  9;  6; 18;  51; 73;  33
+
+11; Ikast fS       ; 33;  8;  5; 20;  51; 86;  29  
+*Relegated
+12; OB             ; 33;  6;  7; 20;  40; 57;  25  
+*Relegated
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesd/den99.html
+
+ 1; AaB                ; 33  ; 17  ; 13   ; 3   ; 65   ; 37  ; 64  
+*Champions
+ 2; Brøndby IF         ; 33  ; 19  ;  4   ;10   ; 73   ; 37  ; 61
+ 3; AB                 ; 33  ; 17  ;  5   ;11   ; 49   ; 36  ; 56
+*  Cup Winners
+ 4; Lyngby FC          ; 33  ; 14  ; 10   ; 9   ; 55   ; 60  ; 52
+ 5; Herfølge BK        ; 33  ; 12  ; 11   ;10   ; 44   ; 36  ; 47
+ 6; Vejle BK           ; 33  ; 14  ;  5   ;14   ; 54   ; 48  ; 47
+ 7; FC København       ; 33  ; 12  ; 10   ;11   ; 55   ; 52  ; 46
+ 8; Viborg FF          ; 33  ; 13  ;  5   ;15   ; 61   ; 59  ; 44
+ 9; Silkeborg IF       ; 33  ; 10  ; 14   ; 9   ; 52   ; 53  ; 44
+10; AGF                ; 33  ; 11  ; 10   ;12   ; 45   ; 55  ; 43
+
+11; Aarhus Fremad      ; 33  ;  7  ;  8   ;18   ; 51   ; 73  ; 29  
+*Relegated
+12; B 93               ; 33  ;  3  ;  3   ;27   ; 22   ; 80  ; 12  
+*Relegated
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesd/den00.html
+
+ 1; Herfølge BK        ; 33  ; 16  ;  8   ; 9   ; 52; 49;   56  
+*Champions 
+ 2; Brøndby IF         ; 33  ; 15  ;  9   ; 9   ; 56; 37;   54  
+*Champions' League Qualifying
+ 3; AB                 ; 33  ; 14  ; 10   ; 9   ; 52; 35;   52
+*  UEFA Cup
+ 4; Viborg FF          ; 33  ; 15  ;  7   ;11   ; 56; 50;   52
+*  UEFA Cup (Cup winners)
+ 5; AaB                ; 33  ; 12  ; 13   ; 8   ; 57; 40;   49 
+ 6; Silkeborg IF       ; 33  ; 13  ; 10   ;10   ; 49; 33;   49
+ 7; Lyngby FC          ; 33  ; 14  ;  5   ;14   ; 51; 55;   47
+ 8; FC København       ; 33  ; 12  ;  8   ;13   ; 44; 37;   44
+ 9; OB                 ; 33  ; 11  ; 10   ;12   ; 42; 44;   43
+10; AGF                ; 33  ;  9  ;  9   ;15   ; 36; 55;   36
+
+11; Vejle BK           ; 33  ;  7  ; 11   ;15   ; 38; 68;   32  
+*Relegated 
+12; Esbjerg fB         ; 33  ;  8  ;  4   ;21   ; 40; 70;   28  
+*Relegated
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesd/den01.html
+
+ 1; FC København       ; 33; 17; 12;  4; 55; 27; 63  
+*Champions
+ 2; Brøndby IF         ; 33; 17;  7;  9; 71; 42; 58
+ 3; Silkeborg IF       ; 33; 15; 11;  7; 49; 36; 56
+ 4; FC Midtjylland     ; 33; 14; 11;  8; 54; 43; 53
+ 5; AaB                ; 33; 13; 10; 10; 51; 49; 49
+ 6; Viborg FF          ; 33; 13;  7; 13; 52; 42; 46 
+ 7; OB                 ; 33; 13;  7; 13; 49; 45; 46
+ 8; AGF                ; 33; 13;  5; 15; 54; 58; 44 
+ 9; Lyngby FC          ; 33; 12;  8; 13; 40; 53; 44
+10; AB                 ; 33;  8; 15; 10; 43; 41; 39
+
+11; Herfølge BK        ; 33;  7;  9; 17; 41; 65; 30  
+*Relegated
+12; HFK Sønderjylland  ; 33;  1;  8; 24; 30; 88; 11  
+*[*]  
+*Relegated
+
+*[*] Haderslev FK changed name to HFK Sønderjylland during the winter break
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesd/den02.html
+
+ 1; Brøndby IF         ; 33; 20;  9;  4; 74; 28; 69  
+*Champions
+ 2; FC København       ; 33; 20;  9;  4; 62; 25; 69
+ 3; FC Midtjylland     ; 33; 16;  9;  8; 47; 27; 57
+ 4; AaB                ; 33; 16;  6; 11; 52; 45; 54
+ 5; AB                 ; 33; 13; 11;  9; 48; 38; 50
+ 6; OB                 ; 33; 13; 10; 10; 56; 51; 49
+ 7; Esbjerg fB         ; 33; 13;  6; 14; 42; 44; 45
+ 8; Viborg FF          ; 33; 10; 11; 12; 46; 45; 41
+ 9; Silkeborg IF       ; 33;  8;  8; 17; 41; 50; 32
+10; AGF                ; 33;  7; 10; 16; 42; 56; 31
+
+11; Vejle BK           ; 33;  6; 10; 17; 38; 72; 28  
+*Relegated
+12; Lyngby FC          ; 33;  2;  9; 22; 25; 92; 15  
+*Relegated [*]
+
+*[*] Lyngby FC will be relegated two levels following the 2001/02 season
+*    after becoming an amateur club in December
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesd/den03.html
+
+ 1; FC København       ; 33; 17; 10;  6; 51; 32; 61  
+*Champions
+ 2; Brøndby IF         ; 33; 15; 11;  7; 61; 35; 56
+ 3; Farum BK           ; 33; 16;  3; 14; 49; 58; 51
+ 4; OB                 ; 33; 12; 12;  9; 55; 50; 48
+ 5; Esbjerg fB         ; 33; 12; 11; 10; 65; 57; 47
+ 6; AaB                ; 33; 14;  4; 15; 42; 45; 46
+ 7; FC Midtjylland     ; 33; 11; 11; 11; 49; 45; 44
+ 8; Viborg FF          ; 33; 11; 10; 12; 58; 55; 43
+ 9; AB                 ; 33; 10; 12; 11; 44; 48; 42
+10; AGF                ; 33; 10; 10; 13; 49; 59; 40
+
+11; Silkeborg IF       ; 33;  9;  9; 15; 52; 54; 36  
+*Relegated
+12; Køge BK            ; 33;  8;  3; 22; 45; 82; 27  
+*Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesd/den04.html
+
+ 1; FC København       ; 33; 20;  8;  5; 56; 27; 68  
+*Champions
+ 2; Brøndby IF         ; 33; 20;  7;  6; 55; 29; 67
+*  UEFA Cup
+ 3; Esbjerg fB         ; 33; 18;  8;  7; 71; 44; 62
+ 4; OB                 ; 33; 16;  9;  8; 66; 46; 57
+ 5; AaB                ; 33; 16;  9;  8; 55; 41; 57 
+* UEFA Cup (Cup Finalists)
+ 6; FC Midtjylland     ; 33; 14;  6; 13; 65; 51; 48
+ 7; Viborg FF          ; 33; 11;  9; 13; 47; 44; 42
+ 8; AGF                ; 33; 11;  3; 19; 45; 67; 36
+ 9; FC Nordsjælland    ; 33;  7; 11; 15; 35; 59; 32
+*  [*]
+10; Herfølge BK        ; 33;  8;  7; 18; 34; 57; 31
+
+11; BK Frem            ; 33;  8;  3; 22; 40; 65; 27  
+*Relegated
+12; AB                 ; 33;  8;  2; 23; 31; 70; 17  
+*[-9]  
+*Relegated
+
+*NB: AB 9 points deducted for false documentation concerning
+*    Ali Akida alias Emmanuel Ake Richard Muttendango
+*[*] Farum BK were renamed FC Nordsjælland
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesd/den05.html
+
+ 1; Brøndby IF         ; 33; 20;  9;  4; 61; 23; 69  
+*Champions
+ 2; FC København       ; 33; 16;  9;  8; 53; 39; 57
+ 3; FC Midtjylland     ; 33; 17;  6; 10; 49; 40; 57
+ 4; AaB                ; 33; 15;  8; 10; 59; 45; 53
+ 5; Esbjerg fB         ; 33; 13; 10; 10; 61; 47; 49
+ 6; OB                 ; 33; 13;  9; 11; 61; 41; 48
+ 7; Viborg FF          ; 33; 13;  9; 11; 43; 45; 48
+ 8; Silkeborg IF       ; 33; 13;  8; 12; 50; 52; 47
+ 9; AGF                ; 33; 11;  6; 16; 47; 53; 39
+10; FC Nordsjælland    ; 33;  8;  6; 19; 36; 59; 30
+
+11; Herfølge BK        ; 33;  6;  7; 20; 29; 71; 25  
+*Relegated
+12; Randers FC         ; 33;  5;  9; 19; 30; 64; 24  
+*Relegated
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesd/den06.html
+
+ 1; FC København       ; 33; 22;  7;  4; 62; 27; 73  
+*Champions
+ 2; Brøndby IF         ; 33; 21;  4;  8; 60; 34; 67
+ 3; OB                 ; 33; 17;  7;  9; 49; 28; 58
+ 4; Viborg FF          ; 33; 15;  9;  9; 62; 43; 54
+ 5; AaB                ; 33; 11; 12; 10; 48; 44; 45
+ 6; Esbjerg fB         ; 33; 12;  6; 15; 43; 45; 42
+ 7; FC Midtjylland     ; 33; 10; 11; 12; 42; 52; 41
+ 8; Silkeborg IF       ; 33; 11;  6; 16; 33; 50; 39
+ 9; FC Nordsjælland    ; 33;  9; 11; 13; 49; 55; 38
+10; AC Horsens         ; 33;  8; 13; 12; 29; 41; 37
+
+11; SønderjyskE        ; 33;  6;  8; 19; 41; 72; 26  
+*Relegated
+12; AGF                ; 33;  4; 10; 19; 36; 63; 22  
+*Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesd/den07.html
+
+ 1; FC København       ; 33; 23;  7;  3; 60; 23; 76  
+*Champions
+ 2; FC Midtjylland     ; 33; 18;  9;  6; 58; 39; 63 
+ 3; AaB                ; 33; 18;  7;  8; 55; 35; 61 
+ 4; OB                 ; 33; 17;  7;  9; 46; 36; 58 
+ 5; FC Nordsjælland    ; 33; 16;  9;  8; 67; 39; 57 
+ 6; Brøndby IF         ; 33; 13; 10; 10; 50; 38; 49 
+ 7; Esbjerg fB         ; 33; 10; 10; 13; 46; 51; 40
+ 8; Randers FC         ; 33; 10;  8; 15; 41; 53; 38
+ 9; Viborg FF          ; 33;  8;  5; 20; 34; 64; 29
+10; AC Horsens         ; 33;  6; 10; 17; 29; 53; 28
+
+11; Vejle BK           ; 33;  6;  7; 20; 35; 64; 25  
+*Relegated
+12; Silkeborg IF       ; 33;  5;  7; 21; 34; 60; 22  
+*Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesd/den08.html
+
+ 1; AaB                ; 33; 22;  5;  6; 60; 38; 71  
+*Champions  [Aalborg]
+ 2; FC Midtjylland     ; 33; 18;  8;  7; 53; 36; 62 
+ 3; FC København       ; 33; 17;  9;  7; 51; 29; 57
+ 4; OB                 ; 33; 12; 16;  5; 46; 27; 52 
+ 5; AC Horsens         ; 33; 14; 10;  9; 47; 43; 52
+ 6; Randers FC         ; 33; 13;  8; 12; 41; 33; 47
+ 7; Esbjerg fB         ; 33; 13;  6; 14; 59; 54; 45
+ 8; Brøndby IF         ; 33; 11; 10; 12; 44; 44; 43 
+ 9; FC Nordsjælland    ; 33; 11; 10; 12; 47; 51; 43 
+10; AGF                ; 33;  7;  8; 18; 33; 51; 29 
+
+11; Viborg FF          ; 33;  5;  5; 23; 29; 68; 20  
+*Relegated
+12; Lyngby BK          ; 33;  3;  9; 21; 33; 69; 18  
+*Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesd/den09.html
+
+ 1; FC København       ; 33; 23;  5;  5; 67; 26; 74  
+*Champions
+ 2; OB                 ; 33; 21;  6;  6; 65; 31; 69 
+ 3; Brøndby IF         ; 33; 21;  5;  7; 55; 31; 68 
+ 4; FC Midtjylland     ; 33; 16;  7; 10; 55; 46; 55 
+ 5; Randers FC         ; 33; 11; 13;  9; 52; 50; 46
+ 6; AGF                ; 33; 13;  6; 14; 39; 44; 45 
+ 7; AaB                ; 33;  9; 12; 12; 40; 49; 39 
+ 8; FC Nordsjælland    ; 33;  9;  8; 16; 44; 53; 35 
+ 9; Esbjerg fB         ; 33;  7; 11; 15; 32; 41; 32
+10; SønderjyskE        ; 33;  5; 13; 15; 30; 56; 28 
+
+11; Vejle BK           ; 33;  4; 13; 16; 30; 59; 25  
+*Relegated
+12; AC Horsens         ; 33;  5;  9; 19; 35; 58; 24  
+*Relegated
+
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesd/den2010.html
+
+ 1; FC København       ; 33; 21;  5;  7; 61; 22; 68  
+*Champions
+ 2; OB                 ; 33; 17;  8;  8; 46; 34; 59 
+ 3; Brøndby IF         ; 33; 15;  7; 11; 57; 50; 52 
+ 4; Esbjerg fB         ; 33; 13; 11;  9; 48; 43; 50
+ 5; AaB                ; 33; 13;  9; 11; 36; 30; 48 
+ 6; FC Midtjylland     ; 33; 14;  5; 14; 45; 48; 47 
+ 7; FC Nordsjælland    ; 33; 12;  7; 14; 40; 41; 43 
+ 8; Silkeborg IF       ; 33; 12;  7; 14; 47; 51; 43
+ 9; SønderjyskE        ; 33; 11;  8; 14; 32; 37; 41 
+10; Randers FC         ; 33; 10; 10; 13; 37; 43; 40
+
+11; AGF                ; 33; 10;  8; 15; 36; 47; 38  
+*Relegated  [Aarhus]
+12; HB Køge            ; 33;  4;  7; 22; 30; 69; 19  
+*[*]  
+*Relegated
+
+*[*] Herfølge BK merged with Køge BK into Herfølge Boldklub Køge 
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesd/den2011.html
+
+ 1; FC København       ; 33; 25;  6;  2; 77; 29; 81  
+*Champions
+ 2; OB                 ; 33; 16;  7; 10; 55; 41; 55  
+ 3; Brøndby IF         ; 33; 13; 12;  8; 52; 39; 51  
+ 4; FC Midtjylland     ; 33; 13; 10; 10; 50; 42; 49  
+ 5; Silkeborg IF       ; 33; 10; 13; 10; 43; 49; 43
+ 6; FC Nordsjælland    ; 33; 10;  9; 14; 38; 50; 39  
+ 7; SønderjyskE        ; 33; 11;  6; 16; 32; 46; 39  
+ 8; Lyngby BK          ; 33; 10;  8; 15; 42; 52; 38
+ 9; AC Horsens         ; 33;  9; 10; 14; 29; 40; 37
+10; AaB                ; 33;  8; 11; 14; 38; 48; 35  
+
+11; Randers FC         ; 33;  6; 16; 11; 41; 48; 34  
+*Relegated
+12; Esbjerg fB         ; 33;  7; 12; 14; 36; 49; 33  
+*Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesd/den2012.html
+
+ 1; FC Nordsjælland          ; 33 ; 21 ; 5 ; 7 ; 49; 22 ; 68  
+*Champions  [Farum]
+ 2; FC København             ; 33 ; 19 ; 9 ; 5 ; 55; 26 ; 66
+ 3; FC Midtjylland           ; 33 ; 17 ; 7 ; 9 ; 50; 40 ; 58  
+ 4; AC Horsens               ; 33 ; 17 ; 6 ;10 ; 53; 39 ; 57
+ 5; AGF                      ; 33 ; 12 ;12 ; 9 ; 47; 40 ; 48  
+ 6; SønderjyskE              ; 33 ; 11 ;11 ;11 ; 48; 51 ; 44  
+ 7; AaB                      ; 33 ; 12 ; 8 ;13 ; 42; 48 ; 44  
+ 8; Silkeborg IF             ; 33 ; 11 ;10 ;12 ; 51; 47 ; 43
+ 9; Brøndby IF               ; 33 ;  9 ; 9 ;15 ; 35; 46 ; 36  
+10; OB                       ; 33 ;  8 ;10 ;15 ; 46; 50 ; 34  
+
+11; Lyngby BK                ; 33 ;  8 ; 4 ;21 ; 32; 60 ; 28  
+*Relegated
+12; HB Køge                  ; 33 ;  4 ; 7 ;22 ; 32; 71 ; 19  
+*Relegated
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesd/den2013.html
+
+ 1; FC København             ; 33 ; 18 ;11 ; 4 ; 62; 32 ; 65  
+*Champions
+ 2; FC Nordsjælland          ; 33 ; 17 ; 9 ; 7 ; 60; 37 ; 60  
+ 3; Randers FC               ; 33 ; 15 ; 7 ;11 ; 36; 42 ; 52
+ 4; Esbjerg fB               ; 33 ; 13 ; 8 ;12 ; 38; 32 ; 47
+ 5; AaB                      ; 33 ; 13 ; 8 ;12 ; 51; 46 ; 47  
+ 6; FC Midtjylland           ; 33 ; 12 ;11 ;10 ; 51; 47 ; 47  
+ 7; AGF                      ; 33 ; 11 ; 8 ;14 ; 50; 49 ; 41  
+ 8; SønderjyskE              ; 33 ; 12 ; 5 ;16 ; 53; 57 ; 41  
+ 9; Brøndby IF               ; 33 ;  9 ;12 ;12 ; 39; 45 ; 39  
+10; OB                       ; 33 ; 10 ; 8 ;15 ; 52; 59 ; 38  
+
+11; AC Horsens               ; 33 ;  8 ;10 ;15 ; 31; 49 ; 34  
+*Relegated
+12; Silkeborg IF             ; 33 ;  8 ; 7 ;18 ; 38; 66 ; 31  
+*Relegated

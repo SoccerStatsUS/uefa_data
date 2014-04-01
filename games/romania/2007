@@ -1,0 +1,704 @@
+BlockSource: http://rsssf.com/tablesr/roem08.html
+Season: 2007-2008
+Competition: Liga I
+
+* 1.CFR 1907 Cluj                34 23  7  4  52-22 76  Champions
+* 2.FC Steaua Bucureşti          34 23  6  5  51-19 68  [-7]
+* 3.AFC Rapid Bucureşti          34 18  7  9  52-31 61  [4 2 1 1 5-3 7]
+* 4.FC Dinamo Bucureşti          34 17 10  7  55-36 61  [4 1 2 1 3-4 5]
+* 5.Unirea Valahorum Urziceni    34 16 13  5  42-24 61  [4 0 3 1 2-3 3]
+* 6.FCU Politehnica Timişoara    34 16  9  9  57-44 57
+* 7.FC Vaslui                    34 12 11 11  44-34 47
+* 8.Oţelul Galaţi                34 14  4 16  47-50 46
+* 9.Universitatea Craiova        34 12  7 15  42-48 43
+*10.Gloria Bistriţa              34 11  9 14  34-40 42
+*11.Politehnica Iaşi             34 11  8 15  37-41 41
+*12.Pandurii Lignitul Târgu Jiu  34 11  7 16  36-43 40  [2 1 0 1 2-2 3 (2 ag)]
+*13.FC Farul Constanţa           34 10 10 14  25-38 40  [2 1 0 1 2-2 3 (1 ag)]
+*14.Gloria Buzău                 34 10  7 17  30-56 37
+*-----------------------------------------------------
+*15.Ceahlăul Piatra Neamţ        34 10  6 18  33-46 36  [*]  Relegated
+*16.Dacia Mioveni                34  7 10 17  26-43 31  Relegated
+*17.FCM UTA Arad                 34  6  8 20  30-52 26  Relegated
+*18.Universitatea Cluj           34  4 11 19  32-58 17  [-6]  Relegated
+
+*[*] newly promoted FC Delta Tulcea obtained no license, thus sparing
+*    Ceahlăul Piatra Neamţ from relegation
+*
+*NB: Steaua 7 points deducted and Universitatea Cluj 6 points deducted after
+*    end of season, apparently beacuse Steaua incited U Cluj to win their
+*    last round match against CFR Cluj
+
+Round: 1
+Date: 7/27/2007
+
+; Vaslui        ; 2-2; UTA
+; Steaua        ; 2-1; Ceahlăul
+
+Date: 7/28/2007
+
+; Dacia         ; 1-2; Rapid
+; U Craiova     ; 4-0; Farul
+
+Date: 7/29/2007
+
+; G Buzău       ; 1-2; Dinamo
+; U Cluj        ; 1-1; Pandurii
+; P Timişoara   ; 3-1; P Iaşi     
+
+Date: 8/1/2007
+
+; Oţelul        ; 0-1; CFR Cluj
+
+Date: 8/2/2007
+
+; G Bistriţa    ; 2-2; Unirea
+
+Round: 2
+Date: 8/3/2007
+
+; Farul         ; 0-1; Steaua
+; Ceahlăul      ; 4-0; G Buzău   
+
+Date: 8/4/2007
+
+; UTA           ; 1-0; Dacia
+; P Iaşi        ; 2-1; U Craiova
+; Dinamo        ; 0-2; Vaslui
+
+Date: 8/5/2007
+
+; Unirea        ; 3-2; U Cluj
+; Pandurii      ; 1-0; Oţelul     
+; Rapid         ; 2-2; G Bistriţa  
+; CFR Cluj      ; 2-2; P Timişoara
+
+Round: 3
+Date: 8/10/2007
+
+; Dacia         ; 2-2; Vaslui
+; Ceahlăul      ; 0-3; Dinamo         
+
+Date: 8/11/2007
+
+; Oţelul        ; 3-2; Unirea         
+; G Bistriţa    ; 2-1; UTA            
+; P Timişoara   ; 3-1; Pandurii       
+; Steaua       ; 1-0; P Iaşi         
+
+Date: 8/12/2007
+
+; G Buzău       ; 1-0; Farul          
+; U Cluj       ; 1-2; Rapid          
+; U Craiova    ; 1-3; CFR Cluj       
+
+Round: 4
+Date: 8/17/2007
+
+; Unirea        ; 4-1; P Timişoara
+; P Iaşi        ; 3-0; G Buzău   
+
+Date: 8/18/2007
+
+; Vaslui        ; 2-0; G Bistriţa  
+; Pandurii      ; 2-0; U Craiova
+; Dinamo        ; 1-1; Dacia
+
+Date: 8/19/2007
+
+; UTA           ; 1-1; U Cluj
+; Rapid         ; 4-2; Oţelul     
+; Farul         ; 2-0; Ceahlăul          
+; CFR Cluj      ; 0-0; Steaua
+
+Round: 5
+Date: 8/24/2007
+
+; Ceahlăul      ; 1-0; P Iaşi      
+; U Craiova     ; 0-1; Unirea
+
+Date: 8/25/2007
+
+; Oţelul        ; 2-1; UTA
+; U Cluj        ; 2-3; Vaslui
+; G Buzău       ; 1-2; CFR Cluj
+
+Date: 8/26/2007
+
+; G Bistriţa    ; 1-0; Dacia
+; P Timişoara   ; 1-1; Rapid
+
+Date: 10/24/2007
+
+; Farul         ; 0-1; Dinamo
+
+Date: 11/12/2007
+
+; Steaua        ; 0-0; Pandurii
+
+Round: 6
+Date: 8/31/2007
+
+; Pandurii      ; 3-0; G Buzău   
+
+Date: 9/1/2007
+
+; UTA           ; 2-3; P Timişoara 
+; P Iaşi        ; 1-1; Farul
+; Rapid         ; 2-0; U Craiova
+; Dinamo        ; 0-1; G Bistriţa 
+
+Date: 9/2/2007
+
+; Unirea        ; 1-0; Steaua
+; Vaslui        ; 2-0; Oţelul    
+; Dacia         ; 1-0; U Cluj
+; CFR Cluj      ; 2-1; Ceahlăul 
+
+Round: 7
+Date: 9/14/2007
+
+; G Buzău       ; 0-0; Unirea         
+
+Date: 9/15/2007
+
+; Oţelul        ; 3-1; Dacia          
+; U Cluj        ; 2-2; G Bistriţa    
+; U Craiova     ; 0-1; UTA            
+; P Timişoara   ; 2-1; Vaslui        
+; P Iaşi        ; 2-5; Dinamo        
+
+Date: 9/16/2007
+
+; Farul         ; 0-2; CFR Cluj      
+; Ceahlăul      ; 2-1; Pandurii      
+; Steaua        ; 0-0; Rapid         
+
+Round: 8
+Date: 9/21/2007
+
+; Pandurii      ; 0-1; Farul         
+
+Date: 9/22/2007
+
+; Unirea        ; 2-0; Ceahlăul       
+; G Bistriţa    ; 2-1; Oţelul         
+; UTA           ; 1-1; Steaua         
+; Dacia         ; 2-2; P Timişoara   
+
+Date: 9/23/2007
+
+; Vaslui        ; 2-0; U Craiova     
+; Rapid         ; 0-0; G Buzău       
+; CFR Cluj      ; 2-1; P Iaşi        
+; Dinamo        ; 2-1; U Cluj        
+
+Round: 9
+Date: 9/29/2007
+
+; Farul         ; 0-1; Unirea         
+; G Buzău       ; 1-0; UTA           
+; P Timişoara   ; 3-1; G Bistriţa     
+; Steaua        ; 1-0; Vaslui        
+
+Date: 9/30/2007
+
+; Oţelul        ; 2-1; U Cluj        
+; U Craiova     ; 1-0; Dacia         
+; P Iaşi        ; 1-0; Pandurii           
+; CFR Cluj      ; 1-1; Dinamo        
+
+Date: 12/19/2007
+
+; Ceahlăul      ; 0-1; Rapid      
+
+Round: 10
+Date: 10/5/2007
+
+; G Bistriţa    ; 0-1; U Craiova     
+
+Date: 10/6/2007
+
+; U Cluj        ; 1-2; P Timişoara   
+; Pandurii      ; 0-1; CFR Cluj      
+; UTA           ; 0-1; Ceahlăul      
+
+Date: 10/7/2007
+
+; Unirea        ; 1-0; P Iaşi        
+; Vaslui        ; 4-1; G Buzău        
+; Dinamo        ; 6-1; Oţelul         
+; Rapid         ; 2-0; Farul          
+; Dacia         ; 1-2; Steaua        
+
+Round: 11
+Date: 10/19/2007
+
+; U Craiova     ; 1-1; U Cluj        
+
+Date: 10/20/2007
+
+; G Buzău       ; 0-1; Dacia         
+; P Timişoara   ; 4-1; Oţelul         
+; P Iaşi        ; 0-2; Rapid         
+
+Date: 10/21/2007
+
+; Pandurii      ; 0-1; Dinamo        
+; Ceahlăul      ; 1-1; Vaslui        
+; Farul         ; 1-0; UTA            
+; CFR Cluj      ; 2-0; Unirea         
+
+Date: 12/3/2007
+
+; Steaua        ; 1-0; G Bistriţa
+
+Round: 12
+Date: 10/26/2007
+
+; UTA           ; 0-0; P Iaşi         
+
+Date: 10/27/2007
+
+; Oţelul        ; 2-1; U Craiova     
+; G Bistriţa    ; 3-2; G Buzău       
+; U Cluj        ; 2-1; Steaua        
+; Dinamo        ; 1-1; P Timişoara   
+
+Date: 10/28/2007
+
+; Vaslui        ; 1-1; Farul         
+; Unirea        ; 1-0; Pandurii      
+; Dacia         ; 2-1; Ceahlăul       
+; Rapid         ; 1-2; CFR Cluj      
+
+Round: 13
+Date: 10/30/2007
+
+; G Buzău       ; 3-2; U Cluj
+
+Date: 10/31/2007
+
+; Unirea        ; 0-0; Dinamo
+; P Iaşi        ; 0-1; Vaslui
+; Ceahlăul      ; 2-0; G Bistriţa  
+; Steaua        ; 3-1; Oţelul   
+; U Craiova     ; 2-1; P Timişoara
+
+Date: 11/1/2007
+
+; Pandurii      ; 1-3; Rapid
+; Farul         ; 1-1; Dacia
+; CFR Cluj      ; 2-0; UTA
+
+Round: 14
+Date: 11/3/2007
+
+; Oţelul        ; 2-3; G Buzău  
+; U Cluj        ; 1-1; Ceahlăul   
+; U Craiova     ; 1-1; Dinamo 
+
+Date: 11/4/2007
+
+; Vaslui        ; 0-2; CFR Cluj   
+; G Bistriţa    ; 1-0; Farul
+; UTA           ; 3-3; Pandurii   
+; Dacia         ; 2-1; P Iaşi  
+; Rapid         ; 1-1; Unirea 
+; P Timişoara   ; 2-0; Steaua
+
+Round: 15
+Date: 11/9/2007
+
+; Pandurii      ; 1-1; Vaslui   
+; P Iaşi        ; 2-0; G Bistriţa  
+
+Date: 11/10/2007
+
+; Unirea        ; 1-0; UTA
+; G Buzău       ; 2-1; P Timişoara
+; Farul         ; 0-0; U Cluj   
+; Steaua        ; 1-0; U Craiova   
+
+Date: 11/11/2007
+
+; Ceahlăul      ; 0-1; Oţelul   
+; CFR Cluj      ; 1-0; Dacia Mioveni   
+; Dinamo        ; 0-2; Rapid 
+
+Round: 16
+Date: 11/23/2007
+
+; U Craiova     ; 3-1; G Buzău  
+
+Date: 11/24/2007
+
+; G Bistriţa    ; 2-2; CFR Cluj   
+; U Cluj        ; 1-1; P Iaşi  
+; Steaua        ; 1-0; Dinamo 
+
+Date: 11/25/2007
+
+; Oţelul        ; 2-0; Farul 
+; Vaslui        ; 1-1; Unirea 
+; UTA           ; 1-0; Rapid 
+; Dacia         ; 1-1; Pandurii   
+; P Timişoara   ; 3-2; Ceahlăul   
+
+Round: 17
+Date: 11/30/2007
+
+; G Buzău       ; 1-1; Steaua 
+; Pandurii      ; 1-3; G Bistriţa
+
+Date: 12/1/2007
+
+; Unirea        ; 0-2; Dacia
+; Dinamo        ; 3-1; UTA        
+; Rapid         ; 2-1; Vaslui   
+
+Date: 12/2/2007
+
+; Ceahlăul      ; 1-0; U Craiova   
+; P Iaşi        ; 2-2; Oţelul 
+; Farul         ; 1-1; P Timişoara 
+; CFR Cluj      ; 2-0; U Cluj      
+
+Round: 18
+Date: 12/8/2007
+
+; UTA           ; 1-1; Vaslui   
+; Farul         ; 3-1; U Craiova   
+; Dinamo        ; 2-0; G Buzău  
+
+Date: 12/9/2007
+
+; Pandurii      ; 2-2; U Cluj      
+; Unirea        ; 2-0; G Bistriţa 
+; P Iaşi        ; 2-1; P Timişoara 
+; Rapid         ; 3-0; Dacia 
+; Ceahlăul      ; 0-1; Steaua 
+; CFR Cluj      ; 3-1; Oţelul 
+
+Round: 19
+Date: 12/14/2007
+
+; G Buzău       ; 4-1; Ceahlăul   
+
+Date: 12/15/2007
+
+; G Bistriţa    ; 1-2; Rapid
+; Oţelul        ; 3-1; Pandurii   
+; U Craiova     ; 2-1; P Iaşi  
+
+Date: 12/16/2007
+
+; Dacia         ; 0-1; UTA        
+; Vaslui        ; 2-1; Dinamo 
+; U Cluj        ; 0-2; Unirea
+; Steaua        ; 3-0; Farul
+; P Timişoara   ; 1-0; CFR Cluj   
+
+Round: 20
+Date: 2/22/2008
+
+; Farul         ; 0-0; G Buzău 
+; Dinamo        ; 2-1; Ceahlăul   
+
+Date: 2/23/2008
+
+; Vaslui        ; 3-0; Dacia
+; Unirea        ; 0-0; Oţelul 
+; Rapid         ; 1-2; U Cluj
+; CFR Cluj      ; 4-1; U Craiova
+
+Date: 2/24/2008
+
+; UTA           ; 0-1; G Bistriţa 
+; Pandurii      ; 1-3; P Timişoara 
+; P Iaşi        ; 2-1; Steaua
+
+Round: 21
+Date: 2/29/2008
+
+; Ceahlăul      ; 0-1; Farul
+
+Date: 3/1/2008
+
+; G Bistriţa    ; 0-0; Vaslui
+; U Cluj        ; 2-2; UTA
+; Dacia         ; 1-2; Dinamo
+
+Date: 3/2/2008
+
+; U Craiova     ; 1-0; Pandurii
+; G Buzău       ; 1-1; P Iaşi 
+; Oţelul        ; 0-1; Rapid
+; Steaua        ; 3-1; CFR Cluj
+
+Date: 3/3/2008
+
+; P Timişoara   ; 0-0; Unirea
+
+Round: 22
+Date: 3/7/2008
+
+; Dacia         ; 0-0; G Bistriţa 
+; CFR Cluj      ; 2-0; G Buzău    
+
+Date: 3/8/2008
+
+; UTA           ; 0-1; Oţelul 
+; Unirea        ; 2-2; U Craiova
+; Pandurii      ; 0-1; Steaua
+
+Date: 3/9/2008
+
+; P Iaşi        ; 1-0; Ceahlăul 
+; Vaslui        ; 0-0; U Cluj
+; Dinamo        ; 0-0; Farul
+; Rapid         ; 0-1; P Timişoara  
+
+Round: 23
+Date: 3/14/2008
+
+; G Bistriţa    ; 1-1; Dinamo         
+; Farul         ; 1-1; P Iaşi         
+
+Date: 3/15/2008
+
+*; Oţelul         awd Vaslui            [awarded; 0-3;; originally 1-1]         
+; G Buzău       ; 1-3; Pandurii       
+; P Timişoara   ; 2-0; UTA            
+; Ceahlăul      ; 0-0; CFR Cluj       
+
+Date: 3/16/2008
+
+; U Cluj        ; 0-0; Dacia          
+; U Craiova     ; 1-1; Rapid          
+; Steaua        ; 1-0; Unirea         
+
+Round: 24 
+Date: 3/19/2008
+
+; Vaslui        ; 3-0; P Timişoara    
+; Dacia         ; 1-0; Oţelul         
+; G Bistriţa    ; 2-0; U Cluj         
+; Dinamo        ; 2-1; P Iaşi         
+; Pandurii      ; 1-0; Ceahlăul       
+; CFR Cluj      ; 2-1; Farul          
+
+Date: 3/20/2008
+
+; UTA           ; 0-1; U Craiova      
+; Unirea        ; 2-0; G Buzău        
+*; Rapid          awd Steaua            [awarded; 0-3; on Mar 29; abandoned at
+*                                      1-0 in 72' due to crowd trouble]
+
+Round: 25
+Date: 3/22/2008
+
+; U Cluj        ; 1-2; Dinamo         
+; P Iaşi        ; 1-0; CFR Cluj       
+
+Date: 3/23/2008
+
+; U Craiova     ; 2-1; Vaslui         
+; Oţelul        ; 2-0; G Bistriţa 
+; G Buzău       ; 1-0; Rapid          
+; P Timişoara   ; 1-2; Dacia          
+; Steaua        ; 2-1; UTA            
+
+Date: 3/24/2008
+
+; Ceahlăul      ; 0-0; Unirea         
+; Farul         ; 1-2; Pandurii       
+
+Round: 26
+Date: 3/29/2008
+
+; U Cluj        ; 2-1; Oţelul         
+; G Bistriţa    ; 0-0; P Timişoara    
+; Unirea        ; 0-0; Farul          
+; Rapid         ; 5-1; Ceahlăul       
+
+Date: 3/30/2008
+
+; UTA           ; 2-1; G Buzău        
+; Vaslui        ; 0-1; Steaua         
+; Pandurii      ; 1-0; P Iaşi         
+; Dacia         ; 1-2; U Craiova      
+; Dinamo        ; 1-2; CFR Cluj       
+
+Round: 27
+Date: 4/4/2008
+
+; P Iaşi        ; 2-3; Unirea         
+
+Date: 4/5/2008
+
+; U Craiova     ; 1-1; G Bistriţa     
+; Oţelul        ; 0-1; Dinamo         
+; P Timişoara   ; 3-0; U Cluj         
+; Farul         ; 0-0; Rapid          
+
+Date: 4/6/2008
+
+; G Buzău       ; 1-1; Vaslui         
+; CFR Cluj      ; 1-2; Pandurii       
+; Ceahlăul      ; 1-1; UTA
+; Steaua        ; 2-0; Dacia          
+
+Round: 28
+Date: 4/9/2008
+
+; U Cluj        ; 2-0; U Craiova      
+; Vaslui        ; 0-1; Ceahlăul       
+; Oţelul        ; 3-1; P Timişoara    
+; Dacia         ; 0-0; G Buzău        
+; Dinamo        ; 1-2; Pandurii       
+; Rapid         ; 3-0; P Iaşi         
+
+Date: 4/10/2008
+
+; UTA           ; 0-1; Farul          
+; G Bistriţa    ; 1-3; Steaua         
+; Unirea        ; 1-1; CFR Cluj       
+
+Round: 29
+Date: 4/12/2008
+
+; U Craiova     ; 1-1; Oţelul         
+; Ceahlăul      ; 1-1; Dacia          
+; P Timişoara   ; 1-1; Dinamo         
+
+Date: 4/13/2008
+
+; Farul         ; 2-1; Vaslui         
+; P Iaşi        ; 4-1; UTA
+; Pandurii      ; 1-1; Unirea         
+; CFR Cluj      ; 1-0; Rapid          
+
+Date: 4/14/2008
+
+; G Buzău       ; 1-0; G Bistriţa     
+; Steaua        ; 4-0; U Cluj         
+
+Round: 30
+Date: 4/18/2008
+
+; G Bistriţa    ; 0-1; Ceahlăul       
+; P Timişoara   ; 1-3; U Craiova      
+
+Date: 4/19/2008
+
+; UTA           ; 0-3; CFR Cluj       
+; Oţelul        ; 0-1; Steaua         
+; Vaslui        ; 0-0; P Iaşi         
+; Rapid         ; 1-0; Pandurii       
+
+Date: 4/20/2008
+
+; Dacia         ; 2-3; Farul          
+; U Cluj        ; 1-2; G Buzău        
+; Dinamo        ; 1-1; Unirea         
+
+Round: 31
+Date: 4/22/2008
+
+; Pandurii      ; 2-1; UTA
+; Steaua        ; 1-1; P Timişoara    
+
+Date: 4/23/2008
+
+; Farul         ; 1-0; G Bistriţa     
+; G Buzău       ; 0-4; Oţelul         
+; Dinamo        ; 4-4; U Craiova      
+; P Iaşi        ; 1-0; Dacia          
+; Ceahlăul      ; 3-0; U Cluj         
+; Unirea        ; 0-1; Rapid          
+; CFR Cluj      ; 1-0; Vaslui         
+
+Round: 32 
+Date: 4/26/2008
+
+; P Timişoara   ; 1-0; G Buzău        
+; UTA           ; 1-2; Unirea         
+; U Cluj        ; 1-2; Farul          
+; Vaslui        ; 1-0; Pandurii       
+; Oţelul        ; 4-1; Ceahlăul       
+; U Craiova     ; 1-2; Steaua         
+; G Bistriţa    ; 2-0; P Iaşi         
+; Dacia         ; 0-0; CFR Cluj       
+; Rapid         ; 1-2; Dinamo         
+
+Round: 33
+Date: 5/2/2008
+
+; P Iaşi        ; 3-0; U Cluj         
+; Rapid         ; 2-3; UTA
+
+Date: 5/3/2008
+
+; G Buzău       ; 1-0; U Craiova      
+; Unirea        ; 2-0; Vaslui         
+; CFR Cluj      ; 1-0; G Bistriţa     
+
+Date: 5/4/2008
+
+; Farul         ; 0-2; Oţelul         
+; Pandurii      ; 1-0; Dacia          
+; Ceahlăul      ; 2-1; P Timişoara    
+; Dinamo        ; 2-1; Steaua         
+
+Round: 34 
+Date: 5/7/2008
+
+; U Cluj        ; 0-1; CFR Cluj
+; P Timişoara   ; 4-1; Farul
+; Oţelul        ; 0-0; P Iaşi 
+; U Craiova     ; 3-2; Ceahlăul 
+; Vaslui        ; 2-4; Rapid
+; UTA           ; 1-3; Dinamo
+; Steaua        ; 5-0; G Buzău 
+; G Bistriţa    ; 3-1; Pandurii
+; Dacia         ; 0-3; Unirea
+
+
+* 1.CFR 1907 Cluj                34 23  7  4  52-22 76  Champions
+* 2.FC Steaua Bucureşti          34 23  6  5  51-19 68  [-7]
+* 3.AFC Rapid Bucureşti          34 18  7  9  52-31 61  [4 2 1 1 5-3 7]
+* 4.FC Dinamo Bucureşti          34 17 10  7  55-36 61  [4 1 2 1 3-4 5]
+* 5.Unirea Valahorum Urziceni    34 16 13  5  42-24 61  [4 0 3 1 2-3 3]
+* 6.FCU Politehnica Timişoara    34 16  9  9  57-44 57
+* 7.FC Vaslui                    34 12 11 11  44-34 47
+* 8.Oţelul Galaţi                34 14  4 16  47-50 46
+* 9.Universitatea Craiova        34 12  7 15  42-48 43
+*10.Gloria Bistriţa              34 11  9 14  34-40 42
+*11.Politehnica Iaşi             34 11  8 15  37-41 41
+*12.Pandurii Lignitul Târgu Jiu  34 11  7 16  36-43 40  [2 1 0 1 2-2 3 (2 ag)]
+*13.FC Farul Constanţa           34 10 10 14  25-38 40  [2 1 0 1 2-2 3 (1 ag)]
+*14.Gloria Buzău                 34 10  7 17  30-56 37
+*-----------------------------------------------------
+*15.Ceahlăul Piatra Neamţ        34 10  6 18  33-46 36  [*]  Relegated
+*16.Dacia Mioveni                34  7 10 17  26-43 31  Relegated
+*17.FCM UTA Arad                 34  6  8 20  30-52 26  Relegated
+*18.Universitatea Cluj           34  4 11 19  32-58 17  [-6]  Relegated
+
+*[*] newly promoted FC Delta Tulcea obtained no license, thus sparing
+*    Ceahlăul Piatra Neamţ from relegation
+*
+*NB: Steaua 7 points deducted and Universitatea Cluj 6 points deducted after
+*    end of season, apparently beacuse Steaua incited U Cluj to win their
+*    last round match against CFR Cluj
+*
+*After the season, FCU Politehnica Timişoara were forced to rename
+*into FC Timişoara so as not to be confused with the original
+*Politehnica Timişoara.
+
+
+*Prepared and maintained by Sorin Arotaritei and Radu Siminiceanu the Rec.Sport.Soccer Statistics Foundation
+*Authors: Sorin Arotaritei (sorinaro@assist.ro) and Radu Siminiceanu (radu@nianet.org) 
+*Last updated: 31 Jul 2008
+*(C) Copyright Sorin Arotaritei, Radu Siminiceanu and RSSSF 2007/08
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

@@ -1,0 +1,423 @@
+Competition: Tippeligaen
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+Season: 1998
+BlockSource: http://www.rsssf.com/tablesn/noo98.html
+
+ 1; Rosenborg BK    ; 26; 20;  3;  3;  79; 23;  63  
+*Champions
+ 2; Molde FK        ; 26; 16;  6;  4;  70; 34;  54
+ 3; Stabæk          ; 26; 16;  5;  5;  63; 29;  53
+ 4; Viking FK       ; 26; 14;  4;  8;  66; 44;  46
+ 5; Bodø/Glimt      ; 26;  9;  9;  8;  47; 47;  36
+ 6; SK Brann        ; 26;  9;  8;  9;  44; 39;  35
+ 7; Vålerenga IF    ; 26; 10;  3; 13;  44; 48;  33
+ 8; Lillestrøm SK   ; 26;  9;  6; 11;  41; 49;  33
+ 9; Moss FK         ; 26; 10;  2; 14;  36; 55;  32
+10; Strømsgodset IF ; 26;  9;  5; 12;  40; 61;  32
+11; Tromsø IL       ; 26;  7;  7; 12;  39; 48;  28
+
+12; Kongsvinger IL  ; 26;  7;  5; 14;  35; 59;  26  
+*Relegation Playoff
+
+13; FK Haugesund    ; 26;  6;  5; 15;  41; 55;  23  
+*Relegated
+14; Sogndal         ; 26;  4;  4; 18;  26; 80;  16  
+*Relegated
+
+
+Season: 1999
+BlockSource: http://www.rsssf.com/tablesn/noo99.html
+
+ 1; Rosenborg BK    ; 26; 18;  2;  6;  75; 33;  56  
+*Champions
+ 2; Molde FK        ; 26; 16;  2;  8;  49; 37;  50
+ 3; SK Brann        ; 26; 16;  1;  9;  45; 40;  49
+ 4; Lillestrøm SK   ; 26; 15;  3;  8;  60; 41;  48
+ 5; Stabæk          ; 26; 14;  4;  8;  58; 49;  46
+ 6; Tromsø IL       ; 26; 13;  5;  8;  70; 46;  44
+ 7; Odd Grenland    ; 26; 12;  3; 11;  42; 48;  39
+ 8; Viking FK       ; 26; 11;  3; 12;  51; 48;  36
+ 9; Bodø/Glimt      ; 26; 10;  4; 12;  52; 54;  34
+10; Moss FK         ; 26;  9;  2; 15;  39; 46;  29
+11; Vålerenga IF    ; 26;  8;  4; 14;  40; 53;  28
+
+12; Strømsgodset IF ; 26;  7;  3; 16;  46; 68;  24  
+*Relegation Playoff
+
+13; Skeid           ; 26;  7;  2; 17;  36; 75;  23  
+*Relegated
+14; Kongsvinger IL  ; 26;  6;  2; 18;  34; 59;  20  
+*Relegated
+
+
+Season: 2000
+BlockSource: http://www.rsssf.com/tablesn/noo00.html
+
+ 1; Rosenborg BK    ; 26; 16;  6;  4;  61; 26;  54  
+*Champions
+ 2; SK Brann        ; 26; 14;  5;  7;  53; 40;  47
+ 3; Viking FK       ; 26; 13;  6;  7;  51; 39;  45
+ 4; Tromsø IL       ; 26; 13;  5;  8;  51; 46;  44
+ 5; Stabæk          ; 26; 12;  6;  8;  59; 33;  42
+ 6; Lillestrøm SK   ; 26; 11;  7;  8;  42; 29;  40
+ 7; Molde FK        ; 26; 11;  7;  8;  46; 47;  40
+ 8; Odd Grenland    ; 26; 11;  5; 10;  40; 31;  38
+ 9; Moss FK         ; 26;  8;  8; 10;  38; 44;  32
+10; Bodø/Glimt      ; 26;  6; 10; 10;  48; 59;  28
+11; Bryne IL        ; 26;  7;  6; 13;  32; 60;  27
+
+12; Vålerenga IF    ; 26;  5;  9; 12;  32; 44;  24  
+*Relegation Playoff
+
+13; IK Start        ; 26;  5;  6; 15;  40; 66;  21  
+*Relegated 
+14; FK Haugesund    ; 26;  5;  4; 17;  33; 62;  19  
+*Relegated
+
+
+Season: 2001
+BlockSource: http://www.rsssf.com/tablesn/noo01.html
+
+ 1; Rosenborg BK    ; 26; 17;  6;  3;  71; 30;  57  
+*Champions
+ 2; Lillestrøm SK   ; 26; 17;  5;  4;  64; 33;  56  
+*Champions Cup
+ 3; Viking FK       ; 26; 14;  7;  5;  43; 29;  49
+*  UEFA Cup (as Cup Winners)
+ 4; Stabæk          ; 26; 14;  3;  9;  45; 39;  45
+*  UEFA Cup
+ 5; Molde FK        ; 26; 13;  5;  8;  54; 41;  44
+ 6; Odd Grenland    ; 26; 12;  6;  8;  50; 40;  42
+ 7; SK Brann        ; 26; 12;  5;  9;  63; 48;  41
+ 8; Sogndal         ; 26;  9;  5; 12;  45; 61;  32
+ 9; Bodø/Glimt      ; 26;  7;  8; 11;  45; 47;  29
+10; Moss FK         ; 26;  9;  2; 15;  35; 48;  29
+11; SFK Lyn         ; 26;  6;  8; 12;  40; 49;  26
+
+12; Bryne IL        ; 26;  6;  4; 16;  33; 61;  22  
+*Relegation Playoff
+
+13; Strømsgodset IF ; 26;  3; 10; 13;  40; 73;  19  
+*Relegated
+14; Tromsø IL       ; 26;  4;  4; 18;  23; 52;  16  
+*Relegated
+
+
+Season: 2002
+BlockSource: http://www.rsssf.com/tablesn/noo02.html
+
+ 1; Rosenborg BK    ; 26; 17;  5;  4;  57; 30;  56  
+*Champions
+ 2; Molde FK        ; 26; 15;  5;  6;  48; 26;  50
+ 3; SFK Lyn         ; 26; 14;  5;  7;  36; 29;  47
+ 4; Viking FK       ; 26; 11; 11;  4;  44; 31;  44
+ 5; Stabæk Fotball  ; 26; 12;  6;  8;  48; 34;  42
+ 6; Odd Grenland    ; 26; 12;  5;  9;  36; 30;  41
+ 7; Lillestrøm SK   ; 26; 10;  6; 10;  37; 30;  36
+ 8; Vålerenga IF    ; 26;  7; 12;  7;  38; 31;  33
+ 9; Bryne IL        ; 26;  8;  7; 11;  38; 39;  31
+10; Bodø/Glimt      ; 26;  9;  4; 13;  38; 41;  31
+11; Sogndal IL      ; 26;  8;  6; 12;  37; 51;  30
+
+12; SK Brann        ; 26;  8;  3; 15;  35; 52;  27  
+*Relegation Playoff
+
+13; Moss FK         ; 26;  6;  6; 14;  32; 49;  24  
+*Relegated
+14; IK Start        ; 26;  2;  5; 19;  21; 72;  11  
+*Relegated
+
+
+Season: 2003
+BlockSource: http://www.rsssf.com/tablesn/noo03.html
+
+ 1; Rosenborg BK    ; 26; 19;  4;  3;  68; 28;  61  
+*Champions
+ 2; Bodø/Glimt      ; 26; 14;  5;  7;  45; 30;  47
+ 3; Stabæk Fotball  ; 26; 11;  9;  6;  51; 35;  42
+ 4; Odd Grenland    ; 26; 11;  5; 10;  46; 43;  38
+ 5; Viking FK       ; 26;  9; 10;  7;  46; 34;  37
+ 6; SK Brann        ; 26; 10;  7;  9;  45; 47;  37
+ 7; Lillestrøm SK   ; 26; 10;  7;  9;  33; 35;  37
+ 8; Sogndal IL      ; 26;  9;  8;  9;  43; 46;  35
+ 9; Molde FK        ; 26;  9;  4; 13;  32; 41;  31
+10; SFK Lyn         ; 26;  8;  6; 12;  34; 45;  30
+11; Tromsø IL       ; 26;  8;  5; 13;  30; 52;  29
+
+12; Vålerenga IF    ; 26;  6; 10; 10;  30; 33;  28  
+*Relegation Playoff
+
+13; Aalesund FK     ; 26;  7;  7; 12;  30; 43;  28  
+*Relegated
+14; Bryne IL        ; 26;  7;  1; 18;  35; 56;  22  
+*Relegated
+
+
+Season: 2004
+BlockSource: http://www.rsssf.com/tablesn/noo04.html
+
+ 1; Rosenborg BK    ; 26; 14;  6;  6;  52; 34;  48  
+*Champions
+ 2; Vålerenga IF    ; 26; 13;  9;  4;  40; 22;  48
+ 3; SK Brann        ; 26; 12;  4; 10;  46; 40;  40
+ 4; Tromsø IL       ; 26; 12;  4; 10;  38; 32;  40
+ 5; Hamarkameratene ; 26; 10;  8;  8;  34; 33;  38
+ 6; FC Lyn Oslo     ; 26;  9; 10;  7;  30; 31;  37  
+*[*]
+ 7; Lillestrøm SK   ; 26;  8; 11;  7;  45; 33;  35
+ 8; Odd Grenland    ; 26;  9;  8;  9;  47; 44;  35
+ 9; Viking FK       ; 26;  7; 12;  7;  31; 33;  33
+10; Fredrikstad FK  ; 26;  9;  5; 12;  42; 54;  32
+11; Molde FK        ; 26;  7; 10;  9;  34; 37;  31
+
+12; Bodø/Glimt      ; 26;  7;  6; 13;  28; 41;  27  
+*Relegation Playoff
+
+13; Stabæk Fotball  ; 26;  7;  6; 13;  25; 40;  27  
+*Relegated
+14; Sogndal IL      ; 26;  5;  7; 14;  39; 57;  22  
+*Relegated
+
+*[*] SFK Lyn were renamed FC Lyn Oslo before the start of the season
+
+
+Season: 2005
+BlockSource: http://www.rsssf.com/tablesn/noo05.html
+
+ 1; Vålerenga IF    ; 26; 13;  7;  6;  40; 27;  46  
+*Champions
+ 2; IK Start        ; 26; 13;  6;  7;  47; 35;  45
+ 3; FC Lyn Oslo     ; 26; 12;  8;  6;  37; 21;  44
+ 4; Lillestrøm SK   ; 26; 12;  6;  8;  37; 31;  42
+ 5; Viking FK       ; 26; 12;  5;  9;  37; 32;  41
+ 6; SK Brann        ; 26; 10;  7;  9;  43; 32;  37
+ 7; Rosenborg BK    ; 26; 10;  4; 12;  50; 42;  34
+ 8; Tromsø IL       ; 26;  8; 10;  8;  31; 30;  34
+ 9; Odd Grenland    ; 26;  9;  6; 11;  28; 51;  33
+10; Hamarkameratene ; 26;  8;  7; 11;  31; 37;  31
+11; Fredrikstad FK  ; 26;  8;  7; 11;  35; 44;  31
+
+12; Molde FK        ; 26;  8;  6; 12;  40; 46;  30  
+*Relegation Playoff
+
+13; Aalesunds FK    ; 26;  6;  9; 11;  30; 42;  27  
+*Relegated
+14; Bodø/Glimt      ; 26;  6;  6; 14;  29; 45;  24  
+*Relegated
+
+
+Season: 2006
+BlockSource: http://www.rsssf.com/tablesn/noo06.html
+
+ 1; Rosenborg BK      ; 26; 15;  8;  3;  47; 24;  53  
+*Champions
+ 2; SK Brann          ; 26; 14;  4;  8;  39; 36;  46
+ 3; Vålerenga IF      ; 26; 13;  5;  8;  43; 28;  44
+ 4; Lillestrøm SK     ; 26; 12;  8;  6;  44; 33;  44
+ 5; Stabæk Fotball    ; 26; 10;  9;  7;  53; 36;  39
+ 6; IK Start          ; 26; 10;  7;  9;  29; 32;  37
+ 7; FC Lyn Oslo       ; 26; 10;  5; 11;  33; 36;  35
+ 8; Fredrikstad FK    ; 26;  8;  8; 10;  38; 46;  32
+ 9; Sandefjord Fotball; 26;  9;  5; 12;  37; 47;  32
+10; Tromsø IL         ; 26;  8;  5; 13;  33; 39;  29
+11; Viking FK         ; 26;  8;  5; 13;  31; 37;  29  
+
+12; Odd Grenland      ; 26;  7;  8; 11;  30; 38;  29  
+*Relegation Playoff
+
+13; Hamarkameratene   ; 26;  7;  7; 12;  35; 39;  28  
+*Relegated
+14; Molde FK          ; 26;  7;  4; 15;  29; 50;  25  
+*Relegated
+
+
+Season: 2007
+BlockSource: http://www.rsssf.com/tablesn/noo07.html
+
+ 1; SK Brann          ; 26; 17;  3;  6;  59; 39;  54  
+*Champions
+ 2; Stabæk Fotball    ; 26; 14;  6;  6;  53; 35;  48
+ 3; Viking FK         ; 26; 13;  6;  7;  50; 40;  47
+ 4; Lillestrøm SK     ; 26; 13;  7;  6;  47; 28;  44
+ 5; Rosenborg BK      ; 26; 12;  5;  9;  53; 39;  41
+ 6; Tromsø IL         ; 26; 12;  4; 10;  45; 44;  40
+ 7; Vålerenga IF      ; 26; 10;  6; 10;  34; 34;  36
+ 8; Fredrikstad FK    ; 26;  9;  9;  8;  37; 40;  36
+ 9; FC Lyn Oslo       ; 26; 10;  4; 12;  43; 46;  34
+10; Strømsgodset IF   ; 26;  8;  6; 12;  34; 47;  30
+11; Aalesunds FK      ; 26;  9;  3; 14;  40; 56;  30
+
+12; Odd Grenland      ; 26;  8;  3; 15;  33; 43;  27  
+*Relegation Playoff
+
+13; IK Start          ; 26;  6;  8; 12;  34; 44;  26  
+*Relegated
+14; Sandefjord Fotball; 26;  4;  4; 18;  26; 53;  16  
+*Relegated
+
+
+Season: 2008
+BlockSource: http://www.rsssf.com/tablesn/noo08.html
+
+ 1; Stabæk Fotball    ; 26; 16;  6;  4;  58; 24;  54  
+*Champions
+ 2; Fredrikstad FK    ; 26; 14;  6;  6;  38; 28;  48
+ 3; Tromsø IL         ; 26; 12;  8;  6;  36; 23;  44
+ 4; Bodø/Glimt        ; 26; 12;  6;  8;  37; 38;  42
+ 5; Rosenborg BK      ; 26; 11;  6;  9;  40; 34;  39
+ 6; Viking FK         ; 26; 11;  6;  9;  38; 32;  39
+ 7; FC Lyn Oslo       ; 26; 11;  5; 10;  38; 34;  38
+ 8; SK Brann          ; 26;  8;  9;  9;  36; 36;  33
+ 9; Molde FK          ; 26;  7; 10;  9;  39; 43;  31
+10; Vålerenga IF      ; 26;  8;  6; 12;  31; 37;  30
+11; Strømsgodset IF   ; 26;  8;  5; 13;  33; 44;  29
+12; Lillestrøm SK     ; 26;  7;  7; 12;  30; 40;  28
+
+13; Aalesunds FK      ; 26;  7;  4; 15;  29; 42;  25  
+*Relegation Playoff
+
+14; Hamarkameratene   ; 26;  5;  6; 15;  22; 50;  21  
+*Relegated
+
+
+Season: 2009
+BlockSource: http://www.rsssf.com/tablesn/noo09.html
+
+ 1; Rosenborg BK      ; 30; 20;  9;  1;  60; 22;  69  
+*Champions
+ 2; Molde FK          ; 30; 17;  5;  8;  62; 35;  56
+ 3; Stabæk Fotball    ; 30; 15;  8;  7;  52; 34;  53
+ 4; Odd Grenland      ; 30; 12; 10;  8;  53; 44;  46
+ 5; SK Brann          ; 30; 12;  8; 10;  51; 49;  44
+ 6; Tromsø IL         ; 30; 10; 10; 10;  35; 36;  40
+ 7; Vålerenga IF      ; 30; 12;  4; 14;  47; 50;  40
+ 8; Sandefjord Fotball; 30; 10; 10; 10;  39; 44;  40
+ 9; IK Start          ; 30; 10; 10; 10;  46; 52;  40
+10; Viking FK         ; 30;  9; 11; 10;  38; 40;  38
+11; Lillestrøm SK     ; 30;  9; 10; 11;  43; 50;  37
+12; Strømsgodset IF   ; 30; 10;  6; 14;  40; 42;  36
+13; Aalesunds FK      ; 30;  9;  9; 12;  34; 43;  36
+
+14; Fredrikstad FK    ; 30; 10;  4; 16;  39; 44;  34  
+*Relegation Playoff
+
+15; Bodø/Glimt FK     ; 30;  6; 10; 14;  29; 53;  28  
+*Relegated
+16; FC Lyn Oslo       ; 30;  2; 10; 18;  29; 59;  16  
+*Relegated
+
+
+Season: 2010
+BlockSource: http://www.rsssf.com/tablesn/noo2010.html
+
+ 1; Rosenborg BK         ; 30; 19; 11;  0;  58; 24;  68  
+*Champions  [Trondheim]
+ 2; Vålerenga IF         ; 30; 19;  4;  7;  69; 36;  61 
+ 3; Tromsø IL            ; 30; 14;  8;  8;  36; 30;  50
+ 4; Aalesunds FK         ; 30; 14;  5; 11;  46; 37;  47 
+ 5; Odd Grenland         ; 30; 12; 10;  8;  48; 41;  46 
+ 6; FK Haugesund         ; 30; 12;  9;  9;  51; 39;  45
+ 7; Strømsgodset IF      ; 30; 13;  4; 13;  51; 59;  43 
+ 8; IK Start             ; 30; 11;  9; 10;  57; 60;  42 
+ 9; Viking FK            ; 30; 10; 11;  9;  48; 41;  41 
+10; Lillestrøm SK        ; 30;  9; 13;  8;  50; 43;  40
+11; Molde FK             ; 30; 10; 10; 10;  42; 45;  40
+12; Stabæk Fotball       ; 30; 11;  6; 13;  46; 47;  39 
+13; SK Brann             ; 30;  8; 10; 12;  48; 50;  34 
+
+14; Hønefoss BK          ; 30;  7;  6; 17;  28; 62;  27  
+*Relegation Playoff
+
+15; Kongsvinger IL       ; 30;  4;  8; 18;  27; 58;  20  
+*Relegated
+16; Sandefjord Fotball   ; 30;  2;  6; 22;  25; 58;  12  
+*Relegated
+
+
+Season: 2011
+BlockSource: http://www.rsssf.com/tablesn/noo2011.html
+
+ 1; Molde FK             ; 30;  17;  7;  6;  54; 38;  58  
+*Champions
+ 2; Tromsø IL            ; 30;  15;  8;  7;  56; 34;  53
+ 3; Rosenborg BK         ; 30;  14;  7;  9;  69; 44;  49
+ 4; SK Brann             ; 30;  14;  6; 10;  51; 49;  48
+ 5; Odd Grenland         ; 30;  14;  6; 10;  44; 44;  48
+ 6; FK Haugesund         ; 30;  14;  5; 11;  55; 43;  47
+ 7; Vålerenga IF         ; 30;  14;  5; 11;  42; 33;  47
+ 8; Strømsgodset IF      ; 30;  12;  9;  9;  44; 43;  45
+ 9; Aalesunds FK         ; 30;  12;  7; 11;  36; 38;  43
+10; Stabæk Fotball       ; 30;  11;  6; 13;  44; 50;  39
+11; Viking FK            ; 30;   9; 10; 11;  33; 40;  37
+12; Fredrikstad FK       ; 30;  10;  6; 14;  38; 41;  36
+13; Lillestrøm SK        ; 30;   9;  7; 14;  46; 52;  34
+14; Sogndal Fotball      ; 30;   8; 10; 12;  24; 31;  34
+
+15; IK Start             ; 30;   7;  5; 18;  39; 61;  26
+*Relegated
+16; Sarpsborg 08 FF      ; 30;   5;  6; 19;  31; 65;  21  
+*Relegated
+
+
+Season: 2012
+BlockSource: http://www.rsssf.com/tablesn/noo2012.html
+
+ 1; Molde FK             ; 30;  19;  5;  6;  51; 31;  62  
+*Champions
+ 2; Strømsgodset IF      ; 30;  17;  7;  6;  62; 40;  58
+ 3; Rosenborg BK         ; 30;  15; 10;  5;  53; 26;  55
+ 4; Tromsø IL            ; 30;  14;  7;  9;  45; 32;  49
+ 5; Viking FK            ; 30;  14;  7;  9;  41; 36;  49
+ 6; SK Brann             ; 30;  13;  3; 14;  57; 50;  42
+ 7; FK Haugesund         ; 30;  11;  9; 10;  46; 40;  42
+ 8; Vålerenga IF         ; 30;  12;  5; 13;  42; 44;  41
+ 9; Lillestrøm SK        ; 30;   9; 12;  9;  46; 47;  39
+10; Odd Grenland         ; 30;  11;  7; 12;  40; 43;  39
+*  [-1]  [Skien]
+11; Aalesunds FK         ; 30;   9; 11; 10;  40; 41;  38
+12; Sogndal Fotball      ; 30;   8; 10; 12;  29; 37;  34
+13; Hønefoss BK          ; 30;   7; 12; 11;  30; 42;  33
+
+14; Sandnes Ulf          ; 30;   8;  8; 14;  44; 56;  32  
+*Relegation Playoff
+
+15; Fredrikstad FK       ; 30;   9;  3; 18;  42; 59;  30  
+*Relegated
+16; Stabæk Fotball       ; 30;   5;  2; 23;  25; 69;  17
+*Relegated
+
+*NB: Odd Grenland 1 point deducted because of financial licensing irregularities.
+
+
+Season: 2013
+BlockSource: http://www.rsssf.com/tablesn/noo2013.html
+
+ 1; Strømsgodset IF      ; 30;  19;  6;  5;  66; 26;  63  
+*Champions  [Drammen]
+ 2; Rosenborg BK         ; 30;  18;  8;  4;  50; 25;  62
+ 3; FK Haugesund         ; 30;  15;  6;  9;  41; 39;  51
+ 4; Aalesunds FK         ; 30;  14;  7;  9;  55; 44;  49
+ 5; Viking FK            ; 30;  12; 10;  8;  41; 36;  46
+ 6; Molde FK             ; 30;  12;  8; 10;  47; 38;  44
+ 7; Odds BK              ; 30;  11;  7; 12;  43; 39;  40
+*  [*]  [Skien]
+ 8; SK Brann             ; 30;  11;  6; 13;  46; 46;  39
+ 9; IK Start             ; 30;  10;  8; 12;  43; 46;  38
+10; Lillestrøm SK        ; 30;   9;  9; 12;  37; 44;  36
+11; Vålerenga IF         ; 30;  10;  6; 14;  41; 50;  36
+12; Sogndal Fotball      ; 30;   8;  9; 13;  33; 48;  33
+13; Sandnes Ulf          ; 30;   9;  6; 15;  36; 58;  33
+
+14; Sarpsborg 08 FF      ; 30;   8;  7; 15;  40; 58;  31  
+*Relegation Playoff
+
+15; Tromsø IL            ; 30;   7;  8; 15;  41; 50;  29  
+*Relegated
+16; Hønefoss BK          ; 30;   6; 11; 13;  34; 47;  29  
+*Relegated
+
+*[*] Odd Grenland reverted to their former name Odds BK
+
+

@@ -1,0 +1,486 @@
+BlockSource: http://www.rsssf.com/tablesj/joeg04.html
+Season: 2003-2004
+Competition: Serbian SuperLiga
+
+
+* 1.FK Crvena zvezda Beograd        30 23  5  2  59-13   74  Champions
+* 2.FK Partizan Beograd             30 19  6  5  48-20   63
+* 3.FK Železnik Beograd             30 17  7  6  48-20   58
+* 4.OFK Beograd                     30 14  9  7  36-31   51
+* 5.FC Sartid Smederevo             30 14  7  9  43-36   49
+* 6.FK Obilić Beograd               30 14  4 12  42-29   46
+* 7.FK Zemun                        30 11  8 11  27-29   41
+* 8.FK Sutjeska Nikšić              30 12  4 14  38-36   40
+* 9.FK Vojvodina Novi Sad           30 10 10 10  33-33   40
+*10.FK Hajduk Rodić-MB Kula         30 11  5 14  28-29   38
+*11.FK Zeta Golubovci               30 10  6 14  38-41   36
+*12.Borac Cacak                     30  8 11 11  30-41   35
+*----------------------------------------------------------
+*13.Buducnost Banatski Dvor         30 10  4 16  30-49   34  Relegated
+*14.Napredak Krusevac               30  7  4 19  28-46   25  Relegated
+*15.Radnički Obrenovac              30  4 12 14  18-47   24  Relegated
+*16.Kom Podgorica                   30  4  2 24  21-67   14  Relegated
+*
+*NB: normal tie-breaker is goal difference; only in case of decisions
+*    (championship, UEFA Cup, UI Cup, relegation), head-to-head (including
+*    away goals if necessary) is used
+
+Round: 1 
+Date: 8/9/2003
+
+; Sutjeska           ; 1-0; Buducnost BD
+; Vojvodina          ; 0-0; Zemun
+; Sartid             ; 2-0; Radnicki O
+; Napredak           ; 2-1; Crvena zvezda
+; Hajduk K           ; 2-1; Zeta
+; Obilic             ; 3-1; Kom
+; Partizan           ; 6-1; Borac C
+; OFK Beograd        ; 1-0; Zeleznik
+
+Round: 2 
+Date: 8/23/2003
+
+; Kom                ; 1-2; Zeta
+; Crvena zvezda      ; 2-0; Hajduk K
+; Radnicki O         ; 0-0; Napredak
+; Zemun              ; 3-0; Sartid
+; Buducnost BD       ; 3-1; Vojvodina
+; Zeleznik           ; 3-0; Sutjeska
+; Borac C            ; 1-2; OFK Beograd
+; Obilic             ; 2-1; Partizan
+ 
+Round: 3
+Date: 8/30/2003
+
+; Hajduk K           ; 1-1; Radnicki O
+; Napredak           ; 1-0; Zemun
+; OFK Beograd        ; 1-0; Obilic
+; Sutjeska           ; 4-1; Borac C
+; Vojvodina          ; 0-3; Zeleznik
+
+Date: 8/31/2003
+
+; Sartid             ; 5-1; Buducnost BD
+; Zeta               ; 1-1; Crvena zvezda
+; Partizan           ; 6-2; Kom
+
+Round: 4 
+Date: 9/13/2003
+
+; Kom                ; 0-2; Crvena zvezda
+; Radnicki O         ; 3-2; Zeta
+; Zemun              ; 1-0; Hajduk K
+; Buducnost BD       ; 2-1; Napredak
+; Zeleznik           ; 2-0; Sartid
+; Borac              ; 0-0; Vojvodina
+; Obilic             ; 1-1; Sutjeska
+; Partizan           ; 3-2; OFK Beograd
+
+Round: 5 
+Date: 9/20/2003
+
+; Hajduk K           ; 2-0; Buducnost BD
+; Napredak           ; 1-1; Zeleznik
+; OFK Beograd        ; 2-0; Kom
+; Crvena zvezda      ; 3-0; Radnicki O
+; Sartid             ; 1-0; Borac
+; Sutjeska           ; 0-1; Partizan
+; Vojvodina          ; 1-0; Obilic
+; Zeta               ; 1-1; Zemun
+
+Round: 6
+Date: 9/26/2003
+
+; Partizan           ; 2-1; Vojvodina
+
+Date: 9/27/2003
+
+; Borac              ; 2-1; Napredak
+; Buducnost BD       ; 3-1; Zeta
+; Obilic             ; 2-4; Sartid
+; Kom                ; 1-0; Radnicki O
+; OFK Beograd        ; 3-2; Sutjeska
+; Zeleznik           ; 1-0; Hajduk K
+
+Date: 9/28/2003
+
+; Zemun              ; 0-1; Crvena zvezda
+
+Round: 7
+Date: 10/4/2003
+
+; Crvena zvezda      ; 4-0; Buducnost BD
+; Napredak           ; 0-3; Obilic
+; Hajduk K           ; 2-0; Borac
+; Radnicki O         ; 0-0; Zemun
+; Sutjeska           ; 0-1; Kom
+; Vojvodina          ; 0-0; OFK Beograd
+; Zeta               ; 1-0; Zeleznik
+
+Date: 10/5/2003
+
+; Sartid             ; 2-1; Partizan
+
+Round: 8
+Date: 10/17/2003
+
+; Partizan           ; 1-0; Napredak
+
+Date: 10/18/2003
+
+; Borac              ; 1-1; Zeta
+; Buducnost BD       ; 3-0; Radnicki O
+; Obilic             ; 0-2; Hajduk K
+; Kom                ; 0-1; Zemun
+; Sutjeska           ; 1-0; Vojvodina
+
+Date: 10/19/2003
+
+; Zeleznik           ; 0-2; Crvena zvezda
+; OFK Beograd        ; 2-4; Sartid
+
+Round: 9 
+Date: 10/24/2003
+*10/24-26/2003
+
+; Vojvodina          ; 4-2; Kom
+; Sartid             ; 3-2; Sutjeska
+; Napredak           ; 1-1; OFK Beograd
+; Hajduk K           ; 0-0; Partizan
+; Zeta               ; 0-1; Obilic
+; Crvena zvezda      ; 5-1; Borac
+; Radnicki O         ; 1-2; Zeleznik
+; Zemun              ; 1-2; Buducnost BD
+
+Round: 10
+Date: 10/31/2003
+
+; Partizan           ; 3-0; Zeta
+
+Date: 11/1/2003
+
+; Kom                ; 1-4; Buducnost BD
+; Borac              ; 2-2; Radnicki O
+; OFK Beograd        ; 1-0; Hajduk K
+; Sutjeska           ; 2-1; Napredak
+; Zeleznik           ; 4-2; Zemun
+
+Date: 11/2/2003
+
+; Obilic             ; 1-3; Crvena zvezda
+; Vojvodina          ; 2-2; Sartid
+
+Round: 11 
+Date: 11/8/2003
+
+; Buducnost BD       ; 0-2; Zeleznik
+; Hajduk K           ; 1-0; Sutjeska
+; Napredak           ; 3-4; Vojvodina
+; Radnicki O         ; 0-0; Obilic
+; Sartid             ; 3-0; Kom
+; Zemun              ; 2-1; Borac
+; Zeta               ; 2-1; OFK Beograd
+; Crvena zvezda      ; 3-0; Partizan
+
+Round: 12
+Date: 11/21/2003
+
+; Partizan           ; 3-1; Radnicki O
+
+Date: 11/22/2003
+
+; Borac              ; 2-0; Buducnost BD
+; Kom                ; 0-2; Zeleznik
+; Sartid             ; 3-2; Napredak
+; Sutjeska           ; 2-0; Zeta
+; Vojvodina          ; 0-0; Hajduk K
+
+Date: 11/23/2003
+
+; OFK Beograd        ; 1-0; Crvena zvezda
+; Obilic             ; 3-0; Zemun
+
+Round: 13
+Date: 11/29/2003
+
+; Buducnost BD       ; 0-2; Obilic
+; Hajduk K           ; 0-2; Sartid
+; Napredak           ; 0-1; Kom
+; Radnicki O         ; 1-1; OFK Beograd
+; Zeleznik           ; 2-0; Borac
+; Zeta               ; 1-0; Vojvodina
+
+Date: 11/30/2003
+
+; Crvena zvezda      ; 1-0; Sutjeska
+; Zemun              ; 1-2; Partizan
+
+Round: 13
+Date: 12/6/2003
+
+; Kom                ; 3-3; Borac 
+; Napredak           ; 0-2; Hajduk K
+; OFK Beograd        ; 1-0; Zemun 
+; Partizan           ; 3-0; Buducnost BD
+; Sartid             ; 0-0; Zeta 
+; Sutjeska           ; 0-0; Radnicki O
+; Vojvodina          ; 0-2; Crvena zvezda
+
+Date: 12/7/2003
+
+; Obilic             ; 0-1; Zeleznik
+
+Round: 15 
+Date: 12/13/2003
+
+; Borac              ; 1-0; Obilic
+; Buducnost BD       ; 1-1; OFK Beograd
+; Hajduk K           ; 3-1; Kom
+; Radnicki O         ; 1-1; Vojvodina
+; Crvena zvezda      ; 1-0; Sartid
+; Zeleznik           ; 0-1; Partizan
+; Zemun              ; 2-1; Sutjeska
+; Zeta               ; 5-1; Napredak
+
+Round: 16
+Date: 2/21/2004
+
+; Buducnost BD       ; 2-4; Sutjeska
+; Kom                ; 0-3; Obilic
+; Radnicki O         ; 3-1; Sartid
+; Crvena zvezda      ; 2-0; Napredak
+; Zeleznik           ; 1-1; OFK Beograd
+; Zemun              ; 0-0; Vojvodina
+
+Date: 2/22/2004
+
+; Borac              ; 0-1; Partizan
+; Zeta               ; 2-0; Hajduk K
+
+Round: 17
+Date: 2/28/2004
+
+; Napredak           ; 0-0; Radnicki O
+; OFK Beograd        ; 0-0; Borac
+; Partizan           ; 2-0; Obilic
+; Sartid             ; 0-0; Zemun 
+; Sutjeska           ; 3-1; Zeleznik
+; Vojvodina          ; 1-0; Buducnost BD
+; Zeta               ; 4-0; Kom 
+
+Date: 2/29/2004
+
+; Hajduk K           ; 1-2; Crvena zvezda
+
+Round: 18
+Date: 3/6/2004
+
+; Borac              ; 0-2; Sutjeska
+; Buducnost BD       ; 0-0; Sartid
+; Kom                ; 0-0; Partizan
+; Radnicki O         ; 1-2; Hajduk K
+; Zeleznik           ; 2-2; Vojvodina 
+; Zemun              ; 1-0; Napredak 
+
+Date: 3/7/2004
+
+; Obilic             ; 3-0; OFK Beograd
+; Crvena zvezda      ; 4-0; Zeta
+
+Round: 19
+Date: 3/13/2004
+
+; Hajduk K           ; 3-1; Zemun
+; Napredak           ; 0-1; Buducnost BD
+; OFK Beograd        ; 1-1; Partizan 
+; Crvena zvezda      ; 2-0; Kom 
+; Sartid             ; 0-0; Zeleznik
+; Vojvodina          ; 1-2; Borac 
+; Zeta               ; 4-2; Radnicki O
+
+Date: 3/24/2004
+
+; Sutjeska           ; 0-0; Obilic
+
+Round: 20 
+Date: 3/17/2004
+
+; Borac              ; 0-0; Sartid
+; Buducnost BD       ; 2-1; Hajduk K
+; Kom                ; 0-1; OFK Beograd
+; Obilic             ; 2-1; Vojvodina 
+; Partizan           ; 3-0; Sutjeska
+; Radnicki O         ; 0-0; Crvena zvezda
+; Zeleznik           ; 2-1; Napredak 
+; Zemun              ; 1-0; Zeta 
+
+Round: 21
+Date: 3/20/2004
+
+; Napredak           ; 2-1; Borac
+; Radnicki O         ; 1-0; Kom 
+; Sartid             ; 3-1; Obilic
+; Sutjeska           ; 2-1; OFK Beograd
+; Zeta               ; 0-0; Buducnost BD
+
+Date: 3/21/2004
+
+; Hajduk K           ; 1-0; Zeleznik
+; Crvena zvezda      ; 2-1; Zemun 
+; Vojvodina          ; 0-0; Partizan
+
+Round: 22 
+*[ppd from Mar 27,28 due to killing of FSJ secretary general Bulatovic]
+
+Date: 4/2/2004
+
+; Obilic             ; 2-1; Napredak 
+
+Date: 4/3/2004
+
+; Borac              ; 1-0; Hajduk K
+; Buducnost BD       ; 0-2; Crvena zvezda
+; Kom                ; 1-2; Sutjeska 
+; OFK Beograd        ; 0-1; Vojvodina
+; Zeleznik           ; 2-0; Zeta
+; Zemun              ; 0-0; Radnicki O
+; Partizan           ; 1-0; Sartid 
+
+Round: 23 
+Date: 4/7/2004
+
+; Hajduk K           ; 0-3; Obilic
+; Napredak           ; 0-1; Partizan 
+; Radnicki O         ; 1-0; Buducnost BD
+; Crvena zvezda      ; 0-0; Zeleznik
+; Sartid             ; 1-1; OFK Beograd
+; Vojvodina          ; 2-1; Sutjeska
+; Zemun              ; 1-0; Kom
+; Zeta               ; 1-2; Borac
+
+Round: 24 
+Date: 4/10/2004
+
+; Sutjeska           ; 2-1; Sartid
+; Borac              ; 1-1; Crvena zvezda
+; Buducnost BD       ; 1-2; Zemun 
+; Kom                ; 2-4; Vojvodina
+; Obilic             ; 2-0; Zeta
+; OFK Beograd        ; 2-1; Napredak 
+; Zeleznik           ; 4-0; Radnicki O
+; Partizan           ; 1-0; Hajduk K
+
+Round: 25
+Date: 4/13/2004
+
+; Crvena zvezda      ; 2-0; Obilic
+
+Date: 4/14/2004
+
+; Zeta               ; 1-2; Partizan  
+; Buducnost BD       ; 2-1; Kom
+; Radnicki O         ; 0-0; Borac
+; Hajduk K           ; 1-1; OFK Beograd    
+; Napredak           ; 2-1; Sutjeska
+; Zemun              ; 0-1; Zeleznik 
+; Sartid             ; 1-0; Vojvodina
+
+Round: 26
+Date: 4/17/2004
+
+; Kom                ; 1-0; Sartid 
+; Vojvodina          ; 1-0; Napredak 
+; OFK Beograd        ; 1-0; Zeta 
+; Partizan           ; 0-0; Crvena zvezda 
+; Obilic             ; 3-0; Radnicki O
+; Borac              ; 0-0; Zemun 
+; Zeleznik           ; 5-1; Buducnost BD
+
+Date: 4/18/2004
+
+; Sutjeska           ; 1-1; Hajduk K
+
+Round: 27
+Date: 4/24/2004
+
+; Hajduk K           ; 0-1; Vojvodina 
+; Napredak           ; 0-1; Sartid
+; Radnicki O         ; 0-3; Partizan
+; Zeleznik           ; 3-0; Kom 
+; Zeta               ; 2-1; Sutjeska
+
+Date: 4/25/2004
+
+; Buducnost BD       ; 0-0; Borac
+; Zemun              ; 3-2; Obilic
+; Crvena zvezda      ; 2-1; OFK Beograd
+
+Round: 28
+Date: 5/1/2004
+
+; Vojvodina          ; 0-0; Zeta 
+; Borac              ; 2-2; Zeleznik
+; Obilic             ; 3-0; Buducnost BD
+; OFK Beograd        ; 1-0; Radnicki O
+; Sartid             ; 1-0; Hajduk K
+; Sutjeska           ; 0-1; Crvena zvezda
+
+Date: 5/2/2004
+
+; Kom                ; 1-2; Napredak 
+; Partizan           ; 0-0; Zemun 
+
+Round: 29 
+Date: 5/8/2004
+
+; Borac              ; 4-0; Kom 
+; Buducnost BD       ; 1-0; Partizan
+; Hajduk K           ; 0-1; Napredak 
+; Radnicki O         ; 0-3; Sutjeska
+; Crvena zvezda      ; 3-0; Vojvodina 
+; Zeleznik           ; 0-0; Obilic
+; Zemun              ; 2-3; OFK Beograd
+; Zeta               ; 4-0; Sartid
+
+Round: 30 
+Date: 5/15/2004
+
+; Obilic             ; 0-1; Borac
+; OFK Beograd        ; 2-1; Buducnost BD  
+; Kom                ; 1-3; Hajduk K 
+; Vojvodina          ; 5-0; Radnicki O
+; Sartid             ; 3-5; Crvena zvezda    
+; Partizan           ; 0-2; Zeleznik
+; Sutjeska           ; 0-1; Zemun
+; Napredak           ; 4-2; Zeta
+
+
+* 1.FK Crvena zvezda Beograd        30 23  5  2  59-13   74  Champions
+* 2.FK Partizan Beograd             30 19  6  5  48-20   63
+* 3.FK Železnik Beograd             30 17  7  6  48-20   58
+* 4.OFK Beograd                     30 14  9  7  36-31   51
+* 5.FC Sartid Smederevo             30 14  7  9  43-36   49
+* 6.FK Obilić Beograd               30 14  4 12  42-29   46
+* 7.FK Zemun                        30 11  8 11  27-29   41
+* 8.FK Sutjeska Nikšić              30 12  4 14  38-36   40
+* 9.FK Vojvodina Novi Sad           30 10 10 10  33-33   40
+*10.FK Hajduk Rodić-MB Kula         30 11  5 14  28-29   38
+*11.FK Zeta Golubovci               30 10  6 14  38-41   36
+*12.Borac Cacak                     30  8 11 11  30-41   35
+*----------------------------------------------------------
+*13.Buducnost Banatski Dvor         30 10  4 16  30-49   34  Relegated
+*14.Napredak Krusevac               30  7  4 19  28-46   25  Relegated
+*15.Radnički Obrenovac              30  4 12 14  18-47   24  Relegated
+*16.Kom Podgorica                   30  4  2 24  21-67   14  Relegated
+*
+*NB: normal tie-breaker is goal difference; only in case of decisions
+*    (championship, UEFA Cup, UI Cup, relegation), head-to-head (including
+*    away goals if necessary) is used
+
+
+*Thanks to Gurgen Mahari (gmahari@arminco.com) for scorers list
+*Prepared and maintained by Dragoljub Jovanović for the Rec.Sport.Soccer Statistics Foundation
+*Author: Dragoljub Jovanović (dragoljubj@telekom.yu) 
+*Last updated: 8 Aug 2004
+*(C) Copyright Dragoljub Jovanović and RSSSF 2003/04
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

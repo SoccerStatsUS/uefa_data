@@ -1,0 +1,654 @@
+Competition: Liga I
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesr/roem2013.html
+
+ 1; FC Steaua Bucureşti          ; 34;  24;  7;  3;  74; 29;  79;  Champions
+ 2; CS Pandurii Târgu Jiu        ; 34;  19;  6;  9;  57; 43;  63;
+ 3; FC Petrolul Ploieşti         ; 34;  16; 14;  4;  60; 34;  62;
+ 4; FC Astra Giurgiu             ; 34;  17;  9;  8;  64; 37;  60;  [*2]
+ 5; FC Vaslui                    ; 34;  16; 10;  8;  50; 34;  58;
+ 6; FC Dinamo Bucureşti          ; 34;  16;  8; 10;  48; 40;  56;
+ 7; FC Braşov                    ; 34;  14;  9; 11;  50; 51;  51;
+ 8; FC Rapid Bucureşti           ; 34;  13; 10; 11;  35; 35;  49;  Demoted
+ 9; CFR 1907 Cluj                ; 34;  12; 13;  9;  56; 39;  49;
+10; CS Gaz Metan Mediaş          ; 34;  12; 10; 12;  42; 46;  46;
+11; FC Oţelul Galaţi             ; 34;  11; 10; 13;  38; 42;  41;  [-2]
+12; FC Universitatea Cluj        ; 34;  10;  8; 16;  39; 55;  38;
+13; FC Viitorul Constanţa        ; 34;   8; 12; 14;  45; 57;  36;
+14; FC Ceahlăul Piatra Neamţ     ; 34;   9;  7; 18;  41; 59;  34;
+
+15; CS Concordia Chiajna         ; 34;   7; 12; 15;  29; 49;  33;
+16; CS Turnu Severin             ; 34;   7; 11; 16;  36; 47;  32;  [*1]  Relegated
+17; CSMS Iaşi                    ; 34;   7;  5; 22;  31; 50;  26;  Relegated
+18; ACF Gloria 1922 Bistriţa     ; 34;   3;  9; 22;  21; 69;  18;  Relegated
+
+*[*1] Gaz Metan Severin were renamed CS Turnu Severin
+*[*2] Astra Ploieşti relocated and were renamed FC Astra Giurgiu
+*
+*NB: Oţelul Galaţi 2 points deducted
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesr/roem2012.html
+
+ 1; CFR 1907 Cluj                ; 34;  21;  8;  5;  63; 31;  71;  Champions
+ 2; FC Vaslui                    ; 34;  22;  4;  8;  58; 29;  70;
+ 3; FC Steaua Bucureşti          ; 34;  19;  9;  6;  47; 26;  66;
+ 4; AFC Rapid Bucureşti          ; 34;  18; 10;  6;  54; 29;  64;
+ 5; FC Dinamo Bucureşti          ; 34;  18;  8;  8;  57; 32;  62;
+ 6; Oţelul Galaţi                ; 34;  15;  7; 12;  34; 29;  52;
+ 7; Pandurii Lignitul Târgu Jiu  ; 34;  12; 11; 11;  47; 40;  47;
+ 8; CFM Universitatea Cluj       ; 34;  11; 14;  9;  46; 37;  47;
+ 9; CS Concordia Chiajna         ; 34;  13;  6; 15;  42; 52;  45;
+10; FC Braşov                    ; 34;  13;  6; 15;  39; 34;  45;
+11; FC Ceahlăul Piatra Neamţ     ; 34;  11;  9; 14;  36; 46;  42;
+12; Astra Ploieşti               ; 34;  11;  8; 15;  36; 43;  41;
+13; CS Gaz Metan Mediaş          ; 34;  11;  8; 15;  39; 54;  41;
+14; FC Petrolul Ploieşti         ; 34;  10;  9; 15;  42; 45;  39;
+
+15; FCM Târgu Mureş              ; 34;   8; 11; 15;  34; 47;  35;  Relegated
+16; CSU Voinţa Sibiu             ; 34;   8;  8; 18;  24; 45;  32;  Relegated
+17; Sportul Studenţesc Bucureşti ; 34;   6; 12; 16;  33; 55;  30;  Relegated
+18; CS Mioveni                   ; 34;   2;  6; 26;  20; 77;  12;  Relegated
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesr/roem2011.html
+
+ 1; Oţelul Galaţi                ; 34; 21;  7;  6;  46; 25;  70;  Champions
+ 2; FC Timişoara                 ; 34; 17; 15;  2;  63; 38;  66;  Denied License
+ 3; FC Vaslui                    ; 34; 18; 11;  5;  51; 28;  65;
+ 4; AFC Rapid Bucureşti          ; 34; 16; 11;  7;  43; 22;  59;
+ 5; FC Steaua Bucureşti          ; 34; 16;  9;  9;  44; 27;  57;
+ 6; FC Dinamo Bucureşti          ; 34; 16;  8; 10;  68; 52;  56;
+ 7; CS Gaz Metan Mediaş          ; 34; 14; 13;  7;  41; 32;  55; 
+ 8; CFM Universitatea Cluj       ; 34; 13;  8; 13;  48; 54;  47;
+ 9; FCM Târgu Mureş              ; 34; 12;  9; 13;  34; 41;  45;
+10; CFR 1907 Cluj                ; 34; 11; 12; 11;  50; 45;  45;
+11; Astra Ploieşti               ; 34; 10; 15;  9;  36; 30;  45;
+12; FC Braşov                    ; 34; 10; 13; 11;  34; 40;  43;
+13; Pandurii Lignitul Târgu Jiu  ; 34;  9; 10; 15;  36; 46;  37;
+14; Gloria Bistriţa              ; 34;  8; 11; 15;  34; 49;  35;  Denied License
+
+15; Universitatea Craiova        ; 34;  7;  9; 18;  35; 48;  30;  Relegated
+16; FC Victoria Brăneşti         ; 34;  5; 10; 19;  35; 61;  25;  Relegated
+17; Unirea Valahorum Urziceni    ; 34;  6;  7; 21;  23; 63;  25;  Relegated
+18; Sportul Studenţesc Bucureşti ; 34;  7;  2; 25;  38; 58;  23;
+
+*NB: Timişoara and Gloria Bistriţa were denied a Liga I license for 2011/12;
+*    because of this, Sportul Studenţesc, the only relegated side in possession of
+*    a Liga I license, remained at the top level
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesr/roem2010.html
+
+ 1; CFR 1907 Cluj                ; 34; 20;  9;  5;  46; 23; 69;  Champions
+ 2; Unirea Valahorum Urziceni    ; 34; 18; 12;  4;  53; 26; 66;
+ 3; SC Vaslui                    ; 34; 18;  8;  8;  44; 28; 62;  [2 1 0 1 3-3 3]
+ 4; FC Steaua Bucureşti          ; 34; 18;  8;  8;  49; 36; 62;  [2 1 0 1 3-3 3]
+ 5; FC Timişoara                 ; 34; 15; 14;  5;  55; 27; 59;
+ 6; FC Dinamo Bucureşti          ; 34; 13; 14;  7;  48; 37; 53;
+ 7; AFC Rapid Bucureşti          ; 34; 14; 10; 10;  53; 38; 52;
+ 8; Oţelul Galaţi                ; 34; 14;  8; 12;  38; 38; 50;
+ 9; FC Braşov                    ; 34; 12; 10; 12;  40; 30; 46;
+10; CS Gaz Metan Mediaş          ; 34;  9; 15; 10;  33; 37; 42;
+11; Gloria Bistriţa              ; 34; 10; 11; 13;  35; 46; 41;
+12; Internaţional Curtea de Argeş; 34; 10;  6; 18;  32; 49; 36;  [4 2 1 1 6-4 7]  [*2]
+13; Universitatea Craiova        ; 34; 11;  3; 20;  44; 52; 36;  [4 2 0 2 4-6 6]
+14; Astra Ploieşti               ; 34;  8; 12; 14;  33; 45; 36;  [4 1 1 2 5-5 4]  [*1]
+
+15; Pandurii Lignitul Târgu Jiu  ; 34;  7; 13; 14;  19; 30; 34;  [*2]
+16; Politehnica Iaşi             ; 34;  7; 10; 17;  28; 50; 31;  Relegated
+17; FC Ceahlăul Piatra Neamţ     ; 34;  6; 10; 18;  28; 57; 28;  Relegated
+18; FC Unirea Alba Iulia         ; 34;  7;  5; 22;  33; 62; 26;  Relegated
+
+*[*1] promoted club CSM Ploieşti returned to their former name Astra
+*[*2] Internaţional withdrew for 2010/11 season, Pandurii remain at
+*     first level
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesr/roem09.html
+
+ 1; Unirea Valahorum Urziceni   ; 34; 21;  7;  6;  51; 20; 70;  Champions
+ 2; FC Timişoara                ; 34; 20;  7;  7;  58; 38; 67;  [*1]
+ 3; FC Dinamo Bucureşti         ; 34; 20;  5;  9;  56; 30; 65;
+ 4; CFR 1907 Cluj               ; 34; 16; 11;  7;  44; 26; 59;
+ 5; SC Vaslui                   ; 34; 17;  6; 11;  44; 37; 57;
+ 6; FC Steaua Bucureşti         ; 34; 14; 14;  6;  44; 27; 56;  [2 1 1 0 2-1 4]
+ 7; Universitatea Craiova       ; 34; 15; 11;  8;  44; 25; 56;  [2 0 1 1 1-2 1]
+ 8; AFC Rapid Bucureşti         ; 34; 16;  7; 11;  44; 34; 55;  [2 1 1 0 3-1 4]
+ 9; FC Braşov                   ; 34; 14; 13;  7;  35; 25; 55;  [2 0 1 1 1-3 1]
+10; FC 2005 Piteşti             ; 34; 12;  8; 14;  41; 47; 44;  [*2]
+11; Pandurii Lignitul Târgu Jiu ; 34; 11; 10; 13;  27; 36; 43;
+12; Oţelul Galaţi               ; 34; 11;  7; 16;  37; 48; 40;
+13; Gloria Bistriţa             ; 34; 11;  5; 18;  32; 44; 38;
+14; Politehnica Iaşi            ; 34; 10;  7; 17;  32; 47; 37;
+
+15; CS Gaz Metan Mediaş         ; 34; 10;  6; 18;  36; 51; 36;  [*2]
+16; FC Farul Constanţa          ; 34;  8;  6; 20;  27; 56; 30;  Relegated
+17; CS Otopeni                  ; 34;  5;  7; 22;  32; 54; 22;  Relegated
+18; Gloria Buzău                ; 34;  4;  5; 25;  23; 62; 17;  Relegated
+
+*[*1] FC Timişoara were 6 points deducted by FIFA decision for
+*     unallowed use of name Poli Ştiinţa Timişoara; these
+*     points were returned to Timişoara on Jun 11 by CAS.
+*[*2] after the season, Piteşti were relegated due to corruption
+*     allegations against their president; due to this, Gaz Metan
+*     remained at the first level
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesr/roem08.html
+
+ 1; CFR 1907 Cluj               ; 34; 23;  7;  4;  52; 22; 76;  Champions
+ 2; FC Steaua Bucureşti         ; 34; 23;  6;  5;  51; 19; 68;  [-7]
+ 3; AFC Rapid Bucureşti         ; 34; 18;  7;  9;  52; 31; 61;  [4 2 1 1 5-3 7]
+ 4; FC Dinamo Bucureşti         ; 34; 17; 10;  7;  55; 36; 61;  [4 1 2 1 3-4 5]
+ 5; Unirea Valahorum Urziceni   ; 34; 16; 13;  5;  42; 24; 61;  [4 0 3 1 2-3 3]
+ 6; FCU Politehnica Timişoara   ; 34; 16;  9;  9;  57; 44; 57;
+ 7; FC Vaslui                   ; 34; 12; 11; 11;  44; 34; 47;
+ 8; Oţelul Galaţi               ; 34; 14;  4; 16;  47; 50; 46;
+ 9; Universitatea Craiova       ; 34; 12;  7; 15;  42; 48; 43;
+10; Gloria Bistriţa             ; 34; 11;  9; 14;  34; 40; 42;
+11; Politehnica Iaşi            ; 34; 11;  8; 15;  37; 41; 41;
+12; Pandurii Lignitul Târgu Jiu ; 34; 11;  7; 16;  36; 43; 40;  [2 1 0 1 2-2 3 (2 ag)]
+13; FC Farul Constanţa          ; 34; 10; 10; 14;  25; 38; 40;  [2 1 0 1 2-2 3 (1 ag)]
+14; Gloria Buzău                ; 34; 10;  7; 17;  30; 56; 37;
+
+15; Ceahlăul Piatra Neamţ       ; 34; 10;  6; 18;  33; 46; 36;  [*]  Relegated
+16; Dacia Mioveni               ; 34;  7; 10; 17;  26; 43; 31;  Relegated
+17; FCM UTA Arad                ; 34;  6;  8; 20;  30; 52; 26;  Relegated
+18; Universitatea Cluj          ; 34;  4; 11; 19;  32; 58; 17;  [-6]  Relegated
+
+*[*] newly promoted FC Delta Tulcea obtained no license, thus sparing
+*    Ceahlăul Piatra Neamţ from relegation
+*
+*NB: Steaua 7 points deducted and Universitatea Cluj 6 points deducted after
+*    end of season, apparently beacuse Steaua incited U Cluj to win their
+*    last round match against CFR Cluj
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesr/roem07.html
+
+ 1; FC Dinamo Bucureşti         ; 34; 23;  8;  3;  63; 24; 77;  Champions
+ 2; FC Steaua Bucureşti         ; 34; 21;  8;  5;  61; 22; 71;
+ 3; CFR 1907 Cluj               ; 34; 21;  6;  7;  59; 32; 69;
+ 4; AFC Rapid Bucureşti         ; 34; 16; 11;  7;  63; 39; 59;
+ 5; Oţelul Galaţi               ; 34; 17;  5; 12;  60; 56; 56;
+ 6; Gloria Bistriţa             ; 34; 16;  6; 12;  42; 35; 54;
+ 7; FCU Politehnica Timişoara   ; 34; 15;  8; 11;  37; 33; 53;
+ 8; FC Vaslui                   ; 34; 13; 11; 10;  41; 44; 50;
+ 9; Universitatea Craiova       ; 34; 12; 12; 10;  39; 43; 48;
+10; Unirea Valahorum Urziceni   ; 34; 13;  8; 13;  30; 29; 47;
+11; Pandurii Lignitul Târgu Jiu ; 34; 13;  5; 16;  26; 35; 44;
+12; FCM UTA Arad                ; 34; 11;  8; 15;  28; 39; 41;  [*]
+13; Politehnica Iaşi            ; 34; 10; 10; 14;  34; 41; 40;
+14; FC Farul Constanţa          ; 34;  8; 13; 13;  31; 35; 37;
+
+15; Ceahlăul Piatra Neamţ       ; 34;  8;  7; 19;  27; 53; 31;  Relegated
+16; FC Naţional Bucureşti       ; 34;  6;  6; 22;  27; 52; 24;  [2 1 0 1 3-2 3]  Relegated
+17; FC Argeş Piteşti            ; 34;  5;  9; 20;  23; 47; 24;  [2 1 0 1 2-3 3]  Relegated
+18; Jiul Petroşani              ; 34;  5;  5; 24;  15; 47; 20;  Relegated
+
+*[*] newly promoted CF Liberty Salonta sold their place to UTA Arad
+*
+*NB: Sportul Studenţesc Bucureşti were excluded for debts to 
+*    the state of 300,000 Euro; due to this, Pandurii remained 
+*    at the first level; Sportul have filed a complaint at the CAS 
+*    in Lausanne, who rejected their application, apparently based on 
+*    regulations by FRF which were installed after Sportul filed their 
+*    complaint.
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesr/roem06.html
+
+ 1; FC Steaua Bucuresti         ; 30; 19;  7;  4;  49; 16; 64;  Champions
+ 2; AFC Rapid Bucuresti         ; 30; 17;  8;  5;  47; 23; 59;  UEFA Cup
+ 3; FC Dinamo Bucuresti         ; 30; 17;  5;  8;  56; 32; 56;  [2 1 0 1 6-5 3]  UEFA Cup
+ 4; Sportul Studentesc Bucuresti; 30; 17;  5;  8;  54; 35; 56;  [2 1 0 1 5-6 3]
+ 5; CFR Ecomax Cluj             ; 30; 14;  8;  8;  36; 27; 50;
+ 6; FC National Bucuresti       ; 30; 13;  7; 10;  32; 37; 46;
+ 7; FC Farul Constanta          ; 30; 14;  3; 13;  39; 38; 45;  UI Cup
+ 8; FCU Politehnica Timisoara   ; 30; 10; 10; 10;  34; 31; 40;
+ 9; Otelul Galati               ; 30; 10;  9; 11;  35; 37; 39;  [4 2 2 0 2-0 8]
+10; Gloria Bistrita             ; 30; 11;  6; 13;  27; 34; 39;  [4 1 2 1 2-2 5]
+11; Poli Unirea Iasi            ; 30; 11;  6; 13;  28; 31; 39;  [4 0 2 2 1-3 2]
+12; FC Arges Pitesti            ; 30;  8;  8; 14;  27; 37; 32;  [*]
+13; Jiul Petrosani              ; 30;  7;  9; 14;  28; 39; 30;
+14; FC Vaslui                   ; 30;  6; 11; 13;  23; 37; 29;
+
+15; Pandurii Lignitul Targu Jiu ; 30;  6;  7; 17;  22; 44; 25;  Relegated
+16; FCM Bacau                   ; 30;  3;  5; 22;  16; 55; 14;  Relegated
+
+*[*] play home matches in Mioveni
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesr/roem05.html
+
+ 1; FC Steaua Bucuresti         ; 30; 19;  6;  5;  47; 18; 63;  Champions
+ 2; FC Dinamo Bucuresti         ; 30; 20;  2;  8;  60; 30; 62;
+ 3; AFC Rapid Bucuresti         ; 30; 16;  9;  5;  51; 27; 57;  [2 1 1 0 6-3 4]
+ 4; FC National Bucuresti       ; 30; 17;  6;  7;  50; 33; 57;  [2 0 1 1 3-6 1]
+ 5; FC Farul Constanta          ; 30; 15;  7;  8;  42; 28; 52;
+ 6; Politehnica Timisoara       ; 30; 13;  6; 11;  37; 34; 45;  [2 1 1 0 2-0 4]  [*]
+ 7; Sportul Studentesc Bucuresti; 30; 12;  9;  9;  37; 27; 45;  [2 0 1 1 0-2 1]
+ 8; Otelul Galati               ; 30; 12;  4; 14;  31; 32; 40;
+ 9; Poli Unirea Iasi            ; 30; 10;  8; 12;  28; 41; 38;
+10; FC Arges Pitesti            ; 30;  8; 12; 10;  32; 37; 36;  [2 1 1 0 3-1 4]
+11; CFR Ecomax Cluj             ; 30;  9;  9; 12;  33; 44; 36;  [2 0 1 1 1-3 1]
+12; FCM Bacau                   ; 30;  8;  9; 13;  20; 28; 33;
+13; Gloria Bistrita             ; 30;  9;  5; 16;  38; 46; 32;
+
+14; Apulum Alba-Iulia           ; 30;  6;  8; 16;  28; 62; 26;  Relegated
+15; FC Brasov                   ; 30;  5;  6; 19;  28; 45; 21;  Relegated
+16; Universitatea Craiova       ; 30;  4;  8; 18;  24; 54; 20;  Relegated
+
+*[*] Politehnica AEK Timisoara dropped the AEK in the winter break 
+*    after being bought by the Balkan Petroleum concern.
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesr/roem04.html
+
+ 1; FC Dinamo Bucuresti         ; 30; 22;  4;  4;  71; 30; 70;  Champions
+ 2; FC Steaua Bucuresti         ; 30; 18; 10;  2;  60; 20; 64;
+ 3; AFC Rapid Bucuresti         ; 30; 16;  7;  7;  51; 32; 55;
+ 4; Universitatea Craiova       ; 30; 11; 11;  8;  38; 34; 44;
+ 5; Otelul Galati               ; 30; 10; 13;  7;  30; 26; 43;
+ 6; Apulum Alba-Iulia           ; 30; 11;  8; 11;  32; 47; 41;
+ 7; FC National Bucuresti       ; 30; 11;  6; 13;  36; 39; 39;  [2 0 2 0 0-0 2]
+ 8; Politehnica AEK Timisoara   ; 30;  9; 12;  9;  30; 40; 39;  [2 0 2 0 0-0 2]
+ 9; FC Farul Constanta          ; 30;  9; 10; 11;  39; 42; 37;
+10; FC Arges Pitesti            ; 30;  9;  9; 12;  31; 35; 36;  [2 2 0 0 4-1 6]
+11; FC Brasov                   ; 30; 10;  6; 14;  40; 42; 36;  [2 0 0 2 1-4 0]
+12; Gloria Bistrita             ; 30;  9;  8; 13;  36; 48; 35;
+13; FCM Bacau                   ; 30;  7; 10; 13;  29; 43; 31;
+
+14; Ceahlaul Piatra Neamt       ; 30;  7;  9; 14;  34; 50; 30;  Relegated
+15; FC Petrolul Ploiesti        ; 30;  6;  9; 15;  38; 55; 27;  Relegated
+16; FC Oradea                   ; 30;  6;  6; 18;  38; 50; 24;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesr/roem03.html
+
+ 1; AFC Rapid Bucuresti         ; 30; 20;  3;  7;  59; 25; 63;  Champions
+ 2; FC Steaua Bucuresti         ; 30; 16;  8;  6;  42; 27; 56;  UEFA Cup 
+ 3; Gloria Bistrita             ; 30; 13;  6; 11;  32; 33; 45;  [2 2 0 0 4-1 6]  UI Cup
+ 4; FC Brasov                   ; 30; 13;  6; 11;  37; 33; 45;  [2 0 0 2 1-4 0]
+ 5; Ceahlaul Piatra Neamt       ; 30; 12;  8; 10;  43; 33; 44;  [4 2 1 1 6-7 7]  UI Cup
+ 6; FC Dinamo Bucuresti         ; 30; 13;  5; 12;  49; 46; 44;  [4 2 0 2 9-6 6]
+ 7; Universitatea Craiova       ; 30; 12;  8; 10;  36; 37; 44;  [4 1 1 2 3-5 3]
+ 8; FC National Bucuresti       ; 30; 12;  7; 11;  41; 36; 43;
+ 9; SC Astra Ploiesti           ; 30; 13;  3; 14;  42; 42; 42;
+10; FC Farul Constanta          ; 30; 12;  4; 14;  35; 47; 40;
+11; FC Arges Pitesti            ; 30; 11;  5; 14;  37; 41; 38;  [2 2 0 0 6-3 6]
+12; FCM Bacau                   ; 30; 10;  8; 12;  31; 31; 38;  [2 0 0 2 3-6 0]
+
+13; Otelul Galati               ; 30;  9;  9; 12;  25; 37; 36;  Relegation Playoff
+14; Poli AEK Timisoara          ; 30; 11;  2; 17;  37; 52; 35;  Relegation Playoff [*]
+
+15; Sportul studentesc Bucuresti; 30;  9;  4; 17;  44; 55; 31;  Relegated  [-] 
+16; U.T.A. (Arad)               ; 30;  8;  6; 16;  37; 52; 30;  Relegated
+
+*[*] AEK Bucuresti (former Fulgerul Bragadiru) were renamed and relocated
+*    to Timisoara.
+*[-] Sportul studentesc were to be deducted 1 point every 7 days starting
+*    from March 18 due to non-payment of USD 150,000 to Steaua Bucuresti 
+*    as transfer fee for Florin Sandu Maxim; this punishment was annulled
+*    on appeal, Sportul claiming they are owed USD 200,000 by Bulgarian
+*    side Litex Lovetch for the transfer of Bogdan Patrascu.  
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesr/roem02.html
+
+ 1; FC Dinamo Bucuresti         ; 30; 17;  9;  4;  63; 33; 60;  Champions  [-]
+ 2; FC National Bucuresti       ; 30; 16; 10;  4;  44; 20; 58;
+ 3; UFC Rapid Bucuresti         ; 30; 15;  6;  9;  50; 31; 50;  [2 1 0 1 4-2 3]  [*]
+ 4; FC Steaua Bucuresti         ; 30; 15;  5; 10;  47; 31; 50;  [2 1 0 1 2-4 3]
+ 5; Otelul Galati               ; 30; 14;  7;  9;  34; 24; 49;
+ 6; FCM Bacau                   ; 30; 14;  4; 12;  43; 40; 46;
+ 7; AS Universitatea FC Craiova ; 30; 12;  8; 10;  40; 35; 44;
+ 8; Ceahlaul Piatra Neamt       ; 30; 13;  4; 13;  35; 37; 43;  [-]
+ 9; Gloria Bistrita             ; 30; 13;  2; 15;  29; 41; 41;
+10; FC Arges Dacia Pitesti      ; 30; 11;  7; 12;  36; 39; 40;
+11; FC Brasov                   ; 30; 10;  9; 11;  33; 34; 39;
+12; SC Astra Ploiesti           ; 30;  9; 10; 11;  29; 28; 37;
+
+13; Sportul studentesc Bucuresti; 30;  9;  7; 14;  40; 53; 34;  Relegation Playoff
+14; FC Farul Constanta          ; 30;  8;  8; 14;  32; 44; 32;  Relegation Playoff
+
+15; FC Petrolul Ploiesti        ; 30;  5; 10; 15;  30; 48; 25;  Relegated
+16; U.M. Timisoara              ; 30;  3;  6; 21;  24; 71; 15;  Relegated
+
+*[*] Rapid had 1 point deducted for walking off in round 13 (the original 5-point
+*    penalty was reduced on appeal). 
+*[-] the award of the match Ceahlaul-Dinamo in round 16 as a 0-3 loss for both
+*    was revoked as well as the 3-point deduction for Ceahlaul 
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesr/roem01.html
+
+ 1; Steaua Bucuresti            ; 30; 17;  9;  4;  56; 32; 60;  Champions
+ 2; Dinamo Bucuresti            ; 30; 15;  6;  9;  56; 44; 51;
+ 3; FC Brasov                   ; 30; 15;  5; 10;  33; 25; 50;
+ 4; Rapid Bucuresti             ; 30; 13; 10;  7;  38; 25; 49;
+ 5; FC Arges Dacia Pitesti      ; 30; 12; 10;  8;  42; 42; 46;
+ 6; Gloria Bistrita             ; 30; 13;  4; 13;  44; 42; 43;  [2 2 0 0 6-0 6]
+ 7; FC National Bucuresti       ; 30; 13;  4; 13;  40; 40; 43;  [2 0 0 2 0-6 0]
+ 8; AS Universitatea FC Craiova ; 30; 11;  8; 11;  34; 38; 41;
+ 9; FC Petrolul Ploiesti        ; 30; 12;  4; 14;  34; 36; 40;  [2 1 1 0 3-1 4]
+10; Astra Ploiesti              ; 30; 11;  7; 12;  41; 36; 40;  [2 0 1 1 1-3 1]
+11; Ceahlaul Piatra Neamt       ; 30;  9; 11; 10;  36; 41; 38;  [2 0 2 0 1-1 2 (1 ag)]
+12; Otelul Galati               ; 30; 10;  8; 12;  33; 39; 38;  [2 0 2 0 1-1 2 (0 ag)]
+
+13; Foresta Falticeni           ; 30;  8; 12; 10;  39; 43; 36;  Relegation Playoff [*]
+14; FCM Bacau                   ; 30;  9;  7; 14;  38; 45; 34;  [2 1 0 1 3-2 3] Relegation Playoff
+
+15; Rocar Fulgerul Bragadiru    ; 30; 10;  4; 16;  41; 56; 34;  [2 1 0 1 2-3 3] Relegated [*] 
+16; Gaz Metan Medias            ; 30;  3;  9; 18;  21; 42; 18;  Relegated
+
+*[*] originally the main sponsor of Fulgerul Bragadiru had intended to buy 
+*    Rocar's place in the first division (and switch places), but the 
+*    Romanian Professional Football League would allow only a merger. 
+*    Hence, Fulgerul gave up on the initial plan and just paid for 
+*    changing the name of Rocar into Rocar Fulgerul Bragadiru.   
+*    Foresta play in Suceava, Rocar in Bucuresti
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesr/roem00.html
+
+ 1; Dinamo Bucuresti            ; 34; 27;  3;  4;  93; 40; 84;  Champions
+ 2; Rapid Bucuresti             ; 34; 22;  6;  6;  65; 38; 72;
+ 3; Steaua Bucuresti            ; 34; 18;  3; 13;  62; 56; 57;  [2 2 0 0 5-0 6]
+ 4; Ceahlaul Piatra Neamt       ; 34; 17;  6; 11;  56; 48; 57;  [2 0 0 2 0-5 0]
+ 5; FC Arges Dacia Pitesti      ; 34; 16;  6; 12;  45; 35; 54;
+ 6; Gloria Bistrita             ; 34; 17;  2; 15;  54; 49; 53;
+ 7; FCM Bacau                   ; 34; 15;  6; 13;  40; 39; 51;
+ 8; Otelul Galati               ; 34; 15;  4; 15;  59; 55; 49;  [2 1 1 0 3-1 4]
+ 9; FC National Bucuresti       ; 34; 15;  4; 15;  61; 44; 49;  [2 0 1 1 1-3 1]
+10; Astra Ploiesti              ; 34; 13;  8; 13;  43; 41; 47;      [4 2 0 2 6-4 6]
+11; FC Petrolul Ploiesti        ; 34; 14;  5; 15;  48; 55; 47;      [4 2 0 2 6-5 6]
+12; Rocar Bucuresti             ; 34; 15;  2; 17;  52; 52; 47;  [*] [4 2 0 2 6-9 6]
+13; AS Universitatea FC Craiova ; 34; 13;  7; 14;  45; 41; 46;  [2 2 0 0 2-0 6]
+14; FC Brasov                   ; 34; 14;  4; 16;  53; 43; 46;  [2 0 0 2 0-2 0]
+
+15; FC Farul Constanta          ; 34; 12;  8; 14;  38; 45; 44;  Relegated
+16; FC Onesti                   ; 34;  9;  3; 22;  37; 92; 30;  Relegated
+17; CSM Resita                  ; 34;  5;  8; 21;  35; 73; 23;  Relegated
+18; Extensiv Craiova            ; 34;  4;  5; 25;  26; 66; 17;  Relegated
+
+*[*] after the season, Rocar sold its first division place to Fulgerul Bragadiru     
+*    for USD 1,200,000
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesr/roem99.html
+
+ 1; Rapid Bucuresti             ; 34; 28;  5;  1;  79; 18; 89;  Champions
+ 2; Dinamo Bucuresti            ; 34; 26;  4;  4;  95; 27; 82;  UEFA Cup
+ 3; Steaua Bucuresti            ; 34; 19;  9;  6;  62; 33; 66;  UEFA Cup (Cup Final)
+ 4; FC Arges Dacia Pitesti      ; 34; 20;  4; 10;  57; 37; 64;
+ 5; FCM Bacau                   ; 34; 18;  8;  8;  46; 35; 62;
+ 6; Otelul Galati               ; 34; 17;  4; 13;  47; 33; 55;
+ 7; FC National Bucuresti       ; 34; 18;  1; 15;  61; 51; 55;
+ 8; FC Petrolul Ploiesti        ; 34; 16;  5; 13;  50; 46; 53;
+ 9; Ceahlaul Piatra Neamt       ; 34; 15;  4; 15;  54; 53; 49;
+10; Astra Ploiesti              ; 34; 13;  7; 14;  40; 38; 46;
+11; Gloria Bistrita             ; 34; 12;  7; 15;  55; 60; 43;
+12; FC Farul Constanta          ; 34; 12;  4; 18;  37; 54; 40;
+13; AS Universitatea FC Craiova ; 34; 11;  6; 17;  43; 50; 39;
+14; FC Onesti                   ; 34; 12;  3; 19;  56; 67; 39;
+15; CSM Resita                  ; 34;  8; 11; 15;  34; 59; 35;
+
+16; Foresta Falticeni           ; 34;  6;  6; 22;  31; 61; 24;  Relegated
+17; Universitatea Cluj-Napoca   ; 34;  4;  4; 26;  19; 92; 16;  Relegated
+18; Olimpia Satu Mare           ; 34;  3;  4; 27;  22; 74; 13;  Relegated
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesr/roem98.html
+
+ 1; Steaua Bucuresti            ; 34; 25;  5;  4;  83; 36; 80;  Champions
+
+ 2; Rapid Bucuresti             ; 34; 24;  6;  4;  70; 24; 78;  CWC
+ 3; FC Arges Dacia Pitesti      ; 34; 20;  5;  9;  56; 38; 65;  UEFA Cup
+ 4; Otelul Galati               ; 34; 20;  4; 10;  54; 28; 64;  UEFA Cup
+
+ 5; FC National Bucuresti       ; 34; 18;  6; 10;  57; 40; 60;
+ 6; Dinamo Bucuresti            ; 34; 17;  3; 14;  66; 50; 54;
+ 7; CSM Resita                  ; 34; 15;  6; 13;  55; 49; 51;
+ 8; AS Universitatea FC Craiova ; 34; 15;  4; 15;  65; 46; 49;
+ 9; Ceahlaul Piatra Neamt       ; 34; 14;  7; 13;  46; 49; 49;
+10; FCM Bacau                   ; 34; 12;  9; 13;  41; 42; 45;
+11; Gloria Bistrita             ; 34; 13;  5; 16;  56; 63; 44;
+12; FC Farul Constanta          ; 34; 13;  4; 17;  36; 52; 43;
+13; Universitatea Cluj-Napoca   ; 34; 11;  7; 16;  42; 40; 40;
+14; FC Petrolul Ploiesti        ; 34; 11;  7; 16;  41; 45; 40;
+15; Foresta Falticeni           ; 34; 10;  9; 15;  32; 41; 39;
+
+16; CF Chindia Târgoviste       ; 34; 10;  8; 16;  40; 67; 38;  Relegated
+17; Sportul Studentesc Bucuresti; 34;  5;  4; 25;  32; 65; 19;  Relegated
+18; Jiul Petrosani              ; 34;  3;  1; 30;  19;116; 10;  Relegated
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesr/roem97.html
+
+ 1; Steaua Bucuresti            ; 34; 23;  4;  7;  87;40 ;73 ; Champions
+
+ 2; FC National Bucuresti       ; 34; 21;  5;  8;  69;36 ;68 ; CWC
+ 3; Dinamo Bucuresti            ; 34; 18;  5; 11;  56;34 ;59 ; UEFA Cup
+ 4; Otelul Galati               ; 34; 17;  7; 10;  54;39 ;58 ; UEFA Cup
+
+ 5; FCM Bacau                   ; 34; 16;  5; 13;  43; 41; 53;
+ 6; Ceahlaul Piatra Neamt       ; 34; 15;  7; 12;  51; 50; 52;
+ 7; FC Arges Dacia Pitesti      ; 34; 14;  8; 12;  46; 37; 50;
+ 8; Rapid Bucuresti             ; 34; 13;  9; 12;  45; 41; 48;
+ 9; FC Petrolul Ploiesti        ; 34; 13;  7; 14;  48; 43; 46;
+10; FC Farul Constanta          ; 34; 14;  4; 16;  46; 52; 46;
+11; Universitatea Craiova       ; 34; 12;  7; 15;  48; 52; 43;
+12; Sportul Studentesc Bucuresti; 34; 12;  6; 16;  36; 52; 42;
+13; Gloria Bistrita             ; 34; 11;  8; 15;  38; 45; 41;
+14; Jiul Petrosani              ; 34; 12;  5; 17;  33; 61; 41;
+15; Universitatea Cluj-Napoca   ; 34; 11;  6; 17;  52; 67; 39;
+16; CF Chindia Târgoviste       ; 34; 11;  5; 18;  32; 55; 38;
+
+17; Politehnica Timisoara       ; 34; 10;  5; 19;  45; 65; 35;  Relegated
+18; FC Brasov                   ; 34;  9;  5; 20;  42; 61; 32;  Relegated
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesr/roem96.html
+
+ 1; Steaua Bucuresti            ; 34; 21;  8;  5;  79; 30; 71;   Champions
+
+ 2; FC National Bucuresti       ; 34; 18;  6; 10;  60; 44; 60;   UEFA Cup
+ 3; Rapid Bucuresti             ; 34; 18;  5; 11;  59; 33; 59;   UEFA Cup
+
+ 4; Universitatea Craiova       ; 34; 17;  6; 11;  45; 30; 57;   Intertoto Cup
+ 5; Dinamo Bucuresti            ; 34; 15;  7; 12;  40; 37; 52;   Intertoto Cup
+ 6; FC Petrolul Ploiesti        ; 34; 16;  3; 15;  44; 38; 51;
+ 7; Politehnica Timisoara       ; 34; 14;  7; 13;  58; 47; 49;
+ 8; FC Farul Constanta          ; 34; 15;  4; 15;  56; 49; 49;
+ 9; Universitatea Cluj-Napoca   ; 34; 14;  6; 14;  41; 40; 48;
+10; FC Brasov                   ; 34; 13;  7; 14;  38; 60; 46;
+11; Gloria Bistrita             ; 34; 14;  3; 17;  41; 38; 45;   Cup Winners Cup
+12; Otelul Galati               ; 34; 14;  3; 17;  42; 46; 45;
+13; AS Bacau                    ; 34; 15;  0; 19;  40; 58; 45;   [**]
+14; Sportul Studentesc Bucuresti; 34; 12;  7; 15;  33; 35; 43;   [*]
+15; Ceahlaul Piatra Neamt       ; 34; 13;  4; 17;  34; 46; 43;  
+16; FC Arges Pitesti            ; 34; 12;  6; 16;  39; 52; 42;  
+
+17; FC Inter Sibiu              ; 34; 10;  7; 17;  29; 48; 37;   Relegated
+18; Politehnica Iasi            ; 34;  9;  3; 22;  27; 74; 30;   Relegated
+
+*[*]  Sportul play their home matches in Targu Jiu this season.
+*[**] FC Selena Bacau changed name to AS Bacau (Oct 23, 1995).
+*Promoted: Jiul Petrosani and FC Chindia Targoviste (formerly Otelul).
+
+
+Season: 1994-1995
+BlockSource: http://www.rsssf.com/tablesr/roem95.html
+
+ 1; Steaua Bucuresti            ; 34   ; 23  ; 8  ; 3   ; 72 ; 25  ;  77 ;  [Champions / C.L Qualif.]
+
+ 2; Universitatea Craiova       ; 34   ; 21  ; 5  ; 8   ; 83 ; 40  ;  68 ;  [UEFA Cup]
+ 3; Dinamo Bucuresti            ; 34   ; 20  ; 5  ; 9   ; 61 ; 35  ;  65 ;  [UEFA Cup]
+ 4; Rapid Bucuresti             ; 34   ; 16  ; 6  ;12   ; 55 ; 42  ;  54 ;      
+ 5; Ceahlaul Piatra Neamt       ; 34   ; 16  ; 5  ;13   ; 56 ; 54  ;  53 ;  [Intertoto Cup] 
+ 6; F.C. National Bucuresti     ; 34   ; 16  ; 4  ;14   ; 66 ; 60  ;  52 ; [4  3 0 1 10- 5  9]
+ 7; Gloria Bistrita             ; 34   ; 16  ; 4  ;14   ; 66 ; 59  ;  52 ; [4  2 0 2  9-10  6]
+ 8; F.C. Arges Pitesti [P]      ; 34   ; 16  ; 4  ;14   ; 47 ; 54  ;  52 ; [4  1 0 3  8-12  3]
+ 9; F.C. Inter Sibiu            ; 34   ; 16  ; 3  ;15   ; 53 ; 52  ;  51 ;      
+10; Petrolul Ploiesti           ; 34   ; 14  ; 7  ;13   ; 44 ; 41  ;  49 ;  [Cup Winner] / C.W. Cup]  
+11; F.C. Farul Constanta        ; 34   ; 13  ; 6  ;15   ; 42 ; 49  ;  45 ;  [Intertoto Cup]    
+12; Universitatea Cluj-Napoca   ; 34   ; 13  ; 4  ;17   ; 39 ; 42  ;  43 ;  [Intertoto Cup]
+13; Otelul Galati               ; 34   ; 11  ; 9  ;14   ; 47 ; 51  ;  42 ;        
+14; F.C. Brasov                 ; 34   ; 10  ; 9  ;15   ; 40 ; 54  ;  39 ;      
+
+15; Electroputere Craiova       ; 34   ; 11  ; 5  ;18   ; 42 ; 53  ;  38 ;  [Relegation playoff]
+16; Sportul Studentesc Bucuresti; 34   ;  8  ;10  ;16   ; 26 ; 44  ;  34 ;  [Relegation playoff]
+
+17; F.C. Maramures Baia Mare [P]; 34   ;  6  ; 9  ;19   ; 34 ; 69  ;  27 ;  [Relegated]
+18; U.T.Arad                    ; 34   ;  4  ; 9  ;21   ; 28 ; 77  ;  21 ;  [Relegated]
+
+
+Season: 1993-1994
+BlockSource: http://www.rsssf.com/tablesr/roem94.html
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+ 1; Steaua Bucuresti             ; 34; 22;  9;  3;  63; 19; 53
+
+ 2; Universitatea Craiova        ; 34; 16;  8; 10;  64; 46; 40
+ 3; Dinamo Bucuresti             ; 34; 16;  7; 11;  65; 40; 39
+ 4; Rapid Bucuresti              ; 34; 16;  6; 12;  43; 32; 38
+ 5; Petrolul Ploiesti            ; 34; 14; 10; 10;  34; 30; 38
+ 6; FC Farul Constanta           ; 34; 15;  7; 12;  42; 38; 37
+ 7; Gloria Bistrita              ; 34; 16;  3; 15;  47; 43; 35
+ 8; FC Inter Sibiu               ; 34; 13;  8; 13;  40; 41; 34
+ 9; Progresul Bucuresti          ; 34; 14;  4; 16;  44; 42; 32
+10; Ceahlaul Piatra Neamt        ; 34; 11; 10; 13;  27; 40; 32
+11; U.T. Arad                    ; 34; 12;  8; 14;  35; 49; 32
+12; Universitatea Cluj           ; 34; 11;  9; 14;  39; 42; 31
+13; FC Brasov                    ; 34; 13;  5; 16;  38; 52; 31
+14; Electroputere Craiova        ; 34; 10; 10; 14;  25; 34; 30
+15; Otelul Galati                ; 34; 12;  5; 17;  38; 47; 29
+16; Sportul Studentesc Bucuresti ; 34; 11;  7; 16;  30; 45; 29
+
+17; Politehnica Timisoara        ; 34; 11;  6; 17;  39; 53; 28
+18; Dacia Unirea Braila          ; 34;  9;  6; 19;  33; 53; 24
+
+
+Season: 1992-1993
+BlockSource: http://www.rsssf.com/tablesr/roem93.html
+
+ 1; Steaua Bucuresti             ; 34; 25;  7;  2;  84; 22; 57
+
+ 2; Dinamo Bucuresti             ; 34; 23;  7;  4;  81; 24; 53
+ 3; Universitatea Craiova        ; 34; 16; 10;  8;  50; 36; 42
+ 4; Rapid Bucuresti              ; 34; 15;  9; 10;  40; 33; 39
+ 5; Gloria Bistrita              ; 34; 15;  5; 14;  45; 41; 35
+ 6; Electroputere Craiova        ; 34; 13;  9; 12;  35; 32; 35
+ 7; Sportul Studentesc Bucuresti ; 34; 13;  8; 13;  40; 43; 34
+ 8; FC Inter Sibiu               ; 34; 11; 11; 12;  41; 47; 33
+ 9; FC Farul Constanta           ; 34; 14;  4; 16;  57; 66; 32
+10; Otelul Galati                ; 34; 13;  6; 15;  40; 49; 32
+11; Universitatea Cluj           ; 34; 14;  2; 18;  43; 51; 30
+12; FC Brasov                    ; 34; 12;  6; 16;  36; 45; 30
+13; Politehnica Timisoara        ; 34;  8; 13; 13;  34; 46; 29
+14; Dacia Unirea Braila          ; 34;  9; 11; 14;  38; 53; 29
+15; Progresul Bucuresti          ; 34; 10;  9; 15;  36; 51; 29
+16; Petrolul Ploiesti            ; 34; 12;  3; 19;  47; 50; 27
+
+17; FC Selena Bacau              ; 34;  8;  9; 17;  24; 44; 25
+18; CSM Resita                   ; 34;  9;  3; 22;  34; 72; 21
+
+
+Season: 1991-1992
+BlockSource: http://www.rsssf.com/tablesr/roem92.html
+
+ 1; Dinamo Bucuresti             ; 34; 21; 13;  0;  76; 23; 55
+
+ 2; Steaua Bucuresti             ; 34; 20;  8;  6;  68; 31; 48
+ 3; Electroputere Craiova        ; 34; 16;  7; 11;  43; 28; 39
+ 4; Universitatea Craiova        ; 34; 14; 11;  9;  38; 28; 39
+ 5; Politehnica Timisoara        ; 34; 15;  9; 10;  36; 34; 39
+ 6; Dacia Unirea Braila          ; 34; 14;  7; 13;  39; 37; 35
+ 7; Rapid Bucuresti              ; 34; 13;  9; 12;  34; 37; 35
+ 8; Otelul Galati                ; 34; 15;  5; 14;  38; 46; 35
+ 9; FC Brasov                    ; 34; 13;  8; 13;  53; 49; 34
+10; FC Ploiesti                  ; 34; 14;  6; 14;  37; 49; 34
+11; Gloria Bistrita              ; 34; 13;  7; 14;  46; 40; 33
+12; FC Inter Sibiu               ; 34; 13;  7; 14;  42; 43; 33
+13; FC Farul Constanta           ; 34; 14;  4; 16;  40; 43; 32
+14; FC Selena Bacau              ; 34; 11;  7; 16;  32; 54; 29
+15; Sportul Studentesc Bucuresti ; 34; 10;  8; 16;  37; 47; 28
+
+16; FC Arges Pitesti             ; 34;  8;  8; 18;  38; 52; 24
+17; ASA Tg.Mures                 ; 34;  8;  5; 21;  31; 55; 21
+18; Corvinul Hunedoara           ; 34;  6;  7; 21;  35; 67; 19
+
+
+Season: 1990-1991
+BlockSource: http://www.rsssf.com/tablesr/roem91.html
+
+ 1; Universitatea Craiova        ; 34; 22;  6;  6;  74; 26; 50
+
+ 2; Steaua Bucuresti             ; 34; 20; 10;  4;  67; 28; 50
+ 3; Dinamo Bucuresti             ; 34; 16; 11;  7;  54; 27; 43
+ 4; FC Inter Sibiu               ; 34; 18;  2; 14;  56; 46; 38
+ 5; Gloria Bistrita              ; 34; 15;  7; 12;  51; 38; 37
+ 6; Politehnica Timisoara        ; 34; 14;  7; 13;  45; 45; 35
+ 7; Petrolul Ploiesti            ; 34; 15;  5; 14;  48; 49; 35
+ 8; FC Arges Pitesti             ; 34; 13;  8; 13;  49; 42; 34
+ 9; FCM Brasov                   ; 34; 14;  6; 14;  47; 45; 34
+10; FC Farul Constanta           ; 34; 12; 10; 12;  40; 40; 34
+11; Rapid Bucuresti              ; 34; 13;  6; 15;  44; 45; 32
+12; Sportul Studentesc Bucuresti ; 34; 10; 12; 12;  45; 53; 32
+13; FCM Progresul Braila         ; 34; 13;  5; 16;  33; 49; 31
+14; Corvinul Hunedoara           ; 34; 15;  2; 17;  47; 62; 30 
+*(-2p pen)
+15; FC Selena Bacau              ; 34; 11;  7; 16;  32; 42; 29
+
+16; Jiul Petrosani               ; 34; 11;  6; 17;  46; 65; 28
+17; FC Bihor Oradea              ; 34;  7;  8; 19;  40; 75; 18 
+*(-4p pen)
+18; Universitatea Cluj           ; 34;  5;  6; 23;  26; 67; 16
+
+
+Season: 1989-1990
+BlockSource: http://www.rsssf.com/tablesr/roem90.html
+
+ 1; Dinamo Bucureşti             ; 34; 26;  5;  3;  96; 23; 57
+
+ 2; Steaua Bucureşti             ; 34; 26;  4;  4;  89; 30; 56
+ 3; Universitatea Craiova        ; 34; 19;  6;  9;  56; 27; 44
+ 4; Petrolul Ploieşti            ; 34; 17;  7; 10;  56; 40; 41
+ 5; Politehnica Timişoara        ; 34; 17;  7; 10;  65; 40; 41
+ 6; FC Inter Sibiu               ; 34; 16;  4; 14;  52; 42; 36
+ 7; FCM Braşov                   ; 34; 13;  9; 12;  42; 57; 35
+ 8; Corvinul Hunedoara           ; 34; 14;  4; 16;  37; 56; 32
+ 9; FC Farul Constanţa           ; 34; 11;  9; 14;  54; 54; 31
+10; FC Bihor Oradea              ; 34; 13;  4; 17;  61; 61; 30
+11; Sportul Studentesc Bucureşti ; 34; 12;  6; 16;  43; 57; 30
+12; FC Argeş Piteşti             ; 34; 13;  3; 18;  38; 45; 29
+13; Universitatea Cluj           ; 34; 10;  9; 15;  40; 60; 29
+14; Jiul Petroşani               ; 34; 12;  5; 17;  41; 54; 29
+15; SC Bacău                     ; 34; 12;  5; 17;  43; 56; 29
+
+16; Flacăra Moreni               ; 34; 10;  8; 16;  37; 48; 28
+17; Victoria Bucureşti           ; 33;  8;  5; 20;  24; 64; 21
+18; FC Olt Scorniceşti           ; 33;  4;  4; 25;  16; 76; 12

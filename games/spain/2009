@@ -1,0 +1,734 @@
+BlockSource: http://rsssf.com/tabless/span2010.html
+Season: 2009-2010
+Competition: La Liga
+home-first
+
+* 1.FC Barcelona                  38 31  6  1  98-24  99  Champions
+* 2.Real Madrid CF                38 31  3  4 102-35  96
+* 3.Valencia CF                   38 21  8  9  59-40  71
+* 4.Sevilla FC                    38 19  6 13  65-49  63
+* 5.RCD Mallorca (Palma de M.)    38 18  8 12  59-44  62
+* 6.Getafe CF                     38 17  7 14  58-48  58
+* 7.Villarreal CF                 38 16  8 14  58-57  56
+* 8.Athletic de Bilbao            38 15  9 14  50-53  54
+* 9.Atlético de Madrid            38 13  8 17  57-61  47  [2 1 0 1 4-2 3]
+*10.RC Deportivo (La Coruña)      38 13  8 17  35-49  47  [2 1 0 1 2-4 3]
+*11.RCD Espanyol (Barcelona)      38 11 11 16  29-46  44
+*12.CA Osasuna (Pamplona)         38 11 10 17  37-46  43
+*13.UD Almería                    38 10 12 16  43-55  42
+*14.Real Zaragoza                 38 10 11 17  46-64  41
+*15.Sporting de Gijón             38  9 13 16  36-51  40
+*16.Racing de Santander           38  9 12 17  42-59  39
+*17.Málaga CF                     38  7 16 15  42-48  37
+*-------------------------------------------------------
+*18.Real Valladolid               38  7 15 16  37-62  36  [2 0 2 0 3-3 2]  Relegated
+*19.CD Tenerife                   38  9  9 20  40-74  36  [2 0 2 0 3-3 2]  Relegated
+*20.Xerez CD                      38  8 10 20  38-66  34  Relegated
+
+Round: 1
+Date: 8/29/2009
+
+; Madrid    ; 3-2; Deportivo
+; Zaragoza  ; 1-0; Tenerife
+
+Date: 8/30/2009
+
+; Almería   ; 0-0; Valladolid
+; Athletic  ; 1-0; Espanyol
+; Málaga    ; 3-0; Atlético
+; Mallorca  ; 2-0; Xerez
+; Osasuna   ; 1-1; Villarreal
+; Racing    ; 1-4; Getafe
+; Valencia  ; 2-0; Sevilla
+
+Date: 8/31/2009
+
+; Barcelona ; 3-0; Sporting
+
+Round: 2
+Date: 9/12/2009
+
+; Atlético  ; 1-1; Racing     
+; Espanyol  ; 0-3; Madrid     
+; Getafe    ; 0-2; Barcelona  
+; Sevilla   ; 4-1; Zaragoza   
+
+Date: 9/13/2009
+
+; Deportivo ; 1-0; Málaga     
+; Sporting  ; 1-0; Almería    
+; Tenerife  ; 2-1; Osasuna    
+; Valladolid; 2-4; Valencia   
+; Villarreal; 1-1; Mallorca   
+; Xerez     ; 0-1; Athletic   
+
+Round: 3
+Date: 9/19/2009
+
+; Barcelona ; 5-2; Atlético
+; Deportivo ; 2-3; Espanyol
+; Málaga    ; 1-2; Racing     
+; Mallorca  ; 4-0; Tenerife
+; Osasuna   ; 0-2; Sevilla
+
+Date: 9/20/2009
+
+; Almería   ; 1-0; Getafe
+; Athletic  ; 3-2; Villarreal
+; Madrid    ; 5-0; Xerez
+; Valencia  ; 2-2; Sporting
+; Zaragoza  ; 1-2; Valladolid
+
+Round: 4
+Date: 9/22/2009
+
+; Racing    ; 1-4; Barcelona
+; Sevilla   ; 2-0; Mallorca
+
+Date: 9/23/2009
+
+; Atlético  ; 2-2; Almería
+; Espanyol  ; 2-1; Málaga
+; Getafe    ; 3-1; Valencia
+; Tenerife  ; 1-0; Athletic
+; Valladolid; 1-2; Osasuna
+; Villarreal; 0-2; Madrid
+; Xerez     ; 0-3; Deportivo
+
+Date: 9/24/2009
+
+; Sporting  ; 1-1; Zaragoza
+
+Round: 5
+Date: 9/26/2009
+
+; Athletic  ; 0-4; Sevilla    
+; Madrid    ; 3-0; Tenerife   
+; Málaga    ; 0-2; Barcelona
+; Valencia  ; 2-2; Atlético   
+
+Date: 9/27/2009
+
+; Almería   ; 2-2; Racing     
+; Deportivo ; 1-0; Villarreal 
+; Espanyol  ; 0-0; Xerez      
+; Mallorca  ; 3-0; Valladolid 
+; Osasuna   ; 1-0; Sporting   
+; Zaragoza  ; 3-0; Getafe     
+
+Round: 6
+Date: 10/3/2009
+
+; Atlético  ; 2-1; Zaragoza   
+; Barcelona ; 1-0; Almería    
+; Tenerife  ; 0-1; Deportivo  
+
+Date: 10/4/2009
+
+; Getafe    ; 2-1; Osasuna    
+; Racing    ; 0-1; Valencia
+; Sevilla   ; 2-1; Madrid     
+; Sporting  ; 4-1; Mallorca   
+; Valladolid; 2-2; Athletic   
+; Villarreal; 0-0; Espanyol   
+; Xerez     ; 1-1; Málaga     
+
+Round: 7
+Date: 10/17/2009
+
+; Deportivo ; 1-0; Sevilla    
+; Madrid    ; 4-2; Valladolid 
+; Valencia  ; 0-0; Barcelona  
+
+Date: 10/18/2009
+
+; Athletic  ; 1-2; Sporting   
+; Espanyol  ; 2-1; Tenerife   
+; Mallorca  ; 3-1; Getafe     
+; Málaga    ; 1-2; Almería    
+; Osasuna   ; 3-0; Atlético   
+; Xerez     ; 2-1; Villarreal 
+; Zaragoza  ; 2-2; Racing     
+
+Round: 8
+Date: 10/24/2009
+
+; Atlético  ; 1-1; Mallorca   
+; Sevilla   ; 0-0; Espanyol   
+; Sporting  ; 0-0; Madrid     
+
+Date: 10/25/2009
+
+; Almería   ; 0-3; Valencia   
+; Barcelona ; 6-1; Zaragoza   
+; Getafe    ; 2-0; Athletic   
+; Racing    ; 1-1; Osasuna    
+; Tenerife  ; 1-0; Xerez      
+; Valladolid; 4-0; Deportivo  
+; Villarreal; 2-1; Málaga     
+
+Round: 9
+Date: 10/31/2009
+
+; Athletic  ; 1-0; Atlético   
+; Madrid    ; 2-0; Getafe     
+; Osasuna   ; 1-1; Barcelona  
+; Xerez     ; 0-2; Sevilla    
+
+Date: 11/1/2009
+
+; Deportivo ; 1-1; Sporting   
+; Espanyol  ; 1-1; Valladolid 
+; Málaga    ; 0-1; Valencia   
+; Mallorca  ; 1-0; Racing     
+; Villarreal; 5-0; Tenerife   
+; Zaragoza  ; 2-1; Almería    
+
+Round: 10
+Date: 11/7/2009
+
+; Atlético  ; 2-3; Madrid     
+; Barcelona ; 4-2; Mallorca   
+; Getafe    ; 0-2; Deportivo  
+; Tenerife  ; 2-2; Málaga     
+
+Date: 11/8/2009
+
+; Almería   ; 2-0; Osasuna    
+; Racing    ; 0-2; Athletic   
+; Sevilla   ; 3-2; Villarreal 
+; Sporting  ; 1-0; Espanyol   
+; Valencia  ; 3-1; Zaragoza   
+; Valladolid; 0-0; Xerez      
+
+Round: 11
+Date: 11/21/2009
+
+; Athletic  ; 1-1; Barcelona  
+; Deportivo ; 2-1; Atlético   
+; Madrid    ; 1-0; Racing     
+; Tenerife  ; 1-2; Sevilla    
+
+Date: 11/22/2009
+
+; Espanyol  ; 0-2; Getafe     
+; Málaga    ; 1-1; Zaragoza   
+; Mallorca  ; 3-1; Almería    
+; Osasuna   ; 1-3; Valencia   
+; Villarreal; 3-1; Valladolid 
+; Xerez     ; 0-0; Sporting   
+
+Round: 12
+Date: 11/28/2009
+
+; Sevilla   ; 2-2; Málaga     
+; Sporting  ; 1-0; Villarreal 
+; Valencia  ; 1-1; Mallorca   
+
+Date: 11/29/2009
+
+; Almería   ; 1-4; Athletic   
+; Atlético  ; 4-0; Espanyol   
+; Barcelona ; 1-0; Madrid     
+; Getafe    ; 5-1; Xerez      
+; Racing    ; 0-1; Deportivo  
+; Valladolid; 3-3; Tenerife   
+; Zaragoza  ; 0-1; Osasuna    
+
+Round: 13
+Date: 12/5/2009
+
+; Deportivo ; 1-3; Barcelona
+; Madrid    ; 4-2; Almería
+; Sevilla   ; 1-1; Valladolid
+; Xerez     ; 0-2; Atlético
+
+Date: 12/6/2009
+
+; Athletic  ; 1-2; Valencia
+; Espanyol  ; 0-4; Racing
+; Málaga    ; 1-1; Osasuna
+; Mallorca  ; 4-1; Zaragoza
+; Tenerife  ; 2-1; Sporting
+; Villarreal; 3-2; Getafe
+
+Round: 14
+Date: 12/12/2009
+
+; Barcelona ; 1-0; Espanyol
+; Valencia  ; 2-3; Madrid
+; Zaragoza  ; 1-2; Athletic
+
+Date: 12/13/2009
+
+; Almería   ; 1-1; Deportivo
+; Atlético  ; 1-2; Villarreal
+; Getafe    ; 2-1; Tenerife
+; Osasuna   ; 0-1; Mallorca
+; Racing    ; 3-2; Xerez
+; Sporting  ; 0-1; Sevilla
+; Valladolid; 1-1; Málaga
+
+Round: 15 
+Date: 12/2/2009
+
+; Xerez     ; 0-2; Barcelona
+
+Date: 12/19/2009
+
+; Athletic  ; 2-0; Osasuna
+; Madrid    ; 6-0; Zaragoza
+; Sevilla   ; 1-2; Getafe
+
+Date: 12/20/2009
+
+; Deportivo ; 0-0; Valencia
+; Espanyol  ; 2-0; Almería
+; Málaga    ; 2-1; Mallorca
+; Tenerife  ; 1-1; Atlético
+; Valladolid; 2-1; Sporting
+; Villarreal; 2-0; Racing
+
+Round: 16
+Date: 1/2/2010
+
+; Atlético  ; 2-1; Sevilla
+; Barcelona ; 1-1; Villarreal
+; Valencia  ; 1-0; Espanyol
+
+Date: 1/3/2010
+
+; Almería   ; 1-0; Xerez
+; Getafe    ; 1-0; Valladolid
+; Mallorca  ; 2-0; Athletic
+; Osasuna   ; 0-0; Madrid
+; Racing    ; 2-0; Tenerife
+; Sporting  ; 2-2; Málaga
+; Zaragoza  ; 0-0; Deportivo
+
+Round: 17
+Date: 1/9/2010
+
+; Sevilla   ; 1-2; Racing
+; Valladolid; 0-4; Atlético
+; Villarreal; 1-1; Almería
+
+Date: 1/10/2010
+
+; Deportivo ; 1-0; Osasuna
+; Espanyol  ; 2-1; Zaragoza
+; Madrid    ; 2-0; Mallorca
+; Málaga    ; 1-1; Athletic
+; Sporting  ; 1-0; Getafe
+; Tenerife  ; 0-5; Barcelona
+; Xerez     ; 1-3; Valencia
+
+Round: 18
+Date: 1/16/2010
+
+; Athletic  ; 1-0; Madrid     
+; Barcelona ; 4-0; Sevilla    
+; Osasuna   ; 2-0; Espanyol   
+
+Date: 1/17/2010
+
+; Almería   ; 1-1; Tenerife   
+; Atlético  ; 3-2; Sporting   
+; Málaga    ; 1-0; Getafe
+; Mallorca  ; 2-0; Deportivo  
+; Racing    ; 1-1; Valladolid 
+; Valencia  ; 4-1; Villarreal 
+; Zaragoza  ; 0-0; Xerez      
+
+Round: 19
+Date: 1/23/2010
+
+; Deportivo ; 3-1; Athletic   
+; Valladolid; 0-3; Barcelona  
+; Sevilla   ; 1-0; Almería    
+
+Date: 1/24/2010
+
+; Espanyol  ; 1-1; Mallorca   
+; Getafe    ; 1-0; Atlético   
+; Madrid    ; 2-0; Málaga     
+; Sporting  ; 0-1; Racing     
+; Tenerife  ; 0-0; Valencia   
+; Villarreal; 4-2; Zaragoza   
+; Xerez     ; 1-2; Osasuna    
+
+Round: 20
+Date: 1/30/2010
+
+; Deportivo ; 1-3; Madrid     
+; Espanyol  ; 1-0; Athletic   
+; Sporting  ; 0-1; Barcelona  
+
+Date: 1/31/2010
+
+; Atlético  ; 0-2; Málaga     
+; Getafe    ; 0-0; Racing     
+; Sevilla   ; 2-1; Valencia   
+; Tenerife  ; 1-3; Zaragoza   
+; Valladolid; 1-1; Almería    
+; Villarreal; 0-2; Osasuna    
+; Xerez     ; 2-1; Mallorca   
+
+Round: 21
+Date: 2/6/2010
+
+; Barcelona ; 2-1; Getafe     
+; Madrid    ; 3-0; Espanyol   
+; Valencia  ; 2-0; Valladolid 
+
+Date: 2/7/2010
+
+; Almería   ; 3-1; Sporting   
+; Athletic  ; 3-2; Xerez      
+; Málaga    ; 0-0; Deportivo  
+; Mallorca  ; 1-0; Villarreal 
+; Osasuna   ; 1-0; Tenerife   
+; Racing    ; 1-1; Atlético   
+; Zaragoza  ; 2-1; Sevilla    
+
+Round: 22
+Date: 2/13/2010
+
+; Sporting  ; 1-1; Valencia   
+; Villarreal; 2-1; Athletic   
+; Xerez     ; 0-3; Madrid     
+
+Date: 2/14/2010
+
+; Atlético  ; 2-1; Barcelona  
+; Espanyol  ; 2-0; Deportivo  
+; Getafe    ; 2-2; Almería    
+; Racing    ; 0-3; Málaga     
+; Sevilla   ; 1-0; Osasuna    
+; Valladolid; 1-1; Zaragoza   
+
+Date: 2/15/2010
+
+; Tenerife  ; 1-0; Mallorca   
+
+Round: 23
+Date: 2/20/2010
+
+; Barcelona ; 4-0; Racing     
+; Deportivo ; 2-1; Xerez      
+; Mallorca  ; 1-3; Sevilla    
+
+Date: 2/21/2010
+
+; Almería   ; 1-0; Atlético   
+; Athletic  ; 4-1; Tenerife   
+; Madrid    ; 6-2; Villarreal 
+; Málaga    ; 2-1; Espanyol   
+; Osasuna   ; 1-1; Valladolid 
+; Zaragoza  ; 1-3; Sporting   
+
+Date: 2/22/2010
+
+; Valencia  ; 2-1; Getafe     
+
+Round: 24
+Date: 2/27/2010
+
+; Barcelona ; 2-1; Málaga     
+; Getafe    ; 0-2; Zaragoza   
+; Tenerife  ; 1-5; Madrid     
+
+Date: 2/28/2010
+
+; Atlético  ; 4-1; Valencia   
+; Racing    ; 0-2; Almería    
+; Sevilla   ; 0-0; Athletic   
+; Sporting  ; 3-2; Osasuna    
+; Valladolid; 1-2; Mallorca   
+; Villarreal; 1-0; Deportivo  
+; Xerez     ; 1-1; Espanyol   
+
+Round: 25
+Date: 3/6/2010
+
+; Almería   ; 2-2; Barcelona  
+; Deportivo ; 3-1; Tenerife   
+; Madrid    ; 3-2; Sevilla    
+
+Date: 3/7/2010
+
+; Athletic  ; 2-0; Valladolid 
+; Espanyol  ; 0-0; Villarreal 
+; Málaga    ; 2-4; Xerez      
+; Mallorca  ; 3-0; Sporting   
+; Osasuna   ; 0-0; Getafe     
+; Zaragoza  ; 1-1; Atlético   
+
+Date: 3/8/2010
+
+; Valencia  ; 0-0; Racing     
+
+Round: 26
+Date: 3/13/2010
+
+; Getafe    ; 3-0; Mallorca   
+; Sevilla   ; 1-1; Deportivo  
+; Sporting  ; 0-0; Athletic   
+
+Date: 3/14/2010
+
+; Almería   ; 1-0; Málaga     
+; Barcelona ; 3-0; Valencia   
+; Racing    ; 0-0; Zaragoza   
+; Tenerife  ; 4-1; Espanyol   
+; Valladolid; 1-4; Madrid     
+; Villarreal; 2-0; Xerez      
+
+Date: 3/15/2010
+
+; Atlético  ; 1-0; Osasuna    
+
+Round: 27
+Date: 3/20/2010
+
+; Athletic  ; 2-2; Getafe     
+; Deportivo ; 0-2; Valladolid 
+; Espanyol  ; 2-0; Sevilla    
+; Madrid    ; 3-1; Sporting   
+; Xerez     ; 2-1; Tenerife   
+
+Date: 3/21/2010
+
+; Málaga    ; 2-0; Villarreal 
+; Mallorca  ; 4-1; Atlético   
+; Osasuna   ; 1-3; Racing     
+; Valencia  ; 2-0; Almería    
+; Zaragoza  ; 2-4; Barcelona  
+
+Round: 28
+Date: 3/23/2010
+
+; Sevilla   ; 1-1; Xerez      
+; Sporting  ; 2-1; Deportivo  
+
+Date: 3/24/2010
+
+; Almería   ; 1-0; Zaragoza   
+; Barcelona ; 2-0; Osasuna    
+; Racing    ; 0-0; Mallorca   
+; Tenerife  ; 2-2; Villarreal 
+; Valencia  ; 1-0; Málaga     
+; Valladolid; 0-0; Espanyol   
+
+Date: 3/25/2010
+
+; Atlético  ; 2-0; Athletic   
+; Getafe    ; 2-4; Madrid     
+
+Round: 29
+Date: 3/27/2010
+
+; Málaga    ; 1-1; Tenerife   
+; Mallorca  ; 0-1; Barcelona  
+; Zaragoza  ; 3-0; Valencia   
+
+Date: 3/28/2010
+
+; Deportivo ; 1-3; Getafe     
+; Espanyol  ; 0-0; Sporting   
+; Madrid    ; 3-2; Atlético   
+; Osasuna   ; 1-0; Almería    
+; Villarreal; 3-0; Sevilla    
+; Xerez     ; 3-0; Valladolid 
+
+Date: 3/29/2010
+
+; Athletic  ; 4-3; Racing     
+
+Round: 30
+Date: 4/3/2010
+
+; Barcelona ; 4-1; Athletic   
+; Sevilla   ; 3-0; Tenerife   
+; Zaragoza  ; 2-0; Málaga     
+
+Date: 4/4/2010
+
+; Almería   ; 1-1; Mallorca   
+; Atlético  ; 3-0; Deportivo  
+; Getafe    ; 1-1; Espanyol   
+; Racing    ; 0-2; Madrid     
+; Sporting  ; 2-2; Xerez      
+; Valencia  ; 3-0; Osasuna    
+; Valladolid; 0-2; Villarreal 
+
+Round: 31
+Date: 4/10/2010
+
+; Madrid    ; 0-2; Barcelona  
+; Málaga    ; 1-2; Sevilla    
+; Tenerife  ; 0-0; Valladolid 
+; Villarreal; 1-0; Sporting   
+; Xerez     ; 0-1; Getafe     
+
+Date: 4/11/2010
+
+; Athletic  ; 4-1; Almería    
+; Deportivo ; 1-1; Racing     
+; Espanyol  ; 3-0; Atlético   
+; Mallorca  ; 3-2; Valencia   
+; Osasuna   ; 2-0; Zaragoza   
+
+Round: 32
+Date: 4/13/2010
+
+; Getafe    ; 3-0; Villarreal 
+; Sporting  ; 0-2; Tenerife   
+; Valladolid; 2-1; Sevilla    
+
+Date: 4/14/2010
+
+; Atlético  ; 1-2; Xerez      
+; Barcelona ; 3-0; Deportivo  
+; Osasuna   ; 2-2; Málaga     
+; Racing    ; 3-1; Espanyol   
+; Zaragoza  ; 1-1; Mallorca   
+
+Date: 4/15/2010
+
+; Almería   ; 1-2; Madrid     
+; Valencia  ; 2-0; Athletic   
+
+Round: 33
+Date: 4/17/2010
+
+; Espanyol  ; 0-0; Barcelona
+; Sevilla   ; 3-0; Sporting
+; Villarreal; 2-1; Atlético
+
+Date: 4/18/2010
+
+; Athletic  ; 0-0; Zaragoza
+; Deportivo ; 0-0; Almería
+; Madrid    ; 2-0; Valencia
+; Málaga    ; 0-0; Valladolid
+; Tenerife  ; 3-2; Getafe
+; Xerez     ; 2-2; Racing
+
+Date: 4/19/2010
+
+; Mallorca  ; 2-0; Osasuna
+
+Round: 34
+Date: 4/24/2010
+
+; Barcelona ; 3-1; Xerez      
+; Valencia  ; 1-0; Deportivo  
+; Zaragoza  ; 1-2; Madrid     
+
+Date: 4/25/2010
+
+; Almería   ; 0-1; Espanyol   
+; Atlético  ; 3-1; Tenerife   
+; Getafe    ; 4-3; Sevilla    
+; Mallorca  ; 1-1; Málaga     
+; Racing    ; 1-2; Villarreal 
+; Sporting  ; 0-2; Valladolid
+
+Date: 4/26/2010
+
+; Osasuna   ; 0-0; Athletic   
+
+Round: 35
+Date: 5/1/2010
+
+; Deportivo ; 0-1; Zaragoza   
+; Espanyol  ; 0-2; Valencia   
+; Málaga    ; 1-1; Sporting   
+; Tenerife  ; 2-1; Racing     
+; Valladolid; 0-0; Getafe     
+; Villarreal; 1-4; Barcelona  
+; Xerez     ; 2-1; Almería    
+
+Date: 5/2/2010
+
+; Athletic  ; 1-3; Mallorca   
+; Madrid    ; 3-2; Osasuna    
+; Sevilla   ; 3-1; Atlético   
+
+Round: 36
+Date: 5/4/2010
+
+; Almería   ; 4-2; Villarreal
+; Barcelona ; 4-1; Tenerife
+; Getafe    ; 1-1; Sporting
+; Valencia  ; 3-1; Xérez
+
+Date: 5/5/2010
+
+; Athletic  ; 1-1; Málaga
+; Atlético  ; 3-1; Valladolid
+; Mallorca  ; 1-4; Madrid
+; Osasuna   ; 3-1; Deportivo
+; Racing    ; 1-5; Sevilla
+; Zaragoza  ; 1-0; Espanyol
+
+Round: 37 
+Date: 5/8/2010
+
+; Deportivo ; 1-0; Mallorca
+; Espanyol  ; 2-1; Osasuna
+; Getafe    ; 2-1; Málaga
+; Madrid    ; 5-1; Athletic
+; Sevilla   ; 2-3; Barcelona
+; Sporting  ; 1-1; Atlético
+; Tenerife  ; 2-2; Almería
+; Valladolid; 2-1; Racing
+; Villarreal; 2-0; Valencia
+; Xerez     ; 3-2; Zaragoza
+
+Round: 38
+Date: 5/15/2010
+
+; Almería   ; 2-3; Sevilla
+; Athletic  ; 2-0; Deportivo
+; Atlético  ; 0-3; Getafe
+; Mallorca  ; 2-0; Espanyol
+; Zaragoza  ; 3-3; Villarreal
+
+Date: 5/16/2010
+
+; Barcelona ; 4-0; Valladolid
+; Málaga    ; 1-1; Madrid
+; Osasuna   ; 1-1; Xérez
+; Racing    ; 2-0; Sporting
+; Valencia  ; 1-0; Tenerife
+
+* 1.FC Barcelona                  38 31  6  1  98-24  99  Champions
+* 2.Real Madrid CF                38 31  3  4 102-35  96
+* 3.Valencia CF                   38 21  8  9  59-40  71
+* 4.Sevilla FC                    38 19  6 13  65-49  63
+* 5.RCD Mallorca (Palma de M.)    38 18  8 12  59-44  62
+* 6.Getafe CF                     38 17  7 14  58-48  58
+* 7.Villarreal CF                 38 16  8 14  58-57  56
+* 8.Athletic de Bilbao            38 15  9 14  50-53  54
+* 9.Atlético de Madrid            38 13  8 17  57-61  47  [2 1 0 1 4-2 3]
+*10.RC Deportivo (La Coruña)      38 13  8 17  35-49  47  [2 1 0 1 2-4 3]
+*11.RCD Espanyol (Barcelona)      38 11 11 16  29-46  44
+*12.CA Osasuna (Pamplona)         38 11 10 17  37-46  43
+*13.UD Almería                    38 10 12 16  43-55  42
+*14.Real Zaragoza                 38 10 11 17  46-64  41
+*15.Sporting de Gijón             38  9 13 16  36-51  40
+*16.Racing de Santander           38  9 12 17  42-59  39
+*17.Málaga CF                     38  7 16 15  42-48  37
+*-------------------------------------------------------
+*18.Real Valladolid               38  7 15 16  37-62  36  [2 0 2 0 3-3 2]  Relegated
+*19.CD Tenerife                   38  9  9 20  40-74  36  [2 0 2 0 3-3 2]  Relegated
+*20.Xerez CD                      38  8 10 20  38-66  34  Relegated
+
+
+*Prepared and maintained by Karel Stokkermans the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 24 Sep 2010
+*(C) Copyright Karel Stokkermans and RSSSF 2009/10
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

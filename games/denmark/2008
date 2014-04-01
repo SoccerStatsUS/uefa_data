@@ -1,0 +1,555 @@
+BlockSource: http://rsssf.com/tablesd/den09.html
+Season: 2008-2009
+Competition: Superligaen
+
+* 1.FC København        33 23  5  5 67-26 74  Champions
+* 2.OB                  33 21  6  6 65-31 69  [Odense]
+* 3.Brøndby IF          33 21  5  7 55-31 68  [København]
+* 4.FC Midtjylland      33 16  7 10 55-46 55  [Herning]
+* 5.Randers FC          33 11 13  9 52-50 46
+* 6.AGF                 33 13  6 14 39-44 45  [Aarhus]
+* 7.AaB                 33  9 12 12 40-49 39  [Aalborg]
+* 8.FC Nordsjælland     33  9  8 16 44-53 35  [Farum]
+* 9.Esbjerg fB          33  7 11 15 32-41 32
+*10.SønderjyskE         33  5 13 15 30-56 28  [Haderslev]
+*-------------------------------------------
+*11.Vejle BK            33  4 13 16 30-59 25  Relegated
+*12.AC Horsens          33  5  9 19 35-58 24  Relegated
+
+Round: 1
+Date: 7/19/2008
+
+; Randers     ; 3-1; AGF
+
+Date: 7/20/2008
+
+; AaB         ; 1-2; Midtjylland
+; Horsens     ; 2-0; SønderjyskE  
+; Nordsjælland; 0-2; Brøndby
+
+Date: 7/21/2008
+
+; København   ; 1-0; Esbjerg
+
+Date: 7/23/2008
+
+; Vejle       ; 1-3; OB
+
+Round: 2
+Date: 7/26/2008
+
+; Brøndby     ; 2-1; AaB
+
+Date: 7/27/2008
+
+; Esbjerg     ; 0-1; Vejle
+; SønderjyskE ; 1-1; Midtjylland
+; Randers     ; 1-1; København
+
+Date: 7/28/2008
+
+; AGF         ; 3-1; Horsens
+
+Date: 8/6/2008
+
+; OB          ; 3-1; Nordsjælland
+
+Round: 3
+Date: 8/2/2008
+
+; Vejle       ; 2-3; AaB
+
+Date: 8/3/2008
+
+; Midtjylland ; 2-1; Horsens
+; Esbjerg     ; 1-1; Nordsjælland
+; OB          ; 3-1; AGF
+; Brøndby     ; 0-3; Randers
+
+Date: 8/4/2008
+
+; SønderjyskE ; 1-1; København
+
+Round: 4
+Date: 8/9/2008
+
+; AaB         ; 1-1; Esbjerg      
+; Horsens     ; 0-1; Brøndby      
+
+Date: 8/10/2008
+
+; København   ; 1-0; AGF
+; Midtjylland ; 4-0; OB
+; Nordsjælland; 1-1; Randers
+
+Date: 8/11/2008
+
+; Vejle       ; 2-1; SønderjyskE  
+
+Round: 5
+Date: 8/16/2008
+
+; Randers     ; 1-1; Esbjerg      
+
+Date: 8/17/2008
+
+; AaB         ; 0-3; OB
+; Horsens     ; 0-0; Vejle        
+; København   ; 3-1; Midtjylland  
+; AGF         ; 2-1; Brøndby      
+; Nordsjælland; 0-1; SønderjyskE  
+
+Round: 6
+Date: 8/30/2008
+
+; OB          ; 2-1; Randers
+
+Date: 8/31/2008
+
+; AGF         ; 0-3; Nordsjælland 
+; Esbjerg     ; 0-1; Horsens
+; SønderjyskE ; 1-2; AaB
+; Brøndby     ; 1-0; København 
+
+Date: 9/1/2008
+
+; Midtjylland ; 1-1; Vejle
+
+Round: 7
+Date: 9/13/2008
+
+; AaB         ; 0-2; AGF
+
+Date: 9/14/2008
+
+; Midtjylland ; 3-1; Esbjerg
+; Horsens     ; 1-1; Randers
+; Vejle       ; 0-0; Brøndby  
+
+Date: 9/15/2008
+
+; OB          ; 2-0; SønderjyskE 
+
+Date: 9/24/2008
+
+; København   ; 2-1; Nordsjælland 
+
+Round: 8
+Date: 9/20/2008
+
+; Horsens     ; 1-2; OB
+
+Date: 9/21/2008
+
+; AGF         ; 2-1; SønderjyskE 
+; Nordsjælland; 2-1; Vejle
+; Randers     ; 0-0; Midtjylland 
+; København   ; 3-0; AaB
+
+Date: 9/22/2008
+
+; Brøndby     ; 2-1; Esbjerg
+
+Round: 9
+Date: 10/4/2008
+
+; AaB         ; 1-1; Horsens      
+
+Date: 10/5/2008
+
+; Esbjerg     ; 1-0; AGF
+; SønderjyskE ; 1-0; Randers      
+; Midtjylland ; 1-0; Nordsjælland 
+; OB          ; 0-1; Brøndby      
+
+Date: 10/6/2008
+
+; Vejle       ; 0-3; København    
+
+Round: 10
+Date: 10/18/2008
+
+; AaB         ; 1-2; Nordsjælland 
+; Horsens     ; 0-1; København    
+
+Date: 10/19/2008
+
+; Randers     ; 1-1; Vejle        
+; OB          ; 4-2; Esbjerg      
+; SønderjyskE ; 2-2; Brøndby      
+
+Date: 10/20/2008
+
+; Midtjylland ; 2-1; AGF
+
+Round: 11
+Date: 10/25/2008
+
+; AGF         ; 2-1; Vejle
+
+Date: 10/26/2008
+
+; Nordsjælland; 3-1; Horsens      
+; Brøndby     ; 3-0; Midtjylland  
+; Randers     ; 2-2; AaB
+; København   ; 0-0; OB
+
+Date: 10/27/2008
+
+; Esbjerg     ; 0-0; SønderjyskE  
+
+Round: 12
+Date: 11/1/2008
+
+; OB          ; 1-1; AaB
+
+Date: 11/2/2008
+
+; Nordsjælland; 1-1; Esbjerg      
+; AGF         ; 2-1; Midtjylland  
+; SønderjyskE ; 1-4; Randers      
+; Vejle       ; 1-1; København    
+
+Date: 11/3/2008
+
+; Brøndby     ; 4-3; Horsens      
+
+Round: 13
+Date: 11/8/2008
+
+; Esbjerg     ; 1-2; OB           
+
+Date: 11/9/2008
+
+; Horsens     ; 1-1; AGF          
+; Randers     ; 3-2; Nordsjælland 
+; København   ; 4-0; SønderjyskE  
+; AaB         ; 0-0; Brøndby      
+
+Date: 11/10/2008
+
+; Midtjylland ; 2-0; Vejle        
+
+Round: 14
+Date: 11/15/2008
+
+; AGF         ; 0-0; SønderjyskE  
+; Brøndby     ; 2-1; Nordsjælland 
+
+Date: 11/16/2008
+
+; OB          ; 2-0; Vejle        
+; Horsens     ; 2-2; Randers      
+; AaB         ; 2-1; Esbjerg      
+; Midtjylland ; 0-3; København    
+
+Round: 15
+Date: 11/22/2008
+
+; SønderjyskE ; 0-6; Brøndby      
+; Vejle       ; 0-3; AaB          
+
+Date: 11/23/2008
+
+; Esbjerg     ; 1-0; Horsens      
+; Nordsjælland; 1-4; OB           
+; København   ; 2-1; AGF          
+
+Date: 11/24/2008
+
+; Randers     ; 1-2; Midtjylland  
+
+Round: 16
+Date: 11/29/2008
+
+; Brøndby     ; 2-0; Vejle        
+
+Date: 11/30/2008
+
+; Midtjylland ; 3-0; Nordsjælland 
+; Horsens     ; 0-3; SønderjyskE  
+; Esbjerg     ; 2-2; Randers      
+; AaB         ; 3-1; København    
+
+Date: 12/1/2008
+
+; AGF         ; 2-1; OB
+
+Round: 17
+Date: 12/6/2008
+
+; OB          ; 0-1; Brøndby      
+
+Date: 12/7/2008
+
+; SønderjyskE ; 1-1; Midtjylland  
+; Vejle       ; 1-1; Esbjerg      
+; Randers     ; 1-2; AaB
+; København   ; 5-2; Horsens      
+
+Date: 12/8/2008
+
+; Nordsjælland; 0-0; AGF
+
+Round: 18
+Date: 2/28/2009
+
+; Midtjylland ; 1-1; Esbjerg      
+
+Date: 3/1/2009
+
+; OB          ; 2-0; SønderjyskE  
+; Vejle       ; 1-1; Nordsjælland 
+; AGF         ; 1-2; Randers      
+; Horsens     ; 0-1; AaB
+
+
+
+3/2/2009; Brøndby     ; 0-1; København    
+
+Round: 19
+Date: 3/7/2009
+
+; Randers     ; 0-3; København    
+
+Date: 3/8/2009
+
+; Horsens     ; 2-1; OB
+; Esbjerg     ; 0-0; SønderjyskE  
+; AaB         ; 1-1; Nordsjælland 
+; Midtjylland ; 1-1; Brøndby      
+
+Date: 3/9/2009
+
+; AGF         ; 1-1; Vejle        
+
+Round: 20
+Date: 3/14/2009
+
+; OB          ; 2-1; Midtjylland  
+
+Date: 3/15/2009
+
+; København   ; 0-2; Esbjerg      
+; Nordsjælland; 1-2; Horsens      
+; SønderjyskE ; 1-1; AaB
+; Brøndby     ; 2-0; AGF
+
+Date: 3/16/2009
+
+; Vejle       ; 1-1; Randers      
+
+Round: 21
+Date: 3/21/2009
+
+; Randers     ; 0-2; Brøndby   
+
+Date: 3/22/2009
+
+; Esbjerg     ; 1-0; AGF
+; SønderjyskE ; 1-3; Nordsjælland 
+; Horsens     ; 0-0; Vejle
+; København   ; 2-1; OB
+
+Date: 3/23/2009
+
+; AaB         ; 3-2; Midtjylland
+
+Round: 22
+Date: 4/4/2009
+
+; Nordsjælland; 0-3; København    
+
+Date: 4/5/2009
+
+; AGF         ; 1-2; AaB          
+; Vejle       ; 3-2; SønderjyskE  
+; Midtjylland ; 3-1; Horsens      
+; Brøndby     ; 1-0; Esbjerg      
+
+Date: 4/6/2009
+
+; OB          ; 3-1; Randers      
+
+Round: 23
+Date: 4/8/2009
+
+; SønderjyskE ; 1-2; København    
+
+Date: 4/9/2009
+
+; OB          ; 2-1; Esbjerg      
+; AGF         ; 1-0; Horsens      
+; Brøndby     ; 2-0; AaB          
+
+Date: 4/10/2009
+
+; Nordsjælland; 6-1; Randers      
+; Vejle       ; 2-3; Midtjylland  
+
+Round: 24
+Date: 4/12/2009
+
+; AaB         ; 0-1; OB           
+; Horsens     ; 3-0; Brøndby      
+
+Date: 4/13/2009
+
+; Midtjylland ; 3-2; AGF          
+; Randers     ; 3-1; SønderjyskE  
+; København   ; 4-1; Vejle        
+
+Date: 4/14/2009
+
+; Esbjerg     ; 1-2; Nordsjælland 
+
+Round: 25
+Date: 4/18/2009
+
+; Brøndby     ; 5-1; SønderjyskE  
+
+Date: 4/19/2009
+
+; Midtjylland ; 0-2; Randers      
+; Horsens     ; 1-1; Esbjerg      
+; OB          ; 3-0; Nordsjælland 
+; AGF         ; 1-0; København    
+
+Date: 4/20/2009
+
+; AaB         ; 0-0; Vejle        
+
+Round: 26
+Date: 4/22/2009
+
+; Randers     ; 5-1; Horsens
+; København   ; 2-1; Midtjylland
+; SønderjyskE ; 0-3; AGF
+
+Date: 4/23/2009
+
+; Esbjerg     ; 3-1; AaB
+; Nordsjælland; 1-2; Brøndby  
+; Vejle       ; 0-5; OB
+
+Round: 27
+Date: 4/25/2009
+
+; Horsens     ; 0-2; København    
+
+Date: 4/26/2009
+
+; AGF         ; 1-0; Nordsjælland 
+; Esbjerg     ; 3-2; Vejle        
+; AaB         ; 1-2; Randers      
+; Brøndby     ; 0-0; OB
+
+Date: 4/27/2009
+
+; Midtjylland ; 2-4; SønderjyskE  
+
+Round: 28
+Date: 5/2/2009
+
+; Vejle       ; 1-3; Brøndby  
+
+Date: 5/3/2009
+
+; Nordsjælland; 0-2; Midtjylland
+; SønderjyskE ; 2-0; Horsens
+; Randers     ; 1-0; Esbjerg      
+; København   ; 3-0; AaB
+
+Date: 5/4/2009
+
+; OB          ; 6-1; AGF
+
+Round: 29
+Date: 5/8/2009
+
+; Horsens     ; 2-3; Midtjylland
+
+Date: 5/9/2009
+
+; København   ; 3-1; Nordsjælland    
+
+Date: 5/10/2009
+
+; SønderjyskE ; 0-0; Vejle
+; Randers     ; 0-0; OB
+; Esbjerg     ; 1-2; Brøndby  
+
+Date: 5/11/2009
+
+; AaB         ; 1-1; AGF
+
+Round: 30
+Date: 5/13/2009
+
+; Nordsjælland; 0-0; SønderjyskE  
+; OB          ; 3-2; København  
+; Vejle       ; 1-1; Horsens
+
+Date: 5/14/2009
+
+; Midtjylland ; 2-1; AaB
+; AGF         ; 3-1; Esbjerg
+; Brøndby     ; 3-0; Randers
+
+Round: 31
+Date: 5/16/2009
+
+; SønderjyskE ; 1-1; OB
+
+Date: 5/17/2009
+
+; AaB         ; 2-2; Horsens
+; Esbjerg     ; 1-0; Midtjylland
+; Randers     ; 1-1; AGF
+; København   ; 4-0; Brøndby    
+
+Date: 5/18/2009
+
+; Nordsjælland; 4-1; Vejle
+
+Round: 32 
+Date: 5/24/2009
+
+; Horsens     ; 2-3; Nordsjælland 
+; AGF         ; 1-0; Brøndby    
+; Randers     ; 3-2; Vejle
+; Midtjylland ; 1-1; OB
+; AaB         ; 1-1; SønderjyskE 
+; Esbjerg     ; 0-1; København 
+
+Round: 33 
+Date: 5/31/2009
+
+; Brøndby     ; 2-4; Midtjylland
+; Nordsjælland; 2-2; AaB
+; Vejle       ; 2-1; AGF
+; OB          ; 2-1; Horsens
+; København   ; 3-3; Randers
+; SønderjyskE ; 1-1; Esbjerg
+
+* 1.FC København        33 23  5  5 67-26 74  Champions
+* 2.OB                  33 21  6  6 65-31 69  [Odense]
+* 3.Brøndby IF          33 21  5  7 55-31 68  [København]
+* 4.FC Midtjylland      33 16  7 10 55-46 55  [Herning]
+* 5.Randers FC          33 11 13  9 52-50 46
+* 6.AGF                 33 13  6 14 39-44 45  [Aarhus]
+* 7.AaB                 33  9 12 12 40-49 39  [Aalborg]
+* 8.FC Nordsjælland     33  9  8 16 44-53 35  [Farum]
+* 9.Esbjerg fB          33  7 11 15 32-41 32
+*10.SønderjyskE         33  5 13 15 30-56 28  [Haderslev]
+*-------------------------------------------
+*11.Vejle BK            33  4 13 16 30-59 25  Relegated
+*12.AC Horsens          33  5  9 19 35-58 24  Relegated
+
+
+
+*Prepared and maintained by Karel Stokkermans and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans and Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com) 
+*Last updated: 27 Aug 2010
+*(C) Copyright Karel Stokkermans, Jan Schoenmakers and RSSSF 2008/10
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

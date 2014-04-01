@@ -1,0 +1,106 @@
+BlockSource: http://www.rsssf.com/tablesr/rus2012.html
+Season: 2011-2012
+Competition: Russian Premier League
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+ 1; Zenit Sankt-Peterburg  ; 30;  17; 10;  3;  59; 25;  61;  Championship Group
+ 2; CSKA Moskva            ; 30;  16; 11;  3;  58; 29;  59;  Championship Group
+ 3; Dinamo Moskva          ; 30;  16;  7;  7;  51; 30;  55;  Championship Group
+ 4; Spartak Moskva         ; 30;  15;  8;  7;  48; 33;  53;  Championship Group [2 0 0 5-0 6]
+ 5; Lokomotiv Moskva       ; 30;  15;  8;  7;  49; 30;  53;  Championship Group [0 0 2 0-5 0]
+ 6; Kuban Krasnodar        ; 30;  14;  7;  9;  38; 27;  49;  Championship Group [+]
+ 7; Rubin Kazan            ; 30;  13; 10;  7;  40; 27;  49;  Championship Group
+ 8; Anzhi Makhachkala      ; 30;  13;  9;  8;  38; 32;  48;  Championship Group
+
+ 9; FK Krasnodar           ; 30;  10;  8; 12;  38; 43;  38;  Relegation Group [+]
+10; FK Rostov              ; 30;   8;  8; 14;  31; 45;  32;  Relegation Group
+11; Terek Grozny           ; 30;   8;  7; 15;  29; 45;  31;  Relegation Group
+12; Volga Nizhniy Novgorod ; 30;   8;  4; 18;  24; 40;  28;  Relegation Group [+]
+
+13; Amkar Perm             ; 30;   6;  9; 15;  20; 39;  27;  Relegation Group [0 2 0 2-2 2]
+14; Krylya Sovetov Samara  ; 30;   6;  9; 15;  21; 43;  27;  Relegation Group [0 2 0 2-2 2]
+
+15; Spartak Nalchik        ; 30;   5;  9; 16;  23; 40;  24;  Relegation Group
+16; Tom Tomsk              ; 30;   4;  8; 18;  19; 58;  20;  Relegation Group
+
+
+
+BlockSource: http://www.rsssf.com/tablesr/rus2010.html
+Season: 2010
+Competition: Russian Football Premier League
+
+
+ 1; Zenit Sankt-Peterburg     ; 30;  20;  8;  2;  61; 21;  68;  Champions      [-> Champions League 11/12 Group Stage]
+ 2; CSKA Moskva               ; 30;  18;  8;  4;  51; 22;  62;                 [-> Champions League 11/12 Group Stage]
+ 3; Rubin Kazan               ; 30;  15; 13;  2;  37; 16;  58;                 [-> Champions League 11/12 Qualifying Round 3]
+ 4; Spartak Moskva            ; 30;  13; 10;  7;  43; 33;  49;                 [-> Europa League 11/12 Qualifying Round 4]
+ 5; Lokomotiv Moskva          ; 30;  13;  9;  8;  34; 29;  48;                 [-> Europa League 11/12 Qualifying Round 3]
+ 6; Spartak Nalchik           ; 30;  12;  8; 10;  40; 37;  44;  
+ 7; Dinamo Moskva             ; 30;   9; 13;  8;  38; 31;  40;  
+ 8; Tom Tomsk                 ; 30;  10;  7; 13;  35; 43;  37;  
+ 9; FK Rostov                 ; 30;  10;  4; 16;  27; 44;  34;  
+10; Saturn Moskovskaya Oblast ; 30;   8; 10; 12;  27; 38;  34;  
+11; Anzhi Makhachkala         ; 30;   9;  6; 15;  29; 39;  33;  [+]
+12; Terek Grozny              ; 30;   8;  9; 13;  28; 34;  33;  
+13; Krylya Sovetov Samara     ; 30;   7; 10; 13;  28; 40;  31;  
+14; Amkar Perm                ; 30;   8;  6; 16;  24; 35;  30;  
+
+15; Alania Vladikavkaz        ; 30;   7;  9; 14;  25; 41;  30;  Relegated [+]
+16; Sibir Novosibirsk         ; 30;   4;  8; 18;  34; 58;  20;  Relegated [+]
+
+*NB: The fifth (and fourth consecutive) championship title for a non-Moscow club.
+
+
+
+BlockSource: http://www.rsssf.com/tablesr/rus09.html
+Season: 2009
+Competition: Russian Football Premier League
+
+
+ 1; Rubin Kazan               ; 30;  19;  6;  5;  62; 21;  63;  Champions              [-> Champions League 10/11 Group Stage]
+ 2; Spartak Moskva            ; 30;  17;  4;  9;  61; 33;  55;                         [-> Champions League 10/11 Group Stage]
+ 3; Zenit Sankt-Peterburg     ; 30;  15;  9;  6;  48; 27;  54;  [2 0 2 0 2-2 2, 1 ag]  [-> Champions League 10/11 Qualifying Round 3]
+ 4; Lokomotiv Moskva          ; 30;  15;  9;  6;  43; 30;  54;  [2 0 2 0 2-2 2, 1 ag]  [-> Europa League 10/11 Qualifying Round 4]
+ 5; CSKA Moskva               ; 30;  16;  4; 10;  48; 30;  52;                         [-> Europa League 10/11 Qualifying Round 3]
+ 6; FK Moskva                 ; 30;  13;  9;  8;  39; 28;  48;  
+ 7; Saturn Moskovskaya Oblast ; 30;  13;  6; 11;  38; 41;  45;  
+ 8; Dinamo Moskva             ; 30;  12;  6; 12;  31; 37;  42;  
+ 9; Tom Tomsk                 ; 30;  11;  8; 11;  31; 39;  41;  
+10; Krylya Sovetov Samara     ; 30;  10;  6; 14;  32; 42;  36;  
+11; Spartak Nalchik           ; 30;   8; 11; 11;  36; 33;  35;  
+12; Terek Grozny              ; 30;   9;  6; 15;  33; 48;  33;  
+13; Amkar Perm                ; 30;   8;  9; 13;  27; 37;  33;  
+14; FK Rostov                 ; 30;   7; 11; 12;  28; 39;  32;  [+]
+
+15; Kuban Krasnodar           ; 30;   6; 10; 14;  23; 51;  28;  Relegated [+]
+16; FK Khimki                 ; 30;   2;  4; 24;  20; 64;  10;  Relegated
+
+
+
+BlockSource: http://www.rsssf.com/tablesr/rus08.html
+Season: 2008
+Competition: Russian Premier League
+
+
+
+ 1; Rubin Kazan               ; 30;  18;  6;  6;  44; 26;  60;  Champions [-> Champions League 09/10 Group Stage]
+ 2; CSKA Moskva               ; 30;  16;  8;  6;  53; 24;  56;            [-> Champions League 09/10 Group Stage]
+ 3; Dinamo Moskva             ; 30;  15;  9;  6;  41; 29;  54;            [-> Champions League 09/10 Qualifying Round 2]
+ 4; Amkar Perm                ; 30;  14;  9;  7;  31; 22;  51;            [-> Europa League 09/10 Qualifying Round 4]
+ 5; Zenit Sankt-Peterburg     ; 30;  12; 12;  6;  59; 37;  48;            [-> Europa League 09/10 Qualifying Round 3]
+ 6; Krylya Sovetov Samara     ; 30;  12; 12;  6;  46; 28;  48;  
+ 7; Lokomotiv Moskva          ; 30;  13;  8;  9;  37; 32;  47;  
+ 8; Spartak Moskva            ; 30;  11; 11;  8;  43; 39;  44;  
+ 9; FK Moskva                 ; 30;   9; 11; 10;  34; 36;  38;  
+10; Terek Grozny              ; 30;   9;  8; 13;  28; 42;  35;  [+]
+11; Saturn Moskovskaya Oblast ; 30;   7; 12; 11;  26; 30;  33;  
+12; Spartak Nalchik           ; 30;   8;  8; 14;  30; 39;  32;  
+13; Tom Tomsk                 ; 30;   7;  8; 15;  23; 39;  29;  
+14; FK Khimki                 ; 30;   6;  9; 15;  34; 54;  27;  
+
+15; Shinnik Yaroslavl         ; 30;   5;  7; 18;  25; 48;  22;  Relegated [+]
+16; Luch-Energiya Vladivostok ; 30;   3; 12; 15;  24; 53;  21;  Relegated
+
+*NB: First Russian championship title for Rubin, and the third one 
+*    (and second consecutive) for a non-Moscow club.

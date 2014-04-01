@@ -1,0 +1,498 @@
+Competition: Super Lig
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablest/tur96.html
+
+ 1; Fenerbahçe     ; 34; 26;  6;  2;  68; 19;  84;  Champions
+ 2; Trabzonspor    ; 34; 26;  4;  4;  79; 24;  82;
+ 3; Besiktas       ; 34; 22;  3;  9;  74; 46;  69;
+ 4; Galatasaray    ; 34; 21;  5;  8;  67; 38;  68;
+ 5; Kocaelispor    ; 34; 16; 11;  7;  61; 43;  59;
+ 6; Gaziantepspor  ; 34; 14;  7; 13;  42; 43;  49;
+ 7; Antalyaspor    ; 34; 13;  6; 15;  45; 55;  45;
+ 8; Samsunspor     ; 34; 12;  7; 15;  46; 46;  43;
+ 9; Bursaspor      ; 34; 10; 11; 13;  56; 48;  41;
+10; Gençlerbirligi ; 34; 10; 11; 13;  41; 48;  41;
+11; Ankaragücü     ; 34; 10;  7; 17;  36; 56;  37;
+12; Altay          ; 34;  9;  9; 16;  35; 56;  36;
+13; Istanbulspor   ; 34;  8; 11; 15;  46; 57;  35;
+14; Vanspor        ; 34;  8; 11; 15;  32; 50;  35;
+15; Denizlispor    ; 34;  8; 10; 16;  38; 50;  34;
+
+16; Kayserispor    ; 34;  7; 11; 16;  41; 61;  32;  Relegated
+17; Eskisehirspor  ; 34; 10;  2; 22;  40; 68;  32;  Relegated
+18; Karsiyaka      ; 34;  7;  6; 21;  26; 65;  27;  Relegated
+
+*Promoted: Canakkale Dardanelspor, Sariyer, Zeytinburnuspor.
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablest/tur97.html
+
+1; Galatasaray Istanbul    ; 34;  25;   7;   2;  90;  30;  82; CL
+2; Besiktas Istanbul       ; 34;  22;   8;   4;  88;  26;  74; CL   
+
+3; Fenerbahce Istanbul     ; 34;  22;   7;   5;  79;  25;  73; UEFA
+4; Trabzonspor             ; 34;  22;   6;   6;  73;  33;  72; UEFA  
+5; Bursaspor               ; 34;  17;   8;   9;  55;  37;  59;
+6; Istanbulspor            ; 34;  16;   7;  11;  56;  44;  55;     
+7; Kocaelispor             ; 34;  12;  12;  10;  37;  35;  48; CWC  
+8; Gaziantepspor           ; 34;  13;   8;  13;  38;  50;  47;
+9; Samsunspor              ; 34;  12;   9;  13;  49;  52;  45;
+1; Antalyaspor             ; 34;  13;   6;  15;  38;  49;  45;
+1; Genclerbirligi Ankara   ; 34;  11;   6;  17;  37;  49;  39;    
+1; Ankaragucu              ; 34;  10;   8;  16;  39;  52;  38;
+1; Vanspor                 ; 34;  10;   7;  17;  31;  50;  37;
+1; Altay Izmir             ; 34;   9;  10;  15;  30;  60;  37;
+1; Canakkale Dardanelspor  ; 34;  10;   6;  18;  35;  65;  36;
+
+1; Sariyer Istanbul        ; 34;   9;   7;  18;  41;  54;  34; d.
+1; Denizlispor             ; 34;   5;   5;  24;  36;  81;  20; d.  
+1; Zeytinburnuspor Istanbul; 34;   2;   5;  27;  26;  86;  11; d.   
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablest/tur98.html
+
+ 1; Galatasaray           ; 34; 23;  6;  5; 86; 43; 75;  Champions
+
+ 2; Fenerbahçe            ; 34; 21;  8;  5; 61; 25; 71;  UEFA Cup
+ 3; Trabzonspor           ; 34; 19;  9;  6; 68; 42; 66;  UEFA Cup
+ 4; Istanbulspor          ; 34; 14; 12;  8; 60; 42; 54;  UEFA Cup
+
+ 5; Samsunspor            ; 34; 14;  7; 13; 42; 42; 49;
+ 6; Besiktas              ; 34; 13;  9; 12; 56; 41; 48;  CWC 
+ 7; Altay Izmir           ; 34; 12; 11; 11; 45; 52; 47;
+ 8; Bursaspor             ; 34; 12;  9; 13; 46; 50; 45;
+ 9; D.Ç. Karabükspor      ; 34; 13;  5; 16; 34; 50; 44;
+10; Kocaelispor           ; 34; 12;  7; 15; 46; 46; 43;
+11; Çanakkale Dardanelspor; 34; 10; 11; 13; 37; 40; 41; 
+12; Antalyaspor           ; 34; 10; 11; 13; 51; 55; 41;
+13; Ankaragücü            ; 34; 11;  8; 15; 40; 47; 41;
+14; Gençlerbirligi        ; 34;  9; 11; 14; 42; 46; 38; 
+15; Gaziantepspor         ; 34;  9; 11; 14; 39; 44; 38;
+
+16; Kayserispor           ; 34; 11;  5; 18; 42; 60; 38;  Relegated 
+17; Sekerspor             ; 34;  9;  9; 16; 41; 67; 36;  Relegated
+18; Vanspor               ; 34;  5;  9; 20; 26; 70; 24;  Relegated
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablest/tur99.html
+
+ 1; Galatasaray SK Istanbul   ; 34; 23;  9;  2; 85; 30; 78;  Champions' League Qualifiers
+
+ 2; Besiktas JK Istanbul      ; 34; 23;  8;  3; 58; 27; 77;  Champions' League Qualifiers
+ 3; Fenerbahçe SK Istanbul    ; 34; 22;  6;  6; 84; 29; 72;  UEFA Cup
+ 4; Trabzonspor K             ; 34; 17;  7; 10; 48; 37; 58;  UI Cup
+ 5; Kocaelispor K Izmit       ; 34; 14;  8; 12; 44; 37; 50;  UI Cup
+ 6; Antalyaspor K             ; 34; 14;  7; 13; 46; 47; 49;  
+ 7; Gaziantepspor K           ; 34; 12; 12; 10; 51; 48; 48;
+ 8; Gençlerbirligi SK Ankara  ; 34; 12; 10; 12; 49; 48; 46;
+ 9; Istanbulspor AS           ; 34; 12;  7; 15; 48; 55; 43;
+10; Samsunspor K              ; 34; 11;  8; 15; 38; 53; 41;
+11; Altay GK Izmir            ; 34; 11;  7; 16; 46; 58; 40;
+12; Bursaspor K               ; 34; 11;  6; 17; 51; 68; 39;
+13; Erzurumspor K             ; 34; 10;  9; 15; 39; 65; 39;
+14; MKE Ankaragücü SK         ; 34; 10;  8; 16; 45; 55; 38;  UEFA Cup (Cup Third Place)
+15; Adanaspor AS              ; 34; 10;  8; 16; 38; 53; 38;
+
+16; Sakaryaspor K Adapazari   ; 34;  9;  8; 17; 44; 52; 35;  Relegated
+17; Dardanel AS Çanakkale     ; 34;  8;  8; 18; 35; 49; 32;  Relegated
+18; Kardemir DÇ Karabükspor K ; 34;  5;  8; 21; 26; 64; 23;  Relegated
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablest/tur00.html
+
+ 1; Galatasaray SK Istanbul   ; 34; 24;  7;  3; 77; 23; 79;  Champions
+
+ 2; Besiktas JK Istanbul      ; 34; 23;  6;  5; 74; 27; 75;  Champions' League
+ 3; Gaziantepspor K           ; 34; 17; 11;  6; 49; 27; 62;
+ 4; Fenerbahçe SK Istanbul    ; 34; 17; 10;  7; 59; 44; 61;
+ 5; Gençlerbirligi SK Ankara  ; 34; 16;  8; 10; 57; 47; 56;
+ 6; Trabzonspor K             ; 34; 15;  8; 11; 47; 41; 53;
+ 7; Samsunspor K              ; 34; 16;  4; 14; 51; 43; 52;
+ 8; Denizlispor K             ; 34; 13;  8; 13; 55; 57; 47;
+ 9; Adanaspor AS              ; 34; 13;  6; 15; 51; 55; 45;
+10; Bursaspor K               ; 34; 12;  6; 16; 51; 63; 42;
+11; Antalyaspor K             ; 34; 11;  8; 15; 42; 58; 41;
+12; Kocaelispor K Izmit       ; 34; 11;  7; 16; 44; 58; 40;
+13; MKE Ankaragücü SK         ; 34;  9; 12; 13; 45; 56; 39;
+14; Erzurumspor K             ; 34; 10;  8; 16; 40; 61; 38;
+15; Istanbulspor AS           ; 34;  8; 13; 13; 38; 43; 37;
+
+16; Altay GK Izmir            ; 34; 10;  7; 17; 34; 43; 37;  Relegated
+17; Göztepe SK Izmir          ; 34;  7;  5; 22; 26; 54; 26;  Relegated
+18; Vanspor K                 ; 34;  4;  6; 24; 38; 78; 18;  Relegated
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablest/tur01.html
+
+ 1; Fenerbahçe SK Istanbul    ; 34; 24;  4;  6; 82; 39; 76;  Champions
+ 2; Galatasaray SK Istanbul   ; 34; 23;  4;  7; 77; 35; 73;  CL Qualifying
+ 3; Gaziantepspor K           ; 34; 20;  8;  6; 67; 40; 68;  UEFA Cup
+ 4; Besiktas JK Istanbul      ; 34; 19;  7;  8; 68; 48; 64;
+ 5; Trabzonspor K             ; 34; 17;  7; 10; 69; 52; 58;
+ 6; MKE Ankaragücü SK         ; 34; 16;  8; 10; 65; 59; 56;
+ 7; Yimpas Yozgatspor         ; 34; 13; 10; 11; 55; 46; 49;  
+ 8; Samsunspor K              ; 34; 13;  9; 12; 55; 52; 48;
+ 9; Çaykur Rizespor           ; 34; 13;  7; 14; 45; 43; 46;
+10; Gençlerbirligi SK Ankara  ; 34; 14;  4; 16; 44; 53; 46;  
+11; Denizlispor K             ; 34; 12;  9; 13; 53; 56; 45;
+12; Istanbulspor AS           ; 34; 12;  8; 14; 47; 58; 44;
+13; Kocaelispor K Izmit       ; 34; 10; 11; 13; 56; 60; 41;
+14; Bursaspor K               ; 34; 11;  7; 16; 55; 60; 40;
+15; Antalyaspor K             ; 34;  9;  9; 16; 45; 64; 36;
+
+16; Siirt Jet-PA SK           ; 34;  6;  6; 22; 47; 81; 24;  Relegated
+17; Erzurumspor K             ; 34;  5;  6; 23; 36; 80; 21;  Relegated
+18; Adanaspor AS              ; 34;  2; 10; 22; 51; 91; 16;  Relegated  
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablest/tur02.html
+
+ 1; Galatasaray SK Istanbul   ; 34; 24;  6;  4; 75; 31; 78;  Champions
+ 2; Fenerbahçe SK Istanbul    ; 34; 24;  3;  7; 70; 31; 75;
+ 3; Besiktas JK Istanbul      ; 34; 18;  8;  8; 69; 39; 62;
+ 4; MKE Ankaragücü SK         ; 34; 15;  8; 11; 72; 58; 53;
+ 5; Denizlispor K             ; 34; 12; 12; 10; 65; 52; 48;  [2 1 1 0 5-2  4]
+ 6; Gaziantepspor K           ; 34; 13;  9; 12; 57; 52; 48;  [2 0 1 1 2-5  1]
+ 7; Göztepe AS                ; 34; 12;  9; 13; 38; 56; 45;  [2 1 1 0 2-1  4]
+ 8; Gençlerbirligi SK Ankara  ; 34; 11; 12; 11; 47; 51; 45;  [2 0 1 1 1-2  1]
+ 9; Istanbulspor AS           ; 34; 12;  8; 14; 33; 38; 44;  [2 2 0 0 5-1  6]
+10; Bursaspor K               ; 34; 13;  5; 16; 48; 60; 44;  [2 0 0 2 1-5  0]
+11; Kocaelispor K Izmit       ; 34; 12;  7; 15; 45; 60; 43;
+12; Diyarbakirspor K          ; 34; 10; 10; 14; 41; 50; 40;  [4 3 1 0 8-2 10]
+13; Malatyaspor K             ; 34; 11;  7; 16; 34; 50; 40;  [4 1 2 1 2-3  5]
+14; Trabzonspor K             ; 34; 11;  7; 16; 49; 60; 40;  [4 0 1 3 1-6  1]
+15; Samsunspor K              ; 34; 10;  8; 16; 32; 43; 38;
+
+16; Çaykur Rizespor           ; 34;  9; 10; 15; 43; 51; 37;  [2 0 2 0 3-3  2]  Relegated
+17; Antalyaspor K             ; 34;  9; 10; 15; 46; 61; 37;  [2 0 2 0 3-3  2]  Relegated
+18; Yimpas Yozgatspor         ; 34;  6;  9; 19; 46; 67; 27;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablest/tur03.html
+
+ 1; Besiktas JK Istanbul      ; 34; 26;  7;  1; 63; 21; 85;  Champions
+ 2; Galatasaray SK Istanbul   ; 34; 24;  5;  5; 61; 27; 77;
+ 3; Gençlerbirligi SK Ankara  ; 34; 19;  9;  6; 76; 40; 66;
+ 4; Gaziantepspor K           ; 34; 16;  9;  9; 61; 41; 57;
+ 5; Malatyaspor K             ; 34; 14; 10; 10; 56; 45; 52;
+ 6; Fenerbahçe SK Istanbul    ; 34; 13; 12;  9; 55; 42; 51;  [2 1 1 0 3-2 4]
+ 7; Trabzonspor K             ; 34; 13; 12;  9; 44; 33; 51;  [2 0 1 1 2-3 1]
+ 8; MKE Ankaragücü SK         ; 34; 15;  4; 15; 44; 42; 49;
+ 9; Istanbulspor SFTAS        ; 34; 12;  7; 15; 42; 47; 43;
+10; Denizli SK                ; 34; 10; 10; 14; 37; 42; 40;  [2 1 0 1 3-2 3]
+11; Adanaspor SFAS            ; 34; 10; 10; 14; 44; 54; 40;  [2 1 0 1 2-3 3]
+12; Samsunspor K              ; 34; 10;  9; 15; 42; 59; 39;
+13; Elazigspor K              ; 34; 10;  7; 17; 40; 59; 37;
+14; Diyarbakirspor K          ; 34;  9;  9; 16; 34; 47; 36;  [2 1 0 1 5-4 3]
+15; Bursaspor K               ; 34;  9;  9; 16; 42; 62; 36;  [2 1 0 1 4-5 3]
+
+16; Altay GSK Izmir           ; 34;  9;  8; 17; 48; 69; 35;  Relegated
+17; Göztepe SHTAS Izmir       ; 34;  5; 11; 18; 32; 57; 26;  Relegated
+18; Kocaelispor K Izmit       ; 34;  6;  4; 24; 32; 66; 22;  Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablest/tur04.html
+
+ 1; Fenerbahçe SK Istanbul    ; 34; 23;  7;  4;  82; 41;  76;  Champions
+ 2; Trabzonspor K             ; 34; 22;  6;  6;  60; 38;  72;  Champions League
+ 3; Besiktas JK Istanbul      ; 34; 18;  8;  8;  65; 45;  62;  UEFA Cup
+ 4; Gaziantepspor K           ; 34; 18;  3; 13;  52; 51;  57;
+ 5; Denizli SK                ; 34; 17;  4; 13;  52; 43;  55;
+ 6; Galatasaray SK Istanbul   ; 34; 15;  9; 10;  56; 47;  54;
+ 7; Samsunspor K              ; 34; 13;  7; 14;  46; 47;  46;
+ 8; Malatyaspor K             ; 34; 11; 12; 11;  51; 40;  45;  [2 1 1 0 1-0 4]
+ 9; MKE Ankaragücü SK         ; 34; 13;  6; 15;  48; 53;  45;  [2 0 1 1 0-1 1]
+10; Gençlerbirligi SK Ankara  ; 34; 12;  8; 14;  56; 52;  44;  [2 1 0 1 5-4 3]
+11; Konyaspor K               ; 34; 10; 14; 10;  53; 54;  44;  [2 1 0 1 4-5 3]
+12; Diyarbakirspor K          ; 34; 12;  7; 15;  44; 54;  43;
+13; Akçaabat Sebatspor K      ; 34; 11;  9; 14;  45; 53;  42;  [2 2 0 0 2-0 6]
+14; Çaykur Rizespor K         ; 34; 13;  3; 18;  37; 53;  42;  [2 0 0 2 0-2 0]
+15; Istanbulspor SFTAS        ; 34; 11;  8; 15;  46; 45;  41;
+
+16; Bursaspor K               ; 34; 10; 10; 14;  40; 40;  40;  Relegated
+17; Adanaspor SFAS            ; 34;  6;  4; 24;  38; 73;  22;  [2 1 0 1 5-5 3]  Relegated
+18; Elazigspor K              ; 34;  5;  7; 22;  37; 79;  22;  [2 1 0 1 5-5 3]  Relegated
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablest/tur05.html
+
+ 1; Fenerbahçe SK Istanbul    ; 34; 26;  2;  6;  77; 24;  80;  Champions
+ 2; Trabzonspor K             ; 34; 24;  5;  5;  73; 29;  77;
+ 3; Galatasaray SK Istanbul   ; 34; 24;  4;  6;  64; 25;  76;
+ 4; Besiktas JK Istanbul      ; 34; 20;  9;  5;  70; 39;  69;
+ 5; Gençlerbirligi SK Ankara  ; 34; 14;  9; 11;  52; 41;  51;
+ 6; Denizli SK                ; 34; 13; 10; 11;  46; 45;  49;
+ 7; BB Ankaraspor K           ; 34; 13;  9; 12;  52; 48;  48;
+ 8; Konyaspor K               ; 34; 11; 12; 11;  62; 62;  45;
+ 9; Gaziantepspor K           ; 34; 13;  5; 16;  49; 55;  44;
+10; Çaykur Rizespor K         ; 34; 11; 10; 13;  36; 37;  43;  [2 1 0 1 1-1 3]
+11; Malatyaspor K             ; 34; 12;  7; 15;  47; 53;  43;  [2 1 0 1 1-1 3]
+12; Samsunspor K              ; 34; 10;  8; 16;  40; 55;  38;  [2 1 1 0 3-2 4]
+13; MKE Ankaragücü SK         ; 34; 10;  8; 16;  37; 61;  38;  [2 0 1 1 2-3 1]
+14; Kayserispor K             ; 34;  8; 10; 16;  42; 65;  34;  [2 1 0 1 4-2 3]  [*]
+15; Diyarbakirspor K          ; 34;  9;  7; 18;  31; 53;  34;  [2 1 0 1 2-4 3]
+
+16; Sakaryaspor AS Adapazari  ; 34;  9;  5; 20;  51; 72;  32;  Relegated
+17; Istanbulspor SFTAS        ; 34;  5; 12; 17;  32; 59;  27;  Relegated
+18; Akçaabat Sebatspor K      ; 34;  3; 10; 21 ; 40; 78;  19;  Relegated
+
+*[*] Erciyesspor K, which were promoted in 2004, were renamed to
+*    Kayserispor K (the traditional top team of Kayseri) while 
+*    Kayserispor K (who failed to win promotion in 2004) were 
+*    renamed to Kayseri Erciyesspor K and play as such at the
+*    2nd level 2004/05
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablest/tur06.html
+
+ 1; Galatasaray SK İstanbul   ; 34; 26;  5;  3;  82; 34;  83;  Champions
+ 2; Fenerbahçe SK İstanbul    ; 34; 25;  6;  3;  90; 34;  81;
+ 3; Beşiktaş JK İstanbul      ; 34; 15;  9; 10;  52; 39;  54;
+ 4; Trabzonspor K             ; 34; 15;  7; 12;  51; 42;  52;
+ 5; Kayserispor K             ; 34; 15;  6; 13;  59; 42;  51;  [2 1 0 1 4-3  3]
+ 6; Gençlerbirliği SK Ankara  ; 34; 14;  9; 11;  47; 39;  51;  [2 1 0 1 3-4  3]
+ 7; Konyaspor K               ; 34; 12; 10; 12;  39; 43;  46;
+ 8; Sivasspor K               ; 34; 10; 13; 11;  34; 44;  43;
+ 9; Çaykur Rizespor K         ; 34; 10; 11; 13;  35; 44;  41;
+10; Kayseri Erciyesspor K     ; 34;  9; 13; 12;  36; 47;  40;  [4 4 0 0 7-2 12]
+11; Gaziantepspor K           ; 34; 10; 10; 14;  34; 50;  40;  [4 1 1 2 4-5  4]
+12; Vestel Manisaspor K       ; 34; 11;  7; 16;  52; 61;  40;  [4 0 1 3 3-6  1]
+13; MKE Ankaragücü SK         ; 34; 10;  9; 15;  43; 48;  39;  [2 2 0 0 5-3  6]
+14; BB Ankaraspor K           ; 34;  9; 12; 13;  44; 51;  39;  [2 0 0 2 3-5  0]
+15; Denizli SK                ; 34;  9; 10; 15;  41; 50;  37;
+
+16; Malatyaspor K             ; 34;  9;  9; 16;  34; 50;  36;  [2 2 0 0 5-1  6]  Relegated
+17; Samsunspor K              ; 34;  9;  9; 16;  45; 62;  36;  [2 0 0 2 1-5  0]  Relegated
+18; Diyarbakırspor K          ; 34;  8;  5; 21;  31; 69;  29;  Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablest/tur07.html
+
+ 1; Fenerbahçe SK İstanbul     ; 34; 20; 10;  4;  65; 31;  70;  Champions
+ 2; Beşiktaş JK İstanbul       ; 34; 18;  7;  9;  43; 32;  61;  CL Qualifying
+ 3; Galatasaray SK İstanbul    ; 34; 15; 11;  8;  58; 37;  56;  UEFA Cup
+ 4; Trabzonspor K              ; 34; 15;  7; 12;  54; 44;  52;  UEFA Cup
+ 5; Kayserispor K              ; 34; 13; 12;  9;  54; 43;  51;
+ 6; Gençlerbirliği SK Ankara   ; 34; 14;  6; 14;  43; 42;  48;  [2 1 0 1 2-2 3]
+ 7; Sivasspor K                ; 34; 14;  6; 14;  41; 44;  48;  [2 1 0 1 2-2 3]
+ 8; BB Ankaraspor K            ; 34; 10; 17;  7;  43; 38;  47;
+ 9; Konyaspor K                ; 34; 12;  9; 13;  42; 44;  45;  [2 1 0 1 1-1 3]
+10; Bursaspor K                ; 34; 12;  9; 13;  36; 42;  45;  [2 1 0 1 1-1 3]
+11; Gaziantepspor K            ; 34; 11; 10; 13;  31; 39;  43;
+12; Vestel Manisaspor K        ; 34; 11;  9; 14;  41; 45;  42;  [2 1 0 1 1-1 3]
+13; MKE Ankaragücü SK          ; 34; 11;  9; 14;  32; 39;  42;  [2 1 0 1 1-1 3]
+14; Denizli SK                 ; 34;  9; 14; 11;  33; 40;  41;
+15; Çaykur Rizespor K          ; 34; 11;  7; 16;  34; 40;  40;
+
+16; Antalyaspor SFTSAŞ         ; 34;  8; 15; 11;  32; 36;  39;  Relegated
+17; Kayseri Erciyesspor K      ; 34;  9; 10; 15;  29; 49;  37;  Relegated  UEFA Cup (Cup)
+18; Sakaryaspor K Adapazarı    ; 34;  4; 10; 20;  25; 51;  22;  Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablest/tur08.html
+
+*NB: Gençlerbirliği OFTAŞ Ankara (promoted 2006/07) were allowed to
+*    play in the Super Lig because of having a different chairman from
+*    Gençlerbirliği SK Ankara, although they were owned by the latter,
+*    and in spite of protests from other clubs.
+
+ 1; Galatasaray SK İstanbul    ; 34; 24;  7;  3;  64; 23;  79;
+ 2; Fenerbahçe SK İstanbul     ; 34; 22;  7;  5;  72; 37;  73;  [4 4 0 0 9-3 12]
+ 3; Beşiktaş JK İstanbul       ; 34; 23;  4;  7;  58; 32;  73;  [4 1 0 3 5-7  3]
+ 4; Sivasspor K                ; 34; 23;  4;  7;  57; 29;  73;  [4 1 0 3 4-8  3]
+ 5; Kayserispor K              ; 34; 15; 10;  9;  50; 31;  55;
+ 6; Trabzonspor K              ; 34; 14;  7; 13;  44; 39;  49;
+ 7; Denizli SK                 ; 34; 13;  6; 15;  48; 48;  45;
+ 8; MKE Ankaragücü SK          ; 34; 11; 10; 13;  36; 44;  43;  [2 1 0 1 2-2  3]
+ 9; Gaziantepspor K            ; 34; 11; 10; 13;  36; 45;  43;  [2 1 0 1 2-2  3]
+10; BB Ankaraspor K            ; 34; 10; 11; 13;  35; 38;  41;
+11; Gençlerbirliği OFTAŞ Ankara; 34; 10; 10; 14;  30; 36;  40;
+12; İstanbul BB SK             ; 34; 10;  8; 16;  44; 47;  38;  [2 1 1 0 3-2  4]
+13; Bursaspor K                ; 34;  9; 11; 14;  31; 40;  38;  [2 0 1 1 2-3  1]
+14; Konyaspor K                ; 34; 10;  6; 18;  37; 64;  36;
+15; Gençlerbirliği SK Ankara   ; 34;  9;  8; 17;  44; 51;  35;
+
+16; Manisaspor K               ; 34;  7;  8; 19;  42; 62;  29;  [4 2 1 1 9-6  7]  Relegated
+17; Çaykur Rizespor K          ; 34;  7;  8; 19;  32; 64;  29;  [4 2 0 2 5-6  6]  Relegated
+18; Kasımpaşa SK               ; 34;  8;  5; 21;  26; 56;  29;  [4 1 1 2 4-6  4]  Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablest/tur09.html
+
+ 1; Beşiktaş JK İstanbul       ; 34; 21;  8;  5;  60; 30 ; 71;  Champions
+ 2; Sivasspor K                ; 34; 19;  9;  6;  54; 28 ; 66;
+ 3; Trabzonspor K              ; 34; 19;  8;  7;  54; 34 ; 65;
+ 4; Fenerbahçe SK İstanbul     ; 34; 18;  7;  9;  60; 36 ; 61;  [2 1 1 0 4-1 4]
+ 5; Galatasaray SK İstanbul    ; 34; 18;  7;  9;  57; 39 ; 61;  [2 0 1 1 1-4 1]
+ 6; Bursaspor K                ; 34; 16; 10;  8;  47; 36 ; 58;
+ 7; Kayserispor K              ; 34; 13; 11; 10;  38; 26 ; 50;
+ 8; Gaziantepspor K            ; 34; 12; 11; 11;  46; 48 ; 47;
+ 9; İstanbul BB SK             ; 34; 12;  6; 16;  37; 46 ; 42;
+10; BB Ankaraspor K            ; 34; 11;  8; 15;  36; 42 ; 41;
+11; Eskişehirspor              ; 34; 10; 10; 14;  45; 49 ; 40;  [2 1 1 0 2-0 4]
+12; Antalyaspor                ; 34; 10; 10; 14;  34; 42 ; 40;  [2 0 1 1 0-2 1]
+13; MKE Ankaragücü SK          ; 34; 11;  6; 17;  36; 47 ; 39;
+14; Gençlerbirliği SK Ankara   ; 34; 10;  8; 16;  38; 50 ; 38;  [4 1 3 0 5-4 6]
+15; Denizli SK                 ; 34; 11;  5; 18;  39; 52 ; 38;  [4 1 3 0 5-4 6]
+
+16; Konyaspor K                ; 34; 10;  8; 16;  35; 46 ; 38;  [4 0 2 2 4-6 2]  Relegated
+17; Kocaelispor (İzmit)        ; 34;  8;  5; 21;  47; 73 ; 29;  Relegated
+18; Hacettepespor K Ankara     ; 34;  5;  7; 22;  24; 63 ; 22;  Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablest/tur2010.html
+
+ 1; Bursaspor K                ; 34; 23;  6;  5;  65; 26;  75;  Champions
+ 2; Fenerbahçe SK İstanbul     ; 34; 23;  5;  6;  61; 28;  74;
+ 3; Galatasaray SK İstanbul    ; 34; 19;  7;  8;  61; 35;  64;  [2 1 1 0 4-1 4]
+ 4; Beşiktaş JK İstanbul       ; 34; 18; 10;  6;  47; 25;  64;  [2 0 1 1 1-4 1]
+ 5; Trabzonspor K              ; 34; 16;  9;  9;  53; 32;  57;
+ 6; İstanbul BB SK             ; 34; 16;  8; 10;  47; 44;  56;
+ 7; Eskişehirspor              ; 34; 15; 10;  9;  44; 34;  55;
+ 8; Kayserispor K              ; 34; 14;  9; 11;  45; 37;  51;
+ 9; Antalyaspor                ; 34; 14;  7; 13;  49; 38;  49;
+10; Gençlerbirliği SK Ankara   ; 34; 12; 11; 11;  38; 35;  47;
+11; Kasımpaşa SK               ; 34; 10; 11; 13;  50; 53;  41;  [2 1 1 0 4-2 4]
+12; MKE Ankaragücü SK          ; 34;  9; 14; 11;  39; 40;  41;  [2 0 1 1 2-4 1]
+13; Gaziantepspor K            ; 34;  9; 13; 12;  38; 39;  40;
+14; Manisaspor K               ; 34;  8; 13; 13;  27; 34;  37;
+15; Sivasspor K                ; 34;  8; 10; 16;  42; 59;  34;
+
+16; Diyarbakır                 ; 34;  6;  9; 19;  28; 54;  27;  Relegated
+17; Denizli SK                 ; 34;  6;  8; 20;  30; 49;  26;  Relegated
+* -.BB Ankaraspor K             34  0  0 34   0-102  0  [*]  ;Relegated
+
+*[*] Ankaraspor were relegated after playing 4 matches for having
+*    'anti-competitive' links with Ankaragücü after the manager
+*    of Ankaraspor, a son of Ankaragücü's honorary president, had
+*    been elected president of Ankaragücü; earlier, five players
+*    from Ankaraspor had moved to Ankaragücü following the rejection
+*    by the TFF of a merger between the two clubs;
+*    all (4) played and remaining matches are awarded 0-3 against them
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablest/tur2011.html
+
+ 1; Fenerbahçe SK İstanbul     ; 34;  26;  4;  4;  84; 34;  82;  [2 1 0 1 4-3 3]  Champions
+ 2; Trabzonspor K              ; 34;  25;  7;  2;  69; 23;  82;  [2 1 0 1 3-4 3]
+ 3; Bursaspor K                ; 34;  17; 10;  7;  50; 29;  61;
+ 4; Gaziantepspor K            ; 34;  17;  8;  9;  44; 33;  59;
+ 5; Beşiktaş JK İstanbul       ; 34;  15;  9; 10;  53; 36;  54;
+ 6; Kayserispor K              ; 34;  14;  9; 11;  46; 44;  51;
+ 7; Eskişehirspor              ; 34;  12; 11; 11;  41; 40;  47;
+ 8; Galatasaray SK İstanbul    ; 34;  14;  4; 16;  41; 46;  46;
+ 9; Kardemir DÇ Karabükspor    ; 34;  12;  8; 14;  46; 53;  44;
+10; Manisaspor K               ; 34;  13;  4; 17;  49; 52;  43;
+11; Antalyaspor                ; 34;  10; 12; 12;  41; 48;  42;  [2 1 1 0 2-1 4]
+12; İstanbul BB SK             ; 34;  12;  6; 16;  40; 45;  42;  [2 0 1 1 1-2 1]
+13; MKE Ankaragücü SK          ; 34;  10; 11; 13;  52; 62;  41;
+14; Gençlerbirliği SK Ankara   ; 34;  10; 10; 14;  43; 51;  40;
+15; Sivasspor K                ; 34;   8; 11; 15;  43; 57;  35;
+
+16; Bucaspor K İzmir           ; 34;   6;  8; 20;  37; 65;  26;  Relegated
+17; Konyaspor K                ; 34;   4; 12; 18;  28; 49;  24;  Relegated
+18; Kasımpaşa SK               ; 34;   5;  8; 21;  31; 71;  23;  Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablest/tur2012.html
+
+ 1; Galatasaray SK İstanbul    ; 34;  23;  8;  3;  69; 24;  77;  Championship Playoff
+ 2; Fenerbahçe SK İstanbul     ; 34;  20;  8;  6;  61; 34;  68;  Championship Playoff
+ 3; Trabzonspor K              ; 34;  15; 11;  8;  60; 39;  56;  Championship Playoff
+ 4; Beşiktaş JK İstanbul       ; 34;  15; 10;  9;  50; 39;  55;  Championship Playoff
+
+ 5; Eskişehirspor              ; 34;  14;  8; 12;  42; 41;  50;  [4 2 2 0 10-4 8]  Euro League Playoff 
+ 6; İstanbul BB SK             ; 34;  14;  8; 12;  48; 49;  50;  [4 1 2 1  5-6 5]  Euro League Playoff 
+ 7; Sivasspor K                ; 34;  13; 11; 10;  57; 54;  50;  [4 0 2 2  2-7 2]  Euro League Playoff 
+ 8; Bursaspor K                ; 34;  13; 10; 11;  44; 35;  49;  [2 1 1 0 6-2 4]  Euro League Playoff 
+
+ 9; Gençlerbirliği SK Ankara   ; 34;  13; 10; 11;  49; 48;  49;  [2 0 1 1 2-6 1]
+10; Gaziantepspor K            ; 34;  13;  9; 12;  39; 33;  48;
+11; Kayserispor K              ; 34;  13;  5; 16;  42; 39;  44;  [2 1 0 1 2-1 3]
+12; Kardemir DÇ Karabükspor    ; 34;  13;  5; 16;  44; 56;  44;  [2 1 0 1 1-2 3]
+13; Mersin İdman Yurdu         ; 34;  12;  6; 16;  34; 45;  42;  [2 2 0 0 2-0 6]
+14; Orduspor                   ; 34;  10; 12; 12;  28; 34;  42;  [2 0 0 2 0-2 0]
+15; Antalyaspor                ; 34;  10;  9; 15;  32; 42;  39;
+
+16; Samsunspor                 ; 34;   9;  9; 16;  36; 47;  36;  Relegated
+17; Manisaspor K               ; 34;   8;  8; 18;  31; 52;  34;  Relegated
+18; MKE Ankaragücü SK          ; 34;   2;  5; 27;  22; 77;  34;  Relegated
+
+*Championship Playoff
+
+* 1.Galatasaray SK İstanbul      6   2  3  1   9- 6  48  [39]  Champions
+* 2.Fenerbahçe SK İstanbul       6   4  1  1   9- 4  47  [34]
+* 3.Trabzonspor K                6   1  2  3   5-10  33  [28]
+* 4.Beşiktaş JK İstanbul         6   1  2  3   5- 8  33  [28]
+
+*NB: bonus points regular stage (halved points rounded upwards) between square brackets
+
+*Euro League Playoff
+
+* 5.Bursaspor K                  6   4  0  2  12-10  37  [25]
+* 6.Eskişehirspor                6   3  2  1  12- 7  36  [25]
+* 7.İstanbul BB SK               6   2  1  3  10-14  32  [25]
+* 8.Sivasspor K                  6   1  1  4   9-12  29  [25]
+
+*NB: bonus points regular stage (halved points rounded upwards) between square brackets
+
+*Spor Toto Playoff
+
+*Group: A
+* 1.Orduspor                     6   6  0  0  17- 6  18
+* 2.Kardemir DÇ Karabükspor      6   3  1  2  14-10  10
+* 3.MKE Ankaragücü SK            6   1  1  4   4-13   4
+* 4.Samsunspor                   6   0  2  4   4-10   2
+
+*Group: B
+* 1.Gaziantepspor K              6   4  0  2  15- 9  12
+* 2.Gençlerbirliği SK Ankara     6   3  0  3   9-10   9  [2 2 0 0 6-3 6]
+* 3.Antalyaspor                  6   3  0  3  12-12   9  [2 0 0 2 3-6 0]
+* 4.Kayserispor K                6   2  0  4   6-11   6
+
+*Final [May 13]
+*Orduspor             1-3 Gaziantepspor      
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablest/tur2013.html
+
+ 1; Galatasaray SK İstanbul    ; 34;  21;  8;  5;  66; 35;  71;  Champions
+ 2; Fenerbahçe SK İstanbul     ; 34;  18;  7;  9;  56; 39;  61;
+ 3; Beşiktaş JK İstanbul       ; 34;  16; 10;  8;  63; 49;  58;
+ 4; Bursaspor K                ; 34;  14; 13;  7;  52; 41;  55;
+ 5; Kayserispor K              ; 34;  15;  7; 12;  48; 45;  52;
+ 6; Kasımpaşa SK               ; 34;  14;  8; 12;  48; 37;  50;
+ 7; MP Antalyaspor             ; 34;  14;  5; 15;  50; 52;  47;
+ 8; Eskişehirspor              ; 34;  11; 13; 10;  48; 40;  46;  [4 2 0 2 7-3 6]
+ 9; Trabzonspor K              ; 34;  13;  7; 14;  39; 40;  46;  [4 2 0 2 5-5 6]
+10; Gaziantepspor K            ; 34;  12; 10; 12;  42; 49;  46;  [4 2 0 2 4-8 6]
+11; Gençlerbirliği SK Ankara   ; 34;  10; 15;  9;  46; 47;  45;
+12; Sivasspor K                ; 34;  12;  8; 14;  42; 46;  44;
+13; SB Elazığspor              ; 34;  10; 13; 11;  31; 46;  43;
+14; Akhisar Belediye           ; 34;  11;  9; 14;  36; 44;  42;
+15; Kardemir DÇ Karabükspor    ; 34;  11;  7; 16;  41; 53;  40;
+
+16; İstanbul BB SK             ; 34;   9;  9; 16;  43; 50;  36;  Relegated
+17; Orduspor                   ; 34;   6; 11; 17;  35; 51;  29;  Relegated
+18; Mersin İdman Yurdu         ; 34;   4; 10; 20;  31; 53;  22;  Relegated
+
+*NB: Elazığspor Kulübü were renamed Sanica Boru Elazığspor Kulübü

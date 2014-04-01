@@ -1,0 +1,493 @@
+BlockSource: http://rsssf.com/tablesp/pol01.html
+Season: 2000-2001
+Competition: Ekstraklasa
+
+* 1.Wisla Kraków                 30 19  5  6 66-27 62  Champions
+* 2.Pogon Szczecin               30 16  5  9 43-33 53 
+* 3.Legia Warszawa               30 14  8  8 45-29 50
+* 4.Polonia Warszawa             30 13  7 10 38-30 46  [2 2 0 0 3-0 6]
+* 5.Zaglebie Lubin               30 14  4 12 43-40 46  [2 0 0 2 0-3 0]
+* 6.Ruch Chorzów                 30 13  5 12 50-48 44  [2 1 0 1 4-3 3]
+* 7.Amica Wronki                 30 13  5 12 48-44 44  [2 1 0 1 3-4 3]
+* 8.GKS Katowice                 30  9 15  6 28-22 42 
+* 9.Odra Wodzislaw               30 10  9 11 39-46 39
+*10.Groclin-Dyskobolia Grodzisk  30  9 10 11 35-38 37 
+*11.Slask Wroclaw                30  9  9 12 32-38 36  [2 1 1 0 3-0 4]
+*12.Widzew Lódz                  30  9  9 12 33-40 36  [2 0 1 1 0-3 1]
+*13.Górnik Zabrze                30  9  7 14 29-35 34  [2 1 0 1 2-1 3]
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+*14.Stomil Olsztyn               30 10  4 16 22-41 34  [2 1 0 1 1-2 3] Relegation Playoff
+*----------------------------------------------------
+*15.Orlen Plock                  30  9  4 17 37-55 31  [2 1 0 1 7-5 3] Relegated [*]
+*16.Ruch Radzionków              30  9  4 17 29-51 31  [2 1 0 1 5-7 3] Relegated  
+*[*] Petrochemia Plock changed name to Orlen Plock before the season
+
+Round: 1
+Date: 7/22/2000
+
+; Orlen        ; 1-0; Groclin 
+; Amica        ; 1-0; Polonia 
+; Slask        ; 1-0; Gornik 
+; Ruch C       ; 2-1; Widzew 
+; Wisla        ; 4-0; Ruch R
+; Legia        ; 1-0; Zaglebie L
+; Stomil       ; 3-1; Odra W
+
+Date: 7/23/2000
+
+; Katowice     ; 0-0; Pogon 
+ 
+Round: 2 
+Date: 7/29/2000
+
+; Zaglebie L   ; 3-2; Amica 
+; Widzew       ; 3-2; Orlen 
+; Gornik       ; 4-1; Ruch C
+; Pogon        ; 2-0; Slask 
+; Odra W       ; 0-0; Katowice
+; Polonia      ; 4-1; Stomil
+; Ruch R       ; 0-1; Legia 
+; Groclin      ; 0-3; Wisla 
+
+Round: 3
+Date: 8/5/2000
+
+; Zaglebie L   ; 3-1; Ruch R
+; Slask        ; 2-2; Odra W
+; Wisla        ; 2-2; Widzew 
+; Legia        ; 3-1; Groclin
+; Amica        ; 2-0; Stomil 
+; Ruch C       ; 0-1; Pogon 
+
+Date: 8/6/2000
+
+; Orlen        ; 1-0; Gornik 
+; Katowice     ; 0-0; Polonia 
+
+Round: 4
+Date: 8/12/2000
+
+; Stomil       ; 1-0; Katowice  
+; Pogon        ; 3-2; Orlen 
+; Widzew       ; 0-0; Legia
+
+Date: 8/13/2000
+
+; Groclin      ; 2-0; Zaglebie L
+; Ruch R       ; 1-2; Amica 
+; Polonia      ; 3-1; Slask 
+; Gornik       ; 1-2; Wisla 
+; Odra W       ; 2-1; Ruch C
+
+Round: 5 
+Date: 8/19/2000
+
+; Wisla        ; 1-2; Pogon 
+; Zaglebie L   ; 4-2; Widzew 
+; Ruch R       ; 2-1; Groclin 
+; Slask        ; 0-1; Stomil 
+; Amica        ; 1-1; Katowice 
+; Ruch C       ; 0-3; Polonia
+; Orlen        ; 1-2; Odra W
+; Legia        ; 1-1; Gornik 
+
+Round: 6
+Date: 8/26/2000
+
+; Pogon        ; 1-1; Legia 
+; Gornik       ; 1-1; Zaglebie L 
+; Katowice     ; 1-1; Slask
+; Widzew       ; 3-1; Ruch R
+
+Date: 8/27/2000
+
+; Polonia      ; 1-0; Orlen 
+; Odra W       ; 0-2; Wisla 
+; Stomil       ; 0-0; Ruch C
+; Amica        ; 2-2; Groclin
+
+Round: 7 
+*[Sep 9,10]
+Date: 9/9/2000
+
+; Zaglebie L   ; 0-1; Pogon 
+; Groclin      ; 1-1; Widzew 
+; Ruch R       ; 3-1; Gornik
+; Slask        ; 1-1; Amica
+; Ruch C       ; 0-0; Katowice 
+; Orlen        ; 1-2; Stomil
+; Legia        ; 2-0; Odra W
+; Wisla        ; 4-0; Polonia
+
+Round: 8 
+*[Sep 16,17]
+Date: 9/16/2000
+
+; Pogon        ; 1-0; Ruch R
+; Odra W       ; 0-1; Zaglebie L
+; Katowice     ; 0-0; Orlen 
+; Gornik       ; 1-2; Groclin 
+; Polonia      ; 0-0; Legia
+; Slask        ; 3-2; Ruch C
+; Stomil       ; 0-3; Wisla 
+; Amica        ; 3-1; Widzew 
+
+Round: 9
+Date: 9/30/2000
+
+; Groclin      ; 2-1; Pogon
+; Ruch R       ; 0-1; Odra W
+; Widzew       ; 1-0; Gornik 
+; Orlen        ; 2-1; Slask
+; Legia        ; 2-1; Stomil 
+
+Date: 10/1/2000
+
+; Wisla        ; 3-1; Katowice 
+; Zaglebie L   ; 0-1; Polonia
+; Ruch C       ; 3-1; Amica 
+
+Round: 10
+Date: 10/14/2000
+
+; Polonia      ; 2-1; Ruch R
+; Stomil       ; 1-3; Zaglebie L
+; Pogon        ; 3-0; Widzew
+; Odra W       ; 2-1; Groclin 
+; Katowice     ; 1-0; Legia 
+; Ruch C       ; 1-1; Orlen 
+; Amica        ; 3-0; Gornik 
+
+Date: 10/15/2000
+
+; Slask        ; 0-1; Wisla 
+
+Round: 11
+Date: 10/21/2000
+
+; Ruch R       ; 0-0; Stomil 
+; Groclin      ; 0-0; Polonia 
+; Gornik       ; 1-0; Pogon
+; Orlen        ; 2-6; Amica 
+; Legia        ; 3-1; Slask
+
+Date: 10/22/2000
+
+; Wisla        ; 2-0; Ruch C
+; Zaglebie L   ; 1-0; Katowice 
+; Widzew       ; 4-1; Odra W
+
+Round: 12
+Date: 10/28/2000
+
+; Polonia      ; 3-1; Widzew
+; Slask        ; 2-1; Zaglebie L
+; Stomil       ; 0-0; Groclin
+; Odra W       ; 0-0; Gornik 
+; Ruch C       ; 1-4; Legia 
+; Katowice     ; 3-0; Ruch R
+
+Date: 10/29/2000
+
+; Orlen        ; 0-5; Wisla
+; Amica        ; 1-2; Pogon 
+
+Round: 13
+Date: 11/3/2000
+
+; Gornik       ; 2-1; Polonia 
+
+Date: 11/4/2000
+
+; Widzew       ; 1-1; Stomil 
+; Pogon        ; 2-1; Odra W
+; Wisla        ; 4-0; Amica 
+; Legia        ; 1-1; Orlen 
+; Ruch R       ; 2-0; Slask 
+
+Date: 11/5/2000
+
+; Groclin      ; 1-0; Katowice
+; Zaglebie L   ; 0-2; Ruch C
+
+Round: 14
+Date: 11/11/2000
+
+; Slask        ; 1-1; Groclin 
+; Polonia      ; 1-2; Pogon 
+; Stomil       ; 1-0; Gornik 
+; Ruch C       ; 1-2; Ruch R
+; Katowice     ; 3-1; Widzew 
+; Wisla        ; 3-3; Legia 
+
+Date: 11/12/2000
+
+; Orlen        ; 1-3; Zaglebie L
+; Amica        ; 4-0; Odra W
+
+Round: 15
+Date: 11/18/2000
+
+; Groclin      ; 0-2; Ruch C
+; Odra W       ; 2-0; Polonia
+; Ruch R       ; 2-1; Orlen
+; Pogon        ; 1-0; Stomil
+; Gornik       ; 0-0; Katowice  
+; Widzew       ; 0-3; Slask 
+; Legia        ; 3-0; Amica 
+
+Date: 11/19/2000
+
+; Zaglebie L   ; 4-2; Wisla 
+
+Round: 16
+Date: 3/10/2001
+
+; Polonia      ; 3-0; Amica
+; Ruch R       ; 0-2; Wisla 
+; Pogon        ; 1-2; Katowice 
+; Groclin      ; 1-2; Orlen 
+; Odra W       ; 2-1; Stomil
+; Widzew       ; 1-0; Ruch C
+; Gornik       ; 2-0; Slask 
+
+Date: 3/11/2001
+
+; Zaglebie L   ; 3-1; Legia 
+
+Round: 17
+Date: 3/17/2001
+
+; Stomil       ; 0-3; Polonia 
+; Katowice     ; 2-2; Odra W
+; Wisla        ; 1-1; Groclin 
+; Ruch C       ; 3-2; Gornik
+; Orlen        ; 4-1; Widzew
+; Legia        ; 3-0; Ruch R
+; Amica        ; 1-1; Zaglebie L
+
+Date: 3/18/2001
+
+; Slask        ; 1-0; Pogon 
+
+Round: 18
+Date: 3/30/2001
+
+; Widzew       ; 3-0; Wisla 
+
+Date: 3/31/2001
+
+; Stomil       ; 2-1; Amica
+; Ruch R       ; 2-1; Zaglebie L
+; Odra W       ; 1-1; Slask 
+; Pogon        ; 3-3; Ruch C
+; Groclin      ; 0-1; Legia 
+; Gornik       ; 1-0; Orlen 
+
+Date: 4/1/2001
+
+; Polonia      ; 1-1; Katowice 
+
+Round: 19
+Date: 4/6/2001
+
+; Legia        ; 0-0; Widzew
+
+Date: 4/7/2001
+
+; Katowice     ; 2-0; Stomil 
+; Slask        ; 0-1; Polonia
+; Amica        ; 3-0; Ruch R
+; Zaglebie L   ; 1-3; Groclin 
+; Ruch C       ; 3-0; Odra W
+; Orlen        ; 1-4; Pogon 
+
+Date: 4/8/2001
+
+; Wisla        ; 3-0; Gornik 
+
+Round: 20 
+Date: 4/14/2001
+
+; Katowice     ; 4-1; Amica 
+; Gornik       ; 1-0; Legia 
+; Odra W       ; 4-0; Orlen 
+; Polonia      ; 1-2; Ruch C
+; Groclin      ; 3-0; Ruch R
+; Stomil       ; 1-2; Slask
+; Pogon        ; 0-0; Wisla 
+; Widzew       ; 1-0; Zaglebie L
+
+Round: 21
+Date: 4/20/2001
+
+; Legia        ; 3-2; Pogon 
+
+Date: 4/21/2001
+
+; Zaglebie L   ; 2-2; Gornik
+; Wisla        ; 2-1; Odra W
+; Orlen        ; 0-1; Polonia
+; Ruch C       ; 4-1; Stomil 
+; Ruch R       ; 1-0; Widzew 
+; Slask        ; 0-1; Katowice  
+
+Date: 4/22/2001
+
+; Groclin      ; 1-1; Amica
+
+Round: 22
+Date: 4/27/2001
+
+; Katowice     ; 1-1; Ruch C
+
+Date: 4/28/2001
+
+; Stomil       ; 1-0; Orlen 
+; Odra W       ; 1-5; Legia
+; Widzew       ; 1-2; Groclin 
+; Amica        ; 0-1; Slask 
+; Pogon        ; 1-1; Zaglebie L
+; Gornik       ; 0-1; Ruch R
+
+Date: 4/29/2001
+
+; Polonia      ; 0-2; Wisla
+
+Round: 23 
+Date: 5/2/2001
+
+; Widzew       ; 0-1; Amica
+; Groclin      ; 2-1; Gornik 
+; Zaglebie L   ; 1-0; Odra W
+; Ruch R       ; 1-0; Pogon 
+; Legia        ; 1-0; Polonia 
+; Ruch C       ; 3-1; Slask
+; Wisla        ; 2-0; Stomil
+; Orlen        ; 0-0; Katowice 
+
+Round: 24
+Date: 5/5/2001
+
+; Stomil       ; 2-1; Legia 
+; Pogon        ; 2-0; Groclin 
+; Slask        ; 0-1; Orlen 
+; Amica        ; 2-1; Ruch C
+; Odra W       ; 2-2; Ruch R
+; Polonia      ; 2-0; Zaglebie L
+; Gornik       ; 0-2; Widzew 
+
+Date: 5/6/2001
+
+; Katowice     ; 0-3; Wisla 
+
+Round: 25
+Date: 5/9/2001
+
+; Wisla        ; 2-2; Slask
+; Legia        ; 0-2; Katowice  
+; Groclin      ; 1-1; Odra W
+; Widzew       ; 1-0; Pogon 
+; Ruch R       ; 1-1; Polonia 
+; Orlen        ; 3-4; Ruch C
+; Zaglebie L   ; 2-0; Stomil 
+
+Date: 6/2/2001
+
+; Gornik       ; 1-0; Amica 
+
+Round: 26
+Date: 5/12/2001
+
+; Pogon        ; 2-1; Gornik 
+; Polonia      ; 1-1; Groclin 
+; Slask        ; 1-1; Legia
+; Amica        ; 2-0; Orlen 
+; Odra W       ; 2-2; Widzew 
+; Ruch C       ; 2-1; Wisla
+; Katowice     ; 0-2; Zaglebie L
+
+Date: 5/13/2001
+
+; Stomil       ; 1-0; Ruch R
+
+Round: 27
+Date: 5/18/2001
+
+; Legia        ; 1-0; Ruch C
+
+Date: 5/19/2001
+
+; Pogon        ; 2-1; Amica 
+; Gornik       ; 1-1; Odra W
+; Wisla        ; 1-2; Orlen 
+; Widzew       ; 0-0; Polonia 
+; Zaglebie L   ; 1-3; Slask 
+; Groclin      ; 1-0; Stomil 
+
+Date: 5/20/2001
+
+; Ruch R       ; 0-1; Katowice 
+
+Round: 28 
+Date: 5/23/2001
+
+; Ruch C       ; 1-2; Zaglebie L
+; Polonia      ; 0-2; Gornik 
+; Katowice     ; 1-1; Groclin 
+; Odra W       ; 4-0; Pogon
+; Slask        ; 1-1; Ruch R
+; Stomil       ; 1-0; Widzew 
+; Orlen        ; 1-0; Legia 
+; Amica        ; 2-1; Wisla 
+
+Round: 29 
+Date: 6/9/2001
+
+; Ruch R       ; 2-3; Ruch C
+; Widzew       ; 0-0; Katowice 
+; Legia        ; 1-2; Wisla 
+; Gornik       ; 2-0; Stomil 
+; Zaglebie L   ; 2-1; Orlen 
+; Pogon        ; 3-4; Polonia
+; Odra W       ; 2-1; Amica
+; Groclin      ; 1-2; Slask 
+
+Round: 30 
+Date: 6/13/2001
+
+; Katowice     ; 1-1; Gornik 
+; Stomil       ; 0-1; Pogon 
+; Wisla        ; 3-0; Zaglebie L
+; Amica        ; 3-2; Legia
+; Ruch C       ; 4-3; Groclin
+; Slask        ; 0-0; Widzew 
+; Polonia      ; 1-2; Odra W
+; Orlen        ; 6-3; Ruch R
+
+* 1.Wisla Kraków                 30 19  5  6 66-27 62  Champions
+* 2.Pogon Szczecin               30 16  5  9 43-33 53 
+* 3.Legia Warszawa               30 14  8  8 45-29 50
+* 4.Polonia Warszawa             30 13  7 10 38-30 46  [2 2 0 0 3-0 6]
+* 5.Zaglebie Lubin               30 14  4 12 43-40 46  [2 0 0 2 0-3 0]
+* 6.Ruch Chorzów                 30 13  5 12 50-48 44  [2 1 0 1 4-3 3]
+* 7.Amica Wronki                 30 13  5 12 48-44 44  [2 1 0 1 3-4 3]
+* 8.GKS Katowice                 30  9 15  6 28-22 42 
+* 9.Odra Wodzislaw               30 10  9 11 39-46 39
+*10.Groclin-Dyskobolia Grodzisk  30  9 10 11 35-38 37 
+*11.Slask Wroclaw                30  9  9 12 32-38 36  [2 1 1 0 3-0 4]
+*12.Widzew Lódz                  30  9  9 12 33-40 36  [2 0 1 1 0-3 1]
+*13.Górnik Zabrze                30  9  7 14 29-35 34  [2 1 0 1 2-1 3]
+* - - - - - - - - - - - - - - - - - - - - - - - - - -
+*14.Stomil Olsztyn               30 10  4 16 22-41 34  [2 1 0 1 1-2 3] Relegation Playoff
+*----------------------------------------------------
+*15.Orlen Plock                  30  9  4 17 37-55 31  [2 1 0 1 7-5 3] Relegated [*]
+*16.Ruch Radzionków              30  9  4 17 29-51 31  [2 1 0 1 5-7 3] Relegated  
+*[*] Petrochemia Plock changed name to Orlen Plock before the season
+
+
+*Prepared and maintained by Pawel Mogielnicki and Sorin Arotaritei for the RSSSF
+*Authors: Pawel Mogielnicki and Sorin Arotaritei 
+*Last updated: 27 Jul 2001
+*(C) Copyright Pawel Mogielnicki, Sorin Arotaritei and RSSSF 2000/01
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

@@ -1,0 +1,743 @@
+BlockSource: http://rsssf.com/tablesp/port02.html
+Season: 2001-2002
+Competition: Primeira Liga
+
+* 1.Sporting CP             34 22  9  3 74-25 75  Champions
+* 2.Boavista FC             34 21  7  6 53-20 70
+* 3.FC do Porto             34 21  5  8 66-34 68
+* 4.SL Benfica              34 17 12  5 66-37 63
+* 5.CF "Os Belenenses"      34 17  6 11 54-44 57
+* 6.CS Marítimo             34 17  5 12 48-35 56
+* 7.União de Leiria         34 15 10  9 52-35 55
+* 8.FC Paços de Ferreira    34 12 10 12 41-44 46
+* 9.Vitória SC (Guimarães)  34 11  9 14 35-41 42  [2 1 1 0 2-1 4]
+*10.Sporting de Braga       34 10 12 12 43-43 42  [2 0 1 1 1-2 1]
+*11.SC Beira Mar            34 10  9 15 48-56 39
+*12.Gil Vicente FC          34 10  8 16 42-56 38  [2 1 0 1 4-4 3 2ag]
+*13.Vitória FC (Setúbal)    34  9 11 14 40-46 38  [2 1 0 1 4-4 3 1ag]
+*14.CD Santa Clara          34  9 10 15 32-46 37
+*15.Varzim SC               34  8  8 18 27-55 32
+*-----------------------------------------------
+*16.SC Salgueiros           34  8  6 20 29-71 30  Relegated
+*17.Sporting Farense        34  7  7 20 29-63 28  Relegated
+*18.FC Alverca              34  7  6 21 39-67 27  Relegated
+
+Round: 1
+Date: 8/10/2001
+
+; Boavista      ; 3-0; Beira Mar
+
+Date: 8/11/2001
+
+; Braga         ; 0-0; Leiria
+; Varzim        ; 2-2; Benfica
+
+Date: 8/12/2001
+
+; Salgueiros    ; 0-2; Farense
+; Pacos Ferreira; 3-1; Belenenses
+; Sporting      ; 1-0; Porto
+; Guimaraes     ; 0-2; Gil Vicente
+
+Date: 8/13/2001
+
+; Maritimo      ; 3-1; Setubal
+
+Date: 9/2/2001
+
+; Santa Clara   ; 2-1; Alverca
+
+Round: 2
+Date: 8/18/2001
+
+; Belenenses    ; 3-0; Sporting
+; Gil Vicente   ; 2-1; Braga
+
+Date: 8/19/2001
+
+; Beira Mar     ; 2-0; Maritimo
+; Leiria        ; 2-2; Santa Clara
+; Setubal       ; 2-0; Varzim
+; Alverca       ; 1-0; Pacos Ferreira
+; Benfica       ; 2-0; Salgueiros
+; Porto         ; 4-1; Boavista
+
+Date: 8/20/2001
+
+; Farense       ; 0-1; Guimaraes
+
+Round: 3
+Date: 8/25/2001
+
+; Sporting      ; 0-1; Alverca
+; Benfica       ; 3-2; Setubal
+; Santa Clara   ; 0-0; Gil Vicente
+
+Date: 8/26/2001
+
+; Boavista      ; 2-0; Belenenses
+; Pacos Ferreira; 1-2; Leiria
+; Braga         ; 4-0; Farense
+; Varzim        ; 1-1; Beira Mar
+
+Date: 8/27/2001
+
+; Maritimo      ; 1-3; Porto
+; Salgueiros    ; 1-3; Guimaraes
+
+Round: 4
+Date: 9/7/2001
+
+; Alverca       ; 1-2; Boavista
+
+Date: 9/8/2001
+
+; Leiria        ; 1-1; Sporting
+; Belenenses    ; 0-1; Maritimo
+
+Date: 9/9/2001
+
+; Setubal       ; 3-0; Salgueiros
+; Beira Mar     ; 3-3; Benfica
+; Porto         ; 3-0; Varzim
+; Gil Vicente   ; 1-1; Pacos Ferreira
+; Farense       ; 1-0; Santa Clara
+
+Date: 9/10/2001
+
+; Guimaraes     ; 2-1; Braga
+
+Round: 5
+Date: 9/14/2001
+
+; Varzim        ; 1-5; Belenenses
+
+Date: 9/15/2001
+
+; Boavista      ; 1-0; Leiria 
+; Benfica       ; 0-0; Porto
+
+Date: 9/16/2001
+
+; Pacos Ferreira; 1-1; Farense
+; Santa Clara   ; 2-0; Guimaraes 
+; Maritimo      ; 5-0; Alverca 
+; Setubal       ; 4-1; Beira Mar
+; Sporting      ; 3-1; Gil Vicente
+; Salgueiros    ; 1-0; Braga
+
+Round: 6
+Date: 9/21/2001
+
+; Braga         ; 6-0; Santa Clara
+
+Date: 9/22/2001
+
+; Porto         ; 3-0; Setubal
+; Gil Vicente   ; 0-3; Boavista
+
+Date: 9/23/2001
+
+; Beira Mar     ; 1-1; Salgueiros
+; Belenenses    ; 1-1; Benfica
+; Alverca       ; 4-2; Varzim
+; Leiria        ; 2-0; Maritimo
+; Farense       ; 1-3; Sporting
+; Guimaraes     ; 1-1; Pacos Ferreira
+
+Round: 7
+Date: 9/28/2001
+
+; Setubal       ; 0-1; Belenenses
+
+Date: 9/29/2001
+
+; Pacos Ferreira; 0-0; Braga
+; Beira Mar     ; 2-0; Porto
+
+Date: 9/30/2001
+
+; Varzim        ; 2-0; Leiria
+; Salgueiros    ; 2-1; Santa Clara
+; Benfica       ; 3-2; Alverca
+; Boavista      ; 1-1; Farense
+
+Date: 10/1/2001
+
+; Maritimo      ; 2-1; Gil Vicente
+; Sporting      ; 5-0; Guimaraes
+
+Round: 8
+Date: 10/12/2001
+
+; Guimaraes     ; 2-0; Boavista
+
+Date: 10/13/2001
+
+; Braga         ; 2-1; Sporting
+; Santa Clara   ; 1-1; Pacos Ferreira
+; Leiria        ; 1-1; Benfica
+; Porto         ; 3-0; Salgueiros
+
+Date: 10/14/2001
+
+; Alverca       ; 1-1; Setubal
+; Gil Vicente   ; 1-0; Varzim
+; Farense       ; 2-1; Maritimo
+
+Date: 10/15/2001
+
+; Belenenses    ; 1-5; Beira Mar
+
+Round: 9
+Date: 10/19/2001
+
+; Maritimo      ; 2-0; Guimaraes
+
+Date: 10/20/2001
+
+; Porto         ; 1-2; Belenenses
+; Benfica       ; 2-0; Gil Vicente
+; Boavista      ; 3-0; Braga
+
+Date: 10/21/2001
+
+; Varzim        ; 2-0; Farense
+; Beira Mar     ; 6-2; Alverca
+; Salgueiros    ; 3-2; Pacos Ferreira
+; Setubal       ; 1-1; Leiria
+
+Date: 10/22/2001
+
+; Sporting      ; 0-0; Santa Clara
+
+Round: 10
+Date: 10/7/2001
+
+; Santa Clara   ; 0-2; Boavista
+
+Date: 10/26/2001
+
+; Farense       ; 0-2; Benfica
+
+Date: 10/27/2001
+
+; Guimaraes     ; 4-0; Varzim 
+; Braga         ; 1-0; Maritimo 
+; Pacos Ferreira; 0-6; Sporting 
+
+Date: 10/28/2001
+
+; Alverca       ; 0-1; Porto
+; Leiria        ; 4-1; Beira Mar 
+; Gil Vicente   ; 2-1; Setubal 
+
+Date: 10/29/2001
+
+; Belenenses    ; 1-0; Salgueiros
+
+Round: 11
+Date: 11/2/2001
+
+; Varzim        ; 0-0; Braga
+
+Date: 11/3/2001
+
+; Setubal       ; 2-0; Farense
+; Benfica       ; 0-0; Guimaraes
+
+Date: 11/4/2001
+
+; Belenenses    ; 1-1; Alverca
+; Beira Mar     ; 2-2; Gil Vicente
+; Maritimo      ; 1-0; Santa Clara
+; Porto         ; 2-1; Leiria
+
+Date: 11/5/2001
+
+; Salgueiros    ; 1-5; Sporting
+
+Date: 11/6/2001
+
+; Boavista      ; 5-0; Pacos Ferreira
+
+Round: 12
+Date: 11/23/2001
+
+; Guimaraes     ; 0-0; Setubal
+
+Date: 11/24/2001
+
+; Alverca       ; 1-2; Salgueiros
+; Braga         ; 0-1; Benfica
+
+Date: 11/25/2001
+
+; Leiria        ; 3-0; Belenenses
+; Farense       ; 1-0; Beira Mar
+; Pacos Ferreira; 2-1; Maritimo
+; Gil Vicente   ; 2-5; Porto
+; Santa Clara   ; 1-0; Varzim
+
+Date: 11/26/2001
+
+; Sporting      ; 2-0; Boavista
+
+Round: 13
+Date: 11/30/2001
+
+; Porto         ; 2-0; Farense
+
+Date: 12/1/2001
+
+; Maritimo      ; 0-2; Sporting
+; Salgueiros    ; 1-1; Boavista
+
+Date: 12/2/2001
+
+; Belenenses    ; 1-0; Gil Vicente
+; Varzim        ; 0-3; Pacos Ferreira
+; Beira Mar     ; 0-0; Guimaraes
+; Alverca       ; 1-1; Leiria
+; Benfica       ; 2-1; Santa Clara
+
+Date: 12/3/2001
+
+; Setubal       ; 0-0; Braga
+
+Round: 14
+Date: 12/7/2001
+
+; Farense       ; 2-2; Belenenses
+
+Date: 12/8/2001
+
+; Braga         ; 3-2; Beira Mar
+; Guimaraes     ; 2-0; Porto
+; Pacos Ferreira; 2-1; Benfica
+
+Date: 12/9/2001
+
+; Leiria        ; 7-0; Salgueiros
+*Gil Vicente    ann Alverca         
+*[originally 3-2 but annulled because Lemos, Gil Vicente's captain was shown a 2nd yellow card but not the red one]
+
+; Santa Clara   ; 1-0; Setubal          
+; Sporting      ; 4-0; Varzim
+; Boavista      ; 0-1; Maritimo
+
+Date: 4/3/2002
+
+; Gil Vicente   ; 2-2; Alverca         
+*[replay]
+
+Round: 15 
+Date: 12/15/2001
+
+; Leiria        ; 2-1; Gil Vicente
+; Belenenses    ; 2-1; Guimaraes
+; Salgueiros    ; 2-1; Maritimo
+; Beira Mar     ; 0-1; Santa Clara
+; Alverca       ; 1-0; Farense
+; Setubal       ; 1-3; Pacos Ferreira
+; Porto         ; 0-0; Braga
+; Varzim        ; 0-2; Boavista
+; Benfica       ; 2-2; Sporting
+
+Round: 16
+Date: 12/22/2001
+
+; Farense       ; 0-1; Leiria
+; Salgueiros    ; 3-0; Gil Vicente
+; Pacos Ferreira; 0-0; Beira Mar
+; Maritimo      ; 1-1; Varzim
+; Braga         ; 2-3; Belenenses
+; Santa Clara   ; 2-1; Porto
+; Guimaraes     ; 2-0; Alverca
+; Sporting      ; 1-0; Setubal
+
+Date: 12/23/2001
+
+; Boavista      ; 1-0; Benfica
+
+Round: 17 
+Date: 1/4/2002
+
+; Alverca       ; 0-3; Braga
+
+Date: 1/5/2002
+
+; Leiria        ; 2-1; Guimaraes
+; Beira Mar     ; 1-2; Sporting
+; Benfica       ; 1-1; Maritimo
+
+Date: 1/6/2002
+
+; Gil Vicente   ; 3-1; Farense
+; Belenenses    ; 1-1; Santa Clara
+; Porto         ; 1-0; Pacos Ferreira
+; Varzim        ; 0-0; Salgueiros
+
+Date: 1/7/2002
+
+; Setubal       ; 1-1; Boavista
+
+Round: 18
+Date: 1/11/2002
+
+; Gil Vicente   ; 2-1; Guimaraes
+
+Date: 1/12/2002
+
+; Farense       ; 2-1; Salgueiros
+; Benfica       ; 3-2; Varzim
+; Porto         ; 2-2; Sporting
+
+Date: 1/13/2002
+
+; Alverca       ; 3-1; Santa Clara
+; Belenenses    ; 1-2; Pacos Ferreira
+; Leiria        ; 3-1; Braga
+; Setubal       ; 0-1; Maritimo
+
+Date: 1/14/2002
+
+; Beira Mar     ; 0-3; Boavista
+
+Round: 19
+Date: 1/18/2002
+
+; Guimaraes     ; 3-1; Farense
+
+Date: 1/19/2002
+
+; Salgueiros    ; 1-4; Benfica
+
+Date: 1/20/2002
+
+; Varzim        ; 2-1; Setubal
+; Maritimo      ; 3-1; Beira Mar
+; Pacos Ferreira; 2-2; Alverca
+; Santa Clara   ; 1-1; Leiria
+; Boavista      ; 2-0; Porto
+; Sporting      ; 2-0; Belenenses
+
+Date: 1/21/2002
+
+; Braga         ; 1-0; Gil Vicente
+
+Round: 20
+Date: 1/26/2002
+
+; Guimaraes     ; 3-0; Salgueiros
+; Porto         ; 2-1; Maritimo
+; Alverca       ; 1-3; Sporting
+
+Date: 1/27/2002
+
+; Leiria        ; 2-1; Pacos Ferreira
+; Beira Mar     ; 4-0; Varzim
+; Gil Vicente   ; 1-3; Santa Clara
+; Farense       ; 2-2; Braga
+; Belenenses    ; 0-2; Boavista
+; Setubal       ; 1-1; Benfica
+
+Round: 21
+Date: 2/1/2002
+
+; Boavista      ; 2-0; Alverca
+
+Date: 2/2/2002
+
+; Sporting      ; 4-1; Leiria
+; Braga         ; 0-0; Guimaraes
+
+Date: 2/3/2002
+
+; Salgueiros    ; 0-2; Setubal
+; Maritimo      ; 0-2; Belenenses
+; Pacos Ferreira; 2-0; Gil Vicente
+; Santa Clara   ; 2-0; Farense
+; Varzim        ; 0-1; Porto
+; Benfica       ; 4-1; Beira Mar
+
+Round: 22
+Date: 2/8/2002
+
+; Guimaraes     ; 1-0; Santa Clara
+
+Date: 2/9/2002
+
+; Alverca       ; 0-2; Maritimo
+; Belenenses    ; 3-2; Varzim
+; Beira Mar     ; 1-0; Setubal
+; Braga         ; 0-0; Salgueiros
+; Leiria        ; 0-1; Boavista
+
+Date: 2/10/2002
+
+; Farense       ; 1-1; Pacos Ferreira
+; Porto         ; 3-2; Benfica
+; Gil Vicente   ; 1-1; Sporting
+
+Round: 23
+Date: 2/16/2002
+
+; Boavista      ; 0-0; Gil Vicente
+; Setubal       ; 1-4; Porto
+
+Date: 2/17/2002
+
+; Varzim        ; 1-0; Alverca
+; Salgueiros    ; 1-1; Beira Mar
+; Pacos Ferreira; 0-0; Guimaraes
+; Santa Clara   ; 1-0; Braga
+; Sporting      ; 1-0; Farense
+; Benfica       ; 2-1; Belenenses
+
+Date: 2/18/2002
+
+; Maritimo      ; 3-0; Leiria
+
+Round: 24
+Date: 2/22/2002
+
+; Guimaraes     ; 0-1; Sporting
+
+Date: 2/23/2002
+
+; Farense       ; 1-2; Boavista
+; Porto         ; 2-3; Beira Mar
+
+Date: 2/24/2002
+
+; Leiria        ; 0-1; Varzim
+; Gil Vicente   ; 1-1; Maritimo
+; Santa Clara   ; 1-1; Salgueiros
+; Alverca       ; 1-3; Benfica
+
+Date: 2/25/2002
+
+; Belenenses    ; 1-1; Setubal
+; Braga         ; 1-0; Pacos Ferreira
+
+Round: 25
+Date: 3/2/2002
+
+; Benfica       ; 0-2; Leiria
+; Sporting      ; 2-2; Braga
+
+Date: 3/3/2002
+
+; Varzim        ; 2-0; Gil Vicente
+; Setubal       ; 2-1; Alverca
+; Maritimo      ; 1-0; Farense
+; Pacos Ferreira; 2-1; Santa Clara
+; Boavista      ; 0-0; Guimaraes
+; Salgueiros    ; 0-3; Porto
+
+Date: 3/4/2002
+
+; Beira Mar     ; 0-3; Belenenses
+
+Round: 26
+Date: 3/8/2002
+
+; Belenenses    ; 3-0; Porto
+
+Date: 3/9/2002
+
+; Braga         ; 0-2; Boavista
+; Gil Vicente   ; 0-2; Benfica
+
+Date: 3/10/2002
+
+; Alverca       ; 2-0; Beira Mar
+; Leiria        ; 0-0; Setubal
+; Farense       ; 1-1; Varzim
+; Pacos Ferreira; 6-0; Salgueiros
+; Santa Clara   ; 0-3; Sporting
+
+Date: 3/11/2002
+
+; Guimaraes     ; 1-3; Maritimo
+
+Round: 27
+Date: 3/14/2002
+
+; Salgueiros    ; 1-2; Belenenses
+
+Date: 3/16/2002
+
+; Sporting      ; 3-0; Pacos Ferreira
+; Varzim        ; 0-0; Guimaraes
+; Beira Mar     ; 2-1; Leiria
+; Setubal       ; 3-2; Gil Vicente
+; Maritimo      ; 4-1; Braga
+; Boavista      ; 2-0; Santa Clara
+; Porto         ; 0-0; Alverca
+
+Date: 3/18/2002
+
+; Benfica       ; 5-0; Farense
+
+Round: 28
+Date: 3/23/2002
+
+; Gil Vicente   ; 2-1; Beira Mar
+; Guimaraes     ; 1-4; Benfica
+; Sporting      ; 2-0; Salgueiros
+
+Date: 3/24/2002
+
+; Farense       ; 2-2; Setubal
+; Braga         ; 2-0; Varzim
+; Santa Clara   ; 0-0; Maritimo
+; Leiria        ; 1-1; Porto
+; Pacos Ferreira; 0-1; Boavista
+
+Date: 3/25/2002
+
+; Alverca       ; 0-1; Belenenses
+
+Round: 29
+Date: 3/30/2002
+
+; Salgueiros    ; 2-1; Alverca
+; Beira Mar     ; 2-1; Farense
+; Setubal       ; 1-0; Guimaraes
+; Varzim        ; 1-0; Santa Clara
+; Maritimo      ; 0-1; Pacos Ferreira
+; Porto         ; 2-1; Gil Vicente
+; Benfica       ; 1-1; Braga
+; Boavista      ; 0-0; Sporting
+
+Date: 4/1/2002
+
+; Belenenses    ; 1-0; Leiria
+
+Round: 30
+Date: 4/5/2002
+
+; Boavista      ; 2-1; Salgueiros
+
+Date: 4/6/2002
+
+; Santa Clara   ; 0-0; Benfica
+; Farense       ; 0-3; Porto
+
+Date: 4/7/2002
+
+; Leiria        ; 2-1; Alverca
+; Gil Vicente   ; 3-2; Belenenses
+; Guimaraes     ; 0-0; Beira Mar
+; Pacos Ferreira; 0-0; Varzim
+; Sporting      ; 4-0; Maritimo
+
+Date: 4/8/2002
+
+; Braga         ; 1-1; Setubal
+
+Round: 31
+Date: 4/12/2002
+
+; Maritimo      ; 0-0; Boavista
+
+Date: 4/13/2002
+
+; Porto         ; 3-0; Guimaraes
+; Varzim        ; 1-3; Sporting
+
+Date: 4/14/2002
+
+; Belenenses    ; 4-0; Farense
+; Salgueiros    ; 0-1; Leiria
+; Alverca       ; 1-4; Gil Vicente
+; Beira Mar     ; 4-2; Braga
+; Setubal       ; 3-2; Santa Clara
+; Benfica       ; 4-0; Pacos Ferreira
+
+Round: 32
+Date: 4/19/2002
+
+; Guimaraes     ; 2-1; Belenenses
+
+Date: 4/20/2002
+
+; Boavista      ; 1-2; Varzim
+; Braga         ; 0-4; Porto
+
+Date: 4/21/2002
+
+; Gil Vicente   ; 0-0; Leiria
+; Farense       ; 2-1; Alverca
+; Santa Clara   ; 0-0; Beira Mar
+; Pacos Ferreira; 1-0; Setubal
+; Sporting      ; 1-1; Benfica
+
+Date: 4/22/2002
+
+; Maritimo      ; 4-0; Salgueiros
+
+Round: 33
+Date: 4/26/2002
+
+; Belenenses    ; 1-1; Braga
+
+Date: 4/27/2002
+
+; Porto         ; 5-3; Santa Clara
+; Setubal       ; 2-2; Sporting
+
+Date: 4/28/2002
+
+; Gil Vicente   ; 3-2; Salgueiros
+; Leiria        ; 4-1; Farense
+; Beira Mar     ; 0-2; Pacos Ferreira
+; Benfica       ; 2-1; Boavista
+; Varzim        ; 0-1; Maritimo
+
+Date: 4/29/2002
+
+; Alverca       ; 3-2; Guimaraes
+
+Round: 34 
+Date: 5/5/2002
+
+; Farense       ; 3-2; Gil Vicente
+; Guimaraes     ; 2-4; Leiria
+; Braga         ; 5-3; Alverca
+; Santa Clara   ; 2-3; Belenenses
+; Pacos Ferreira; 1-2; Porto
+; Sporting      ; 2-1; Beira Mar
+; Boavista      ; 4-1; Setubal
+; Maritimo      ; 3-2; Benfica
+; Salgueiros    ; 2-1; Varzim
+
+* 1.Sporting CP             34 22  9  3 74-25 75  Champions
+* 2.Boavista FC             34 21  7  6 53-20 70
+* 3.FC do Porto             34 21  5  8 66-34 68
+* 4.SL Benfica              34 17 12  5 66-37 63
+* 5.CF "Os Belenenses"      34 17  6 11 54-44 57
+* 6.CS Marítimo             34 17  5 12 48-35 56
+* 7.União de Leiria         34 15 10  9 52-35 55
+* 8.FC Paços de Ferreira    34 12 10 12 41-44 46
+* 9.Vitória SC (Guimarães)  34 11  9 14 35-41 42  [2 1 1 0 2-1 4]
+*10.Sporting de Braga       34 10 12 12 43-43 42  [2 0 1 1 1-2 1]
+*11.SC Beira Mar            34 10  9 15 48-56 39
+*12.Gil Vicente FC          34 10  8 16 42-56 38  [2 1 0 1 4-4 3 2ag]
+*13.Vitória FC (Setúbal)    34  9 11 14 40-46 38  [2 1 0 1 4-4 3 1ag]
+*14.CD Santa Clara          34  9 10 15 32-46 37
+*15.Varzim SC               34  8  8 18 27-55 32
+*-----------------------------------------------
+*16.SC Salgueiros           34  8  6 20 29-71 30  Relegated
+*17.Sporting Farense        34  7  7 20 29-63 28  Relegated
+*18.FC Alverca              34  7  6 21 39-67 27  Relegated
+
+
+
+*Prepared and maintained by Alcino Pascoal, José Batalha, Dalencia Garcia and Jan Schoenmakers for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Alcino Pascoal (amrp@uninova.pt), José Batalha, (jose.batalha@netvisao.pt), Dalencia Garcia (ddgarcia@terra.com.br) and Jan Schoenmakers (Jan.Schoenmakers@atosorigin.com) 
+*Last updated: 12 Sep 2002
+*(C) Copyright Alcino Pascoal, José Batalha, Dalencia Garcia, Jan Schoenmakers and RSSSF 2001/02
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

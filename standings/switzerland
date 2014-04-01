@@ -1,0 +1,492 @@
+Competition: Swiss Super League
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablesz/zwit2013.html
+
+ 1; FC Basel               ; 36;  21;  9;  6;  61; 31;  72;  Champions
+ 2; Grasshopper-Club Zürich; 36;  20;  9;  7;  48; 32;  69;
+ 3; FC Sankt Gallen        ; 36;  17;  8; 11;  54; 36;  59;
+ 4; FC Zürich              ; 36;  16;  7; 13;  62; 48;  55;
+ 5; FC Thun                ; 36;  13;  9; 14;  44; 46;  48;
+ 6; FC Sion                ; 36;  13;  9; 14;  40; 54;  48;
+ 7; BSC Young Boys Bern    ; 36;  11; 10; 15;  48; 50;  43;
+ 8; FC Luzern              ; 36;  10; 12; 14;  41; 52;  42;
+ 9; FC Lausanne-Sport      ; 36;   8;  9; 19;  32; 51;  33;
+
+10; Servette FC (Genève)   ; 36;   6;  8; 22;  32; 62;  26;  Relegated
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablesz/zwit2012.html
+
+ 1; FC Basel               ; 34;  22;  8;  4;  78; 33;  74;  Champions
+ 2; FC Luzern              ; 34;  14; 12;  8;  46; 32;  54;
+ 3; BSC Young Boys Bern    ; 34;  13; 12;  9;  52; 38;  51;
+ 4; Servette FC (Genève)   ; 34;  14;  6; 14;  45; 53;  48;
+ 5; FC Thun                ; 34;  11; 10; 13;  38; 41;  43;
+ 6; FC Zürich              ; 34;  11;  8; 15;  43; 44;  41;
+ 7; FC Lausanne-Sport      ; 34;   8;  6; 20;  29; 61;  30;
+ 8; Grasshopper-Club Zürich; 34;   7;  5; 22;  32; 66;  26;
+
+ 9; FC Sion                ; 34;  15;  8; 11;  40; 35;  17;  [-36]  Relegation Playoff
+
+ -; Neuchâtel Xamax        ; 18;   7;  5;  6;  22; 22;  26;  Withdrew
+
+*NB: Neuchâtel Xamax withdrew at halfway stage
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablesz/zwit2011.html
+
+
+ 1; FC Basel               ; 36; 21; 10;  5;  76; 44 ; 73;  Champions
+ 2; FC Zürich              ; 36; 21;  9;  6;  74; 44 ; 72;
+ 3; BSC Young Boys Bern    ; 36; 15; 12;  9;  65; 50 ; 57;
+ 4; FC Sion                ; 36; 15;  9; 12;  47; 36 ; 54;
+ 5; FC Thun                ; 36; 11; 16;  9;  48; 43 ; 49;
+ 6; FC Luzern              ; 36; 13;  9; 14;  62; 57 ; 48;
+ 7; Grasshopper-Club Zürich; 36; 10; 11; 15;  45; 54 ; 41;
+ 8; Neuchâtel Xamax        ; 36;  8;  8; 20;  44; 67 ; 32;
+
+ 9; AC Bellinzona          ; 36;  7; 11; 18;  42; 75 ; 32;  Relegation Playoff
+
+10; FC Sankt Gallen        ; 36;  8;  7; 21;  34; 67 ; 31;  Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablesz/zwit2010.html
+
+ 1; FC Basel               ; 36; 25;  5;  6;  90; 46 ; 80;  Champions
+ 2; BSC Young Boys Bern    ; 36; 25;  2;  9;  78; 47 ; 77;
+ 3; Grasshopper-Club Zürich; 36; 21;  2; 13;  65; 43 ; 65;
+ 4; FC Luzern              ; 36; 17;  7; 12;  66; 55 ; 58;
+ 5; FC Sion                ; 36; 14;  9; 13;  63; 57 ; 51;
+ 6; FC Sankt Gallen        ; 36; 13;  7; 16;  53; 56 ; 46;
+ 7; FC Zürich              ; 36; 12;  9; 15;  55; 58 ; 45;
+ 8; Neuchâtel Xamax        ; 36; 11;  8; 17;  55; 57 ; 41;
+
+ 9; AC Bellinzona          ; 36;  7;  4; 25;  42; 92 ; 25;  Relegation Playoff
+
+10; FC Aarau               ; 36;  6;  5; 25;  32; 88 ; 23;  Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablesz/zwit09.html
+
+ 1; FC Zürich              ; 36; 24;  7;  5;  80; 36 ; 79;  Champions
+ 2; BSC Young Boys Bern    ; 36; 22;  7;  7;  85; 46 ; 73;
+ 3; FC Basel               ; 36; 22;  6;  8;  72; 44 ; 72;
+ 4; Grasshopper-Club Zürich; 36; 12; 14; 10;  57; 48 ; 50;
+ 5; FC Aarau               ; 36; 11; 11; 14;  35; 51 ; 44;
+ 6; AC Bellinzona          ; 36; 11; 10; 15;  44; 51 ; 43;
+ 7; Neuchâtel Xamax        ; 36; 10; 10; 16;  50; 57 ; 40;
+ 8; FC Sion                ; 36;  9; 10; 17;  44; 60 ; 37;
+
+ 9; FC Luzern              ; 36;  9;  8; 19;  45; 62 ; 35;  Relegation Playoff
+
+10; FC Vaduz               ; 36;  5;  7; 24;  28; 85 ; 22;  Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesz/zwit08.html
+
+ 1; FC Basel               ; 36; 22;  8;  6;  73; 39 ; 74;  Champions
+ 2; BSC Young Boys Bern    ; 36; 21;  7;  8;  82; 49 ; 70;
+ 3; FC Zürich              ; 36; 15; 11; 10;  58; 43 ; 56;
+ 4; Grasshopper-Club Zürich; 36; 15;  9; 12;  57; 49 ; 54;
+ 5; FC Aarau               ; 36; 11; 14; 11;  47; 48 ; 47;
+ 6; FC Luzern              ; 36; 10; 14; 12;  40; 49 ; 44;
+ 7; FC Sion                ; 36; 11; 10; 15;  48; 51 ; 43;
+ 8; Neuchâtel Xamax        ; 36; 10; 11; 15;  48; 55 ; 41;
+
+ 9; FC Sankt Gallen        ; 36;  9;  7; 20;  39; 69 ; 34;  Relegation Playoff
+
+10; FC Thun                ; 36;  6;  9; 21;  30; 70 ; 27;  Relegated
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesz/zwit07.html
+
+ 1; FC Zürich              ; 36; 23;  6;  7;  67; 32 ; 75;  Champions
+ 2; FC Basel               ; 36; 22;  8;  6;  77; 40 ; 74;  UEFA Cup (Cup)
+ 3; FC Sion                ; 36; 17;  9; 10;  57; 42 ; 60;  UEFA Cup
+ 4; BSC Young Boys Bern    ; 36; 17;  8; 11;  52; 42 ; 59;  UEFA Cup
+ 5; FC Sankt Gallen        ; 36; 14; 13;  9;  47; 44 ; 55;
+ 6; Grasshopper-Club Zürich; 36; 13; 11; 12;  54; 41 ; 50;
+ 7; FC Thun                ; 36; 10;  7; 19;  30; 58 ; 37;
+ 8; FC Luzern              ; 36;  8;  9; 19;  31; 58 ; 33;
+
+ 9; FC Aarau               ; 36;  6;  8; 22;  28; 55 ; 26;  Relegation Playoff
+
+10; FC Schaffhausen        ; 36;  4; 13; 19;  27; 58 ; 25;  Relegated
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesz/zwit06.html
+
+ 1; FC Zürich              ; 36; 23;  9;  4;  86; 36 ; 78;  Champions
+ 2; FC Basel               ; 36; 23;  9;  4;  87; 42 ; 78;
+ 3; BSC Young Boys Bern    ; 36; 17; 11;  8;  60; 46 ; 62;
+ 4; Grasshopper-Club Zürich; 36; 14; 13;  9;  44; 33 ; 55;
+ 5; FC Thun                ; 36; 14;  7; 15;  50; 53 ; 49;
+ 6; FC Sankt Gallen        ; 36; 11;  7; 18;  51; 56 ; 40;
+ 7; FC Aarau               ; 36;  8; 11; 17;  29; 63 ; 35;
+ 8; FC Schaffhausen        ; 36;  7; 12; 17;  32; 55 ; 33;
+
+ 9; Neuchâtel Xamax        ; 36;  9;  6; 21;  41; 70 ; 33;  Relegation Playoff
+
+10; Yverdon-Sport FC       ; 36;  9;  5; 22;  38; 64 ; 32;  Relegated
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesz/zwit05.html
+
+ 1; FC Basel               ; 34; 21;  7;  6;  81; 45 ; 70;  Champions
+ 2; FC Thun                ; 34; 18;  6; 10;  69; 42 ; 60;
+ 3; Grasshopper-Club Zürich; 34; 12; 14;  8;  51; 50 ; 50;
+ 4; BSC Young Boys Bern    ; 34; 12; 13;  9;  60; 52 ; 49;
+ 5; FC Zürich              ; 34; 13;  9; 12;  55; 57 ; 48;
+ 6; Neuchâtel Xamax        ; 34; 10;  8; 16;  36; 48 ; 38;
+ 7; FC Sankt Gallen        ; 34;  8; 12; 14;  51; 60 ; 36;
+ 8; FC Aarau               ; 34;  7; 11; 16;  42; 64 ; 32;
+
+ 9; FC Schaffhausen        ; 34;  7; 11; 16;  36; 59 ; 32;  Relegation Playoff
+
+ -; Servette FC Genéve     ; 18;  6;  5;  7;  24; 28 ; 20;  [-3]
+
+*NB: Servette had 3 points deducted due to financial irregularities;
+*    they went bankrupt during the winter break and will not play in
+*    the second half of the season; they presumably will make a 
+*    restart at the 3rd level (1. Liga) in 2005/06
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesz/zwit04.html
+
+ 1; FC Basel               ; 36; 26;  7;  3;  86; 32 ; 85;  Champions
+ 2; BSC Young Boys Bern    ; 36; 22;  6;  8;  75; 48 ; 72;
+ 3; Servette FC Genéve     ; 36; 15;  7; 14;  61; 62 ; 52;
+ 4; FC Zürich              ; 36; 14;  8; 14;  58; 52 ; 50;
+ 5; FC Sankt Gallen        ; 36; 14;  8; 14;  54; 57 ; 50;
+ 6; FC Thun                ; 36; 13; 10; 13;  51; 57 ; 49;
+ 7; Grasshopper-Club Zürich; 36; 12;  5; 19;  62; 74 ; 41;
+ 8; FC Aarau               ; 36;  9; 11; 16;  57; 69 ; 38;
+
+ 9; Neuchâtel Xamax        ; 36; 10;  6; 20;  46; 63 ; 36;  Relegation Playoff
+
+10; FC Wil 1900            ; 36;  7;  8; 21;  37; 73 ; 29;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesz/zwit03.html
+
+Stage: Fall
+
+ 1; Grasshopper-Club   ; 22; 15;  4;  3;  58; 26;  49;
+ 2; FC Basel           ; 22; 14;  5;  3;  57; 25;  47;
+ 3; FC Thun            ; 22;  9;  4;  9;  33; 33;  31;
+ 4; FC Wil 1900        ; 22;  8;  7;  7;  43; 45;  31;
+ 5; FC Zürich          ; 22;  9;  4;  9;  35; 37;  31;
+ 6; Neuchâtel Xamax    ; 22;  8;  7;  7;  30; 33;  31;
+ 7; BSC Young Boys     ; 22;  8;  6;  8;  41; 41;  30;
+ 8; Servette FC        ; 22;  8;  5;  9;  45; 37;  29;
+
+ 9; FC Luzern          ; 22;  7;  5; 10;  31; 38;  24;  [-2]
+10; FC Sankt Gallen    ; 22;  6;  6; 10;  31; 48;  24;
+11; SR Delémont        ; 22;  6;  2; 14;  24; 44;  20;
+12; FC Aarau           ; 22;  5;  3; 14;  19; 40;  18;
+
+*NB: FC Luzern 2 points deducted for irregularities in license application
+*    (the original punishment of 4 points was apparently reduced)
+
+
+Stage: Spring
+
+
+ 1; Grasshopper-Club   ; 14;  9;  5;  0;  37; 15;  57;  [25 (1)]  Champions 
+ 2; FC Basel           ; 14; 10;  2;  2;  38; 17;  56;  [24 (2)]
+ 3; Neuchâtel Xamax    ; 14;  5;  4;  5;  18; 17;  35;  [16 (6)]
+ 4; BSC Young Boys     ; 14;  6;  1;  7;  21; 29;  34;  [15 (7)]
+ 5; FC Zürich          ; 14;  4;  3;  7;  20; 23;  31;  [16 (5)]
+ 6; Servette FC        ; 14;  4;  4;  6;  16; 26;  31;  [15 (8)]
+ 7; FC Thun            ; 14;  3;  3;  8;  18; 30;  28;  [16 (3)]
+ 8; FC Wil 1900        ; 14;  2;  4;  8;  19; 30;  26;  [16 (4)]
+
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesz/zwit02.html
+
+Stage: Fall
+
+ 1; FC Basel         ; 22; 13;  4;  5;  52; 37;  43;
+ 2; FC Lugano        ; 22; 11;  5;  6;  39; 33;  38;
+ 3; Grasshopper-Club ; 22; 11;  4;  7;  50; 33;  37;
+ 4; FC Sankt Gallen  ; 22;  9;  8;  5;  38; 32;  35;
+ 5; Servette FC      ; 22;  9;  7;  6;  36; 29;  34;
+ 6; FC Sion          ; 22; 10;  3;  9;  40; 29;  33;  [*]
+ 7; BSC Young Boys   ; 22;  8;  7;  7;  35; 28;  31;
+ 8; FC Zürich        ; 22;  7;  9;  6;  24; 27;  30;
+
+ 9; FC Aarau         ; 22;  7;  6;  9;  28; 25;  27;  Relegation Playoff
+10; Neuchâtel Xamax  ; 22;  6;  7;  9;  28; 36;  25;  Relegation Playoff
+11; Lausanne-Sports  ; 22;  4;  4; 14;  24; 49;  16;  Relegation Playoff
+12; FC Luzern        ; 22;  3;  4; 15;  23; 59;  13;  Relegation Playoff
+
+*[*] Sion had 7 points deducted for not having fulfilled conditions imposed
+*    when obtaining license; this deduction was later revoked
+
+
+Stage: Spring
+
+ 1; FC Basel         ; 14; 11;  0;  3;  36; 16;  55;  [22] (1)  Champions
+ 2; Grasshopper-Club ; 14;  7;  5;  2;  28; 17;  45;  [19] (3)
+ 3; FC Lugano        ; 14;  7;  2;  5;  23; 19;  42;  [19] (2)  [*]
+ 4; Servette FC      ; 14;  6;  3;  5;  25; 23;  38;  [17] (5)
+ 5; FC Zürich        ; 14;  6;  2;  6;  14; 17;  35;  [15] (8)
+ 6; FC Sankt Gallen  ; 14;  4;  4;  6;  18; 20;  34;  [18] (4)
+ 7; BSC Young Boys   ; 14;  4;  3;  7;  18; 25;  31;  [16] (7)
+ 8; FC Sion          ; 14;  1;  1; 12;  10; 35;  21;  [17] (6)  [*]
+
+*[*] Sion and Lugano failed to obtain a 1st level license for 2002/03
+*    and are relegated to the Nationalliga B
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesz/zwit01.html
+
+Stage: Fall
+* Fall Season (Grunddurchgang)
+
+ 1; FC Lugano        ; 22; 12;  6;  4;  33; 16;  42;
+ 2; FC Sankt Gallen  ; 22; 11;  7;  4;  43; 18;  40;
+ 3; Grasshopper-Club ; 22; 11;  3;  8;  46; 25;  36;
+ 4; Lausanne-Sports  ; 22; 11;  2;  9;  37; 34;  35;
+ 5; FC Basel         ; 22; 10;  4;  8;  42; 36;  34;
+ 6; Servette FC      ; 22;  9;  6;  7;  34; 26;  33;
+ 7; FC Sion          ; 22;  9;  5;  8;  27; 31;  32;
+ 8; FC Zürich        ; 22;  8;  7;  7;  36; 29;  31;
+
+ 9; FC Aarau         ; 22;  6;  6; 10;  31; 43;  24;  Promotion/Relegation Playoff
+10; FC Yverdon-Sports; 22;  5;  6; 11;  27; 43;  21;  Promotion/Relegation Playoff
+11; Neuchâtel Xamax  ; 22;  6;  2; 14;  21; 53;  20;  Promotion/Relegation Playoff
+12; FC Luzern        ; 22;  5;  4; 13;  27; 50;  19;  Promotion/Relegation Playoff
+
+
+Stage: Championship Playoff
+
+ 1; Grasshopper-Club ; 14;  8;  4;  2;  29; 14;  46;  [18 (3)]  Champions
+ 2; FC Lugano        ; 14;  5;  5;  4;  24; 19;  41;  [21 (1)]
+ 3; FC Sankt Gallen  ; 14;  6;  2;  6;  23; 28;  40;  [20 (2)]
+ 4; FC Basel         ; 14;  4;  8;  2;  18; 16;  37;  [17 (5)]
+ 5; Servette FC      ; 14;  5;  5;  4;  26; 19;  37;  [17 (6)]
+ 6; Lausanne-Sports  ; 14;  4;  3;  7;  15; 27;  33;  [18 (4)]
+ 7; FC Sion          ; 14;  4;  4;  6;  16; 22;  32;  [16 (7)]
+ 8; FC Zürich        ; 14;  3;  3;  8;  12; 18;  28;  [16 (8)]
+
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesz/zwit00.html
+
+Stage: Fall
+*Fall Season (Grunddurchgang)
+
+ 1; FC Sankt Gallen  ; 22; 13;  6;  3;  42; 25;  45;
+ 2; FC Basel         ; 22;  9; 10;  3;  31; 21;  37;
+ 3; Lausanne-Sports  ; 22;  9;  9;  4;  35; 25;  36;
+ 4; Grasshopper-Club ; 22;  9;  7;  6;  40; 25;  34;
+ 5; FC Yverdon-Sports; 22;  7;  9;  6;  28; 25;  30;
+ 6; Neuchâtel Xamax  ; 22;  7;  7;  8;  34; 33;  28;
+ 7; FC Luzern        ; 22;  8;  4; 10;  28; 29;  28;
+ 8; Servette FC      ; 22;  8;  4; 10;  32; 36;  28;
+
+ 9; FC Zürich        ; 22;  6;  8;  8;  21; 29;  26;
+10; FC Aarau         ; 22;  7;  5; 10;  30; 42;  26;
+11; FC Lugano        ; 22;  5;  6; 11;  27; 34;  21;
+12; SR Delémont      ; 22;  4;  5; 13;  24; 48;  17;
+
+
+*Championship Playoff (Spring)
+Stage: Championship Playoff
+
+
+ 1; FC Sankt Gallen  ; 14;  9;  4;  1;  33; 14;  54;  (23)  Champions
+ 2; Lausanne-Sports  ; 14;  8;  2;  4;  22; 13;  44;  (18)  UEFA Cup
+ 3; FC Basel         ; 14;  5;  6;  3;  16; 16;  40;  (19)  UEFA Cup
+ 4; Grasshopper-Club ; 14;  5;  5;  4;  30; 26;  37;  (17) 
+ 5; FC Luzern        ; 14;  5;  2;  7;  17; 30;  31;  (14) [7]
+ 6; Servette FC      ; 14;  4;  5;  5;  25; 21;  31;  (14) [8]
+ 7; Neuchâtel Xamax  ; 14;  4;  3;  7;  25; 29;  29;  (14) [6]
+ 8; FC Yverdon-Sports; 14;  2;  1; 11;  16; 35;  22;  (15)
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesz/zwit99.html
+
+Stage: Fall
+*Fall Season
+
+ 1; Servette FC      ; 22; 12;  8;  2;  38; 24;  44;
+ 2; Grasshopper-Club ; 22; 11;  5;  6;  37; 25;  38;
+ 3; FC Zürich        ; 22; 10;  8;  4;  33; 21;  38;
+ 4; Lausanne-Sports  ; 22; 10;  8;  4;  36; 33;  38;
+ 5; Neuchâtel Xamax  ; 22;  7; 11;  4;  30; 23;  32;
+ 6; FC Basel         ; 22;  8;  4; 10;  21; 34;  28;
+ 7; FC Luzern        ; 22;  6;  9;  7;  26; 25;  27;
+ 8; FC Sankt Gallen  ; 22;  7;  6;  9;  31; 31;  27;
+
+ 9; FC Sion          ; 22;  5;  8;  9;  22; 36;  23;
+10; FC Lugano        ; 22;  5;  7; 10;  35; 43;  22;
+11; BSC Young Boys   ; 22;  4;  7; 11;  33; 34;  19;
+12; FC Aarau         ; 22;  3;  7; 12;  28; 41;  16;
+
+
+Stage: Championship Section
+*Championship Section
+
+ 1; Servette FC      ; 14;  7;  3;  4;  19; 14;  46;  (22)
+ 2; Grasshopper-Club ; 14;  8;  3;  3;  31; 11;  46;  (19)
+ 3; Lausanne-Sports  ; 14;  8;  2;  4;  28; 20;  45;  (19)
+ 4; FC Zürich        ; 14;  7;  2;  5;  24; 15;  42;  (19)
+ 5; FC Basel         ; 14;  5;  4;  5;  18; 19;  33;  (14)
+ 6; Neuchâtel Xamax  ; 14;  2;  6;  6;  12; 27;  28;  (16)
+ 7; FC Luzern        ; 14;  4;  2;  8;  13; 27;  28;  (14)
+ 8; FC Sankt Gallen  ; 14;  2;  4;  8;  13; 25;  24;  (14)
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesz/zwit98.html
+
+Stage: Fall
+
+ 1; Grasshopper-Club ; 22; 14;  4;  4;  59; 23;  46;
+ 2; Lausanne-Sports  ; 22; 12;  6;  4;  45; 27;  42;
+ 3; Servette FC      ; 22; 11;  6;  5;  45; 33;  39;
+ 4; FC Aarau         ; 22; 10;  5;  7;  38; 31;  35;
+ 5; FC Sankt Gallen  ; 22;  7;  9;  6;  38; 34;  30;
+ 6; FC Zürich        ; 22;  7;  9;  6;  31; 28;  30;
+ 7; FC Sion          ; 22;  7;  9;  6;  30; 27;  30;
+ 8; FC Luzern        ; 22;  7;  8;  7;  26; 28;  29;
+
+ 9; Neuchâtel Xamax  ; 22;  7;  5; 10;  37; 39;  26;
+10; SC Kriens        ; 22;  5;  7; 10;  23; 41;  22;
+11; FC Basel         ; 22;  5;  4; 13;  28; 46;  19;
+12; Etoile Carouge FC; 22;  1;  6; 15;  20; 63;   9;
+
+
+Stage: Spring
+*Spring Championship Playoff
+
+ 1; Grasshopper-Club ; 14; 11;  1;  2;  39; 16;  57;  [23] (1)  Champions
+ 2; Servette FC      ; 14;  5;  6;  3;  18; 15;  41;  [20] (3)  UEFA Cup
+ 3; Lausanne-Sports  ; 14;  5;  4;  5;  17; 17;  40;  [21] (2)  CWC
+ 4; FC Zürich        ; 14;  6;  5;  3;  27; 17;  38;  [15] (6)  UEFA Cup
+ 5; FC Sion          ; 14;  6;  4;  4;  23; 21;  37;  [15] (7)  UIC
+ 6; FC Sankt Gallen  ; 14;  4;  5;  5;  12; 17;  32;  [15] (5)  UIC
+ 7; FC Aarau         ; 14;  1;  4;  9;  13; 27;  25;  [18] (4)
+ 8; FC Luzern        ; 14;  1;  5;  8;  10; 29;  23;  [15] (8)
+
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesz/zwit97.html
+
+Stage: Fall
+*Nationalliga A - Qualifying Phase
+
+1; Neuchâtel Xamax             ; 22;  12 ;  8 ;  2 ;  37 ; 21 ;  44;
+2; Grasshopper-Club Zürich     ; 22;  10 ;  9 ;  3 ;  42 ; 27 ;  39;
+3; FC Sion                     ; 22;   9 ; 10 ;  3 ;  33 ; 21 ;  37;
+4; FC Aarau                    ; 22;   9 ;  8 ;  5 ;  21 ; 14 ;  35;
+5; Lausanne-Sports             ; 22;   9 ;  7 ;  6 ;  35 ; 32 ;  34;
+6; FC Sankt Gallen             ; 22;   7 ;  9 ;  6 ;  21 ; 26 ;  30;
+7; FC Zürich                   ; 22;   6 ;  9 ;  7 ;  24 ; 25 ;  27;
+8; FC Basel                    ; 22;   5 ; 10 ;  7 ;  32 ; 33 ;  25;
+
+9; Servette FC Genève          ; 22;   5 ;  9 ;  8 ;  24 ; 25 ;  24;
+10;FC Luzern                   ; 22;   4 ; 11 ;  7 ;  28 ; 33 ;  23;
+11;FC Lugano                   ; 22;   2 ;  9 ; 11 ;  14 ; 32 ;  15;
+12;BSC Young Boys Bern         ; 22;   3 ;  3 ; 16 ;  17 ; 39 ;  12;
+
+
+
+*Stage: Spring
+Stage: Final
+
+*Nationalliga A - Final Group
+
+1; FC Sion             ; 14 ;  9 ;  3 ;  2 ;  18 ; 10 ;  49; Champion
+2; Neuchâtel Xamax     ; 14 ;  6 ;  6 ;  2 ;  22 ; 14 ;  46;
+3; Grasshopper-Club    ; 14 ;  7 ;  4 ;  3 ;  37 ; 18 ;  45;
+4; Lausanne-Sports     ; 14 ;  8 ;  2 ;  4 ;  20 ; 16 ;  43;
+5; FC Aarau            ; 14 ;  3 ;  4 ;  7 ;  17 ; 22 ;  31;
+6; FC Sankt Gallen     ; 14 ;  3 ;  4 ;  7 ;  13 ; 26 ;  28;
+7; FC Zürich           ; 14 ;  1 ;  7 ;  6 ;   9 ; 18 ;  24;
+8; FC Basel            ; 14 ;  3 ;  2 ;  9 ;  16 ; 28 ;  24;
+
+
+Stage: Promotion
+*Nationalliga A + B - Promotion Group
+
+1; Servette Genève            ; 14 ;  7 ;  4 ;  3 ;  18 ; 10 ;  25;
+2; Etoile Carouge             ; 14 ;  7 ;  3 ;  4 ;  15 ; 13 ;  24;
+3; FC Luzern                  ; 14 ;  6 ;  5 ;  3 ;  16 ; 12 ;  23;
+4; SC Kriens                  ; 14 ;  6 ;  4 ;  4 ;  22 ; 16 ;  22;
+
+5; BSC Young Boys             ; 14 ;  5 ;  5 ;  4 ;  19 ; 17 ;  20;
+6; FC Solothurn               ; 14 ;  3 ;  5 ;  6 ;   9 ; 17 ;  14;
+7; FC Lugano                  ; 14 ;  2 ;  5 ;  7 ;  11 ; 17 ;  11;
+8; FC Schaffhausen            ; 14 ;  2 ;  5 ;  7 ;  13 ; 21 ;  11;
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesz/zwit96.html
+
+Stage: Fall
+*Nationalliga A - Qualifying Phase
+
+1 ; Grasshopper-Club Zürich     ; 22  ; 13 ;  4 ;  5 ;  38 ; 22  ; 43;
+2 ; FC Sion                     ; 22  ; 13 ;  3 ;  6 ;  37 ; 28  ; 42;
+3 ; Neuchâtel Xamax             ; 22  ; 12 ;  5 ;  5 ;  40 ; 24  ; 41;
+4 ; FC Luzern                   ; 22  ; 11 ;  7 ;  4 ;  36 ; 25  ; 40;
+5 ; FC Basel                    ; 22  ;  9 ;  3 ; 10 ;  23 ; 29  ; 30;
+6 ; Servette FC Genève          ; 22  ;  7 ;  7 ;  8 ;  28 ; 28  ; 28;
+7 ; FC Aarau                    ; 22  ;  7 ;  6 ;  9 ;  36 ; 27  ; 27;
+8 ; FC Sankt Gallen             ; 22  ;  6 ;  9 ;  7 ;  26 ; 24  ; 27;
+
+9 ; Lausanne-Sports             ; 22  ;  6 ;  9 ;  7 ;  25 ; 25  ; 27;
+10; FC Lugano                   ; 22  ;  5 ;  6 ; 11 ;  21 ; 42  ; 21;
+11; FC Zürich                   ; 22  ;  4 ;  6 ; 12 ;  17 ; 32  ; 18;
+12; BSC Young Boys Bern         ; 22  ;  4 ;  5 ; 13 ;  14 ; 35  ; 17;
+
+
+Stage: Spring
+*Nationalliga A - Final Group
+*                                              (*)
+
+1;  Grasshopper-Club Zürich                   ; 14  ;  8 ;  6 ;  0 ;  26 ;  7 ;  52; (22) Champion
+2;  FC Sion                                   ; 14  ;  8 ;  2 ;  4 ;  20 ; 14 ;  47; (21)
+3;  Neuchâtel Xamax                           ; 14  ;  5 ;  7 ;  2 ;  21 ; 16 ;  43; (21)
+4;  FC Aarau                                  ; 14  ;  7 ;  4 ;  3 ;  23 ; 18 ;  39; (14)
+5;  FC Luzern                                 ; 14  ;  4 ;  3 ;  7 ;  23 ; 19 ;  35; (20)
+6;  FC Basel                                  ; 14  ;  3 ;  3 ;  7 ;  11 ; 20 ;  28; (15)
+7;  Servette FC Genève                        ; 14  ;  2 ;  5 ;  7 ;  18 ; 25 ;  25; (14)
+8;  FC St. Gallen                             ; 14  ;  2 ;  3 ;  9 ;  11 ; 34 ;  23; (14)
+
+*(*)  halved points qualifying phase (rounded up)
+
+
+
+*Nationalliga A + B - Promotion Group
+Stage: Promotion
+
+1;  BSC Young Boys             ; 14 ;  10 ;  3 ;  1 ;  28;  13 ;  33;
+2;  FC Zürich                  ; 14 ;   8 ;  4 ;  2 ;  21;  12 ;  28;
+3;  Lausanne-Sports            ; 14 ;   7 ;  6 ;  1 ;  24;  10 ;  27;
+4;  FC Lugano                  ; 14 ;   4 ;  5 ;  5 ;  13;  17 ;  17;
+
+5;  Yverdon-Sport              ; 14 ;   3 ;  4 ;  7 ;  16;  22 ;  13;
+6;  SR Delémont                ; 14 ;   3 ;  4 ;  7 ;  17;  26 ;  13;
+7;  SC Kriens                  ; 14 ;   2 ;  5 ;  7 ;  14;  22 ;  11;
+8;  Etoile Carouge             ; 14 ;   1 ;  5 ;  8 ;   9;  20 ;   8;

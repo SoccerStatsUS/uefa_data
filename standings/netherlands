@@ -1,0 +1,515 @@
+BlockSource: http://www.rsssf.com/tablesn/ned2013.html
+Competition: Eredivisie
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+Season: 2012-2013
+
+ 1; Ajax (Amsterdam)            ; 34;  22; 10;  2;  83; 31;  76;  Champions
+ 2; PSV (Eindhoven)             ; 34;  22;  3;  9; 103; 43;  69;
+ 3; Feyenoord (Rotterdam)       ; 34;  21;  6;  7;  64; 38;  69;
+ 4; Vitesse (Arnhem)            ; 34;  19;  7;  8;  68; 42;  64;
+ 5; FC Utrecht                  ; 34;  19;  6;  9;  55; 41;  63;  Europa League Playoff
+ 6; FC Twente (Enschede)        ; 34;  17; 11;  6;  60; 33;  62;  Europa League Playoff
+ 7; FC Groningen                ; 34;  12;  7; 15;  36; 53;  43;  Europa League Playoff
+ 8; SC Heerenveen               ; 34;  11;  9; 14;  50; 63;  42;  Europa League Playoff
+ 9; ADO Den Haag                ; 34;   9; 13; 12;  49; 63;  40;
+10; AZ (Alkmaar)                ; 34;  10;  9; 15;  56; 54;  39;
+11; PEC Zwolle                  ; 34;  10;  9; 15;  42; 55;  39;  [*]
+*[*] FC Zwolle were renamed PEC Zwolle
+12; Heracles Almelo             ; 34;   9; 11; 14;  58; 71;  38;
+13; NAC Breda                   ; 34;  10;  8; 16;  40; 56;  38;
+14; RKC Waalwĳk                 ; 34;   9; 10; 15;  39; 48;  37;
+15; NEC (Nĳmegen)               ; 34;  10;  7; 17;  44; 66;  37;
+
+16; Roda JC Kerkrade            ; 34;   7; 12; 15;  51; 69;  33;  Relegation Playoff
+17; VVV-Venlo                   ; 34;   6; 10; 18;  33; 62;  28;  Relegation Playoff
+
+18; Willem II (Tilburg)         ; 34;   5;  8; 21;  33; 76;  23;  Relegated
+
+
+BlockSource: http://www.rsssf.com/tablesn/ned2012.html
+Season: 2011-2012
+
+ 1; Ajax (Amsterdam)            ; 34;  23;  7;  4;  93; 36;  76;  Champions
+ 2; Feyenoord (Rotterdam)       ; 34;  21;  7;  6;  70; 37;  70;  Champions League
+ 3; PSV (Eindhoven)             ; 34;  21;  6;  7;  87; 47;  69;  Europa League
+ 4; AZ (Alkmaar)                ; 34;  19;  8;  7;  64; 35;  65;  Europa League
+ 5; SC Heerenveen               ; 34;  18; 10;  6;  79; 59;  64;  Europa League
+ 6; FC Twente (Enschede)        ; 34;  17;  9;  8;  82; 46;  60;  Europa League Playoff
+ 7; Vitesse (Arnhem)            ; 34;  15;  8; 11;  48; 43;  53;  Europa League Playoff
+ 8; NEC (Nĳmegen)               ; 34;  13;  6; 15;  42; 45;  45;  Europa League Playoff
+ 9; RKC Waalwĳk                 ; 34;  13;  6; 15;  40; 49;  45;  Europa League Playoff
+10; Roda JC Kerkrade            ; 34;  14;  2; 18;  55; 70;  44;
+11; FC Utrecht                  ; 34;  11; 10; 13;  55; 58;  43;
+12; Heracles Almelo             ; 34;  11;  7; 16;  52; 62;  40;
+13; NAC Breda                   ; 34;  10;  8; 16;  45; 54;  38;
+14; FC Groningen                ; 34;  10;  7; 17;  41; 61;  37;
+15; ADO Den Haag                ; 34;   8;  8; 18;  38; 67;  32;
+
+16; VVV-Venlo                   ; 34;   9;  4; 21;  42; 78;  31;  Relegation Playoff
+17; De Graafschap (Doetinchem)  ; 34;   6;  6; 22;  36; 74;  24;  Relegation Playoff
+
+18; Excelsior (Rotterdam)       ; 34;   4;  7; 23;  28; 76;  19;  Relegated
+
+
+BlockSource: http://www.rsssf.com/tablesn/ned2011.html
+Season: 2010-2011
+
+ 1; Ajax (Amsterdam)            ; 34;  22;  7;  5;  72; 30;  73;  Champions
+ 2; FC Twente (Enschede)        ; 34;  21;  8;  5;  65; 34;  71;  Champions League
+ 3; PSV (Eindhoven)             ; 34;  20;  9;  5;  79; 34;  69;  Europa League
+ 4; AZ (Alkmaar)                ; 34;  17;  8;  9;  55; 44;  59;  Europa League
+ 5; FC Groningen                ; 34;  17;  6; 11;  65; 52;  57;  Europa League Playoff
+ 6; Roda JC Kerkrade            ; 34;  14; 13;  7;  65; 50;  55;  Europa League Playoff
+
+ 7; ADO Den Haag                ; 34;  16;  6; 12;  63; 55;  54;  Europa League Playoff
+ 8; Heracles Almelo             ; 34;  14;  7; 13;  65; 56;  49;  Europa League Playoff
+ 9; FC Utrecht                  ; 34;  13;  8; 13;  55; 51;  47;
+10; Feyenoord (Rotterdam)       ; 34;  12;  8; 14;  53; 54;  44;
+11; NEC (Nĳmegen)               ; 34;  10; 13; 11;  57; 56;  43;
+12; SC Heerenveen               ; 34;  10; 11; 13;  60; 54;  41;
+13; NAC Breda                   ; 34;  12;  5; 17;  44; 60;  40;  [-1]
+14; De Graafschap (Doetinchem)  ; 34;   9; 11; 14;  31; 56;  38;
+15; Vitesse (Arnhem)            ; 34;   9;  8; 17;  42; 61;  35;
+
+16; Excelsior (Rotterdam)       ; 34;  10;  5; 19;  45; 66;  35;  Relegation Playoff
+17; VVV-Venlo                   ; 34;   6;  3; 25;  34; 76;  21;  Relegation Playoff
+
+18; Willem II (Tilburg)         ; 34;   3;  6; 25;  37; 98;  15;  Relegated
+
+*NB: Roda JC were renamed Roca JC Kerkrade
+
+
+BlockSource: http://www.rsssf.com/tablesn/ned2010.html
+Season: 2009-2010
+
+ 1; FC Twente (Enschede)        ; 34; 27;  5;  2;  63; 23;  86;  Champions
+ 2; Ajax (Amsterdam)            ; 34; 27;  4;  3; 106; 20;  85;  Champions League
+ 3; PSV (Eindhoven)             ; 34; 23;  9;  2;  72; 29;  78;  Europa League
+ 4; Feyenoord (Rotterdam)       ; 34; 17; 12;  5;  54; 31;  63;  Europa League
+ 5; AZ (Alkmaar)                ; 34; 19;  5; 10;  64; 34;  62;  Europa League
+ 6; Heracles Almelo             ; 34; 17;  5; 12;  54; 49;  56;  Europa League Playoff
+ 7; FC Utrecht                  ; 34; 14; 11;  9;  39; 33;  53;  Europa League Playoff
+ 8; FC Groningen                ; 34; 14;  7; 13;  48; 47;  49;  Europa League Playoff
+ 9; Roda JC (Kerkrade)          ; 34; 14;  5; 15;  56; 60;  47;  Europa League Playoff
+10; NAC Breda                   ; 34; 12; 10; 12;  42; 49;  46;
+11; SC Heerenveen               ; 34; 11;  4; 19;  44; 64;  37;
+12; VVV-Venlo                   ; 34;  8; 11; 15;  43; 57;  35;
+13; NEC (Nijmegen)              ; 34;  8;  9; 17;  35; 59;  33;
+14; Vitesse (Arnhem)            ; 34;  8;  8; 18;  38; 62;  32;
+15; ADO Den Haag                ; 34;  7;  9; 18;  38; 59;  30;
+
+16; Sparta Rotterdam            ; 34;  6;  8; 20;  30; 66;  26;  Relegation Playoff
+17; Willem II (Tilburg)         ; 34;  7;  2; 25;  36; 70;  23;  Relegation Playoff
+
+18; RKC Waalwijk                ; 34;  5;  0; 29;  30; 80;  15;  Relegated
+
+
+BlockSource: http://www.rsssf.com/tablesn/ned09.html
+Season: 2008-2009
+
+ 1; AZ (Alkmaar)                ; 34; 25;  5;  4;  66; 22;  80;  Champions
+
+ 2; FC Twente (Enschede)        ; 34; 20;  9;  5;  62; 31;  69;  CL Qualifying
+
+ 3; Ajax (Amsterdam)            ; 34; 21;  5;  8;  74; 41;  68;  Europa League
+ 4; PSV (Eindhoven)             ; 34; 19;  8;  7;  71; 33;  65;  Europa League
+ 5; SC Heerenveen               ; 34; 17;  9;  8;  66; 57;  60;  Europa League (Cup)
+
+ 6; FC Groningen                ; 34; 17;  5; 12;  53; 36;  56;  Europa League Playoff
+ 7; Feyenoord (Rotterdam)       ; 34; 12;  9; 13;  54; 46;  45;  Europa League Playoff
+ 8; NAC Breda                   ; 34; 13;  6; 15;  44; 54;  45;  Europa League Playoff
+ 9; FC Utrecht                  ; 34; 11; 11; 12;  41; 44;  44;  Europa League Playoff
+
+10; Vitesse (Arnhem)            ; 34; 11; 10; 13;  41; 48;  43;
+11; NEC (Nijmegen)              ; 34;  9; 15; 10;  41; 40;  42;
+12; Willem II (Tilburg)         ; 34; 10;  7; 17;  35; 58;  37;
+13; Sparta Rotterdam            ; 34;  9;  8; 17;  46; 66;  35;
+14; ADO Den Haag                ; 34;  8;  8; 18;  41; 58;  32;
+15; Heracles Almelo             ; 34;  7; 11; 16;  35; 53;  32;
+
+16; Roda JC (Kerkrade)          ; 34;  7;  9; 18;  38; 58;  30;  Relegation Playoff
+17; De Graafschap (Doetinchem)  ; 34;  7;  9; 18;  24; 58;  30;  Relegation Playoff
+
+18; FC Volendam                 ; 34;  7;  8; 19;  38; 67;  29;  Relegated
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablesn/ned08.html
+
+ 1; PSV (Eindhoven)             ; 34; 21;  9;  4;  65; 24;  72;  Champions
+
+ 2; Ajax (Amsterdam)            ; 34; 20;  9;  5;  94; 45;  69;  CL Playoff
+ 3; NAC Breda                   ; 34; 19;  6;  9;  48; 40;  63;  CL Playoff
+ 4; FC Twente (Enschede)        ; 34; 17; 11;  6;  52; 32;  62;  CL Playoff
+ 5; SC Heerenveen               ; 34; 18;  6; 10;  88; 48;  60;  CL Playoff
+
+ 6; Feyenoord (Rotterdam)       ; 34; 18;  6; 10;  64; 41;  60;  Cup
+ 7; FC Groningen                ; 34; 15;  6; 13;  53; 54;  51;  UEFA Cup Playoff
+ 8; NEC (Nijmegen)              ; 34; 14;  7; 13;  49; 50;  49;  UEFA Cup Playoff
+ 9; Roda JC (Kerkrade)          ; 34; 12; 11; 11;  55; 55;  47;  UEFA Cup Playoff
+
+10; FC Utrecht                  ; 34; 13;  7; 14;  59; 55;  46;  UEFA Cup Playoff
+11; AZ (Alkmaar)                ; 34; 11; 10; 13;  48; 53;  43;
+12; Vitesse (Arnhem)            ; 34; 12;  7; 15;  46; 55;  43;
+13; Sparta Rotterdam            ; 34;  9;  7; 18;  52; 76;  34;
+14; Heracles Almelo             ; 34;  8;  8; 18;  34; 64;  32;
+15; Willem II (Tilburg)         ; 34;  8;  7; 19;  40; 49;  31;
+
+16; De Graafschap (Doetinchem)  ; 34;  7;  9; 18;  33; 64;  30;  Relegation Playoff
+17; VVV-Venlo                   ; 34;  7;  8; 19;  44; 76;  29;  Relegation Playoff
+
+18; Excelsior (Rotterdam)       ; 34;  7;  6; 21;  32; 75;  27;  Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablesn/ned07.html
+
+ 1; PSV (Eindhoven)             ; 34; 23;  6;  5;  75; 25;  75;  Champions
+
+ 2; Ajax (Amsterdam)            ; 34; 23;  6;  5;  84; 35;  75;  Playoffs CLQ
+ 3; AZ (Alkmaar)                ; 34; 21;  9;  4;  83; 31;  72;  Playoffs CLQ
+ 4; FC Twente (Enschede)        ; 34; 19;  9;  6;  67; 37;  66;  Playoffs CLQ
+ 5; SC Heerenveen               ; 34; 16;  7; 11;  60; 43;  55;  Playoffs CLQ
+
+ 6; Roda JC (Kerkrade)          ; 34; 15;  9; 10;  47; 36;  54;  Playoffs UEFA Cup
+ 7; Feyenoord (Rotterdam)       ; 34; 15;  8; 11;  56; 66;  53;  Playoffs UEFA Cup
+ 8; FC Groningen                ; 34; 15;  6; 13;  54; 54;  51;  Playoffs UEFA Cup
+ 9; FC Utrecht                  ; 34; 13;  9; 12;  41; 44;  48;  Playoffs UEFA Cup
+
+10; NEC (Nijmegen)              ; 34; 12;  8; 14;  36; 44;  44;  Playoffs UI Cup
+11; NAC Breda                   ; 34; 12;  7; 15;  43; 54;  43;  Playoffs UI Cup
+12; Vitesse (Arnhem)            ; 34; 10;  8; 16;  50; 55;  38;  Playoffs UI Cup
+13; Sparta Rotterdam            ; 34; 10;  7; 17;  40; 66;  37;  Playoffs UI Cup
+
+14; Heracles Almelo             ; 34;  7; 11; 16;  32; 64;  32;
+15; Willem II (Tilburg)         ; 34;  8;  7; 19;  31; 64;  31;
+
+16; Excelsior (Rotterdam)       ; 34;  8;  6; 20;  43; 65;  30;  Relegation Playoff
+17; RKC Waalwijk                ; 34;  6;  9; 19;  33; 60;  27;  Relegation Playoff
+
+18; ADO Den Haag                ; 34;  3;  8; 23;  40; 72;  17;  Relegated
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablesn/ned06.html
+
+ 1; PSV (Eindhoven)             ; 34; 26;  6;  2;  71; 23;  84;  Champions
+
+ 2; AZ (Alkmaar)                ; 34; 23;  5;  6;  78; 32;  74;  Playoffs CLQ
+ 3; Feyenoord (Rotterdam)       ; 34; 21;  8;  5;  79; 34;  71;  Playoffs CLQ
+ 4; Ajax (Amsterdam)            ; 34; 18;  6; 10;  66; 41;  60;  Playoffs CLQ
+ 5; FC Groningen                ; 34; 16;  8; 10;  46; 43;  56;  Playoffs CLQ
+
+ 6; FC Utrecht                  ; 34; 16;  7; 11;  48; 44;  55;  Playoffs UEFA Cup
+ 7; SC Heerenveen               ; 34; 14;  8; 12;  63; 58;  50;  Playoffs UEFA Cup
+ 8; Roda JC (Kerkrade)          ; 34; 15;  5; 14;  57; 54;  50;  Playoffs UEFA Cup
+ 9; FC Twente (Enschede)        ; 34; 13;  8; 13;  44; 36;  47;  Playoffs UEFA Cup
+
+10; NEC (Nijmegen)              ; 34; 13;  8; 13;  43; 43;  47;  Playoffs UIC
+11; Vitesse (Arnhem)            ; 34; 13;  5; 16;  52; 54;  44;  Playoffs UIC
+12; RKC Waalwijk                ; 34; 11;  6; 17;  48; 58;  39;  Playoffs UIC
+13; Heracles Almelo             ; 34; 11;  6; 17;  35; 58;  39;  Playoffs UIC
+
+14; Sparta Rotterdam            ; 34; 10;  7; 17;  34; 50;  37;
+15; ADO Den Haag                ; 34; 10;  5; 19;  36; 62;  35;
+
+16; NAC Breda                   ; 34;  8;  9; 17;  45; 66;  33;  Relegation Playoff
+17; Willem II (Tilburg)         ; 34;  7;  7; 20;  45; 66;  28;  Relegation Playoff
+
+18; RBC Roosendaal              ; 34;  1;  6; 27;  22; 90;   9;  Relegated
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablesn/ned05.html
+
+ 1; PSV (Eindhoven)             ; 34; 27;  6;  1;  89; 18;  87;  Champions
+ 2; Ajax (Amsterdam)            ; 34; 24;  5;  5;  74; 33;  77;  Champions League
+ 3; AZ (Alkmaar)                ; 34; 19;  7;  8;  71; 41;  64;  UEFA Cup
+ 4; Feyenoord (Rotterdam)       ; 34; 19;  5; 10;  90; 51;  62;  UEFA Cup
+ 5; SC Heerenveen               ; 34; 18;  6; 10;  64; 52;  60;  UEFA Cup
+ 6; FC Twente (Enschede)        ; 34; 15;  9; 10;  48; 38;  54;
+ 7; Vitesse (Arnhem)            ; 34; 16;  6; 12;  53; 49;  54;
+ 8; Roda JC (Kerkrade)          ; 34; 13;  8; 13;  60; 55;  47;
+ 9; RKC Waalwijk                ; 34; 13;  8; 13;  44; 51;  47;
+10; Willem II (Tilburg)         ; 34; 13;  6; 15;  44; 56;  45;  UEFA Cup (Cup Final)
+11; FC Utrecht                  ; 34; 12;  8; 14;  40; 43;  44;
+12; FC Groningen                ; 34; 11;  7; 16;  50; 58;  40;
+13; NEC (Nijmegen)              ; 34;  9; 10; 15;  41; 47;  37;
+14; ADO Den Haag                ; 34; 10;  6; 18;  44; 59;  36;
+15; NAC Breda                   ; 34;  9;  8; 17;  43; 67;  35;
+
+16; RBC Roosendaal              ; 34; 10;  2; 22;  38; 77;  32;  Relegation Playoff
+17; De Graafschap (Doetinchem)  ; 34;  4;  7; 23;  32; 78;  19;  Relegation Playoff
+
+18; FC Den Bosch                ; 34;  5;  4; 25;  23; 75;  19;  Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablesn/ned04ext.html
+
+ 1; Ajax (Amsterdam)            ; 34; 25;  5;  4;  79; 31;  80;  Champions
+ 2; PSV (Eindhoven)             ; 34; 23;  5;  6;  92; 30;  74;  CL Qualifying
+ 3; Feyenoord (Rotterdam)       ; 34; 20;  8;  6;  71; 38;  68;  UEFA Cup
+ 4; SC Heerenveen               ; 34; 17;  7; 10;  45; 35;  58;  UEFA Cup
+ 5; AZ (Alkmaar)                ; 34; 17;  6; 11;  65; 42;  57;  UEFA Cup
+ 6; Roda JC (Kerkrade)          ; 34; 14; 11;  9;  60; 41;  53;
+ 7; Willem II (Tilburg)         ; 34; 13; 10; 11;  47; 54;  49;
+ 8; FC Twente (Enschede)        ; 34; 15;  3; 16;  56; 53;  48;
+ 9; NAC Breda                   ; 34; 12; 10; 12;  58; 55;  46;
+10; FC Utrecht                  ; 34; 13;  7; 14;  42; 52;  46;
+11; RKC Waalwijk                ; 34; 10; 10; 14;  47; 55;  40;
+12; RBC Roosendaal              ; 34; 10; 10; 14;  34; 47;  40;
+13; FC Groningen                ; 34;  9; 10; 15;  38; 53;  37;
+14; NEC (Nijmegen)              ; 34; 10;  4; 20;  44; 62;  34;
+15; ADO Den Haag                ; 34;  9;  7; 18;  36; 61;  34;
+
+16; Vitesse (Arnhem)            ; 34;  4; 16; 14;  39; 56;  28; Relegation Playoff
+17; FC Volendam                 ; 34;  7;  6; 21;  31; 79;  27; Relegation Playoff
+
+18; FC Zwolle                   ; 34;  5; 11; 18;  27; 67;  26; Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablesn/ned03ext.html
+
+
+ 1; PSV                         ; 34; 26;  6;  2;  87; 20;  84;  Champions
+ 2; Ajax                        ; 34; 26;  5;  3;  96; 32;  83;  CL Qualifying
+ 3; Feyenoord                   ; 34; 25;  5;  4;  89; 39;  80;  UEFA Cup
+ 4; NAC Breda                   ; 34; 13; 13;  8;  42; 31;  52;  UEFA Cup  [*]
+ 5; NEC                         ; 34; 14;  9; 11;  41; 40;  51;  UEFA Cup
+ 6; Roda JC                     ; 34; 14;  8; 12;  58; 54;  50;
+ 7; SC Heerenveen               ; 34; 13;  8; 13;  61; 55;  47;
+ 8; FC Utrecht                  ; 34; 12; 11; 11;  49; 49;  47;
+ 9; RKC Waalwijk                ; 34; 14;  4; 16;  44; 51;  46;
+10; AZ                          ; 34; 12;  8; 14;  50; 69;  44;
+11; Willem II                   ; 34; 11;  9; 14;  48; 51;  42;
+12; FC Twente                   ; 34; 10; 11; 13;  36; 45;  41;
+13; RBC Roosendaal              ; 34; 10;  6; 18;  33; 54;  36;
+14; Vitesse                     ; 34;  8;  9; 17;  37; 51;  33;
+15; FC Groningen                ; 34;  7; 11; 16;  28; 44;  32;
+
+16; FC Zwolle                   ; 34;  8;  8; 18;  31; 62;  32;  Relegation Playoff
+17; Excelsior                   ; 34;  5;  8; 21;  38; 72;  23;  Relegation Playoff
+
+18; De Graafschap               ; 34;  6;  5; 23;  35; 84;  23;  Relegated
+
+*[*] on Jan 10, 2003, NAC changed name to NAC Breda.
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablesn/ned02ext.html
+
+ 1; Ajax                        ; 34; 22;  7;  5;  73; 34;  73;  Champions
+ 2; PSV                         ; 34; 20;  8;  6;  77; 32;  68;  Champions' League
+ 3; Feyenoord                   ; 34; 19;  7;  8;  68; 29;  64;  CL Qualifying
+ 4; SC Heerenveen               ; 34; 17;  9;  8;  57; 27;  60;  UEFA Cup
+ 5; Vitesse                     ; 34; 16; 12;  6;  45; 34;  60;  UEFA Cup
+ 6; NAC                         ; 34; 15;  9; 10;  55; 52;  54;
+ 7; FC Utrecht                  ; 34; 14;  9; 11;  60; 51;  51;  UEFA Cup (Cup Final)
+ 8; RKC Waalwijk                ; 34; 14;  6; 14;  49; 44;  48;
+ 9; NEC                         ; 34; 13;  6; 15;  38; 59;  45;
+10; AZ                          ; 34; 12;  7; 15;  43; 45;  43;
+11; Willem II                   ; 34; 10; 13; 11;  54; 61;  43;
+12; FC Twente                   ; 34; 10; 12; 12;  41; 41;  42;
+13; Roda JC                     ; 34; 11;  8; 15;  33; 45;  41;
+14; De Graafschap               ; 34; 10;  7; 17;  43; 55;  37;
+15; FC Groningen                ; 34; 10;  7; 17;  40; 59;  37;
+
+16; FC Den Bosch                ; 34;  8;  9; 17;  40; 55;  33;  Relegation Playoff
+17; Sparta                      ; 34;  4; 12; 18;  26; 75;  24;  Relegation Playoff
+
+18; Fortuna Sittard             ; 34;  3;  8; 23;  27; 71;  17;  Relegated
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablesn/ned01ext.html
+
+ 1; PSV                         ; 34; 25;  8;  1;  73; 23;  83;  Champions
+ 2; Feyenoord                   ; 34; 21;  3; 10;  67; 37;  66;  Champions' League
+ 3; Ajax                        ; 34; 18;  7;  9;  85; 43;  61;  CL Qualifying
+ 4; Roda JC                     ; 34; 17;  8;  9;  59; 41;  59;  UEFA Cup
+ 5; FC Utrecht                  ; 34; 17;  8;  9;  58; 43;  59;  UEFA Cup
+ 6; Vitesse                     ; 34; 16; 11;  7;  56; 43;  59;
+ 7; RKC Waalwijk                ; 34; 16; 11;  7;  48; 36;  59;  Intertoto
+ 8; Willem II                   ; 34; 14;  9; 11;  60; 50;  51;
+ 9; NAC                         ; 34; 13; 10; 11;  41; 40;  49;
+10; SC Heerenveen               ; 34; 11; 14;  9;  51; 42;  47;  Intertoto
+11; FC Twente                   ; 34; 10; 11; 13;  47; 60;  41;
+12; NEC                         ; 34;  9; 13; 12;  42; 53;  40;
+13; AZ                          ; 34;  9;  8; 17;  45; 63;  35;
+14; FC Groningen                ; 34;  8;  9; 17;  36; 56;  33;
+15; De Graafschap               ; 34;  9;  4; 21;  44; 66;  31;
+
+16; Fortuna Sittard             ; 34;  8;  7; 19;  31; 64;  31;  Relegation Playoff
+17; Sparta                      ; 34;  6;  7; 21;  42; 72;  25;  Relegation Playoff
+
+18; RBC Roosendaal              ; 34;  4;  2; 28;  37; 90;  14;  Relegated
+
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablesn/ned00ext.html
+
+
+ 1; PSV                         ; 34; 27;  3;  4; 105; 24;  84;  Champions
+ 2; SC Heerenveen               ; 34; 21;  5;  8;  65; 36;  68;  Champions' League
+ 3; Feyenoord                   ; 34; 18; 10;  6;  66; 42;  64;  Champions' League Qualification
+ 4; Vitesse                     ; 34; 18;  9;  7;  67; 43;  63;  UEFA Cup  
+ 5; Ajax                        ; 34; 18;  7;  9;  72; 51;  61;  UEFA Cup
+ 6; FC Twente                   ; 34; 16; 12;  6;  57; 37;  60;
+ 7; AZ                          ; 34; 17;  4; 13;  69; 59;  55;
+ 8; Roda JC                     ; 34; 16;  7; 11;  62; 53;  55;
+ 9; Willem II                   ; 34; 13;  9; 12;  55; 65;  48;
+10; FC Utrecht                  ; 34; 14;  4; 16;  55; 61;  46;
+11; RKC Waalwijk                ; 34; 12;  6; 16;  44; 67;  42;
+12; Fortuna Sittard             ; 34; 10;  8; 16;  47; 54;  38;
+13; Sparta                      ; 34; 11;  4; 19;  48; 75;  37;
+14; De Graafschap               ; 34;  8;  9; 17;  41; 60;  33;
+15; NEC                         ; 34;  7;  6; 21;  35; 62;  27;
+
+16; MVV                         ; 34;  6;  7; 21;  38; 68;  25;  Relegation Playoff
+17; Cambuur Leeuwarden          ; 34;  6;  7; 21;  35; 66;  25;  Relegation Playoff
+
+18; FC Den Bosch                ; 34;  4; 11; 19;  36; 74;  23;  Relegated 
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablesn/ned99ext.html
+
+
+ 1; Feyenoord                   ; 34; 25;  5;  4;  76; 38;  80;  Champions
+
+ 2; Willem II                   ; 34; 20;  5;  9;  69; 46;  65;  Champions' League
+ 3; PSV                         ; 34; 17; 10;  7;  87; 55;  61;  Champions' League Qualification
+
+ 4; Vitesse                     ; 34; 18;  7;  9;  61; 44;  61;  UEFA Cup
+ 5; Roda JC                     ; 34; 17;  9;  8;  59; 40;  60;  UEFA Cup
+
+ 6; Ajax                        ; 34; 16;  9;  9;  73; 41;  57;  UEFA Cup (Cup Winners)
+ 7; SC Heerenveen               ; 34; 14; 12;  8;  53; 41;  54;
+ 8; FC Twente                   ; 34; 13; 13;  8;  51; 45;  52;
+ 9; AZ                          ; 34; 12; 12; 10;  52; 60;  48;
+10; Fortuna Sittard             ; 34; 12;  8; 14;  49; 56;  44;
+11; NEC                         ; 34; 10;  9; 15;  42; 56;  39;
+12; FC Utrecht                  ; 34; 10;  8; 16;  54; 64;  38;
+13; De Graafschap               ; 34;  8; 12; 14;  40; 57;  36;
+14; MVV                         ; 34;  7; 11; 16;  42; 63;  32;
+15; Cambuur Leeuwarden          ; 34;  7; 11; 16;  37; 64;  32;
+
+16; RKC Waalwijk                ; 34;  6;  9; 19;  41; 62;  27;  Relegation Playoff
+17; Sparta                      ; 34;  7;  5; 22;  37; 71;  26;  Relegation Playoff
+
+18; NAC                         ; 34;  4; 11; 19;  41; 61;  23;  Relegated
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablesn/ned98ext.html
+
+ 1; Ajax                        ; 34; 29;  2;  3; 112; 22; 89;  Champions
+
+ 2; PSV                         ; 34; 21;  9;  4;  95; 44; 72;  Champions League
+
+ 3; Vitesse                     ; 34; 21;  7;  6;  85; 48; 70;  UEFA Cup 
+ 4; Feyenoord                   ; 34; 18;  7;  9;  62; 40; 61;  UEFA Cup 
+ 5; Willem II                   ; 34; 17;  4; 13;  66; 58; 55;  UEFA Cup
+
+ 6; SC Heerenveen               ; 34; 16;  7; 11;  56; 59; 55;  CWC
+ 7; Fortuna Sittard             ; 34; 14;  6; 14;  51; 53; 48;  UIC
+ 8; NEC                         ; 34; 14;  2; 18;  40; 57; 44;  UIC
+ 9; FC Twente                   ; 34; 11; 10; 13;  41; 42; 43;
+10; FC Utrecht                  ; 34; 13;  4; 17;  56; 64; 43;
+11; De Graafschap               ; 34; 11;  9; 14;  45; 49; 42;
+12; NAC                         ; 34; 12;  6; 16;  41; 49; 42;
+13; Sparta                      ; 34; 10; 11; 13;  50; 59; 41;
+14; Roda JC                     ; 34; 10;  8; 16;  44; 45; 38;
+15; MVV                         ; 34;  9;  5; 20;  35; 75; 32;
+
+16; RKC Waalwijk                ; 34;  8;  7; 19;  48; 71; 31;  Relegation Playoff
+17; FC Groningen                ; 34;  7; 10; 17;  42; 65; 31;  Relegation Playoff
+
+18; FC Volendam                 ; 34;  5;  6; 23;  33;102; 21;  Relegated
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablesn/ned97ext.html
+
+ 1; PSV                         ; 34; 24;  5;  5;  90; 26; 77;  Champions
+
+ 2; Feyenoord                   ; 34; 22;  7;  5;  67; 34; 73;  Champions Cup
+
+ 3; FC Twente                   ; 34; 20;  5;  9;  60; 33; 65;  UEFA Cup
+ 4; Ajax                        ; 34; 17; 10;  7;  55; 31; 61;  UEFA Cup
+ 5; Vitesse                     ; 34; 15; 10;  9;  53; 41; 55;  UEFA Cup
+
+ 6; Roda JC                     ; 34; 16;  7; 11;  56; 47; 55;  CWC
+ 7; SC Heerenveen               ; 34; 13; 11; 10;  58; 47; 50;
+ 8; De Graafschap               ; 34; 13;  6; 15;  52; 55; 45;
+ 9; NAC                         ; 34; 10; 10; 14;  41; 54; 40;
+10; FC Groningen                ; 34;  9; 12; 13;  43; 56; 39;
+11; Fortuna Sittard             ; 34;  9; 12; 13;  36; 52; 39;
+12; FC Utrecht                  ; 34;  8; 14; 12;  42; 52; 38;
+13; Sparta                      ; 34; 11;  5; 18;  40; 56; 38;
+14; FC Volendam                 ; 34;  9; 11; 14;  36; 55; 38;
+15; Willem II                   ; 34;  9;  8; 17;  34; 51; 35;
+
+16; RKC Waalwijk                ; 34;  9;  7; 18;  39; 61; 34;  Relegation Playoff
+17; NEC                         ; 34;  7; 11; 16;  35; 61; 32;  Relegation Playoff
+
+18; AZ                          ; 34;  6;  7; 21;  27; 52; 25;  Relegated
+
+*NB: RKC is now officially called RKC Waalwijk.
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablesn/ned96ext.html
+
+ 1; Ajax                        ; 34; 26;  5;  3;  97; 24; 83;  Champions
+
+ 2; PSV                         ; 34; 24;  5;  5;  97; 25; 77;  CWC
+ 3; Feyenoord                   ; 34; 18;  9;  7;  66; 36; 63;  UEFA Cup
+ 4; Roda JC                     ; 34; 15; 12;  7;  51; 35; 57;  UEFA Cup
+
+ 5; Vitesse                     ; 34; 15;  8; 11;  48; 44; 53;
+ 6; Sparta                      ; 34; 14; 11;  9;  53; 53; 53; 
+ 7; SC Heerenveen               ; 34; 14; 11;  9;  66; 68; 53;  UIC
+ 8; NAC                         ; 34; 14; 10; 10;  58; 44; 52;
+ 9; FC Groningen                ; 34; 12; 13;  9;  48; 45; 49;  UIC
+10; FC Twente                   ; 34; 14;  6; 14;  46; 55; 48;
+11; RKC                         ; 34; 11; 11; 12;  44; 44; 44;
+12; Willem II                   ; 34;  9; 12; 13;  53; 59; 39;
+13; Fortuna Sittard             ; 34;  6; 13; 15;  27; 54; 31;
+14; De Graafschap               ; 34;  6; 11; 17;  37; 66; 29;
+15; FC Utrecht                  ; 34;  6; 10; 18;  27; 59; 28;
+
+16; FC Volendam                 ; 34;  6;  9; 19;  29; 65; 27;  Relegation Playoff
+17; NEC                         ; 34;  6;  7; 21;  33; 73; 25;  Relegation Playoff
+
+18; Go Ahead Eagles             ; 34;  5;  7; 22;  40; 71; 22;  Relegated
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+Season: 1994-1995
+BlockSource: http://www.rsssf.com/tablesn/ned95ext.html
+
+ 1; Ajax                 ; 34;  27;   7;   0;  106 ;  28;   61
+ 2; Roda JC              ; 34;  22;  10;   2;   70 ;  28;   54
+ 3; PSV                  ; 34;  20;   7;   7;   85 ;  46;   47
+ 4; Feyenoord            ; 34;  19;   5;  10;   66 ;  56;   43
+ 5; FC Twente            ; 34;  17;   8;   9;   66 ;  50;   42
+ 6; Vitesse              ; 34;  14;  12;   8;   55 ;  44;   40
+ 7; Willem II            ; 34;  13;   8;  13;   44 ;  48;   34
+ 8; RKC                  ; 34;  11;  11;  12;   46 ;  49;   33
+ 9; SC Heerenveen        ; 34;  12;   6;  16;   47 ;  60;   30
+10; NAC                  ; 34;  11;   7;  16;   54 ;  60;   29
+11; FC Volendam          ; 34;   8;  13;  13;   37 ;  55;   29
+12; FC Utrecht           ; 34;   8;  11;  15;   43 ;  60;   27
+13; FC Groningen         ; 34;   8;  10;  16;   49 ;  64;   26
+14; Sparta               ; 34;   8;  10;  16;   42 ;  58;   26
+15; NEC                  ; 34;   9;   7;  18;   48 ;  60;   25
+16; MVV                  ; 34;   7;   9;  18;   41 ;  71;   23
+17; Go Ahead Eagles      ; 34;   7;   9;  18;   42 ;  77;   23
+18; Dordrecht '90        ; 34;   5;  10;  19;   40 ;  67;   20

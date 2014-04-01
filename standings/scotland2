@@ -1,0 +1,346 @@
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tabless/scot2013.html
+
+Competition: Scottish Premier League
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+ 1; Celtic              ; 33;  21;  6;  6;  78; 30;  69;  Championship Playoff
+ 2; Motherwell          ; 33;  15;  9;  9;  56; 43;  54;  Championship Playoff
+ 3; Inverness Caled. Th.; 33;  12; 15;  6;  58; 49;  51;  Championship Playoff
+ 4; Saint Johnstone     ; 33;  11; 13;  9;  39; 38;  46;  Championship Playoff
+ 5; Ross County         ; 33;  11; 12; 10;  42; 43;  45;  Championship Playoff
+ 6; Dundee United       ; 33;  10; 14;  9;  48; 52;  44;  Championship Playoff
+
+ 7; Kilmarnock          ; 33;  10; 12; 11;  47; 43;  42;  Relegation Playoff
+ 8; Aberdeen            ; 33;  10; 11; 12;  38; 41;  41;  Relegation Playoff
+ 9; Hibernian           ; 33;  10; 10; 13;  40; 47;  40;  Relegation Playoff
+10; Heart of Midlothian ; 33;   9; 10; 14;  34; 45;  37;  Relegation Playoff
+11; Saint Mirren        ; 33;   8; 12; 13;  40; 51;  36;  Relegation Playoff
+
+12; Dundee              ; 33;   5;  8; 20;  22; 60;  23;  Relegation Playoff
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tabless/scot2012.html
+
+ 1; Celtic              ; 33;  26;  3;  4;  72; 20;  81;  Champions
+ 2; Rangers             ; 33;  23;  4;  6;  65; 25;  63;  [-10]
+ 3; Motherwell          ; 33;  16;  7; 10;  43; 38;  55;
+ 4; Saint Johnstone     ; 33;  14;  8; 11;  42; 36;  50;
+ 5; Dundee United       ; 33;  13; 10; 10;  55; 43;  49;
+ 6; Heart of Midlothian ; 33;  14;  6; 13;  41; 32;  48;
+
+ 7; Kilmarnock          ; 33;   8; 13; 12;  36; 54;  37;
+ 8; Aberdeen            ; 33;   8; 12; 13;  32; 38;  36;
+ 9; Saint Mirren        ; 33;   7; 14; 12;  32; 46;  35;
+10; Inverness Caled. Th.; 33;   8;  8; 17;  36; 54;  32;
+11; Hibernian           ; 33;   6;  9; 18;  34; 62;  27;
+
+12; Dunfermline Athletic; 33;   4;  8; 21;  32; 72;  20;
+
+*NB: Rangers 10 points deducted for financial reasons
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tabless/scot2011.html
+
+ 1; Rangers             ; 33;  26;  2;  5;  72; 28;  80;
+ 2; Celtic              ; 33;  25;  4;  4;  72; 21;  79;
+ 3; Heart of Midlothian ; 33;  18;  7;  8;  47; 31;  61;
+ 4; Dundee United       ; 33;  14; 10;  9;  44; 41;  52;
+ 5; Kilmarnock          ; 33;  13;  8; 12;  47; 41;  47;
+ 6; Motherwell          ; 33;  13;  5; 15;  36; 43;  44;
+
+ 7; Inverness Caled. Th.; 33;  10; 11; 12;  44; 42;  41;
+ 8; Hibernian           ; 33;  10;  6; 17;  36; 52;  36;
+ 9; Saint Johnstone     ; 33;   8; 10; 15;  18; 39;  34;
+10; Aberdeen            ; 33;   9;  4; 20;  34; 54;  31;
+11; Saint Mirren        ; 33;   7;  7; 19;  31; 54;  28;
+
+12; Hamilton Academical ; 33;   3; 10; 20;  20; 55;  19;
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tabless/scot2010.html
+
+ 1; Rangers             ; 33; 23;  8;  2;  73; 22;  77;
+ 2; Celtic              ; 33; 20;  6;  7;  62; 35;  66;
+ 3; Dundee United       ; 33; 16; 11;  6;  51; 39;  59;
+ 4; Hibernian           ; 33; 14;  8; 11;  47; 43;  50;
+ 5; Motherwell          ; 33; 12; 12;  9;  39; 38;  48;
+ 6; Heart of Midlothian ; 33; 12;  8; 13;  32; 39;  44;
+
+ 7; Saint Johnstone     ; 33; 11;  8; 14;  50; 54;  41;
+ 8; Hamilton Academical ; 33;  9;  9; 15;  29; 43;  36;
+ 9; Aberdeen            ; 33;  8; 10; 15;  31; 46;  34;
+10; Kilmarnock          ; 33;  7;  8; 18;  26; 44;  29;
+11; Saint Mirren        ; 33;  6; 10; 17;  32; 45;  28;
+
+12; Falkirk             ; 33;  6; 10; 17;  30; 54;  28;
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tabless/scot09.html
+
+ 1; Celtic              ; 33; 22;  8;  3;  75; 30;  74;
+ 2; Rangers             ; 33; 22;  7;  4;  68; 26;  73;
+ 3; Heart of Midlothian ; 33; 15;  9;  9;  37; 34;  54;
+ 4; Dundee United       ; 33; 12; 13;  8;  43; 40;  49;
+ 5; Aberdeen            ; 33; 13;  9; 11;  36; 33;  48;
+ 6; Hibernian           ; 33; 10; 12; 11;  38; 41;  42;
+
+ 7; Motherwell          ; 33; 11;  8; 14;  36; 44;  41;
+ 8; Kilmarnock          ; 33;  9;  7; 17;  31; 43;  34;
+ 9; Saint Mirren        ; 33;  8; 10; 15;  28; 44;  34;
+10; Hamilton Academical ; 33; 10;  4; 19;  26; 47;  34;
+11; Inverness Caled. Th.; 33;  9;  5; 19;  32; 52;  32;
+
+12; Falkirk             ; 33;  6; 10; 17;  32; 48;  28;
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tabless/scot08.html
+
+ 1; Rangers             ; 33; 25;  4;  4;  78; 27;  79;  Champions Playoff
+ 2; Celtic              ; 33; 23;  5;  5;  75; 23;  74;  Champions Playoff
+ 3; Motherwell          ; 33; 16;  5; 12;  43; 40;  53;  Champions Playoff
+ 4; Dundee United       ; 33; 14;  8; 11;  48; 38;  50;  Champions Playoff
+ 5; Hibernian           ; 33; 14;  8; 11;  47; 38;  50;  Champions Playoff
+ 6; Aberdeen            ; 33; 12;  8; 13;  43; 53;  44;  Champions Playoff
+
+ 7; Falkirk             ; 33; 11;  9; 13;  40; 44;  42;  Relegation Playoff
+ 8; Heart of Midlothian ; 33; 11;  9; 13;  42; 48;  42;  Relegation Playoff
+ 9; Inverness Caled. Th.; 33; 11;  3; 19;  41; 58;  36;  Relegation Playoff
+10; Kilmarnock          ; 33;  8;  9; 16;  34; 46;  33;  Relegation Playoff
+11; Saint Mirren        ; 33;  8;  9; 16;  22; 51;  33;  Relegation Playoff
+
+12; Gretna              ; 33;  4;  5; 24;  29; 76;   7;  [-10]  [*]  Relegated
+
+*NB: Gretna had 10 points deducted for going into administration
+*[*] play home matches at Fir Park, Motherwell
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tabless/scot07.html
+
+ 1; Celtic              ; 33; 24;  6;  3;  59; 25;  78;  Champions Playoff
+ 2; Rangers             ; 33; 19;  8;  6;  54; 25;  65;  Champions Playoff
+ 3; Aberdeen            ; 33; 17;  6; 10;  46; 33;  57;  Champions Playoff
+ 4; Heart of Midlothian ; 33; 15;  9;  9;  40; 30;  54;  Champions Playoff
+ 5; Kilmarnock          ; 33; 13;  7; 13;  43; 49;  46;  Champions Playoff
+ 6; Hibernian           ; 33; 12;  8; 13;  49; 37;  44;  Champions Playoff
+
+ 7; Falkirk             ; 33; 12;  4; 17;  40; 42;  40;  Relegation Playoff
+ 8; Dundee United       ; 33; 10; 10; 13;  39; 53;  40;  Relegation Playoff
+ 9; Inverness Caled. Th.; 33;  8; 12; 13;  36; 45;  36;  Relegation Playoff
+10; Motherwell          ; 33; 10;  6; 17;  35; 49;  36;  Relegation Playoff
+11; Saint Mirren        ; 33;  5; 12; 16;  24; 47;  27;  Relegation Playoff
+
+12; Dunfermline Athletic; 33;  5;  8; 20;  19; 49;  23;  Relegation Playoff
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tabless/scot06.html
+
+ 1; Celtic              ; 33; 27;  4;  2;  88; 31;  85;  Champions
+ 2; Heart of Midlothian ; 33; 19;  8;  6;  64; 27;  65;
+ 3; Rangers             ; 33; 18;  8;  7;  59; 34;  62;
+ 4; Hibernian           ; 33; 16;  4; 13;  56; 45;  52;
+ 5; Kilmarnock          ; 33; 14;  9; 10;  59; 56;  51;
+ 6; Aberdeen            ; 33; 12; 12;  9;  39; 36;  48;
+
+ 7; Motherwell          ; 33; 12;  8; 13;  50; 55;  44;
+ 8; Inverness Caled. Th.; 33; 10; 13; 10;  45; 38;  43;
+ 9; Dundee United       ; 33;  7; 11; 15;  39; 58;  32;
+10; Falkirk             ; 33;  6;  7; 20;  31; 61;  25;
+11; Dunfermline Athletic; 33;  5;  8; 20;  26; 63;  23;
+
+12; Livingston          ; 33;  3;  6; 24;  20; 72;  15;
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tabless/scot05.html
+
+ 1; Celtic              ; 33; 27;  2;  4;  77; 28;  83;
+ 2; Rangers             ; 33; 25;  6;  2;  67; 17;  81;
+ 3; Hibernian           ; 33; 17;  5; 11;  56; 49;  56;
+ 4; Aberdeen            ; 33; 15;  7; 11;  38; 33;  52;
+ 5; Heart of Midlothian ; 33; 13;  9; 11;  39; 33;  48;
+ 6; Motherwell          ; 33; 12;  7; 14;  41; 41;  43;
+
+ 7; Inverness Caled. Th.; 33; 11;  9; 13;  39; 42;  42;  [*]
+ 8; Kilmarnock          ; 33; 11;  3; 19;  39; 53;  36;
+ 9; Dundee              ; 33;  8;  7; 18;  34; 61;  31;
+10; Dundee United       ; 33;  6; 10; 17;  36; 55;  28;
+11; Dunfermline Athletic; 33;  6;  9; 18;  28; 54;  27;
+
+12; Livingston          ; 33;  7;  6; 20;  29; 57;  27;
+
+*[*] Inverness Caledonian Thistle played home matches at Aberdeen up to
+*    and including Round 21
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tabless/scot04.html
+
+ 1; Celtic              ; 33; 29;  3;  1;  99; 20;  90;  Champions
+ 2; Rangers             ; 33; 23;  5;  5;  66; 26;  74;
+ 3; Heart of Midlothian ; 33; 15; 10;  8;  47; 36;  55;
+ 4; Dunfermline Athletic; 33; 12; 11; 10;  35; 43;  47;
+ 5; Motherwell          ; 33; 12;  9; 12;  39; 37;  45;
+ 6; Dundee United       ; 33; 11;  9; 13;  39; 51;  42;
+
+ 7; Hibernian           ; 33;  9; 11; 13;  37; 52;  38;
+ 8; Livingston          ; 33;  8; 12; 13;  38; 48;  36;
+ 9; Dundee              ; 33;  8; 10; 15;  41; 55;  34;
+10; Aberdeen            ; 33;  9;  7; 17;  38; 52;  34;
+11; Kilmarnock          ; 33;  9;  5; 19;  39; 68;  32;
+
+12; Partick Thistle     ; 33;  4;  6; 23;  31; 61;  18;
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tabless/scot03.html
+
+ 1; Rangers             ; 33; 28;  3;  2;  86; 23;  87;
+ 2; Celtic              ; 33; 26;  4;  3;  81; 22;  82;
+ 3; Heart of Midlothian ; 33; 16;  9;  8;  55; 47;  57;
+ 4; Kilmarnock          ; 33; 14;  8; 11;  43; 46;  50;
+ 5; Dunfermline Athletic; 33; 13;  5; 15;  48; 56;  44;
+ 6; Dundee              ; 33; 10; 12; 11;  44; 48;  42;
+
+ 7; Hibernian           ; 33; 11;  6; 16;  46; 58;  39;
+ 8; Aberdeen            ; 33;  9; 10; 14;  32; 48;  37;
+ 9; Livingston          ; 33;  8;  8; 17;  41; 50;  32; 
+10; Partick Thistle     ; 33;  6; 11; 16;  29; 50;  29;
+11; Dundee United       ; 33;  5; 10; 18;  29; 61;  25;
+
+12; Motherwell          ; 33;  6;  6; 21;  35; 60;  24;
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tabless/scot02.html
+
+ 1; Celtic              ; 33; 29;  3;  1;  78; 15;  90;
+ 2; Rangers             ; 33; 23;  8;  2;  75; 23;  77;
+ 3; Aberdeen            ; 33; 15;  6; 12;  46; 43;  51;
+ 4; Livingston          ; 33; 13; 10; 10;  40; 35;  49;
+ 5; Dunfermline Athletic; 33; 12;  7; 14;  39; 52;  43;
+ 6; Heart of Midlothian ; 33; 12;  6; 15;  44; 46;  42;
+
+ 7; Kilmarnock          ; 33; 11;  9; 13;  37; 46;  42;
+ 8; Dundee              ; 33; 10;  7; 16;  35; 50;  37;
+ 9; Dundee United       ; 33;  9;  8; 16;  32; 56;  35;
+10; Hibernian           ; 33;  8; 10; 15;  43; 51;  34;
+11; Motherwell          ; 33;  9;  6; 18;  42; 61;  33;
+
+12; Saint Johnstone     ; 33;  5;  4; 24;  23; 56;  19;
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tabless/scot01.html
+
+ 1; Celtic              ; 33; 28;  4 ; 1 ; 81; 24; 88;  Champions
+ 2; Rangers             ; 33; 22;  4 ; 7 ; 60; 31; 70;
+ 3; Hibernian           ; 33; 17; 10 ; 6 ; 52; 25; 61;
+ 4; Kilmarnock          ; 33; 14;  7 ;12 ; 39; 44; 49;
+ 5; Heart of Midlothian ; 33; 13;  8 ;12 ; 52; 44; 47;
+ 6; Dundee              ; 33; 11;  8 ;14 ; 47; 41; 41; 
+
+ 7; Dunfermline Athletic; 33; 11;  8 ;14 ; 32; 48; 41;
+ 8; Motherwell          ; 33; 11;  6 ;16 ; 37; 48; 39;
+ 9; Aberdeen            ; 33;  8; 12 ;13 ; 37; 48; 36; 
+10; Saint Johnstone     ; 33;  8; 11 ;14 ; 35; 48; 35;
+11; Dundee United       ; 33;  5;  8 ;20 ; 30; 58; 23;
+12; Saint Mirren        ; 33;  5;  4 ;24 ; 21; 64; 19;
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tabless/scot00.html
+
+ 1; Rangers             ; 36; 28;  6 ; 2 ; 96; 26; 90;  Champions
+
+ 2; Celtic              ; 36; 21;  6 ; 9 ; 90; 38; 69;
+ 3; Heart of Midlothian ; 36; 15;  9 ;12 ; 47; 40; 54;
+ 4; Motherwell          ; 36; 14; 10 ;12 ; 49; 63; 52;
+ 5; Saint Johnstone     ; 36; 10; 12 ;14 ; 36; 44; 42;
+ 6; Hibernian           ; 36; 10; 11 ;15 ; 49; 61; 41;
+ 7; Dundee              ; 36; 12;  5 ;19 ; 45; 64; 41;
+ 8; Dundee United       ; 36; 11;  6 ;19 ; 34; 57; 39;
+ 9; Kilmarnock          ; 36;  8; 13 ;15 ; 38; 52; 37;
+
+10; Aberdeen            ; 36;  9;  6 ;21 ; 44; 83; 33; 
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tabless/scot99.html
+
+ 1; Rangers             ; 36;  23;  8;  5;  78; 31;  77;  Champions
+
+ 2; Celtic              ; 36;  21;  8;  7;  84; 35;  71;  UEFA Cup (Cup Finalists)
+ 3; Saint Johnstone     ; 36;  15; 12;  9;  39; 38;  57;  UEFA Cup
+ 4; Kilmarnock          ; 36;  14; 14;  8;  47; 29;  56;  UEFA Cup (Fair Play Place)
+ 5; Dundee              ; 36;  13;  7; 16;  36; 56;  46;
+ 6; Heart of Midlothian ; 36;  11;  9; 16;  44; 50;  42;
+ 7; Motherwell          ; 36;  10; 11; 15;  35; 54;  41;
+ 8; Aberdeen            ; 36;  10;  7; 19;  43; 71;  37;
+ 9; Dundee United       ; 36;   8; 10; 18;  37; 48;  34;
+
+10; Dunfermline Athletic; 36;   4; 16; 16;  28; 59;  28;  Relegated
+
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tabless/scot98.html
+
+ 1; Celtic              ; 36;  22;  8;  6;  64; 24;  74;  Champions
+
+ 2; Rangers             ; 36;  21;  9;  6;  76; 38;  72;  UEFA Cup
+ 3; Heart of Midlothian ; 36;  19; 10;  7;  70; 46;  67;  CWC  
+ 4; Kilmarnock          ; 36;  13; 11; 12;  40; 52;  50;  UEFA Cup
+
+ 5; Saint Johnstone     ; 36;  13;  9; 14;  38; 42;  48; 
+ 6; Aberdeen            ; 36;   9; 12; 15;  39; 53;  39;
+ 7; Dundee United       ; 36;   8; 13; 15;  43; 51;  37;  
+ 8; Dunfermline Athletic; 36;   8; 13; 15;  43; 68;  37; 
+ 9; Motherwell          ; 36;   9;  7; 20;  46; 64;  34;
+
+10; Hibernian           ; 36;   6; 12; 18;  38; 59;  30;  Relegated
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tabless/scot97.html
+
+ 1; Rangers             ; 36;  25;  5;  6;  85; 33;  80;  
+
+ 2; Celtic              ; 36;  23;  6;  7;  78; 32;  75;  
+ 3; Dundee United       ; 36;  17;  9; 10;  46; 33;  60;  
+ 4; Heart of Midlothian ; 36;  14; 10; 12;  46; 43;  52;   
+ 5; Dunfermline Athletic; 36;  12;  9; 15;  52; 65;  45; 
+ 6; Aberdeen            ; 36;  10; 14; 12;  45; 54;  44; 
+ 7; Kilmarnock          ; 36;  11;  6; 19;  41; 61;  39; 
+ 8; Motherwell          ; 36;   9; 11; 16;  44; 55;  38; 
+
+ 9; Hibernian           ; 36;   9; 11; 16;  38; 55;  38; 
+
+10; Raith Rovers        ; 36;   6;  7; 23;  29; 73;  25; 
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tabless/scot96.html
+
+*                                    HOME             AWAY
+*                               P  W  D  L  F   A   W  D  L  F   A   GD PD PTS
+*  1 Rangers                   36 13  3  2  47  16 14  3  1  38   9  60  0  87
+*  2 Celtic                    36 12  5  1  40  12 12  6  0  34  13  49  0  83
+*  3 Aberdeen                  36 11  1  6  31  17  5  6  7  21  28   7  0  55
+*  4 Heart of Midlothian       36 10  2  6  33  26  6  5  7  22  27   2  0  55
+*  5 Hibernian                 36  7  5  6  25  26  4  5  9  18  31 -14  0  43
+*  6 Raith Rovers              36  7  5  6  23  21  5  2 11  18  36 -16  0  43
+*  7 Kilmarnock                36  8  4  6  25  21  3  4 11  14  33 -15  0  41
+*  8 Motherwell                36  6  6  6  15  16  3  6  9  13  23 -11  0  39
+* ----------------------------------------------------------------------------
+*  9 Partick Thistle           36  3  5 10  12  28  5  1 12  17  34 -33  0  30
+* ============================================================================
+* 10 Falkirk                   36  4  4 10  17  26  2  2 14  14  34 -29  0  24
