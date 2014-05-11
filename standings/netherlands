@@ -1,7 +1,31 @@
 BlockSource: http://www.rsssf.com/tablesn/ned2013.html
 Competition: Eredivisie
-
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+
+Season: 2013-2014
+
+
+1     ; Ajax           ; 34     ; 20     ; 11     ; 3      ; 71     ; 69     ; 28     ; +41;
+2     ; Feyenoord      ; 34     ; 20     ; 7      ; 7      ; 67     ; 76     ; 40     ; +36;
+3     ; FC Twente      ; 34     ; 17     ; 12     ; 5      ; 63     ; 72     ; 37     ; +35;
+4     ; PSV            ; 34     ; 18     ; 5      ; 11     ; 59     ; 60     ; 45     ; +15;
+5     ; sc Heerenveen  ; 34     ; 16     ; 9      ; 9      ; 57     ; 72     ; 51     ; +21;
+6     ; Vitesse        ; 34     ; 15     ; 10     ; 9      ; 55     ; 65     ; 49     ; +16;
+7     ; FC Groningen   ; 34     ; 14     ; 9      ; 11     ; 51     ; 57     ; 53     ; +4;
+8     ; AZ             ; 34     ; 13     ; 8      ; 13     ; 47     ; 54     ; 50     ; +4;
+9     ; ADO Den Haag   ; 34     ; 12     ; 7      ; 15     ; 43     ; 45     ; 64     ; -19;
+10    ; FC Utrecht     ; 34     ; 11     ; 8      ; 15     ; 41     ; 46     ; 65     ; -19;
+11    ; PEC Zwolle     ; 34     ; 9      ; 13     ; 12     ; 40     ; 47     ; 49     ; -2;
+12    ; SC Cambuur     ; 34     ; 10     ; 9      ; 15     ; 39     ; 40     ; 50     ; -10;
+13    ; Go Ahead Eagles; 34     ; 10     ; 8      ; 16     ; 38     ; 45     ; 69     ; -24;
+14    ; Heracles Almelo; 34     ; 10     ; 7      ; 17     ; 37     ; 45     ; 59     ; -14;
+15    ; NAC Breda      ; 34     ; 8      ; 11     ; 15     ; 35     ; 43     ; 54     ; -11;
+16    ; RKC Waalwijk   ; 34     ; 7      ; 11     ; 16     ; 32     ; 44     ; 64     ; -20;
+17    ; N.E.C.         ; 34     ; 5      ; 15     ; 14     ; 30     ; 54     ; 82     ; -28;
+18    ; Roda JC        ; 34     ; 7      ; 8      ; 19     ; 29     ; 44     ; 69     ; -25;
+
+
 
 Season: 2012-2013
 

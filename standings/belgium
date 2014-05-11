@@ -604,3 +604,33 @@ BlockSource: http://www.rsssf.com/tablesb/belg2013.html
 
 15; K. Beerschot AC                 ; 30;   6;  5; 19;  31; 61;  23
 16; Cercle Brugge KSV               ; 30;   3;  5; 22;  30; 65;  14
+
+
+
+Season: 2013-2014
+BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Belgian_Pro_League
+
+
+1           ; Standard Liège  ; 30  ; 20     ; 7      ; 3      ; 59     ; 17     ; +42    ; 67;      Belgian Title Playoff
+2           ; Club Brugge     ; 30  ; 19     ; 6      ; 5      ; 54     ; 28     ; +26    ; 63;
+3           ; Anderlecht      ; 30  ; 18     ; 3      ; 9      ; 61     ; 31     ; +30    ; 57;
+4           ; Zulte Waregem   ; 30  ; 14     ; 11     ; 5      ; 51     ; 38     ; +13    ; 53;
+5           ; Lokeren         ; 30  ; 15     ; 6      ; 9      ; 48     ; 31     ; +17    ; 51;
+6           ; Genk            ; 30  ; 14     ; 3      ; 13     ; 42     ; 39     ; +3     ; 45;
+7           ; Gent            ; 30  ; 12     ; 8      ; 10     ; 39     ; 37     ; +2     ; 44;      Belgian European Playoff
+8           ; Kortrijk        ; 30  ; 10     ; 9      ; 11     ; 42     ; 44     ; −2     ; 39;
+9           ; Oostende        ; 30  ; 9      ; 7      ; 14     ; 28     ; 46     ; −18    ; 34;
+10          ; Charleroi       ; 30  ; 8      ; 10     ; 12     ; 36     ; 41     ; −5     ; 34;
+11          ; Cercle Brugge   ; 30  ; 9      ; 6      ; 15     ; 29     ; 55     ; −26    ; 33;
+12          ; Lierse          ; 30  ; 9      ; 5      ; 16     ; 36     ; 53     ; −17    ; 32;
+13          ; Mechelen        ; 30  ; 8      ; 7      ; 15     ; 34     ; 51     ; −17    ; 31;
+14          ; Waasland-Beveren; 30  ; 6      ; 13     ; 11     ; 28     ; 35     ; −7     ; 31;
+15          ; OH Leuven       ; 30  ; 6      ; 9      ; 15     ; 30     ; 47     ; −17    ; 27;      Belgian Relegation Playoff
+16          ; Mons            ; 30  ; 6      ; 4      ; 20     ; 29     ; 53     ; −24    ; 22;
+
+
+Stage: Championship
+
+Stage: Europa
+
+Stage: Relegation
