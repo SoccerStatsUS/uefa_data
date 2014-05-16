@@ -1,0 +1,588 @@
+Competition: Premier League
+
+Season: 1992-1993
+BlockSource: http://www.rsssf.com/tablese/eng93.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+  1; Manchester United   ; 42;  24;  12;   6;  67;  31;  36;  84
+  2; Aston Villa         ; 42;  21;  11;  10;  57;  40;  17;  74
+  3; Norwich City        ; 42;  21;   9;  12;  61;  65;  -4;  72
+  4; Blackburn Rovers    ; 42;  20;  11;  11;  68;  46;  22;  71
+  5; Queens Park Rangers ; 42;  17;  12;  13;  63;  55;   8;  63
+  6; Liverpool           ; 42;  16;  11;  15;  62;  55;   7;  59
+  7; Sheffield Wednesday ; 42;  15;  14;  13;  55;  51;   4;  59
+  8; Tottenham Hotspur   ; 42;  16;  11;  15;  60;  66;  -6;  59
+  9; Manchester City     ; 42;  15;  12;  15;  56;  51;   5;  57
+ 10; Arsenal             ; 42;  15;  11;  16;  40;  38;   2;  56
+ 11; Chelsea             ; 42;  14;  14;  14;  51;  54;  -3;  56
+ 12; Wimbledon           ; 42;  14;  12;  16;  56;  55;   1;  54
+ 13; Everton             ; 42;  15;   8;  19;  53;  55;  -2;  53
+ 14; Sheffield United    ; 42;  14;  10;  18;  54;  53;   1;  52
+ 15; Coventry City       ; 42;  13;  13;  16;  52;  57;  -5;  52
+ 16; Ipswich Town        ; 42;  12;  16;  14;  50;  55;  -5;  52
+ 17; Leeds United        ; 42;  12;  15;  15;  57;  62;  -5;  51
+ 18; Southampton         ; 42;  13;  11;  18;  54;  61;  -7;  50
+ 19; Oldham Athletic     ; 42;  13;  10;  19;  63;  74; -11;  49
+ 20; Crystal Palace      ; 42;  11;  16;  15;  48;  61; -13;  49
+ 21; Middlesbrough       ; 42;  11;  11;  20;  54;  75; -21;  44
+ 22; Nottingham Forest   ; 42;  10;  10;  22;  41;  62; -21;  40
+
+
+
+Season: 1993-1994
+BlockSource: http://www.rsssf.com/tablese/eng94.html
+
+
+  1; Manchester United   ; 42;  27;  11;   4;  80;  38;  42;  92
+  2; Blackburn Rovers    ; 42;  25;   9;   8;  63;  36;  27;  84
+  3; Newcastle United    ; 42;  23;   8;  11;  82;  41;  41;  77
+  4; Arsenal             ; 42;  18;  17;   7;  53;  28;  25;  71
+  5; Leeds United        ; 42;  18;  16;   8;  65;  39;  26;  70
+  6; Wimbledon           ; 42;  18;  11;  13;  56;  53;   3;  65
+  7; Sheffield Wednesday ; 42;  16;  16;  10;  76;  54;  22;  64
+  8; Liverpool           ; 42;  17;   9;  16;  59;  55;   4;  60
+  9; Queens Park Rangers ; 42;  16;  12;  14;  62;  61;   1;  60
+ 10; Aston Villa         ; 42;  15;  12;  15;  46;  50;  -4;  57
+ 11; Coventry City       ; 42;  14;  14;  14;  43;  45;  -2;  56
+ 12; Norwich City        ; 42;  12;  17;  13;  65;  61;   4;  53
+ 13; West Ham United     ; 42;  13;  13;  16;  47;  58; -11;  52
+ 14; Chelsea             ; 42;  13;  12;  17;  49;  53;  -4;  51
+ 15; Tottenham Hotspur   ; 42;  11;  12;  19;  54;  59;  -5;  45
+ 16; Manchester City     ; 42;   9;  18;  15;  38;  49; -11;  45
+ 17; Everton             ; 42;  12;   8;  22;  42;  63; -21;  44
+ 18; Southampton         ; 42;  12;   7;  23;  49;  66; -17;  43
+ 19; Ipswich Town        ; 42;   9;  16;  17;  35;  58; -23;  43
+ 20; Sheffield United    ; 42;   8;  18;  16;  42;  60; -18;  42
+ 21; Oldham Athletic     ; 42;   9;  13;  20;  42;  68; -26;  40
+ 22; Swindon Town        ; 42;   5;  15;  22;  47; 100; -53;  30
+
+
+Season: 1994-1995
+BlockSource: http://www.rsssf.com/tablese/eng95.html
+
+*Key: position; team; games; wins; ties; losses; goals_for; goals_against; _; _; _; _; _; points; goal_difference; notes
+
+*                              P  W  D  L   F   A  W  D  L   F   A Pts  GD
+
+* 1; Blackburn Rovers        ; 42; 17;  2;  2;  54;  21; 10;  6;  5;  26;  18;  89; +41; EC1
+* 2; Manchester United       ; 42; 16;  4;  1;  42;   4; 10;  6;  5;  35;  24;  88; +49; EC3
+* 3; Nottingham Forest       ; 42; 12;  6;  3;  36;  18; 10;  5;  6;  36;  25;  77; +29; EC3
+* 4; Liverpool               ; 42; 13;  5;  3;  38;  13;  8;  6;  7;  27;  24;  74; +28; EC3
+* 5; Leeds United            ; 42; 13;  5;  3;  35;  15;  7;  8;  6;  24;  23;  73; +21; EC3
+* 6; Newcastle United        ; 42; 14;  6;  1;  46;  20;  6;  6;  9;  21;  27;  72; +20; 
+* 7; Tottenham Hotspur       ; 42; 10;  5;  6;  32;  25;  6;  9;  6;  34;  33;  62;  +8;
+* 8; Queen's Park Rangers    ; 42; 11;  3;  7;  36;  26;  6;  6;  9;  25;  33;  60;  +2;
+* 9; Wimbledon               ; 42;  9;  5;  7;  26;  26;  6;  6;  9;  22;  39;  56; -17;
+*10; Southampton             ; 42;  8;  9;  4;  33;  27;  4;  9;  8;  28;  36;  54;  -2; 
+*11; Chelsea                 ; 42;  7;  7;  7;  25;  22;  6;  8;  7;  25;  33;  54;  -5; 
+*12; Arsenal                 ; 42;  6;  9;  6;  27;  21;  7;  3; 11;  25;  28;  51;  +3;
+*13; Sheffield Wednesday     ; 42;  7;  7;  7;  26;  26;  6;  5; 10;  23;  31;  51;  -8;
+*14; West Ham United         ; 42;  9;  6;  6;  28;  19;  4;  5; 12;  16;  29;  50;  -4;
+*15; Everton                 ; 42;  8;  9;  4;  31;  23;  3;  8; 10;  13;  28;  50;  -7; EC2
+*16; Coventry City           ; 42;  7;  7;  7;  23;  25;  5;  7;  9;  21;  37;  50; -18;
+*17; Manchester City         ; 42;  8;  7;  6;  37;  28;  4;  6; 11;  16;  36;  49; -11;
+*18; Aston Villa             ; 42;  6;  9;  6;  27;  24;  5;  6; 10;  24;  32;  48;  -5;
+
+*19; Crystal Palace          ; 42;  6;  6;  9;  16;  23;  5;  6; 10;  18;  26;  45; -15;
+*20; Norwich City            ; 42;  8;  8;  5;  27;  21;  2;  5; 14;  10;  33;  43; -17;
+*21; Leicester City          ; 42;  5;  6; 10;  28;  37;  1;  5; 15;  17;  43;  29; -35;
+*22; Ipswich Town            ; 42;  5;  3; 13;  24;  34;  2;  3; 16;  12;  59;  27; -57;
+
+
+Season: 1995-1996
+BlockSource: http://www.rsssf.com/tablese/eng96.html
+
+*Key: position; team; games; home_wins; home_ties; home_losses; home_goals_for; home_goals_against; away_wins; away_ties; away_losses; away_goals_for; away_goals_against; goal_difference; _; points; notes
+
+*                               P  W  D  L  F   A   W  D  L  F   A   GD PD PTS
+
+*  1; Manchester United        ; 38; 15;  4;  0;  36;   9; 10;  3;  6;  37;  26;  38;  0;  82; C
+*  2; Newcastle United         ; 38; 17;  1;  1;  38;   9;  7;  5;  7;  28;  28;  29;  0;  78; U
+*  3; Liverpool                ; 38; 14;  4;  1;  46;  13;  6;  7;  6;  24;  21;  36;  0;  71; 2
+*  4; Aston Villa              ; 38; 11;  5;  3;  32;  15;  7;  4;  8;  20;  20;  17;  0;  63; U
+*  5; Arsenal                  ; 38; 10;  7;  2;  30;  16;  7;  5;  7;  19;  16;  17;  0;  63; U
+*  6; Everton                  ; 38; 10;  5;  4;  35;  19;  7;  5;  7;  29;  25;  20;  0;  61;
+*  7; Blackburn Rovers         ; 38; 14;  2;  3;  44;  19;  4;  5; 10;  17;  28;  14;  0;  61;
+*  8; Tottenham Hotspur        ; 38;  9;  5;  5;  26;  19;  7;  8;  4;  24;  19;  12;  0;  61;
+*  9; Nottingham Forest        ; 38; 11;  6;  2;  29;  17;  4;  7;  8;  21;  37;  -4;  0;  58;
+* 10; West Ham United          ; 38;  9;  5;  5;  25;  21;  5;  4; 10;  18;  31;  -9;  0;  51;
+* 11; Chelsea                  ; 38;  7;  7;  5;  30;  22;  5;  7;  7;  16;  22;   2;  0;  50;
+* 12; Middlesbrough            ; 38;  8;  3;  8;  27;  27;  3;  7;  9;   8;  23; -15;  0;  43;
+* 13; Leeds United             ; 38;  8;  3;  8;  21;  21;  4;  4; 11;  19;  36; -17;  0;  43;
+* 14; Wimbledon                ; 38;  5;  6;  8;  27;  33;  5;  5;  9;  28;  37; -15;  0;  41;
+* 15; Sheffield Wednesday      ; 38;  7;  5;  7;  30;  31;  3;  5; 11;  18;  30; -13;  0;  40;
+* 16; Coventry City            ; 38;  6;  7;  6;  21;  23;  2;  7; 10;  21;  37; -18;  0;  38;
+* 17; Southampton              ; 38;  7;  7;  5;  21;  18;  2;  4; 13;  13;  34; -18;  0;  38;
+
+* 18; Manchester City          ; 38;  7;  7;  5;  21;  19;  2;  4; 13;  12;  39; -25;  0;  38; R
+* 19; Queens Park Rangers      ; 38;  6;  5;  8;  25;  26;  3;  1; 15;  13;  31; -19;  0;  33; R
+* 20; Bolton Wanderers         ; 38;  5;  4; 10;  16;  31;  3;  1; 15;  23;  40; -32;  0;  29; R
+
+
+Season: 1996-1997
+BlockSource: http://www.rsssf.com/tablese/eng97.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+ 1; Manchester United  ; 38;  21; 12;  5;  76; 44;  75
+ 2; Newcastle United   ; 38;  19; 11;  8;  73; 40;  68 
+ 3; Arsenal            ; 38;  19; 11;  8;  62; 32;  68  
+ 4; Liverpool          ; 38;  19; 11;  8;  62; 37;  68  
+ 5; Aston Villa        ; 38;  17; 10; 11;  47; 34;  61  
+ 6; Chelsea            ; 38;  16; 11; 11;  58; 55;  59  
+ 7; Sheffield Wednesday; 38;  14; 15;  9;  50; 51;  57  
+ 8; Wimbledon          ; 38;  15; 11; 12;  49; 46;  56  
+ 9; Leicester City     ; 38;  12; 11; 15;  46; 54;  47  
+10; Tottenham Hotspur  ; 38;  13;  7; 18;  44; 51;  46 
+11; Leeds United       ; 38;  11; 13; 14;  28; 38;  46 
+12; Derby County       ; 38;  11; 13; 14;  45; 58;  46 
+13; Blackburn Rovers   ; 38;   9; 15; 14;  42; 43;  42 
+14; West Ham United    ; 38;  10; 12; 16;  39; 48;  42 
+15; Everton            ; 38;  10; 12; 16;  44; 57;  42 
+16; Southampton        ; 38;  10; 11; 17;  50; 56;  41 
+17; Coventry City      ; 38;   9; 14; 15;  38; 54;  41 
+
+18; Sunderland         ; 38;  10; 10; 18;  35; 53;  40 
+19; Middlesbrough      ; 38;  10; 12; 16;  51; 60;  39
+*] Middlesbrough 3 points deducted.
+20; Nottingham Forest  ; 38;   6; 16; 16;  31; 59;  34
+
+
+
+
+Season: 1997-1998
+BlockSource: http://www.rsssf.com/tablese/eng98.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+
+ 1; Arsenal            ; 38;  23;  9;  6;  68; 33;  78;  Champions
+
+ 2; Manchester United  ; 38;  23;  8;  7;  73; 26;  77;  Champions League
+
+ 3; Liverpool          ; 38;  18; 11;  9;  68; 42;  65;  UEFA Cup
+ 4; Chelsea            ; 38;  20;  3; 15;  71; 43;  63;  CWC (holders)
+ 5; Leeds United       ; 38;  17;  8; 13;  57; 46;  59;  UEFA Cup
+ 6; Blackburn Rovers   ; 38;  16; 10; 12;  57; 52;  58;  UEFA Cup
+ 7; Aston Villa        ; 38;  17;  6; 15;  49; 48;  57;  UEFA Cup (fair play spot)
+
+ 8; West Ham United    ; 38;  16;  8; 14;  56; 57;  56; 
+ 9; Derby County       ; 38;  16;  7; 15;  52; 49;  55;
+10; Leicester City     ; 38;  13; 14; 11;  51; 41;  53;
+11; Coventry City      ; 38;  12; 16; 10;  46; 44;  52;
+12; Southampton        ; 38;  14;  6; 18;  50; 55;  48; 
+13; Newcastle United   ; 38;  11; 11; 16;  35; 44;  44;   CWC
+14; Tottenham Hotspur  ; 38;  11; 11; 16;  44; 56;  44; 
+15; Wimbledon          ; 38;  10; 14; 14;  34; 46;  44;
+16; Sheffield Wednesday; 38;  12;  8; 18;  52; 67;  44;  
+17; Everton            ; 38;   9; 13; 16;  41; 56;  40;
+
+18; Bolton Wanderers   ; 38;   9; 13; 16;  41; 61;  40;  Relegated
+19; Barnsley           ; 38;  10;  5; 23;  37; 82;  35;  Relegated
+20; Crystal Palace     ; 38;   8;  9; 21;  37; 71;  33;  Relegated  UIC
+
+
+Season: 1998-1999
+BlockSource: http://www.rsssf.com/tablese/eng99.html
+
+ 1; Manchester United  ; 38;  22; 13;  3;  80; 37;  79;  Champions
+
+ 2; Arsenal            ; 38;  22; 12;  4;  59; 17;  78;  Champions' League
+
+ 3; Chelsea            ; 38;  20; 15;  3;  57; 30;  75;  Champions' League Qualifiers
+
+ 4; Leeds United       ; 38;  18; 13;  7;  62; 34;  67;  UEFA Cup
+ 5; West Ham United    ; 38;  16;  9; 13;  46; 53;  57;
+ 6; Aston Villa        ; 38;  15; 10; 13;  51; 46;  55;
+ 7; Liverpool          ; 38;  15;  9; 14;  68; 49;  54;
+ 8; Derby County       ; 38;  13; 13; 12;  40; 45;  52;
+ 9; Middlesbrough      ; 38;  12; 15; 11;  48; 54;  51;
+10; Leicester City     ; 38;  12; 13; 13;  40; 46;  49;
+11; Tottenham Hotspur  ; 38;  11; 14; 13;  47; 50;  47;  UEFA Cup (League Cup Winners)
+12; Sheffield Wednesday; 38;  13;  7; 18;  41; 42;  46;
+13; Newcastle United   ; 38;  11; 13; 14;  48; 54;  46;  UEFA Cup (Cup Finalists)
+14; Everton            ; 38;  11; 10; 17;  42; 47;  43;
+15; Coventry City      ; 38;  11;  9; 18;  39; 51;  42;
+16; Wimbledon          ; 38;  10; 12; 16;  40; 63;  42;
+17; Southampton        ; 38;  11;  8; 19;  37; 64;  41;
+
+18; Charlton Athletic  ; 38;   8; 12; 18;  41; 56;  36;  Relegated
+19; Blackburn Rovers   ; 38;   7; 14; 17;  38; 52;  35;  Relegated
+20; Nottingham Forest  ; 38;   7;  9; 22;  35; 69;  30;  Relegated
+
+
+Season: 1999-2000
+BlockSource: http://www.rsssf.com/tablese/eng00.html
+
+ 1; Manchester United  ; 38;  28;  7;  3;  97; 45;  91;  Champions
+
+ 2; Arsenal            ; 38;  22;  7;  9;  73; 43;  73;  Champions' League
+ 3; Leeds United       ; 38;  21;  6; 11;  58; 43;  69;  Champions' League Qualification
+ 4; Liverpool          ; 38;  19; 10;  9;  51; 30;  67;  UEFA Cup
+ 5; Chelsea            ; 38;  18; 11;  9;  53; 34;  65;
+ 6; Aston Villa        ; 38;  15; 13; 10;  46; 35;  58;
+ 7; Sunderland         ; 38;  16; 10; 12;  57; 56;  58;
+ 8; Leicester City     ; 38;  16;  7; 15;  55; 55;  55;
+ 9; West Ham United    ; 38;  15; 10; 13;  52; 53;  55;
+10; Tottenham Hotspur  ; 38;  15;  8; 15;  57; 49;  53;
+11; Newcastle United   ; 38;  14; 10; 14;  63; 54;  52;
+12; Middlesbrough      ; 38;  14; 10; 14;  46; 52;  52;
+13; Everton            ; 38;  12; 14; 12;  59; 49;  50;
+14; Coventry City      ; 38;  12;  8; 18;  47; 54;  44;
+15; Southampton        ; 38;  12;  8; 18;  45; 62;  44;
+16; Derby County       ; 38;   9; 11; 18;  44; 57;  38;
+17; Bradford City      ; 38;   9;  9; 20;  38; 68;  36;
+
+18; Wimbledon          ; 38;   7; 12; 19;  46; 74;  33;  Relegated
+19; Sheffield Wednesday; 38;   8;  7; 23;  38; 70;  31;  Relegated
+20; Watford            ; 38;   6;  6; 26;  35; 77;  24;  Relegated
+
+
+
+Season: 2000-2001
+BlockSource: http://www.rsssf.com/tablese/eng01.html
+
+ 1; Manchester United ; 38; 24;  8;  6;  79; 31;  80;  Champions
+ 2; Arsenal           ; 38; 20; 10;  8;  63; 38;  70;  Champions' League 
+ 3; Liverpool         ; 38; 20;  9;  9;  71; 39;  69;  CL Qualification
+ 4; Leeds United      ; 38; 20;  8; 10;  64; 43;  68;  UEFA Cup
+ 5; Ipswich Town      ; 38; 20;  6; 12;  57; 42;  66;  UEFA Cup
+ 6; Chelsea           ; 38; 17; 10; 11;  68; 45;  61;  UEFA Cup
+ 7; Sunderland        ; 38; 15; 12; 11;  46; 41;  57;
+ 8; Aston Villa       ; 38; 13; 15; 10;  46; 43;  54;
+ 9; Charlton Athletic ; 38; 14; 10; 14;  50; 57;  52; 
+10; Southampton       ; 38; 14; 10; 14;  40; 48;  52;
+11; Newcastle United  ; 38; 14;  9; 15;  44; 50;  51; 
+12; Tottenham Hotspur ; 38; 13; 10; 15;  47; 54;  49;
+13; Leicester City    ; 38; 14;  6; 18;  39; 51;  48;
+14; Middlesbrough     ; 38;  9; 15; 14;  44; 44;  42; 
+15; West Ham United   ; 38; 10; 12; 16;  45; 50;  42;
+16; Everton           ; 38; 11;  9; 18;  45; 59;  42;
+17; Derby County      ; 38; 10; 12; 16;  37; 59;  42;
+
+18; Manchester City   ; 38;  8; 10; 20;  41; 65;  34;  Relegated 
+19; Coventry City     ; 38;  8; 10; 20;  36; 63;  34;  Relegated
+20; Bradford City     ; 38;  5; 11; 22;  30; 70;  26;  Relegated
+
+
+Season: 2001-2002
+BlockSource: http://www.rsssf.com/tablese/eng02.html
+
+ 1; Arsenal           ; 38; 26;  9;  3;  79; 36;  87;  Champions
+ 2; Liverpool         ; 38; 24;  8;  6;  67; 30;  80;  Champions' League
+ 3; Manchester United ; 38; 24;  5;  9;  87; 45;  77;  CL Qualifying
+ 4; Newcastle United  ; 38; 21;  8;  9;  74; 52;  71;  CL Qualifying
+ 5; Leeds United      ; 38; 18; 12;  8;  53; 37;  66;  UEFA Cup
+ 6; Chelsea           ; 38; 17; 13;  8;  66; 38;  64;  UEFA Cup (Cup finalists)
+ 7; West Ham United   ; 38; 15;  8; 15;  48; 57;  53;
+ 8; Aston Villa       ; 38; 12; 14; 12;  46; 47;  50;
+ 9; Tottenham Hotspur ; 38; 14;  8; 16;  49; 53;  50;
+10; Blackburn Rovers  ; 38; 12; 10; 16;  55; 51;  46;  UEFA Cup (League Cup winners)
+11; Southampton       ; 38; 12;  9; 17;  46; 54;  45;
+12; Middlesbrough     ; 38; 12;  9; 17;  35; 47;  45;
+13; Fulham            ; 38; 10; 14; 14;  36; 44;  44;
+14; Charlton Athletic ; 38; 10; 14; 14;  38; 49;  44;
+15; Everton           ; 38; 11; 10; 17;  45; 57;  43;
+16; Bolton Wanderers  ; 38;  9; 13; 16;  44; 62;  40;
+17; Sunderland        ; 38; 10; 10; 18;  29; 51;  40;
+
+18; Ipswich Town      ; 38;  9;  9; 20;  41; 64;  36;  Relegated
+19; Derby County      ; 38;  8;  6; 24;  33; 63;  30;  Relegated
+20; Leicester City    ; 38;  5; 13; 20;  30; 64;  28;  Relegated
+
+
+Season: 2002-2003
+BlockSource: http://www.rsssf.com/tablese/eng03.html
+
+ 1; Manchester United     ; 38;  25;  8;  5;  74; 34;  83;  Champions
+ 2; Arsenal               ; 38;  23;  9;  6;  85; 42;  78;  Champions League
+ 3; Newcastle United      ; 38;  21;  6; 11;  63; 48;  69;  CL Qualifying
+ 4; Chelsea               ; 38;  19; 10;  9;  68; 38;  67;  CL Qualifying
+ 5; Liverpool             ; 38;  18; 10; 10;  61; 41;  64;  UEFA Cup
+ 6; Blackburn Rovers      ; 38;  16; 12; 10;  52; 43;  60;  UEFA Cup
+ 7; Everton               ; 38;  17;  8; 13;  48; 49;  59;
+ 8; Southampton           ; 38;  13; 13; 12;  43; 46;  52;  UEFA Cup (FA Cup)
+ 9; Manchester City       ; 38;  15;  6; 17;  47; 54;  51;  UEFA Cup (Fair Play)
+10; Tottenham Hotspur     ; 38;  14;  8; 16;  51; 62;  50;
+11; Middlesbrough         ; 38;  13; 10; 15;  48; 44;  49;
+12; Charlton Athletic     ; 38;  14;  7; 17;  45; 56;  49;
+13; Birmingham City       ; 38;  13;  9; 16;  41; 49;  48;
+14; Fulham                ; 38;  13;  9; 16;  41; 50;  48;
+15; Leeds United          ; 38;  14;  5; 19;  58; 57;  47;
+16; Aston Villa           ; 38;  12;  9; 17;  42; 47;  45;
+17; Bolton Wanderers      ; 38;  10; 14; 14;  41; 51;  44;
+
+18; West Ham United       ; 38;  10; 12; 16;  42; 59;  42;  Relegated
+19; West Bromwich Albion  ; 38;   6;  8; 24;  29; 65;  26;  Relegated
+20; Sunderland            ; 38;   4;  7; 27;  21; 65;  19;  Relegated
+
+
+Season: 2003-2004
+BlockSource: http://www.rsssf.com/tablese/eng04.html
+
+ 1; Arsenal                ; 38;  26; 12;  0;  73; 26;  90;  Champions
+ 2; Chelsea                ; 38;  24;  7;  7;  67; 30;  79;  Champions League
+ 3; Manchester United      ; 38;  23;  6;  9;  64; 35;  75;  CL Qualifying
+ 4; Liverpool              ; 38;  16; 12; 10;  55; 37;  60;  CL Qualifying
+ 5; Newcastle United       ; 38;  13; 17;  8;  52; 40;  56;  UEFA Cup
+ 6; Aston Villa            ; 38;  15; 11; 12;  48; 44;  56;
+ 7; Charlton Athletic      ; 38;  14; 11; 13;  51; 51;  53;
+ 8; Bolton Wanderers       ; 38;  14; 11; 13;  48; 56;  53;
+ 9; Fulham                 ; 38;  14; 10; 14;  52; 46;  52;
+10; Birmingham City        ; 38;  12; 14; 12;  43; 48;  50;
+11; Middlesbrough          ; 38;  13;  9; 16;  44; 52;  48;  UEFA Cup (League Cup winners)
+12; Southampton            ; 38;  12; 11; 15;  44; 45;  47;
+13; Portsmouth             ; 38;  12;  9; 17;  47; 54;  45;
+14; Tottenham Hotspur      ; 38;  13;  6; 19;  47; 57;  45;
+15; Blackburn Rovers       ; 38;  12;  8; 18;  51; 59;  44;
+16; Manchester City        ; 38;   9; 14; 15;  55; 54;  41;
+17; Everton                ; 38;   9; 12; 17;  45; 57;  39;
+
+18; Leicester City         ; 38;   6; 15; 17;  48; 65;  33;  Relegated
+19; Leeds United           ; 38;   8;  9; 21;  40; 79;  33;  Relegated
+20; Wolverhampton Wanderers; 38;   7; 12; 19;  38; 77;  33;  Relegated
+
+
+Season: 2004-2005
+BlockSource: http://www.rsssf.com/tablese/eng05.html
+
+ 1; Chelsea                ; 38;  29;  8;  1;  72; 15;  95;  Champions
+ 2; Arsenal                ; 38;  25;  8;  5;  87; 36;  83;  Champions League
+ 3; Manchester United      ; 38;  22; 11;  5;  58; 26;  77;  CL Qualifying
+ 4; Everton                ; 38;  18;  7; 13;  45; 46;  61;  CL Qualifying
+ 5; Liverpool              ; 38;  17;  7; 14;  52; 41;  58;  UEFA Cup  [*] admitted to CL Qualifying by UEFA 
+ 6; Bolton Wanderers       ; 38;  16; 10; 12;  49; 44;  58;  UEFA Cup
+ 7; Middlesbrough          ; 38;  14; 13; 11;  53; 46;  55;  UEFA Cup
+ 8; Manchester City        ; 38;  13; 13; 12;  47; 39;  52;
+ 9; Tottenham Hotspur      ; 38;  14; 10; 14;  47; 41;  52;
+10; Aston Villa            ; 38;  12; 11; 15;  45; 52;  47;
+11; Charlton Athletic      ; 38;  12; 10; 16;  42; 58;  46;
+12; Birmingham City        ; 38;  11; 12; 15;  40; 46;  45;
+13; Fulham                 ; 38;  12;  8; 18;  52; 60;  44;
+14; Newcastle United       ; 38;  10; 14; 14;  47; 57;  44;
+15; Blackburn Rovers       ; 38;   9; 15; 14;  32; 43;  42;
+16; Portsmouth             ; 38;  10;  9; 19;  43; 59;  39;
+17; West Bromwich Albion   ; 38;   6; 16; 16;  36; 61;  34;
+
+18; Crystal Palace         ; 38;   7; 12; 19;  41; 62;  33;  Relegated
+19; Norwich City           ; 38;   7; 12; 19;  42; 77;  33;  Relegated
+20; Southampton            ; 38;   6; 14; 18;  45; 66;  32;  Relegated
+
+
+
+
+Season: 2005-2006
+BlockSource: http://www.rsssf.com/tablese/eng06.html
+
+ 1; Chelsea                ; 38;  29;  4;  5;  72; 22;  91;  Champions
+ 2; Manchester United      ; 38;  25;  8;  5;  72; 34;  83;
+ 3; Liverpool              ; 38;  25;  7;  6;  57; 25;  82;
+ 4; Arsenal                ; 38;  20;  7; 11;  68; 31;  67;
+ 5; Tottenham Hotspur      ; 38;  18; 11;  9;  53; 38;  65;
+ 6; Blackburn Rovers       ; 38;  19;  6; 13;  51; 42;  63;
+ 7; Newcastle United       ; 38;  17;  7; 14;  47; 42;  58;
+ 8; Bolton Wanderers       ; 38;  15; 11; 12;  49; 41;  56;
+ 9; West Ham United        ; 38;  16;  7; 15;  52; 55;  55;
+10; Wigan Athletic         ; 38;  15;  6; 17;  45; 52;  51;
+11; Everton                ; 38;  14;  8; 16;  34; 49;  50;
+12; Fulham                 ; 38;  14;  6; 18;  48; 58;  48;
+13; Charlton Athletic      ; 38;  13;  8; 17;  41; 55;  47;
+14; Middlesbrough          ; 38;  12;  9; 17;  48; 58;  45;
+15; Manchester City        ; 38;  13;  4; 21;  43; 48;  43;
+16; Aston Villa            ; 38;  10; 12; 16;  42; 55;  42;
+17; Portsmouth             ; 38;  10;  8; 20;  37; 62;  38;
+
+18; Birmingham City        ; 38;   8; 10; 20;  28; 50;  34;  Relegated
+19; West Bromwich Albion   ; 38;   7;  9; 22;  31; 58;  30;  Relegated
+20; Sunderland             ; 38;   3;  6; 29;  26; 69;  15;  Relegated
+
+
+Season: 2006-2007
+BlockSource: http://www.rsssf.com/tablese/eng07.html
+
+ 1; Manchester United      ; 38;  28;  5;  5;  83; 27;  89;  Champions
+ 2; Chelsea                ; 38;  24; 11;  3;  64; 24;  83;  Champions League
+ 3; Liverpool              ; 38;  20;  8; 10;  57; 27;  68;  CL Qualifying
+ 4; Arsenal                ; 38;  19; 11;  8;  63; 35;  68;  CL Qualifying
+ 5; Tottenham Hotspur      ; 38;  17;  9; 12;  57; 54;  60;  UEFA Cup
+ 6; Everton                ; 38;  15; 13; 10;  52; 36;  58;  UEFA Cup
+ 7; Bolton Wanderers       ; 38;  16;  8; 14;  47; 52;  56;  UEFA Cup
+ 8; Reading                ; 38;  16;  7; 15;  52; 47;  55;
+ 9; Portsmouth             ; 38;  14; 12; 12;  45; 42;  54;
+10; Blackburn Rovers       ; 38;  15;  7; 16;  52; 54;  52;
+11; Aston Villa            ; 38;  11; 17; 10;  43; 41;  50;
+12; Middlesbrough          ; 38;  12; 10; 16;  44; 49;  46;
+13; Newcastle United       ; 38;  11; 10; 17;  38; 47;  43;
+14; Manchester City        ; 38;  11;  9; 18;  29; 44;  42;
+15; West Ham United        ; 38;  12;  5; 21;  35; 59;  41;
+16; Fulham                 ; 38;   8; 15; 15;  38; 60;  39;
+17; Wigan Athletic         ; 38;  10;  8; 20;  37; 59;  38;
+
+18; Sheffield United       ; 38;  10;  8; 20;  32; 55;  38;  Relegated
+19; Charlton Athletic      ; 38;   8; 10; 20;  34; 60;  34;  Relegated
+20; Watford                ; 38;   5; 13; 20;  29; 59;  28;  Relegated
+
+
+
+Season: 2007-2008
+BlockSource: http://www.rsssf.com/tablese/eng08.html
+
+ 1; Manchester United      ; 38;  27;  6;  5;  80; 22;  87;  Champions
+ 2; Chelsea                ; 38;  25; 10;  3;  65; 26;  85;  Champions League
+ 3; Arsenal                ; 38;  24; 11;  3;  74; 31;  83;  CL Qualifying
+ 4; Liverpool              ; 38;  21; 13;  4;  67; 28;  76;  CL Qualifying
+ 5; Everton                ; 38;  19;  8; 11;  55; 33;  65;  UEFA Cup
+ 6; Aston Villa            ; 38;  16; 12; 10;  71; 51;  60;  UEFA Cup
+ 7; Blackburn Rovers       ; 38;  15; 13; 10;  50; 48;  58;
+ 8; Portsmouth             ; 38;  16;  9; 13;  48; 40;  57;  UEFA Cup (Cup)
+ 9; Manchester City        ; 38;  15; 10; 13;  45; 53;  55;  UEFA Cup (Fair Play)
+10; West Ham United        ; 38;  13; 10; 15;  42; 50;  49;
+11; Tottenham Hotspur      ; 38;  11; 13; 14;  66; 61;  46;
+12; Newcastle United       ; 38;  11; 10; 17;  45; 65;  43;
+13; Middlesbrough          ; 38;  10; 12; 16;  43; 53;  42;
+14; Wigan Athletic         ; 38;  10; 10; 18;  34; 51;  40;
+15; Sunderland             ; 38;  11;  6; 21;  36; 59;  39;
+16; Bolton Wanderers       ; 38;   9; 10; 19;  36; 54;  37;
+17; Fulham                 ; 38;   8; 12; 18;  38; 60;  36;
+
+18; Reading                ; 38;  10;  6; 22;  41; 66;  36;  Relegated
+19; Birmingham City        ; 38;   8; 11; 19;  46; 62;  35;  Relegated
+20; Derby County           ; 38;   1;  8; 29;  20; 89;  11;  Relegated
+
+
+Season: 2008-2009
+BlockSource: http://www.rsssf.com/tablese/eng09.html
+
+ 1; Manchester United      ; 38;  28;  6;  4;  68; 24;  90;  Champions
+ 2; Liverpool              ; 38;  25; 11;  2;  77; 27;  86;  Champions League
+ 3; Chelsea                ; 38;  25;  8;  5;  68; 24;  83;  Champions League
+ 4; Arsenal                ; 38;  20; 12;  6;  68; 37;  72;  CL Qualifying
+ 5; Everton                ; 38;  17; 12;  9;  55; 37;  63;  Europa League (Cup)
+ 6; Aston Villa            ; 38;  17; 11; 10;  54; 48;  62;  Europa League
+ 7; Fulham                 ; 38;  14; 11; 13;  39; 34;  53;  Europa League
+ 8; Tottenham Hotspur      ; 38;  14;  9; 15;  45; 45;  51;
+ 9; West Ham United        ; 38;  14;  9; 15;  42; 45;  51;
+10; Manchester City        ; 38;  15;  5; 18;  58; 50;  50;
+11; Wigan Athletic         ; 38;  12;  9; 17;  34; 45;  45;
+12; Stoke City             ; 38;  12;  9; 17;  38; 55;  45;
+13; Bolton Wanderers       ; 38;  11;  8; 19;  41; 53;  41;
+14; Portsmouth             ; 38;  10; 11; 17;  38; 57;  41;
+15; Blackburn Rovers       ; 38;  10; 11; 17;  40; 60;  41;
+16; Sunderland             ; 38;   9;  9; 20;  34; 54;  36;
+17; Hull City              ; 38;   8; 11; 19;  39; 64;  35;
+
+18; Newcastle United       ; 38;   7; 13; 18;  40; 59;  34;  Relegated
+19; Middlesbrough          ; 38;   7; 11; 20;  28; 57;  32;  Relegated
+20; West Bromwich Albion   ; 38;   8;  8; 22;  36; 67;  32;  Relegated
+
+
+Season: 2009-2010
+BlockSource: http://www.rsssf.com/tablese/eng2010.html
+
+ 1; Chelsea                ; 38;  27;  5;  6; 103; 32;  86;  Champions
+ 2; Manchester United      ; 38;  27;  4;  7;  86; 28;  85;  Champions League
+ 3; Arsenal                ; 38;  23;  6;  9;  83; 41;  75;  Champions League
+ 4; Tottenham Hotspur      ; 38;  21;  7; 10;  67; 41;  70;  CL Qualifying
+ 5; Manchester City        ; 38;  18; 13;  7;  73; 45;  67;  Euro League
+ 6; Aston Villa            ; 38;  17; 13;  8;  52; 39;  64;  Euro League
+ 7; Liverpool              ; 38;  18;  9; 11;  61; 35;  63;  Euro League
+ 8; Everton                ; 38;  16; 13;  9;  60; 49;  61;
+ 9; Birmingham City        ; 38;  13; 11; 14;  38; 47;  50;
+10; Blackburn Rovers       ; 38;  13; 11; 14;  41; 55;  50;
+11; Stoke City             ; 38;  11; 14; 13;  34; 48;  47;
+12; Fulham                 ; 38;  12; 10; 16;  39; 46;  46;
+13; Sunderland             ; 38;  11; 11; 16;  48; 56;  44;
+14; Bolton Wanderers       ; 38;  10;  9; 19;  42; 67;  39;
+15; Wolverhampton Wanderers; 38;   9; 11; 18;  32; 56;  38;
+16; Wigan Athletic         ; 38;   9;  9; 20;  37; 79;  36;
+17; West Ham United        ; 38;   8; 11; 19;  47; 66;  35;
+
+18; Burnley                ; 38;   8;  6; 24;  42; 82;  30;  Relegated
+19; Hull City              ; 38;   6; 12; 20;  34; 75;  30;  Relegated
+20; Portsmouth             ; 38;   7;  7; 24;  34; 66;  19;  [-9]  Relegated
+*NB: Portsmouth 9 points deducted for financial reasons
+
+
+Season: 2010-2011
+BlockSource: http://www.rsssf.com/tablese/eng2011.html
+
+
+ 1; Manchester United      ; 38;  23; 11;  4;  78; 37;  80;  Champions
+ 2; Chelsea                ; 38;  21;  8;  9;  69; 33;  71;
+ 3; Manchester City        ; 38;  21;  8;  9;  60; 33;  71;
+ 4; Arsenal                ; 38;  19; 11;  8;  72; 43;  68;
+ 5; Tottenham Hotspur      ; 38;  16; 14;  8;  55; 46;  62;
+ 6; Liverpool              ; 38;  17;  7; 14;  59; 44;  58;
+ 7; Everton                ; 38;  13; 15; 10;  51; 45;  54;
+ 8; Fulham                 ; 38;  11; 16; 11;  49; 43;  49;
+ 9; Aston Villa            ; 38;  12; 12; 14;  48; 59;  48;
+10; Sunderland             ; 38;  12; 11; 15;  45; 56;  47;
+11; West Bromwich Albion   ; 38;  12; 11; 15;  56; 71;  47;
+12; Newcastle United       ; 38;  11; 13; 14;  56; 57;  46;
+13; Stoke City             ; 38;  13;  7; 18;  46; 48;  46;
+14; Bolton Wanderers       ; 38;  12; 10; 16;  52; 56;  46;
+15; Blackburn Rovers       ; 38;  11; 10; 17;  46; 59;  43;
+16; Wigan Athletic         ; 38;   9; 15; 14;  40; 61;  42;
+17; Wolverhampton Wanderers; 38;  11;  7; 20;  46; 66;  40;
+
+18; Birmingham City        ; 38;   8; 15; 15;  37; 58;  39;  Relegated
+19; Blackpool              ; 38;  10;  9; 19;  55; 78;  39;  Relegated
+20; West Ham United        ; 38;   7; 12; 19;  43; 70;  33;  Relegated
+
+
+
+Season: 2011-2012
+BlockSource: http://www.rsssf.com/tablese/eng2012.html
+
+ 1; Manchester City        ; 38;  28;  5;  5;  93; 29;  89;  Champions
+ 2; Manchester United      ; 38;  28;  5;  5;  89; 33;  89;
+ 3; Arsenal                ; 38;  21;  7; 10;  74; 49;  70;
+ 4; Tottenham Hotspur      ; 38;  20;  9;  9;  66; 41;  69;
+ 5; Newcastle United       ; 38;  19;  8; 11;  56; 51;  65;
+ 6; Chelsea                ; 38;  18; 10; 10;  65; 46;  64;
+ 7; Everton                ; 38;  15; 11; 12;  50; 40;  56;
+ 8; Liverpool              ; 38;  14; 10; 14;  47; 40;  52;
+ 9; Fulham                 ; 38;  14; 10; 14;  48; 51;  52;
+10; West Bromwich Albion   ; 38;  13;  8; 17;  45; 52;  47;
+11; Swansea City           ; 38;  12; 11; 15;  44; 51;  47;
+12; Norwich City           ; 38;  12; 11; 15;  52; 66;  47;
+13; Sunderland             ; 38;  11; 12; 15;  45; 46;  45;
+14; Stoke City             ; 38;  11; 12; 15;  36; 53;  45;
+15; Wigan Athletic         ; 38;  11; 10; 17;  42; 62;  43;
+16; Aston Villa            ; 38;   7; 17; 14;  37; 53;  38;
+17; Queens Park Rangers    ; 38;  10;  7; 21;  43; 66;  37;
+
+18; Bolton Wanderers       ; 38;  10;  6; 22;  46; 77;  36;  Relegated
+19; Blackburn Rovers       ; 38;   8;  7; 23;  48; 78;  31;  Relegated
+20; Wolverhampton Wanderers; 38;   5; 10; 23;  40; 82;  25;  Relegated
+
+
+Season: 2012-2013
+BlockSource: http://www.rsssf.com/tablese/eng2013.html
+
+ 1; Manchester United      ; 38;  28;  5;  5;  86; 43;  89;  Champions
+ 2; Manchester City        ; 38;  23;  9;  6;  66; 34;  78;
+ 3; Chelsea                ; 38;  22;  9;  7;  75; 39;  75;
+ 4; Arsenal                ; 38;  21; 10;  7;  72; 37;  73;
+ 5; Tottenham Hotspur      ; 38;  21;  9;  8;  66; 46;  72;
+ 6; Everton                ; 38;  16; 15;  7;  55; 40;  63;
+ 7; Liverpool              ; 38;  16; 13;  9;  71; 43;  61;
+ 8; West Bromwich Albion   ; 38;  14;  7; 17;  53; 57;  49;
+ 9; Swansea City           ; 38;  11; 13; 14;  47; 51;  46;
+10; West Ham United        ; 38;  12; 10; 16;  45; 53;  46;
+11; Norwich City           ; 38;  10; 14; 14;  41; 58;  44;
+12; Fulham                 ; 38;  11; 10; 17;  50; 60;  43;
+13; Stoke City             ; 38;   9; 15; 14;  34; 45;  42;
+14; Southampton            ; 38;   9; 14; 15;  49; 60;  41;
+15; Aston Villa            ; 38;  10; 11; 17;  47; 69;  41;
+16; Newcastle United       ; 38;  11;  8; 19;  45; 68;  41;
+17; Sunderland             ; 38;   9; 12; 17;  41; 54;  39;
+
+18; Wigan Athletic         ; 38;   9;  9; 20;  47; 73;  36;  Relegated
+19; Reading                ; 38;   6; 10; 22;  43; 73;  28;  Relegated
+20; Queens Park Rangers    ; 38;   4; 13; 21;  30; 60;  25;  Relegated
+
+
+
+
+
