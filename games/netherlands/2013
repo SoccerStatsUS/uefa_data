@@ -1,0 +1,762 @@
+BlockSource: http://www.rsssf.com/tablesn/ned2014.html
+Competition: Eredivisie
+Season: 2013-2014
+
+* 1.Ajax (Amsterdam)             34  20 11  3  69-28  71  Champions
+* 2.Feyenoord (Rotterdam)        34  20  7  7  76-40  67
+* 3.FC Twente (Enschede)         34  17 12  5  72-37  63
+* 4.PSV (Eindhoven)              34  18  5 11  60-45  59
+* 5.SC Heerenveen                34  16  9  9  72-51  57  Europa League Playoff
+* 7.Vitesse (Arnhem)             34  15 10  9  65-49  55  Europa League Playoff
+* 7.FC Groningen                 34  14  9 11  57-53  51  Europa League Playoff
+* 8.AZ (Alkmaar)                 34  13  8 13  54-50  47  Europa League Playoff
+* 9.ADO Den Haag                 34  12  7 15  45-64  43
+*10.FC Utrecht                   34  11  8 15  46-65  41
+*11.PEC Zwolle                   34   9 13 12  47-49  40
+*12.SC Cambuur (Leeuwarden)      34  10  9 15  40-50  39
+*13.Go Ahead Eagles (Deventer)   34  10  8 16  45-69  38
+*14.Heracles Almelo              34  10  7 17  45-59  37
+*15.NAC Breda                    34   8 11 15  43-54  35
+
+*16.RKC Waalwĳk                  34   7 11 16  44-64  32  Relegation Playoff
+*17.NEC (Nĳmegen)                34   5 14 14  54-82  30  Relegation Playoff
+
+*18.Roda JC Kerkrade             34   7  8 19  44-69  29  Relegated
+
+Round: 1
+Date: 8/2/2013
+
+; Ajax           ; 3-0; Roda JC         
+
+Date: 8/3/2013
+
+; ADO            ; 2-3; PSV             
+; Twente         ; 0-0; RKC             
+; NEC            ; 1-4; Groningen       
+; Heerenveen     ; 4-2; AZ              
+
+Date: 8/4/2013
+
+; Utrecht        ; 1-1; Go Ahead Eagles 
+; PEC            ; 2-1; Feyenoord       
+; Cambuur        ; 0-0; NAC             
+; Vitesse        ; 3-1; Heracles        
+
+Round: 2
+Date: 8/9/2013
+
+; Roda JC        ; 2-0; Cambuur         
+
+Date: 8/10/2013
+
+; Go Ahead Eagles; 2-1; ADO             
+; Heracles       ; 1-3; PEC             
+; NAC            ; 0-2; Heerenveen      
+; PSV            ; 5-0; NEC             
+
+Date: 8/11/2013
+
+; AZ             ; 3-2; Ajax            
+; Groningen      ; 2-0; Utrecht         
+; Feyenoord      ; 1-4; Twente          
+; RKC            ; 4-2; Vitesse         
+
+Round: 3
+Date: 8/17/2013
+
+; NEC            ; 1-5; PEC             
+; PSV            ; 3-0; Go Ahead Eagles 
+; RKC            ; 1-2; AZ              
+; Roda JC        ; 1-1; Vitesse         
+; Cambuur        ; 4-1; Groningen       
+
+Date: 8/18/2013
+
+; Ajax           ; 2-1; Feyenoord       
+; Twente         ; 6-0; Utrecht         
+; NAC            ; 1-2; ADO             
+; Heerenveen     ; 2-4; Heracles        
+
+Round: 4
+Date: 8/23/2013
+
+; Heerenveen     ; 3-3; Ajax            
+
+Date: 8/24/2013
+
+; ADO            ; 0-4; Roda JC         
+; Heracles       ; 1-1; PSV             
+; NEC            ; 2-2; RKC             
+; PEC            ; 2-0; Cambuur         
+
+Date: 8/25/2013
+
+; Utrecht        ; 2-0; AZ              
+; Feyenoord      ; 3-1; NAC             
+; Go Ahead Eagles; 3-3; Groningen       
+; Vitesse        ; 1-0; Twente          
+
+Round: 5
+Date: 8/30/2013
+
+; NAC            ; 1-1; NEC             
+
+Date: 8/31/2013
+
+; Twente         ; 1-1; Heerenveen      
+; Heracles       ; 1-0; ADO             
+; PSV            ; 0-0; Cambuur         
+; RKC            ; 1-4; Go Ahead Eagles 
+
+Date: 9/1/2013
+
+; AZ             ; 1-1; Vitesse         
+; Groningen      ; 1-1; Ajax            
+; Feyenoord      ; 4-0; Roda JC         
+; PEC            ; 1-1; Utrecht         
+
+Round: 6
+Date: 9/14/2013
+
+; Ajax           ; 2-1; PEC             
+; Twente         ; 2-2; PSV             
+; Cambuur        ; 2-0; Heracles        
+
+Date: 9/5/2013
+
+; AZ             ; 3-0; Go Ahead Eagles 
+; Utrecht        ; 2-1; RKC             
+; NEC            ; 3-3; Feyenoord       
+; Roda JC        ; 1-5; NAC             
+; Heerenveen     ; 4-2; Groningen       
+
+Date: 10/2/2013
+
+; ADO            ; 2-1; Vitesse         
+
+Round: 7
+Date: 9/20/2013
+
+; Go Ahead Eagles; 0-0; Cambuur         
+
+Date: 9/21/2013
+
+; ADO            ; 1-1; NEC             
+; Groningen      ; 4-1; RKC             
+; Heracles       ; 0-3; Twente          
+; Roda JC        ; 3-3; Heerenveen      
+
+Date: 9/22/2013
+
+; Feyenoord      ; 1-0; Utrecht         
+; NAC            ; 3-0; AZ              
+; PSV            ; 4-0; Ajax            
+; Vitesse        ; 3-0; PEC             
+
+Round: 8
+Date: 9/28/2013
+
+; Ajax           ; 6-0; Go Ahead Eagles 
+; AZ             ; 2-1; PSV             
+; Utrecht        ; 3-3; Roda JC         
+; PEC            ; 0-0; NAC             
+; RKC            ; 1-4; Heracles        
+
+Date: 9/29/2013
+
+; Twente         ; 5-0; Groningen       
+; Feyenoord      ; 4-2; ADO             
+; NEC            ; 2-3; Vitesse         
+; Heerenveen     ; 2-1; Cambuur         
+
+Round: 9
+Date: 10/4/2013
+
+; Cambuur        ; 0-1; Twente          
+
+Date: 10/5/2013
+
+; Go Ahead Eagles; 4-3; NEC             
+; NAC            ; 2-1; Heracles        
+; Roda JC        ; 0-0; PEC             
+
+Date: 10/6/2013
+
+; Ajax           ; 3-0; Utrecht         
+; Groningen      ; 2-1; AZ              
+; PSV            ; 2-1; RKC             
+; Vitesse        ; 1-2; Feyenoord       
+
+Date: 12/4/2013
+
+; ADO            ; 1-1; Heerenveen      
+
+Round: 10
+Date: 10/19/2013
+
+; Twente         ; 1-1; Ajax            
+; Utrecht        ; 4-2; NAC             
+; Go Ahead Eagles; 2-2; Feyenoord       
+; RKC            ; 1-2; Roda JC         
+; Heerenveen     ; 2-3; Vitesse         
+
+Date: 10/20/2013
+
+; AZ             ; 3-1; Cambuur         
+; Groningen      ; 1-0; PSV             
+; Heracles       ; 1-1; NEC             
+; PEC            ; 6-1; ADO             
+
+Round: 11
+Date: 10/25/2013
+
+; NEC            ; 2-1; Heerenveen      
+
+Date: 10/26/2013
+
+; ADO            ; 3-2; Twente          
+; Ajax           ; 0-0; RKC             
+; NAC            ; 5-0; Go Ahead Eagles 
+; Cambuur        ; 3-1; Utrecht         
+
+Date: 10/27/2013
+
+; Feyenoord      ; 1-2; Heracles        
+; PEC            ; 0-2; AZ              
+; Roda JC        ; 2-1; PSV             
+; Vitesse        ; 2-2; Groningen       
+
+Round: 12
+Date: 11/1/2013
+
+; RKC            ; 3-0; NAC             
+
+Date: 11/2/2013
+
+; Ajax           ; 0-1; Vitesse         
+; AZ             ; 2-0; ADO             
+; Twente         ; 2-2; NEC             
+; PSV            ; 1-1; PEC             
+
+Date: 11/3/2013
+
+; Groningen      ; 3-3; Roda JC         
+; Utrecht        ; 2-0; Heerenveen      
+; Cambuur        ; 0-2; Feyenoord       
+
+Date: 12/4/2013
+
+; Go Ahead Eagles; 1-1; Heracles        
+
+Round: 13
+Date: 11/8/2013
+
+; Heerenveen     ; 5-2; RKC             
+
+Date: 11/9/2013
+
+; ADO            ; 3-0; Cambuur         
+; Heracles       ; 0-3; Groningen       
+; Roda JC        ; 1-4; Go Ahead Eagles 
+; Vitesse        ; 3-1; Utrecht         
+
+Date: 11/10/2013
+
+; Feyenoord      ; 2-2; AZ              
+; NAC            ; 2-1; PSV             
+; NEC            ; 0-3; Ajax            
+; PEC            ; 1-1; Twente          
+
+Round: 14
+Date: 11/23/2013
+
+; Ajax           ; 3-0; Heracles        
+; AZ             ; 2-2; Roda JC         
+; PSV            ; 1-1; Heerenveen      
+; Cambuur        ; 2-1; NEC             
+
+Date: 11/24/2013
+
+; Groningen      ; 0-0; PEC             
+; Twente         ; 5-2; NAC             
+; Utrecht        ; 3-0; ADO             
+; Go Ahead Eagles; 0-3; Vitesse         
+; RKC            ; 1-0; Feyenoord       
+                
+Round: 15
+Date: 11/29/2013
+
+; Roda JC        ; 1-2; Twente          
+
+Date: 11/30/2013
+
+; Heracles       ; 1-2; Utrecht         
+; NAC            ; 2-2; Groningen       
+; PEC            ; 1-1; RKC             
+; Heerenveen     ; 3-1; Go Ahead Eagles 
+
+Date: 12/1/2013
+
+; ADO            ; 0-4; Ajax            
+; Feyenoord      ; 3-1; PSV             
+; NEC            ; 3-2; AZ              
+; Vitesse        ; 3-0; Cambuur         
+
+Round: 16
+Date: 12/6/2013
+
+; Utrecht        ; 2-0; NEC             
+
+Date: 12/7/2013
+
+; Ajax           ; 4-0; NAC             
+; AZ             ; 1-2; Twente          
+; PSV            ; 2-6; Vitesse         
+; RKC            ; 2-2; Cambuur         
+
+Date: 12/8/2013
+
+; Groningen      ; 1-2; ADO             
+; Go Ahead Eagles; 4-1; PEC             
+; Roda JC        ; 1-3; Heracles        
+; Heerenveen     ; 1-2; Feyenoord       
+
+Round: 17
+Date: 12/13/2013
+
+; PEC            ; 1-2; Heerenveen      
+
+Date: 12/14/2013
+
+; ADO            ; 1-2; RKC             
+; Twente         ; 3-1; Go Ahead Eagles 
+; NEC            ; 4-3; Roda JC         
+
+Date: 12/15/2013
+
+; Utrecht        ; 1-5; PSV             
+; Feyenoord      ; 1-0; Groningen       
+; Heracles       ; 2-0; AZ              
+; Cambuur        ; 1-2; Ajax            
+; Vitesse        ; 3-2; NAC             
+
+Round: 18
+Date: 12/20/2013
+
+; RKC            ; 1-1; Twente          
+
+Date: 12/21/2013
+
+; AZ             ; 1-5; Heerenveen      
+; Feyenoord      ; 3-0; PEC             
+; Heracles       ; 2-2; Vitesse         
+; NAC            ; 1-0; Cambuur         
+
+Date: 12/22/2013
+
+; Groningen      ; 5-2; NEC             
+; Go Ahead Eagles; 2-1; Utrecht         
+; PSV            ; 2-0; ADO             
+; Roda JC        ; 1-2; Ajax            
+
+Round: 19
+Date: 1/17/2014
+
+; Twente         ; 3-1; Heracles        
+
+Date: 1/18/2014
+
+; AZ             ; 3-0; NAC             
+; PEC            ; 1-2; Vitesse         
+; RKC            ; 1-1; Groningen       
+; Heerenveen     ; 2-2; Roda JC         
+
+Date: 1/19/2014
+
+; Ajax           ; 1-0; PSV             
+; Utrecht        ; 2-5; Feyenoord       
+; NEC            ; 3-1; ADO             
+; Cambuur        ; 2-0; Go Ahead Eagles 
+
+Round: 20
+Date: 1/24/2014
+
+; Heracles       ; 2-1; RKC             
+
+Date: 1/25/2014
+
+; ADO            ; 3-2; Feyenoord       
+; NAC            ; 1-2; PEC             
+; PSV            ; 1-0; AZ              
+; Roda JC        ; 1-0; Utrecht         
+
+Date: 1/26/2014
+
+; Go Ahead Eagles; 0-1; Ajax            
+; Cambuur        ; 3-1; Heerenveen      
+; Vitesse        ; 1-1; NEC             
+
+Date: 2/12/2014
+
+; Groningen      ; 1-1; Twente          
+
+Round: 21
+Date: 1/31/2014
+
+; Feyenoord      ; 1-1; Vitesse         
+
+Date: 2/1/2014
+
+; AZ             ; 2-0; Groningen       
+; Heracles       ; 1-2; NAC             
+; PEC            ; 3-1; Roda JC         
+; Heerenveen     ; 3-0; ADO             
+
+Date: 2/2/2014
+
+; Twente         ; 3-1; Cambuur         
+; Utrecht        ; 1-1; Ajax            
+; NEC            ; 1-1; Go Ahead Eagles 
+; RKC            ; 2-0; PSV             
+
+Round: 22
+Date: 2/4/2014
+
+; ADO            ; 0-3; Heracles        
+; Roda JC        ; 1-2; Feyenoord       
+; Vitesse        ; 0-2; AZ              
+
+Date: 2/5/2014
+
+; Go Ahead Eagles; 2-2; RKC             
+; NEC            ; 1-1; NAC             
+; Cambuur        ; 1-2; PSV             
+; Heerenveen     ; 0-2; Twente          
+
+Date: 2/6/2014
+
+; Ajax           ; 2-1; Groningen       
+; Utrecht        ; 1-2; PEC             
+
+Round: 23
+Date: 2/7/2014
+
+; Vitesse        ; 0-0; ADO             
+
+Date: 2/8/2014
+
+; Feyenoord      ; 5-1; NEC             
+; Go Ahead Eagles; 2-1; AZ              
+; NAC            ; 2-0; Roda JC         
+; PSV            ; 3-2; Twente          
+
+Date: 2/9/2014
+
+; Groningen      ; 1-3; Heerenveen      
+; Heracles       ; 1-1; Cambuur         
+; PEC            ; 1-1; Ajax            
+; RKC            ; 5-2; Utrecht         
+ 
+Round: 24
+Date: 2/14/2014
+
+; PSV            ; 2-1; Heracles        
+
+Date: 2/15/2014
+
+; AZ             ; 1-1; Utrecht         
+; Twente         ; 2-0; Vitesse         
+; RKC            ; 1-3; NEC             
+; Roda JC        ; 0-1; ADO             
+
+Date: 2/16/2014
+
+; Ajax           ; 3-0; Heerenveen      
+; Groningen      ; 1-0; Go Ahead Eagles 
+; NAC            ; 1-1; Feyenoord       
+; Cambuur        ; 3-1; PEC             
+ 
+Round: 25
+Date: 2/21/2014
+
+; ADO            ; 3-2; Go Ahead Eagles 
+
+Date: 2/22/2014
+
+; NEC            ; 0-2; PSV             
+; PEC            ; 1-1; Heracles        
+; Cambuur        ; 1-0; Roda JC         
+; Heerenveen     ; 0-0; NAC             
+
+Date: 2/23/2014
+
+; Ajax           ; 4-0; AZ              
+; Twente         ; 2-2; Feyenoord       
+; Utrecht        ; 1-0; Groningen       
+; Vitesse        ; 3-1; RKC             
+
+Round: 26
+Date: 2/28/2014
+
+; Heracles       ; 1-2; Heerenveen      
+
+Date: 3/1/2014
+
+; ADO            ; 1-1; NAC             
+; Go Ahead Eagles; 2-3; PSV             
+; PEC            ; 3-3; NEC             
+; Vitesse        ; 3-0; Roda JC         
+
+Date: 3/2/2014
+
+; AZ             ; 4-0; RKC             
+; Groningen      ; 1-1; Cambuur         
+; Utrecht        ; 1-1; Twente          
+; Feyenoord      ; 1-2; Ajax            
+
+Round: 27
+Date: 3/8/2014
+
+; AZ             ; 4-0; Heracles        
+; NAC            ; 1-2; Vitesse         
+; PSV            ; 1-0; Utrecht         
+; Roda JC        ; 3-1; NEC             
+; Heerenveen     ; 3-0; PEC             
+
+Date: 3/9/2014
+
+; Ajax           ; 1-1; Cambuur         
+; Groningen      ; 0-2; Feyenoord       
+; Go Ahead Eagles; 1-0; Twente          
+; RKC            ; 1-1; ADO             
+
+Round: 28
+Date: 3/14/2014
+
+; Cambuur        ; 3-2; RKC             
+
+Date: 3/15/2014
+
+; ADO            ; 2-1; Groningen       
+; Heracles       ; 2-1; Roda JC         
+; Vitesse        ; 1-2; PSV             
+
+Date: 3/16/2014
+
+; Twente         ; 2-1; AZ              
+; Feyenoord      ; 2-0; Heerenveen      
+; NAC            ; 0-0; Ajax            
+; NEC            ; 2-2; Utrecht         
+; PEC            ; 2-0; Go Ahead Eagles 
+
+Round: 29
+Date: 3/22/2014
+
+; Groningen      ; 3-1; Vitesse         
+; PSV            ; 3-1; Roda JC         
+; Heerenveen     ; 2-2; NEC             
+
+Date: 3/23/2014
+
+; AZ             ; 2-1; PEC             
+
+Date: 4/2/2014
+
+; Twente         ; 1-1; ADO             
+; Utrecht        ; 1-0; Cambuur         
+; Go Ahead Eagles; 2-1; NAC             
+; Heracles       ; 1-2; Feyenoord       
+; RKC            ; 0-2; Ajax            
+
+Round: 30
+Date: 3/28/2014
+
+; NAC            ; 2-2; Utrecht         
+
+Date: 3/29/2014
+
+; NEC            ; 1-2; Heracles        
+; PSV            ; 2-3; Groningen       
+; Vitesse        ; 2-2; Heerenveen      
+
+Date: 3/30/2014
+
+; ADO            ; 1-1; PEC             
+; Ajax           ; 3-0; Twente          
+; Feyenoord      ; 5-0; Go Ahead Eagles 
+; Roda JC        ; 0-1; RKC             
+; Cambuur        ; 0-0; AZ              
+
+Round: 31
+Date: 4/4/2014
+
+; PEC            ; 0-1; Groningen       
+
+Date: 4/5/2014
+
+; Heracles       ; 1-2; Go Ahead Eagles 
+; NAC            ; 0-2; Twente          
+; NEC            ; 1-1; Cambuur         
+; Heerenveen     ; 3-0; PSV             
+
+Date: 4/6/2014
+
+; ADO            ; 4-1; Utrecht         
+; Feyenoord      ; 2-0; RKC             
+; Roda JC        ; 2-2; AZ              
+; Vitesse        ; 1-1; Ajax            
+
+Round: 32
+Date: 4/11/2014
+
+; Groningen      ; 2-1; NAC             
+
+Date: 4/12/2014
+
+; Twente         ; 3-0; Roda JC         
+; Go Ahead Eagles; 0-2; Heerenveen      
+; Cambuur        ; 4-3; Vitesse         
+
+Date: 4/13/2014
+
+; Ajax           ; 3-2; ADO             
+; AZ             ; 1-1; NEC             
+; Utrecht        ; 2-1; Heracles        
+; PSV            ; 0-2; Feyenoord       
+; RKC            ; 1-1; PEC             
+
+Round: 33 
+Date: 4/27/2014
+
+; ADO            ; 2-1; AZ              
+; Feyenoord      ; 5-1; Cambuur         
+; Heracles       ; 1-1; Ajax            
+; NAC            ; 1-1; RKC             
+; NEC            ; 2-5; Twente          
+; PEC            ; 1-2; PSV             
+; Roda JC        ; 1-2; Groningen       
+; Heerenveen     ; 4-1; Utrecht         
+; Vitesse        ; 2-2; Go Ahead Eagles 
+
+Round: 34 
+Date: 5/3/2014
+
+; Ajax           ; 2-2; NEC             
+; AZ             ; 1-1; Feyenoord       
+; Groningen      ; 3-1; Heracles        
+; Twente         ; 2-2; PEC             
+; Utrecht        ; 2-1; Vitesse         
+; Go Ahead Eagles; 0-1; Roda JC         
+; PSV            ; 2-0; NAC             
+; RKC            ; 0-3; Heerenveen      
+; Cambuur        ; 1-2; ADO             
+
+
+* 1.Ajax (Amsterdam)             34  20 11  3  69-28  71  Champions
+* 2.Feyenoord (Rotterdam)        34  20  7  7  76-40  67
+* 3.FC Twente (Enschede)         34  17 12  5  72-37  63
+* 4.PSV (Eindhoven)              34  18  5 11  60-45  59
+* 5.SC Heerenveen                34  16  9  9  72-51  57  Europa League Playoff
+* 7.Vitesse (Arnhem)             34  15 10  9  65-49  55  Europa League Playoff
+* 7.FC Groningen                 34  14  9 11  57-53  51  Europa League Playoff
+* 8.AZ (Alkmaar)                 34  13  8 13  54-50  47  Europa League Playoff
+* 9.ADO Den Haag                 34  12  7 15  45-64  43
+*10.FC Utrecht                   34  11  8 15  46-65  41
+*11.PEC Zwolle                   34   9 13 12  47-49  40
+*12.SC Cambuur (Leeuwarden)      34  10  9 15  40-50  39
+*13.Go Ahead Eagles (Deventer)   34  10  8 16  45-69  38
+*14.Heracles Almelo              34  10  7 17  45-59  37
+*15.NAC Breda                    34   8 11 15  43-54  35
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.RKC Waalwĳk                  34   7 11 16  44-64  32  Relegation Playoff
+*17.NEC (Nĳmegen)                34   5 14 14  54-82  30  Relegation Playoff
+*-------------------------------------------------------
+*18.Roda JC Kerkrade             34   7  8 19  44-69  29  Relegated
+
+*Europa League Playoff
+*
+*Semifinals
+*
+*First Legs 
+Date: 5/7/2014
+
+*Groningen       1-0 Vitesse         
+*AZ              3-0 Heerenveen      
+*
+*Second Legs 
+Date: 5/10/2014
+
+*Vitesse          -  Groningen       
+*Heerenveen       -  AZ              
+*
+*Final
+*
+*First Leg 
+Date: 5/15/2014
+
+*
+*Second Leg 
+Date: 5/18/2014
+
+
+*Nacompetitie
+*
+*NB: promotion/relegation competition involving the nrs. 16 and 17
+*    of the eredivisie, the four period winners of the eerste divisie
+*    and the best 4 teams from the eerste divisie not qualified otherwise
+*
+*Round: 1
+*
+*First Legs 
+Date: 4/28/2014
+
+*Fortuna         1-4 De Graafschap
+*Sparta          1-1 Eindhoven
+*
+*Second Legs 
+Date: 5/2/2014
+
+*De Graafschap   3-1 Fortuna
+*Eindhoven       0-2 Sparta
+*
+*Round: 2
+*
+*First Legs 
+Date: 5/8/2014
+
+*Sparta           -  NEC
+*De Graafschap    -  RKC
+*Den Bosch        -  Excelsior
+*VVV              -  Dordrecht
+*
+*Second Legs 
+Date: 5/11/2014
+
+*NEC              -  Sparta          
+*RKC              -  De Graafschap   
+*Excelsior        -  Den Bosch       
+*Dordrecht        -  VVV             
+*
+*Round: 3
+*
+*First Legs 
+Date: 5/15/2014
+
+*Sparta/NEC       -  Dordrecht/VVV
+*Graafschap/RKC   -  Excelsior/Den Bosch
+*
+*Second Legs 
+Date: 5/18/2014
+
+*Dordrecht/VVV    -  Sparta/NEC
+*Excelsior/D.Bosch-  Graafschap/RKC
+*
+*NB: winners qualify for eredivisie 2014/15
+*Eerste Divisie
+
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 8 May 2014
+*(C) Copyright Karel Stokkermans and RSSSF 2013/14
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
