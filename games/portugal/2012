@@ -1,0 +1,653 @@
+BlockSource: http://www.rsssf.com/tablesp/port2013.html
+Season: 2012-2013
+Competition: Primeira Liga
+
+* 1.FC do Porto                  30  24  6  0  70-14  78  Champions
+* 2.SL Benfica                   30  24  5  1  77-20  77
+* 3.FC Paços de Ferreira         30  14 12  4  42-29  54
+* 4.Sporting de Braga            30  16  4 10  60-44  52
+* 5.GD Estoril Praia             30  13  6 11  47-37  45
+* 6.Rio Ave FC                   30  12  6 12  35-42  42  [2 2 0 0 3-1 6]
+* 7.Sporting CP                  30  11  9 10  36-36  42  [2 0 0 2 1-3 0]
+* 8.CD Nacional                  30  11  7 12  45-51  40  [2 2 0 0 6-2 6]
+* 9.Vitória SC (Guimarães)       30  11  7 12  36-47  40  [2 0 0 2 2-6 0]
+*10.CS Marítimo                  30   9 11 10  34-45  38
+*11.Académica de Coimbra         30   6 10 14  33-45  28
+*12.Vitória FC (Setúbal)         30   7  5 18  30-55  26
+*13.Gil Vicente FC               30   6  7 17  31-54  25  [2 1 1 0 4-2 4]
+*14.SC Olhanense                 30   5 10 15  26-42  25  [2 0 1 1 2-4 1]
+*-------------------------------------------------------
+*15.Moreirense FC                30   5  9 16  30-51  24  Relegated
+*16.SC Beira-Mar                 30   5  8 17  35-55  23  Relegated
+
+Round: 1
+Date: 8/17/2012
+
+; Olhanense        ; 2-1; Estoril Praia     
+
+Date: 8/18/2012
+
+; Benfica          ; 2-2; Braga             
+; Rio Ave          ; 0-1; Marítimo          
+
+Date: 8/19/2012
+
+; Nacional         ; 2-2; Vitória Setúbal   
+; Paços de Ferreira; 1-1; Moreirense        
+; Gil Vicente      ; 0-0; Porto             
+; Vitória Guimarães; 0-0; Sporting          
+
+Date: 8/20/2012
+
+;; Beira-Mar;         3-3 Académica Coimbra 
+
+Round: 2
+Date: 8/24/2012
+
+; Académica Coimbra; 1-1; Olhanense         
+
+Date: 8/25/2012
+
+; Porto            ; 4-0; Vitória Guimarães 
+; Braga            ; 3-1; Beira-Mar         
+
+Date: 8/26/2012
+
+; Marítimo         ; 0-0; Gil Vicente       
+; Estoril Praia    ; 1-1; Paços de Ferreira 
+; Moreirense       ; 3-1; Nacional          
+; Vitória Setúbal  ; 0-5; Benfica           
+
+Date: 8/27/2012
+
+; Sporting         ; 0-1; Rio Ave           
+
+Round: 3
+Date: 9/1/2012
+
+; Olhanense        ; 2-3; Porto             
+; Vitória Guimarães; 2-2; Estoril Praia     
+
+Date: 9/2/2012
+
+; Benfica          ; 3-0; Nacional          
+; Paços de Ferreira; 2-0; Braga             
+; Gil Vicente      ; 0-0; Vitória Setúbal   
+; Rio Ave          ; 0-0; Académica Coimbra 
+;; Beira-Mar;         1-1 Moreirense        
+
+Date: 9/16/2012
+
+; Marítimo         ; 1-1; Sporting          
+
+Round: 4
+Date: 9/21/2012
+
+; Moreirense       ; 0-1; Vitória Guimarães 
+
+Date: 9/22/2012
+
+; Porto            ; 4-0; Beira-Mar         
+
+Date: 9/23/2012
+
+; Académica Coimbra; 2-2; Benfica           
+; Nacional         ; 3-3; Paços de Ferreira 
+; Braga            ; 4-1; Rio Ave           
+; Vitória Setúbal  ; 1-0; Olhanense         
+
+Date: 9/24/2012
+
+; Estoril Praia    ; 3-1; Marítimo          
+; Sporting         ; 2-1; Gil Vicente       
+
+Round: 5
+Date: 9/28/2012
+
+; Paços de Ferreira; 1-2; Benfica           
+; Vitória Guimarães; 0-2; Braga             
+
+Date: 9/29/2012
+
+; Rio Ave          ; 2-2; Porto             
+; Sporting         ; 2-2; Estoril Praia     
+
+Date: 9/30/2012
+
+; Marítimo         ; 0-2; Académica Coimbra 
+; Gil Vicente      ; 4-3; Moreirense        
+;; Beira-Mar;         1-1 Vitória Setúbal   
+; Olhanense        ; 1-2; Nacional          
+
+Round: 6
+Date: 10/6/2012
+
+; Benfica          ; 2-1; Beira-Mar         
+
+Date: 10/7/2012
+
+; Académica Coimbra; 1-2; Vitória Guimarães 
+; Nacional         ; 0-1; Gil Vicente       
+; Porto            ; 2-0; Sporting          
+; Estoril Praia    ; 1-3; Rio Ave           
+; Braga            ; 4-4; Olhanense         
+; Vitória Setúbal  ; 0-0; Paços de Ferreira 
+
+Date: 10/8/2012
+
+; Moreirense       ; 0-1; Marítimo          
+
+Round: 7
+Date: 10/26/2012
+
+; Vitória Guimarães; 2-1; Vitória Setúbal   
+
+Date: 10/27/2012
+
+; Gil Vicente      ; 0-3; Benfica           
+;; Beira-Mar;         0-2 Paços de Ferreira 
+; Olhanense        ; 2-2; Moreirense        
+
+Date: 10/28/2012
+
+; Marítimo         ; 0-2; Braga             
+; Estoril Praia    ; 1-2; Porto             
+; Rio Ave          ; 2-1; Nacional          
+
+Date: 10/29/2012
+
+; Sporting         ; 0-0; Académica Coimbra 
+
+Round: 8
+Date: 11/2/2012
+
+; Porto            ; 5-0; Marítimo          
+
+Date: 11/3/2012
+
+; Benfica          ; 3-0; Vitória Guimarães 
+; Braga            ; 3-1; Gil Vicente       
+
+Date: 11/4/2012
+
+; Académica Coimbra; 0-2; Estoril Praia     
+; Nacional         ; 2-4; Beira-Mar         
+; Paços de Ferreira; 0-0; Olhanense         
+; Moreirense       ; 0-1; Rio Ave           
+; Vitória Setúbal  ; 2-1; Sporting          
+
+Round: 9
+Date: 11/9/2012
+
+; Gil Vicente      ; 0-1; Paços de Ferreira 
+
+Date: 11/10/2012
+
+; Vitória Guimarães; 1-3; Nacional          
+
+Date: 11/11/2012
+
+; Porto            ; 2-1; Académica Coimbra 
+; Estoril Praia    ; 2-0; Moreirense        
+; Rio Ave          ; 0-1; Benfica           
+; Olhanense        ; 1-0; Beira-Mar         
+; Sporting         ; 1-0; Braga             
+
+Date: 11/12/2012
+
+; Marítimo         ; 1-1; Vitória Setúbal   
+
+Round: 10
+Date: 11/23/2012
+
+;; Beira-Mar;         2-2 Vitória Guimarães 
+
+Date: 11/24/2012
+
+; Benfica          ; 2-0; Olhanense         
+
+Date: 11/25/2012
+
+; Académica Coimbra; 2-2; Gil Vicente       
+; Nacional         ; 1-0; Estoril Praia     
+; Braga            ; 0-2; Porto             
+; Vitória Setúbal  ; 3-5; Rio Ave           
+
+Date: 11/26/2012
+
+; Moreirense       ; 2-2; Sporting          
+
+Date: 11/27/2012
+
+; Paços de Ferreira; 2-2; Marítimo          
+
+Round: 11
+Date: 12/7/2012
+
+; Estoril Praia    ; 3-0; Vitória Setúbal   
+
+Date: 12/8/2012
+
+; Porto            ; 1-0; Moreirense        
+
+Date: 12/9/2012
+
+; Marítimo         ; 2-0; Nacional          
+; Gil Vicente      ; 1-2; Beira-Mar         
+; Rio Ave          ; 0-0; Paços de Ferreira 
+; Vitória Guimarães; 2-0; Olhanense         
+
+Date: 12/10/2012
+
+; Académica Coimbra; 1-4; Braga             
+; Sporting         ; 1-3; Benfica           
+
+Round: 12
+Date: 12/15/2012
+
+; Benfica          ; 4-1; Marítimo          
+; Nacional         ; 1-1; Sporting          
+;; Beira-Mar;         3-1 Rio Ave           
+; Olhanense        ; 2-2; Gil Vicente       
+
+Date: 12/16/2012
+
+; Paços de Ferreira; 2-1; Vitória Guimarães 
+; Moreirense       ; 2-2; Académica Coimbra 
+; Braga            ; 3-0; Estoril Praia     
+
+Date: 1/23/2013
+
+; Vitória Setúbal  ; 0-3; Porto             
+
+Round: 13
+Date: 1/5/2013
+
+; Académica Coimbra; 4-2; Vitória Setúbal   
+; Porto            ; 1-0; Nacional          
+; Gil Vicente      ; 0-0; Vitória Guimarães 
+; Rio Ave          ; 0-1; Olhanense         
+; Sporting         ; 0-1; Paços de Ferreira 
+
+Date: 1/6/2013
+
+; Marítimo         ; 1-1; Beira-Mar         
+; Estoril Praia    ; 1-3; Benfica           
+; Braga            ; 1-0; Moreirense        
+
+Round: 14
+Date: 1/12/2013
+
+; Nacional         ; 3-2; Braga             
+; Vitória Guimarães; 1-1; Marítimo          
+
+Date: 1/13/2013
+
+; Benfica          ; 2-2; Porto             
+; Paços de Ferreira; 1-0; Académica Coimbra 
+; Gil Vicente      ; 0-1; Rio Ave           
+; Olhanense        ; 0-2; Sporting          
+; Vitória Setúbal  ; 5-0; Moreirense        
+
+Date: 1/14/2013
+
+;; Beira-Mar;         0-1 Estoril Praia     
+
+Round: 15
+Date: 1/18/2013
+
+; Sporting         ; 1-0; Beira-Mar         
+
+Date: 1/19/2013
+
+; Porto            ; 2-0; Paços de Ferreira 
+
+Date: 1/20/2013
+
+; Marítimo         ; 1-0; Olhanense         
+; Estoril Praia    ; 1-2; Gil Vicente       
+; Rio Ave          ; 1-3; Vitória Guimarães 
+; Braga            ; 4-1; Vitória Setúbal   
+
+Date: 1/21/2013
+
+; Académica Coimbra; 2-1; Nacional          
+; Moreirense       ; 0-2; Benfica           
+
+Round: 16
+Date: 1/25/2013
+
+; Académica Coimbra; 3-1; Beira-Mar         
+
+Date: 1/26/2013
+
+; Braga            ; 1-2; Benfica           
+
+Date: 1/27/2013
+
+; Marítimo         ; 1-1; Rio Ave           
+; Estoril Praia    ; 3-3; Olhanense         
+; Moreirense       ; 0-5; Paços de Ferreira 
+; Sporting         ; 1-1; Vitória Guimarães 
+; Vitória Setúbal  ; 0-2; Nacional          
+
+Date: 1/28/2013
+
+; Porto            ; 5-0; Gil Vicente       
+
+Round: 17
+Date: 2/2/2013
+
+; Rio Ave          ; 2-1; Sporting          
+; Vitória Guimarães; 0-4; Porto             
+
+Date: 2/3/2013
+
+; Benfica          ; 3-0; Vitória Setúbal   
+; Nacional         ; 1-2; Moreirense        
+; Gil Vicente      ; 4-2; Marítimo          
+;; Beira-Mar;         3-3 Braga             
+; Olhanense        ; 0-0; Académica Coimbra 
+
+Date: 2/5/2013
+
+; Paços de Ferreira; 1-0; Estoril Praia     
+
+Round: 18
+Date: 2/9/2013
+
+; Estoril Praia    ; 2-0; Vitória Guimarães 
+
+Date: 2/10/2013
+
+; Académica Coimbra; 1-2; Rio Ave           
+; Nacional         ; 2-2; Benfica           
+; Porto            ; 1-1; Olhanense         
+; Moreirense       ; 3-0; Beira-Mar         
+; Sporting         ; 0-1; Marítimo          
+; Vitória Setúbal  ; 1-0; Gil Vicente       
+
+Date: 2/211/2013
+
+; Braga            ; 2-3; Paços de Ferreira 
+
+Round: 19
+Date: 2/15/2013
+
+;; Beira-Mar;         0-2 Porto             
+
+Date: 2/16/2013
+
+; Gil Vicente      ; 2-3; Sporting          
+
+Date: 2/17/2013
+
+; Benfica          ; 1-0; Académica Coimbra 
+; Marítimo         ; 2-1; Estoril Praia     
+; Paços de Ferreira; 1-1; Nacional          
+; Olhanense        ; 0-1; Vitória Setúbal   
+; Vitória Guimarães; 1-0; Moreirense        
+
+Date: 2/18/2013
+
+; Rio Ave          ; 1-1; Braga             
+
+Round: 20
+Date: 2/22/2013
+
+; Estoril Praia    ; 3-1; Sporting          
+
+Date: 2/23/2013
+
+; Porto            ; 2-1; Rio Ave           
+; Braga            ; 3-2; Vitória Guimarães 
+; Vitória Setúbal  ; 1-0; Beira-Mar         
+
+Date: 2/24/2013
+
+; Benfica          ; 3-0; Paços de Ferreira 
+; Nacional         ; 3-1; Olhanense         
+; Moreirense       ; 0-0; Gil Vicente       
+
+Date: 2/25/2013
+
+; Académica Coimbra; 2-3; Marítimo          
+
+Round: 21
+Date: 3/2/2013
+
+; Paços de Ferreira; 2-0; Vitória Setúbal   
+; Sporting         ; 0-0; Porto             
+
+Date: 3/3/2013
+
+; Marítimo         ; 1-1; Moreirense        
+; Gil Vicente      ; 1-2; Nacional          
+; Rio Ave          ; 0-2; Estoril Praia     
+;; Beira-Mar;         0-1 Benfica           
+
+Date: 3/4/2013
+
+; Olhanense        ; 0-1; Braga             
+; Vitória Guimarães; 2-0; Académica Coimbra 
+
+Round: 22
+Date: 3/8/2013
+
+; Porto            ; 2-0; Estoril Praia     
+
+Date: 3/9/2013
+
+; Académica Coimbra; 1-1; Sporting          
+; Braga            ; 2-0; Marítimo          
+
+Date: 3/10/2013
+
+; Benfica          ; 5-0; Gil Vicente       
+; Nacional         ; 1-1; Rio Ave           
+; Paços de Ferreira; 1-1; Beira-Mar         
+; Moreirense       ; 1-1; Olhanense         
+
+Date: 3/11/2013
+
+; Vitória Setúbal  ; 2-3; Vitória Guimarães 
+
+Round: 23
+Date: 3/15/2013
+
+; Gil Vicente      ; 1-3; Braga             
+
+Date: 3/16/2013
+
+; Olhanense        ; 1-2; Paços de Ferreira 
+; Sporting         ; 2-1; Vitória Setúbal   
+
+Date: 3/17/2013
+
+; Marítimo         ; 1-1; Porto             
+; Estoril Praia    ; 2-0; Académica Coimbra 
+; Rio Ave          ; 0-1; Moreirense        
+;; Beira-Mar;         2-2 Nacional          
+; Vitória Guimarães; 0-4; Benfica           
+
+Round: 24
+Date: 3/29/2013
+
+; Paços de Ferreira; 3-2; Gil Vicente       
+
+Date: 3/30/2013
+
+; Académica Coimbra; 0-3; Porto             
+; Benfica          ; 6-1; Rio Ave           
+; Moreirense       ; 1-1; Estoril Praia     
+;; Beira-Mar;         0-1 Olhanense         
+; Vitória Setúbal  ; 2-4; Marítimo          
+
+Date: 4/1/2013
+
+; Nacional         ; 2-1; Vitória Guimarães 
+; Braga            ; 2-3; Sporting          
+
+Round: 25
+Date: 4/5/2013
+
+; Marítimo         ; 1-1; Paços de Ferreira 
+
+Date: 4/6/2013
+
+; Sporting         ; 3-2; Moreirense        
+
+Date: 4/7/2013
+
+; Estoril Praia    ; 4-0; Nacional          
+; Gil Vicente      ; 2-1; Académica Coimbra 
+; Rio Ave          ; 2-1; Vitória Setúbal   
+; Olhanense        ; 0-2; Benfica           
+; Vitória Guimarães; 2-1; Beira-Mar         
+
+Date: 4/8/2013
+
+; Porto            ; 3-1; Braga             
+
+Round: 26
+Date: 4/19/2013
+
+; Braga            ; 1-0; Académica Coimbra 
+
+Date: 4/20/2013
+
+; Paços de Ferreira; 2-1; Rio Ave           
+; Moreirense       ; 0-3; Porto             
+
+Date: 4/21/2013
+
+; Benfica          ; 2-0; Sporting          
+; Nacional         ; 2-1; Marítimo          
+;; Beira-Mar;         1-0 Gil Vicente       
+; Vitória Setúbal  ; 1-0; Estoril Praia     
+
+Date: 4/22/2013
+
+; Olhanense        ; 1-2; Vitória Guimarães 
+
+Round: 27
+Date: 4/26/2013
+
+; Estoril Praia    ; 2-1; Braga             
+
+Date: 4/27/2013
+
+; Porto            ; 2-0; Vitória Setúbal   
+
+Date: 4/28/2013
+
+; Académica Coimbra; 1-0; Moreirense        
+; Gil Vicente      ; 2-0; Olhanense         
+; Rio Ave          ; 2-1; Beira-Mar         
+; Sporting         ; 2-1; Nacional          
+; Vitória Guimarães; 2-2; Paços de Ferreira 
+
+Date: 4/29/2013
+
+; Marítimo         ; 1-2; Benfica           
+
+Round: 28
+Date: 5/3/2013
+
+; Moreirense       ; 2-3; Braga             
+
+Date: 5/4/2013
+
+; Nacional         ; 1-3; Porto             
+
+Date: 5/5/2013
+
+; Paços de Ferreira; 1-0; Sporting          
+;; Beira-Mar;         4-2 Marítimo          
+; Olhanense        ; 1-0; Rio Ave           
+; Vitória Guimarães; 3-1; Gil Vicente       
+; Vitória Setúbal  ; 0-1; Académica Coimbra 
+
+Date: 5/6/2013
+
+; Benfica          ; 1-1; Estoril Praia     
+
+Round: 29 
+Date: 5/11/2013
+
+; Académica Coimbra; 1-1; Paços de Ferreira 
+; Marítimo         ; 1-0; Vitória Guimarães 
+; Porto            ; 2-1; Benfica           
+; Estoril Praia    ; 2-1; Beira-Mar         
+; Moreirense       ; 2-1; Vitória Setúbal   
+; Rio Ave          ; 2-1; Gil Vicente       
+; Braga            ; 1-3; Nacional          
+; Sporting         ; 1-0; Olhanense         
+
+Round: 30 
+Date: 5/19/2013
+
+; Benfica          ; 3-1; Moreirense        
+; Nacional         ; 2-1; Académica Coimbra 
+; Paços de Ferreira; 0-2; Porto             
+; Gil Vicente      ; 1-3; Estoril Praia     
+;; Beira-Mar;         1-4 Sporting          
+; Olhanense        ; 0-0; Marítimo          
+; Vitória Guimarães; 0-1; Rio Ave           
+; Vitória Setúbal  ; 0-1; Braga             
+
+
+* 1.FC do Porto                  30  24  6  0  70-14  78  Champions
+* 2.SL Benfica                   30  24  5  1  77-20  77
+* 3.FC Paços de Ferreira         30  14 12  4  42-29  54
+* 4.Sporting de Braga            30  16  4 10  60-44  52
+* 5.GD Estoril Praia             30  13  6 11  47-37  45
+* 6.Rio Ave FC                   30  12  6 12  35-42  42  [2 2 0 0 3-1 6]
+* 7.Sporting CP                  30  11  9 10  36-36  42  [2 0 0 2 1-3 0]
+* 8.CD Nacional                  30  11  7 12  45-51  40  [2 2 0 0 6-2 6]
+* 9.Vitória SC (Guimarães)       30  11  7 12  36-47  40  [2 0 0 2 2-6 0]
+*10.CS Marítimo                  30   9 11 10  34-45  38
+*11.Académica de Coimbra         30   6 10 14  33-45  28
+*12.Vitória FC (Setúbal)         30   7  5 18  30-55  26
+*13.Gil Vicente FC               30   6  7 17  31-54  25  [2 1 1 0 4-2 4]
+*14.SC Olhanense                 30   5 10 15  26-42  25  [2 0 1 1 2-4 1]
+*-------------------------------------------------------
+*15.Moreirense FC                30   5  9 16  30-51  24  Relegated
+*16.SC Beira-Mar                 30   5  8 17  35-55  23  Relegated
+
+Competition: Segunda Liga
+
+* 1.CF "Os Belenenses"           42  29  7  6  75-41  94  Promoted
+* 2.FC Arouca                    42  21 10 11  65-48  73  Promoted
+*-------------------------------------------------------
+* 3.Leixões SC                   42  18 14 10  49-36  68  
+* 4.Sporting CP B                42  17 15 10  62-46  66
+* 5.Desportivo Aves              42  16 17  9  47-42  65  
+* 6.Portimonense SC              42  17 13 12  61-50  64
+* 7.SL Benfica B                 42  15 17 10  71-54  62
+* 8.Oliveirense                  42  16 12 14  52-49  60  [2 1 1 0 1-0 4]
+* 9.SC Penafiel                  42  16 12 14  48-44  60  [2 0 1 1 0-1 1]
+*10.CD Tondela                   42  16 11 15  55-60  59  [2 1 1 0 4-2 4]
+*11.CD Santa Clara               42  15 14 13  55-48  59  [2 0 1 1 2-4 1]
+*12.União da Madeira             42  13 17 12  47-46  56  [2 1 0 1 4-3 3]
+*13.CD Feirense                  42  15 11 16  60-59  56  [2 1 0 1 3-4 3]
+*14.FC do Porto B                42  13 15 14  49-49  54 
+*15.Sporting de Braga B          42  12 13 17  39-51  47  [-2]
+*16.CS Marítimo B                42  14  7 21  40-46  46  [-3]
+*17.Atlético CP                  42  12  8 22  45-63  44  
+*18.Naval                        42  13 18 11  51-50  40  [2 1 1 0 1-0 4]  [-17]  Withdrew
+*19.CD Trofense                  42   9 13 20  41-60  40  [2 0 1 1 0-1 1]
+*20.Sporting da Covilhã          42   7 17 18  37-52  38
+*-------------------------------------------------------
+*21.Vitória SC (Guimarães) B     42   7 15 20  30-56  36  Relegated
+*22.SC Freamunde                 42   7 12 23  46-75  33  Relegated
+*
+*NB: due to the withdrawal of Naval, Sporting da Covilhã remained at the second level
+*
+*Promoted: GD Chaves, SC Farense, Académico de Viseu FC
+
+*Prepared and maintained by Karel Stokkermans the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 15 May 2014
+*(C) Copyright Karel Stokkermans and RSSSF 2013/14
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
