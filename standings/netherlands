@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesn/ned2013.html
 Competition: Eredivisie
-Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; goal_d; notes
 
 
 Season: 2013-2014
@@ -25,6 +25,8 @@ Season: 2013-2014
 17    ; N.E.C.         ; 34     ; 5      ; 15     ; 14     ; 30     ; 54     ; 82     ; -28;
 18    ; Roda JC        ; 34     ; 7      ; 8      ; 19     ; 29     ; 44     ; 69     ; -25;
 
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
 
 
 Season: 2012-2013

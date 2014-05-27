@@ -30,15 +30,18 @@ Season: 2006
 Round: 1 
 Date: 3/10/2006
 
-; Cork           ; 1-0; Dublin          [annulled]
+; Cork           ; 1-0; Dublin          
+*[annulled]
+
 ; Derry          ; 2-0; UCD
-Martyn 38, O’Flynn 75
+Martyn 38, O'Flynn 75;
 
 ; Bray           ; 2-2; Shelbourne
-Zayed 12, Delaney og 45; J. Byrne 12, 74 pen
+Zayed 12, Delaney (og) 45; J. Byrne 12, J. Byrne (pk) 74
 
 ; Bohemians      ; 0-1; Drogheda
-Keegan 52
+;Keegan 52
+
 ; Saint Patrick's; 0-0; Waterford
 
 Date: 3/27/2006
@@ -49,21 +52,22 @@ Round: 2
 Date: 3/16/2006
 
 ; Waterford      ; 1-1; Bray
-  Kavanagh 93; Zayed 60 pen
+  Kavanagh 93; Zayed (pk) 60
 
-; Dublin         ; 1-0; Derry           [annulled]
+; Dublin         ; 1-0; Derry           
+*[annulled]
 
 Date: 3/17/2006
 
 ; UCD            ; 0-1; Saint Patrick's
-  O’Connor 62
+;  O'Connor 62
 
 ; Shelbourne     ; 0-0; Longford
 
 Date: 3/18/2006
 
 ; Sligo          ; 1-0; Bohemians
-  Hughes 45
+  Hughes 45;
 
 ; Drogheda       ; 0-0; Cork
 
@@ -73,10 +77,11 @@ Date: 3/24/2006
 ; Derry          ; 3-1; Sligo
   McCarthy 47, Beckett 52, Farren 78; McNamara 73
 
-; Dublin         ; 0-1; Drogheda        [annulled]
+; Dublin         ; 0-1; Drogheda        
+*[annulled]
 
 ; Waterford      ; 0-1; UCD
-  Shorthall 45
+;  Shorthall 45
 
 ; Saint Patrick's; 2-2; Shelbourne
   Rutherford 3, Molloy 17; J. Byrne 56, Hawkins 83
@@ -86,7 +91,7 @@ Date: 3/24/2006
 Date: 5/16/2006
 
 ; Bray           ; 1-0; Longford
-  Charles
+  Charles;
 
 Round: 4
 Date: 3/31/2006
@@ -94,56 +99,58 @@ Date: 3/31/2006
 ; UCD            ; 0-0; Cork
 
 ; Drogheda       ; 1-0; Bray
-  Keegan 76
+  Keegan 76;
 
 ; Bohemians      ; 4-2; Waterford
-  Grant 18, 90, Farrelly 44 pen, Hunt 49; Poleczwak 2, Doyle 39
+  Grant 18, Grant 90, Farrelly (pk) 44, Hunt 49; Poleczwak 2, Doyle 39
 
 Date: 4/1/2006
 
 ; Sligo          ; 1-1; Saint Patrick's
   Foy 90 pen; Perth 90
 
-; Longford       ; 1-1; Dublin          [annulled]
+; Longford       ; 1-1; Dublin        
+*  [annulled]
 
 Date: 6/6/2006
 
 ; Shelbourne     ; 1-0; Derry
 
 Round: 5 
-
 Date: 4/7/2006
 
 ; Derry          ; 1-0; Bohemians
-  O’Flynn 61
+  O'Flynn 61;
 
 ; Cork           ; 2-1; Longford
-  O’Flynn 20, 54; Doherty 75
+  O'Flynn 20, O'Flynn 54; Doherty 75
 
 ; Waterford      ; 0-1; Shelbourne
-  J. Byrne 40
+;  J. Byrne 40
 
 ; Saint Patrick's; 0-1; Drogheda
-  Keegan 88
+;  Keegan 88
 
-; Dublin         ; 0-0; Sligo           [annulled]
+; Dublin         ; 0-0; Sligo           
+*[annulled]
 
 Date: 4/8/2006
 
 ; UCD            ; 4-1; Bray
-  Byrne 28, 66, Sammon 39, 41; Tresson 82
+  Byrne 28, Byrne 66, Sammon 39, Sammon 41; Tresson 82
 
 Round: 6
 Date: 4/14/2006
 
 ; Drogheda       ; 1-0; UCD
-  Bradley 47
+  Bradley 47;
 
 ; Bray           ; 0-0; Cork
 
 ; Bohemians      ; 0-0; Saint Patrick's
 
-; Shelbourne     ; 1-0; Dublin          [annulled]
+; Shelbourne     ; 1-0; Dublin          
+*[annulled]
 
 Date: 4/15/2006
 
@@ -151,24 +158,25 @@ Date: 4/15/2006
   McTiernan 5, Judge 65, Flannery 69; Hughes 13
 
 ; Longford       ; 0-1; Derry
-  Martyn 72
+;  Martyn 72
 
 Round: 7
 Date: 4/19/2006
 
 ; Saint Patrick's; 3-0; Bray
-*  Keegan ,83, Molloy
+* Keegan ,83, Molloy
 
 Date: 4/21/2006
 
 ; Waterford      ; 0-0; Longford
 
-; Dublin         ; 1-2; Bohemians       [annulled]
+; Dublin         ; 1-2; Bohemians       
+*[annulled]
 
 Date: 4/22/2006
 
 ; UCD            ; 1-2; Shelbourne
-  Doyle 72; O’Neill 71, Kearney 84
+  Doyle 72; O'Neill 71, Kearney 84
 
 
 Date: 5/2/2006
@@ -178,7 +186,7 @@ Date: 5/2/2006
 Date: 10/10/2006
 
 ; Derry          ; 1-2; Drogheda
-  Martyn 50; Hargan 49 og, Ristilla 82
+  Martyn 50; Hargan (og) 49, Ristilla 82
 
 Round: 8
 Date: 4/28/2006
@@ -187,40 +195,37 @@ Date: 4/28/2006
   Browne 37; Deery 57, Brennan 60
 
 ; Saint Patrick's; 2-0; Cork
-  Murray 32 og, Molloy 50
+  Murray (og) 32, Molloy 50;
 
 ; Drogheda       ; 1-0; Longford
-  O’Brien 36
+  O'Brien 36;
 
-; Bray           ; 0-2; Dublin          [annulled]
+; Bray           ; 0-2; Dublin          *[annulled]
 
 ; Bohemians      ; 2-1; UCD
   Arkins 76, Ferguson 78; Cawley 8
 
-
 Date: 4/29/2006
 
 ; Sligo          ; 1-1; Shelbourne
-  O’Grady 15, O’Neill 7
-
+  O'Grady 15; O'Neill 7
 
 Round: 9
-
 Date: 5/4/2006
 
 ; Shelbourne     ; 2-1; Drogheda
-  S. Byrne 12, O’Neill 72; O’Brien 89
-
+  S. Byrne 12, O'Neill 72; O'Brien 89
 
 Date: 5/5/2006
 
 ; Derry          ; 3-0; Bray
-  Martyn 40, O’Flynn 73, Hutton 81
+  Martyn 40, O'Flynn 73, Hutton 81;
 
 ; Cork           ; 2-0; Waterford
-  O’Flynn 9, Behan 88
+  O'Flynn 9, Behan 88;
 
-; Dublin         ; 0-2; Saint Patrick's [annulled]
+; Dublin         ; 0-2; Saint Patrick's 
+*[annulled]
 
 Date: 5/6/2006
 
@@ -228,19 +233,19 @@ Date: 5/6/2006
   Kirby 30, Baker 67, Byrne 74; Farrelly 6
 
 ; UCD            ; 3-0; Sligo   
-  McNally 3, McWalter 28, 73
+  McNally 3, McWalter 28, McWalter 73;
 
 Round: 10
 Date: 5/12/2006
 
-; Waterford      ; 0-1; Dublin          [annulled]
+; Waterford      ; 0-1; Dublin          
+*[annulled]
 
 ; Saint Patrick's; 1-1; Derry
   Keegan 56; Molloy 5
 
 ; Bohemians      ; 3-0; Bray
-  Arkins 31, O’Keeffe 70, 76
-
+  Arkins 31, O'Keeffe 70, O'Keeffe 76;
 
 Date: 5/13/2006
 
@@ -249,83 +254,81 @@ Date: 5/13/2006
 Date: 5/15/2006
 
 ; Cork           ; 2-1; Shelbourne
-  O’Callaghan 44, Fenn 49; J. Byrne 40 pen
-
+  O'Callaghan 44, Fenn 49; J. Byrne (pk) 40
 
 Date: 7/4/2006
 
 ; UCD            ; 2-2; Longford
-  McWalter 16, 19; Fitzgerald 29, Paisley
-
+  McWalter 16, McWalter 19; Fitzgerald 29, Paisley
 
 Round: 11
-
 Date: 5/19/2006
 
 ; Drogheda       ; 4-0; Waterford
-  O’Brien 14 pen., 29, 69, Fitzpatrick 90
+  O'Brien (pk) 14, O'Brien 29, O'Brien 69, Fitzpatrick 90;
 
 ; Shelbourne     ; 2-0; Bohemians
-  Hawkins 17, S. Byrne 48
-
+  Hawkins 17, S. Byrne 48;
 
 Date: 5/20/2006
 
 ; Derry          ; 2-0; Cork
-  Murphy og 44, Martyn 55
+  Murphy (og) 44, Martyn 55;
 
 
 Date: 5/22/2006
 
-; Dublin         ; 2-1; UCD             [annulled]
+; Dublin         ; 2-1; UCD             
+*[annulled]
 
 Date: 7/18/2006
 
 ; Bray           ; 1-2; Sligo
   Georgescu 84; Hughes 58, Mansaram 87
 
-
 Date: 7/19/2006
 
 ; Longford       ; 2-0; Saint Patrick's
-  Kirby 35, R. Martin 64
+  Kirby 35, R. Martin 64;
 
 Round: 12
 Date: 6/2/2006
 
-; Dublin         ; 0-4; Cork            [annulled]
+; Dublin         ; 0-4; Cork            
+*[annulled]
 
 ; Drogheda       ; 1-0; Bohemians
-  O’Brien 31
+  O'Brien 31;
 
 ; Waterford      ; 1-3; Saint Patrick's
-  Maguire 77 og; Deans 16 og, Keegan 70, M. Foley 74
+  Maguire (og) 77; Deans (og) 16, Keegan 70, M. Foley 74
 
 ; Shelbourne     ; 4-1; Bray
-  O’Neill 16, 77, J. Byrne 63, Cahill 86; McGovern 70
+  O'Neill 16, O'Neill 77, J. Byrne 63, Cahill 86; McGovern 70
 
 ; UCD            ; 0-0; Derry
 
 Date: 6/3/2006
 
 ; Sligo          ; 3-1; Longford
-  Mansarem 2, 47, Foy 51 pen; Mooney 56
+  Mansarem 2, Mansarem 47, Foy (pk) 51; Mooney 56
 
 Round: 13
 Date: 6/23/2006
 
 ; Bohemians      ; 0-2; Sligo
-  McTiernan 9, 68
+;  McTiernan 9, McTiernan 68
 
 ; Bray           ; 3-1; Waterford
-  Gifford 70, Caffrey 76, Zayed 87; Charles 65 og
+  Gifford 70, Caffrey 76, Zayed 87; Charles (og) 65
 
 ; Saint Patrick's; 0-0; UCD
 
-; Derry          ; 3-0; Dublin          [annulled]
+; Derry          ; 3-0; Dublin          
+*[annulled]
 
 ; Cork           ; 1-0; Drogheda
-  O’Flynn 30
+  O'Flynn 30;
 
 Date: 10/10/2006
 
@@ -335,98 +338,93 @@ Round: 14
 Date: 6/26/2006
 
 ; Sligo          ; 3-1; Derry
-McTiernan 7, 67, Foy 58; Brennan 45]
+McTiernan 7, McTiernan 67, Foy 58; Brennan 45
 
 ; UCD            ; 2-1; Waterford
   Kavanagh 74, Shorthall 79; McCarthy 9
 
-; Drogheda       ; 2-2; Dublin          [annulled]
+; Drogheda       ; 2-2; Dublin         
+* [annulled]
 
 Date: 6/27/2006
 
 ; Longford       ; 1-0; Bray
-  Mooney 86
+  Mooney 86;
 
 ; Bohemians      ; 0-0; Cork
 
 ; Shelbourne     ; 3-0; Saint Patrick's
-  J. Byrne 37, 45, Crowe 77
-
+  J. Byrne 37, J. Byrne 45, Crowe 77;
 
 Round: 15
-
 Date: 6/30/2006
 
 ; Waterford      ; 1-3; Bohemians
   Lamberski 28; McGuinness 10, Grant 43, Kelly 67
 
-; Dublin         ; 0-2; Longford        [annulled]
+; Dublin         ; 0-2; Longford        
+*[annulled]
 
 ; Saint Patrick's; 3-1; Sligo
-  Molloy 20, 52, Keegan 75; Mansarem 40
+  Molloy 20, Molloy 52, Keegan 75; Mansarem 40
 
 ; Cork           ; 1-0; UCD
-  Behan 61
-
+  Behan 61;
 
 Date: 7/2/2006
 
 ; Bray           ; 0-1; Drogheda
-  Keegan 84
+;  Keegan 84
 
 
 Date: 10/24/2006
 
 ; Derry          ; 2-0; Shelbourne
-  Martyn 52, McCourt
-
+  Martyn 52, McCourt;
 
 Round: 16
-
 Date: 7/7/2006
 
 ; Bohemians      ; 1-2; Derry
-  Farrelly 40; Molloy 21, Farren 52 pen
+  Farrelly 40; Molloy 21, Farren (pk) 52
  
 ; Drogheda       ; 2-1; Saint Patrick's
-  Gavin 4, Zayed 15; Reilly 65 pen
+  Gavin 4, Zayed 15; Reilly (pk) 65
 
-; Sligo          ; 2-0; Dublin          [annulled]
+; Sligo          ; 2-0; Dublin     
+*     [annulled]
 
 Date: 7/8/2006
 
 ; Longford       ; 0-2; Cork
-  Behan 10, 15
-
+;  Behan 10, Behan 15
 
 Date: 7/9/2006
 
 ; Bray           ; 1-1; UCD
-  Quigley og 90; Sammon 60
-
+  Quigley (og) 90; Sammon 60
 
 Date: 7/17/2006
 
 ; Shelbourne     ; 5-1; Waterford
-  Ryan 45, Hawkins 60, Ndo 63, Crowe 67, 91; Casey 61
-
+  Ryan 45, Hawkins 60, Ndo 63, Crowe 67, Crowe 91; Casey 61
 
 Round: 17
-
 Date: 7/14/2006
 
 ; Waterford      ; 1-2; Sligo
   Browne 9; Hughes 67, Mansarem 89
 
 ; Saint Patrick's; 0-1; Bohemians
-  Farrelly 44
+;  Farrelly 44
 
-; Dublin         ; 1-2; Shelbourne      [annulled]
+; Dublin         ; 1-2; Shelbourne      
+*[annulled]
 
 Date: 7/16/2006
 
 ; Derry          ; 1-0; Longford
-  Paisley 14 og
+  Paisley (og) 14;
 
 ; UCD            ; 0-0; Drogheda
 
@@ -441,19 +439,17 @@ Round: 18
 Date: 7/21/2006
 
 ; Shelbourne     ; 6-0; UCD
-  Crowe 13, 79, J. Byrne 46, 82, Ndo 54, Cahill 72
+  Crowe 13, Crowe 79, J. Byrne 46, J. Byrne 82, Ndo 54, Cahill 72;
  
 Date: 7/22/2006
 
 ; Longford       ; 3-0; Waterford
-  Kirby 36, Byrne 86, 90 pen
-
+  Kirby 36, Byrne 86, Byrne (pk) 90;
 
 Date: 7/23/2006
 
 ; Bray           ; 1-2; Saint Patrick's
   Georgescu 63; M. Quigley 19, Fahey 59
-
 
 Date: 9/12/2006
 
@@ -462,7 +458,7 @@ Date: 9/12/2006
 Date: 11/7/2006
 
 ; Drogheda       ; 3-1; Derry
-  Barrett 11, 27 ,88; Deery 46
+  Barrett 11, Barrett 27 , Barrett 88; Deery 46
 
 *Bohemians       bye
 
@@ -471,20 +467,19 @@ Round: 19
 Date: 7/28/2006
 
 ; Shelbourne     ; 3-0; Sligo
-  Cahill 7, J. Byrne 50, 55
+  Cahill 7, J. Byrne 50, J. Byrne 55;
 
 Date: 7/29/2006
 
 ; UCD            ; 0-1; Bohemians
-  Byrne 90 pen
-
+;  Byrne (pk) 90
 
 Date: 7/30/2006
 
 ; Longford       ; 0-0; Drogheda
 
 ; Derry          ; 4-0; Waterford
-  Beckett 19, Kelly 41, McHugh 65, Martyn 83
+  Beckett 19, Kelly 41, McHugh 65, Martyn 83;
 
 
 Date: 9/4/2006
@@ -496,16 +491,16 @@ Round: 20
 Date: 8/4/2006
 
 ; Bray           ; 2-3; Derry
-  Georgescu 48, James 83; McHugh 10, 24, Martyn 45
+  Georgescu 48, James 83; McHugh 10, McHugh 24, Martyn 45
 
 ; Drogheda       ; 1-3; Shelbourne
   Bradley 90 pen; S. Byrne 34 pen, Cahill 58, Heary 77
 
 ; Sligo          ; 0-1; UCD
-  Sammon 39
+;  Sammon 39
 
 ; Bohemians      ; 0-1; Longford
-  Kirby 38
+;  Kirby 38
 
 Date: 8/5/2006
 
@@ -517,10 +512,10 @@ Round: 21
 Date: 8/11/2006
 
 ; Bray           ; 0-3; Bohemians
-  Ward 2, Leech 48, Devlin 51 pen
+;  Ward 2, Leech 48, Devlin (pk) 51
 
 ; Shelbourne     ; 2-2; Cork
-  Byrne 44, Crowe 78; Behan 20, O’Donovan 61 pen
+  Byrne 44, Crowe 78; Behan 20, O'Donovan (pk) 61
 
 
 Date: 8/12/2006
@@ -533,7 +528,7 @@ Date: 8/13/2006
   Barrett 47, Gartland 67; Hughes 64, Foy 90
 
 ; Derry          ; 3-1; Saint Patrick's
-  Oman 23, 31, Farren 78; Foley 40
+  Oman 23, Oman 31, Farren 78; Foley 40
 
 *Waterford       bye
 
@@ -541,17 +536,18 @@ Round: 22
 Date: 8/18/2006
 
 ; Sligo          ; 2-0; Bray
-  Mansaram 7, Singh 33
+  Mansaram 7, Singh 33;
 
 ; Waterford      ; 2-3; Drogheda
-  Keddy 58 og, Browne 72; Barrett 19, O’Brien 42, Keddy 87
+  Keddy (og) 58, Browne 72; Barrett 19, O'Brien 42, Keddy 87
 
 ; Saint Patrick's; 0-0; Longford
 
 ; Cork           ; 1-1; Derry
-  O’Donovan 60; Murray 75 og
+  O'Donovan 60; Murray (og) 75
 
-; Bohemians      ; 2-1; Shelbourne      [result annulled on Oct 30 but allowed to stand on Nov 14]
+; Bohemians      ; 2-1; Shelbourne     
+* [result annulled on Oct 30 but allowed to stand on Nov 14]
   Harkin 64, Caffrey 75; Crowe 57
         
 *UCD             bye         
@@ -560,19 +556,18 @@ Round: 23
 Date: 9/1/2006
 
 ; Bohemians      ; 2-2; Drogheda
-  Harkin 77, O’Keeffe 89; Lynch 66 pen, O’Brien 71
+  Harkin 77, O'Keeffe 89; Lynch (pk) 66, O'Brien 71
 
 ; Saint Patrick's; 0-1; Waterford
-  Crowley 1
+;  Crowley 1
 
 ; Bray           ; 2-3; Shelbourne
-  Tresson 33, Roche 36; O’Halloran 47, Ryan 66, Crowe 90
-
+  Tresson 33, Roche 36; O'Halloran 47, Ryan 66, Crowe 90
 
 Date: 9/3/2006
 
 ; Longford       ; 0-2; Sligo
-  Singh 19, 59
+;  Singh 19, Singh 59
 
 ; Derry          ; 0-0; UCD
 
@@ -584,17 +579,17 @@ Date: 9/8/2006
 ; UCD            ; 0-0; Saint Patrick's
 
 ; Waterford      ; 3-0; Bray
-  Cawley 36, Brosnan 72, Kavanagh 90
+  Cawley 36, Brosnan 72, Kavanagh 90;
 
 ; Shelbourne     ; 2-0; Longford
-  O’Neill 6, Crowe 66
+  O'Neill 6, Crowe 66;
 
 *Drogheda        0-0 Cork
 
 Date: 9/9/2006
 
 ; Sligo          ; 1-0; Bohemians
-  Hughes 85
+  Hughes 85;
 
 *Derry           bye
 
@@ -602,13 +597,13 @@ Round: 25
 Date: 9/15/2006
 
 ; Bray           ; 0-2; Longford
-  Kirby 3, Mooney 59
+;  Kirby 3, Mooney 59
 
 ; Cork           ; 1-0; Bohemians
-  Woods 24
+  Woods 24;
 
 ; Saint Patrick's; 1-3; Shelbourne
-  Fahey 8; O’Neill 26, Crowe 84, Harris 86
+  Fahey 8; O'Neill 26, Crowe 84, Harris 86
 
 *Waterford       0-0 UCD
 
@@ -625,10 +620,10 @@ Date: 9/22/2006
   Sammon 71; Murray 75
 
 ; Drogheda       ; 1-1; Bray
-  O’Brien 62; Gavin 86 og
+  O'Brien 62; Gavin (og) 86
 
 ; Bohemians      ; 3-1; Waterford
-  O’Keeffe 48, 73; McCarthy 18
+  O'Keeffe 48, O'Keeffe 73; McCarthy 18
 
 ; Shelbourne     ; 2-2; Derry
   Heary 61, Crowe 78; McCourt 24, Deery 25
@@ -636,7 +631,7 @@ Date: 9/22/2006
 Date: 9/23/2006
 
 ; Sligo          ; 3-2; Saint Patrick's
-  Judge 46, Mansaram 87, Turner 88 pen; Foley 20, Mulcahy 40
+  Judge 46, Mansaram 87, Turner (pk) 88; Foley 20, Mulcahy 40
 
 *Longford        bye
 
@@ -650,13 +645,13 @@ Date: 10/5/2006
   Behan 92; Freeman 31
 
 ; Waterford      ; 0-1; Shelbourne
-  Byrne 62 pen
+;  Byrne (pk) 62
 
 ; Saint Patrick's; 3-0; Drogheda
-  Fahey 9, Keegan 80, Rooney 89
+  Fahey 9, Keegan 80, Rooney 89;
 
 ; UCD            ; 4-0; Bray
-  Dicker 10, 57, McNally 40, Doyle 66
+  Dicker 10, Dicker 57, McNally 40, Doyle 66;
 
 *Sligo           bye
 
@@ -664,20 +659,20 @@ Round: 28
 Date: 10/13/2006
 
 ; Bray           ; 2-1; Cork
-  Georgescu 52, 54; Murray 81
+  Georgescu 52, Georgescu 54; Murray 81
 
 ; Bohemians      ; 0-1; Saint Patrick's
-  Mulcahy 80
+;  Mulcahy 80
 
 Date: 10/14/2006
 
 ; Drogheda       ; 1-0; UCD
-  O’Brien 4
+  O'Brien 4;
 
 ; Sligo          ; 0-0; Waterford
 
 ; Longford       ; 0-2; Derry
-  Farren 1, 29
+;  Farren 1, Farren 29
 
 *Shelbourne      bye
 
@@ -685,16 +680,16 @@ Round: 29
 Date: 10/20/2006
 
 ; Saint Patrick's; 5-1; Bray
-  Murphy 18, 42, Molloy 29, M. Quigley 72, Roche 90; Georgescu 32
+  Murphy 18, Murphy 42, Molloy 29, M. Quigley 72, Roche 90; Georgescu 32
 
 ; Waterford      ; 1-2; Longford
-  G. McCarthy 26 pen; Byrne 59, Kirby 77
+  G. McCarthy (pk) 26; Byrne 59, Kirby 77
 
 ; UCD            ; 0-2; Shelbourne
-  Byrne 19, Baker 51
+;  Byrne 19, Baker 51
 
 ; Cork           ; 2-0; Sligo
-  Woods 71, O’Donovan 87
+  Woods 71, O'Donovan 87;
 
 ; Derry          ; 0-0; Drogheda
 
@@ -704,25 +699,25 @@ Round: 30
 Date: 10/27/2006
 
 ; Drogheda       ; 2-0; Longford
-  Paisley 26 og, Whelan 46
+  Paisley (og) 26, Whelan 46;
 
 ; Bohemians      ; 0-1; UCD
-  Kavanagh 57
+;  Kavanagh 57
 
 Date: 11/6/2006
 
 ; Saint Patrick's; 0-1; Cork
-  O’Donovan 26
+; O'Donovan 26
 
 Date: 11/7/2006
 
 ; Sligo          ; 0-2; Shelbourne
-  S. Byrne 26, Hughes 68 og
+;  S. Byrne 26, Hughes (og) 68
 
 Date: 11/13/2006
 
 ; Waterford      ; 0-1; Derry
-  Farren 93
+;  Farren 93
 
 *Bray            bye
 
@@ -730,20 +725,20 @@ Round: 31
 Date: 11/3/2006
 
 ; Shelbourne     ; 2-2; Drogheda
-  O’Neill 51, O’Halloran 56; Gavin 2, Whelan 58
+  O'Neill 51, O'Halloran 56; Gavin 2, Whelan 58
 
 ; Derry          ; 0-0; Bray
 
 ; Cork           ; 4-1; Waterford
-  Woods 32, O’Donovan 48, 65, Fenn 82; Brosnan 45
+  Woods 32, O'Donovan 48, O'Donovan 65, Fenn 82; Brosnan 45
 
 ; UCD            ; 1-0; Sligo
-  Kavanagh 90
+  Kavanagh 90;
    
 Date: 11/4/2006
 
 ; Longford       ; 3-0; Bohemians
-  Baker 37, 90, Heary 39 og
+  Baker 37, Baker 90, Heary (og) 39;
 
 *Saint Patrick's bye
 
@@ -751,21 +746,21 @@ Round: 32
 Date: 11/10/2006
 
 ; Cork           ; 1-0; Shelbourne
-  O’Donovan 59
+  O'Donovan 59;
 
 ; Bohemians      ; 1-1; Bray
-  O’Keeffe 3; O’Reilly 55
+  O'Keeffe 3; O'Reilly 55
  
 ; Saint Patrick's; 0-1; Derry
-  Farren 60
+;  Farren 60
 
 ; UCD            ; 3-1; Longford 
-  Kavanagh 14, Sammon 55, 85; Baker 3
+  Kavanagh 14, Sammon 55, Sammon 85; Baker 3
 
 Date: 11/11/2006
 
 ; Sligo          ; 2-3; Drogheda
-  McTiernan 34, Aisien 64; Barrett 35, Coleman 38 og, Gavin 79
+  McTiernan 34, Aisien 64; Barrett 35, Coleman (og) 38, Gavin 79
 
 *Waterford       bye
 
@@ -776,15 +771,15 @@ Date: 11/17/2006
   Georgescu 22; Burns 56
 
 ; Derry          ; 1-0; Cork
-  Farren 11
+  Farren 11;
 
 ; Drogheda       ; 1-0; Waterford 
-  O’Brien 59
+  O'Brien 59;
 
 ; Longford       ; 0-0; Saint Patrick's     
 
 ; Shelbourne     ; 2-1; Bohemians
-  Byrne 23 pen, Crowe 29; Ferguson 15
+  Byrne (pk) 23, Crowe 29; Ferguson 15
 
 
 
@@ -814,17 +809,17 @@ Date: 11/17/2006
 *    subsequently annulled and ordered to be replayed
 
 
-12th/13rd Place Playoff
+*12th/13rd Place Playoff
 
-First Leg 
+*First Leg 
 Date: 11/22/2006
 
-Dundalk         1-1 Waterford
+; Dundalk        ; 1-1; Waterford
 
-Second Leg 
+*Second Leg 
 Date: 11/25/2006
 
-Waterford       1-2 Dundalk
+; Waterford      ; 1-2; Dundalk
 
 *League Restructuring
 *

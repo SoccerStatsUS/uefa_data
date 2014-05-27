@@ -39,7 +39,7 @@ Date: 8/19/2012
 
 Date: 8/20/2012
 
-;; Beira-Mar;         3-3 Académica Coimbra 
+; Beira-Mar;         3-3; Académica Coimbra 
 
 Round: 2
 Date: 8/24/2012
@@ -74,7 +74,7 @@ Date: 9/2/2012
 ; Paços de Ferreira; 2-0; Braga             
 ; Gil Vicente      ; 0-0; Vitória Setúbal   
 ; Rio Ave          ; 0-0; Académica Coimbra 
-;; Beira-Mar;         1-1 Moreirense        
+; Beira-Mar;         1-1; Moreirense        
 
 Date: 9/16/2012
 
@@ -116,7 +116,7 @@ Date: 9/30/2012
 
 ; Marítimo         ; 0-2; Académica Coimbra 
 ; Gil Vicente      ; 4-3; Moreirense        
-;; Beira-Mar;         1-1 Vitória Setúbal   
+; Beira-Mar;         1-1; Vitória Setúbal   
 ; Olhanense        ; 1-2; Nacional          
 
 Round: 6
@@ -145,7 +145,7 @@ Date: 10/26/2012
 Date: 10/27/2012
 
 ; Gil Vicente      ; 0-3; Benfica           
-;; Beira-Mar;         0-2 Paços de Ferreira 
+; Beira-Mar;         0-2; Paços de Ferreira 
 ; Olhanense        ; 2-2; Moreirense        
 
 Date: 10/28/2012
@@ -200,7 +200,7 @@ Date: 11/12/2012
 Round: 10
 Date: 11/23/2012
 
-;; Beira-Mar;         2-2 Vitória Guimarães 
+; Beira-Mar;         2-2; Vitória Guimarães 
 
 Date: 11/24/2012
 
@@ -247,7 +247,7 @@ Date: 12/15/2012
 
 ; Benfica          ; 4-1; Marítimo          
 ; Nacional         ; 1-1; Sporting          
-;; Beira-Mar;         3-1 Rio Ave           
+; Beira-Mar;         3-1; Rio Ave           
 ; Olhanense        ; 2-2; Gil Vicente       
 
 Date: 12/16/2012
@@ -291,7 +291,7 @@ Date: 1/13/2013
 
 Date: 1/14/2013
 
-;; Beira-Mar;         0-1 Estoril Praia     
+; Beira-Mar;         0-1; Estoril Praia     
 
 Round: 15
 Date: 1/18/2013
@@ -346,7 +346,7 @@ Date: 2/3/2013
 ; Benfica          ; 3-0; Vitória Setúbal   
 ; Nacional         ; 1-2; Moreirense        
 ; Gil Vicente      ; 4-2; Marítimo          
-;; Beira-Mar;         3-3 Braga             
+; Beira-Mar;         3-3; Braga             
 ; Olhanense        ; 0-0; Académica Coimbra 
 
 Date: 2/5/2013
@@ -367,14 +367,14 @@ Date: 2/10/2013
 ; Sporting         ; 0-1; Marítimo          
 ; Vitória Setúbal  ; 1-0; Gil Vicente       
 
-Date: 2/211/2013
+Date: 2/11/2013
 
 ; Braga            ; 2-3; Paços de Ferreira 
 
 Round: 19
 Date: 2/15/2013
 
-;; Beira-Mar;         0-2 Porto             
+; Beira-Mar;         0-2; Porto             
 
 Date: 2/16/2013
 
@@ -424,7 +424,7 @@ Date: 3/3/2013
 ; Marítimo         ; 1-1; Moreirense        
 ; Gil Vicente      ; 1-2; Nacional          
 ; Rio Ave          ; 0-2; Estoril Praia     
-;; Beira-Mar;         0-1 Benfica           
+; Beira-Mar;         0-1; Benfica           
 
 Date: 3/4/2013
 
@@ -467,7 +467,7 @@ Date: 3/17/2013
 ; Marítimo         ; 1-1; Porto             
 ; Estoril Praia    ; 2-0; Académica Coimbra 
 ; Rio Ave          ; 0-1; Moreirense        
-;; Beira-Mar;         2-2 Nacional          
+; Beira-Mar;         2-2; Nacional          
 ; Vitória Guimarães; 0-4; Benfica           
 
 Round: 24
@@ -480,7 +480,7 @@ Date: 3/30/2013
 ; Académica Coimbra; 0-3; Porto             
 ; Benfica          ; 6-1; Rio Ave           
 ; Moreirense       ; 1-1; Estoril Praia     
-;; Beira-Mar;         0-1 Olhanense         
+; Beira-Mar;         0-1; Olhanense         
 ; Vitória Setúbal  ; 2-4; Marítimo          
 
 Date: 4/1/2013
@@ -523,7 +523,7 @@ Date: 4/21/2013
 
 ; Benfica          ; 2-0; Sporting          
 ; Nacional         ; 2-1; Marítimo          
-;; Beira-Mar;         1-0 Gil Vicente       
+; Beira-Mar;         1-0; Gil Vicente       
 ; Vitória Setúbal  ; 1-0; Estoril Praia     
 
 Date: 4/22/2013
@@ -563,7 +563,7 @@ Date: 5/4/2013
 Date: 5/5/2013
 
 ; Paços de Ferreira; 1-0; Sporting          
-;; Beira-Mar;         4-2 Marítimo          
+; Beira-Mar;         4-2; Marítimo          
 ; Olhanense        ; 1-0; Rio Ave           
 ; Vitória Guimarães; 3-1; Gil Vicente       
 ; Vitória Setúbal  ; 0-1; Académica Coimbra 
@@ -591,7 +591,7 @@ Date: 5/19/2013
 ; Nacional         ; 2-1; Académica Coimbra 
 ; Paços de Ferreira; 0-2; Porto             
 ; Gil Vicente      ; 1-3; Estoril Praia     
-;; Beira-Mar;         1-4 Sporting          
+; Beira-Mar;         1-4; Sporting          
 ; Olhanense        ; 0-0; Marítimo          
 ; Vitória Guimarães; 0-1; Rio Ave           
 ; Vitória Setúbal  ; 0-1; Braga             

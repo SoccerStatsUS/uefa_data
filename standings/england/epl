@@ -318,6 +318,8 @@ Season: 2003-2004
 
 Season: 2004-2005
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_gainst
+
 *                               P   W   D   L   F   A   W   D   L   F   A  Df  Pts
   1; Chelsea                 ; 38;  14;   5;   0;  35;   6;  15;   3;   1;  37;   9; ; 57;  95
   2; Arsenal                 ; 38;  13;   5;   1;  54;  19;  12;   3;   4;  33;  17; ; 51;  83

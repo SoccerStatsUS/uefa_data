@@ -32,7 +32,7 @@ Date: 7/27/2013
 ; Lierse           ; 1-2; Zulte Waregem     
 ; Mons             ; 1-1; Cercle Brugge     
 ; Genk             ; 3-0; Oostende          
-;; Waasland-Beveren;  1-1 Gent              
+; Waasland-Beveren;  1-1; Gent              
 
 Date: 7/28/2013
 
@@ -67,7 +67,7 @@ Date: 8/10/2013
 ; Lierse           ; 1-1; Cercle Brugge     
 ; Mons             ; 1-2; Charleroi         
 ; Oostende         ; 1-1; OH Leuven         
-;; Waasland-Beveren;  0-0 KV Mechelen       
+; Waasland-Beveren;  0-0; KV Mechelen       
 
 Date: 8/11/2013
 
@@ -88,7 +88,7 @@ Date: 8/17/2013
 Date: 8/18/2013
 
 ; Standard         ; 1-0; OH Leuven         
-;; Waasland-Beveren;  0-3 Anderlecht        
+; Waasland-Beveren;  0-3; Anderlecht        
 
 Round: 5
 Date: 8/24/2013
@@ -117,7 +117,7 @@ Date: 9/1/2013
 
 ; Charleroi        ; 1-1; Genk              
 ; Standard         ; 2-0; Kortrĳk           
-;; Waasland-Beveren;  1-2 Club Brugge       
+; Waasland-Beveren;  1-2; Club Brugge       
 ; Zulte Waregem    ; 4-3; Anderlecht        
 
 Round: 7
@@ -147,7 +147,7 @@ Date: 9/22/2013
 
 ; Club Brugge      ; 4-0; Anderlecht        
 ; Standard         ; 2-1; Lokeren           
-;; Waasland-Beveren;  0-0 Genk              
+; Waasland-Beveren;  0-0; Genk              
 ; Zulte Waregem    ; 4-2; OH Leuven         
 
 Round: 9
@@ -172,7 +172,7 @@ Date: 10/5/2013
 ; Club Brugge      ; 1-0; OH Leuven         
 ; KV Mechelen      ; 1-2; Cercle Brugge     
 ; Lierse           ; 2-1; Mons              
-;; Waasland-Beveren;  2-0 Oostende          
+; Waasland-Beveren;  2-0; Oostende          
 
 Date: 10/6/2013
 
@@ -208,7 +208,7 @@ Date: 10/26/2013
 ; KV Mechelen      ; 4-2; OH Leuven         
 ; Lierse           ; 0-2; Oostende          
 ; Mons             ; 0-1; Kortrĳk           
-;; Waasland-Beveren;  0-2 Lokeren           
+; Waasland-Beveren;  0-2; Lokeren           
 
 Date: 10/27/2013
 
@@ -244,7 +244,7 @@ Date: 11/3/2013
 
 ; Gent             ; 0-1; Standard          
 ; Club Brugge      ; 1-0; Lokeren           
-;; Waasland-Beveren;  0-1 Cercle Brugge     
+; Waasland-Beveren;  0-1; Cercle Brugge     
 
 Round: 15
 Date: 11/8/2013
@@ -285,7 +285,7 @@ Date: 11/30/2013
 ; Club Brugge      ; 2-0; Oostende          
 ; KV Mechelen      ; 0-1; Gent              
 ; Mons             ; 1-0; Lokeren           
-;; Waasland-Beveren;  0-0 Charleroi         
+; Waasland-Beveren;  0-0; Charleroi         
 
 Date: 12/1/2013
 
@@ -331,7 +331,7 @@ Date: 12/21/2013
 ; Charleroi        ; 0-2; Mons              
 ; KV Mechelen      ; 5-2; Kortrĳk           
 ; Lokeren          ; 2-0; OH Leuven         
-;; Waasland-Beveren;  3-1 Lierse            
+; Waasland-Beveren;  3-1; Lierse            
 ; Zulte Waregem    ; 2-2; Oostende          
 
 Date: 12/22/2013
@@ -362,7 +362,7 @@ Date: 1/18/2014
 ; Charleroi        ; 2-0; OH Leuven         
 ; Lierse           ; 1-1; Club Brugge       
 ; Standard         ; 2-0; Oostende          
-;; Waasland-Beveren;  4-1 Mons              
+; Waasland-Beveren;  4-1; Mons              
 
 Date: 1/19/2014
 
@@ -399,7 +399,7 @@ Date: 2/1/2014
 ; Club Brugge      ; 2-1; Mons              
 ; KV Mechelen      ; 0-2; Genk              
 ; Standard         ; 4-0; Cercle Brugge     
-;; Waasland-Beveren;  1-1 Kortrĳk           
+; Waasland-Beveren;  1-1; Kortrĳk           
 
 Date: 2/2/2014
 
@@ -430,7 +430,7 @@ Date: 2/15/2014
 ; Charleroi        ; 0-1; Standard          
 ; KV Mechelen      ; 1-1; Oostende          
 ; Lierse           ; 0-1; Genk              
-;; Waasland-Beveren;  1-0 OH Leuven         
+; Waasland-Beveren;  1-0; OH Leuven         
 ; Zulte Waregem    ; 2-1; Cercle Brugge     
 
 Date: 2/16/2014
@@ -467,7 +467,7 @@ Date: 3/1/2014
 ; Kortrĳk          ; 4-0; Cercle Brugge     
 ; Lierse           ; 0-0; OH Leuven         
 ; Mons             ; 3-0; Oostende          
-;; Waasland-Beveren;  2-2 Zulte Waregem     
+; Waasland-Beveren;  2-2; Zulte Waregem     
 
 Date: 3/2/2014
 
@@ -496,7 +496,7 @@ Date: 3/16/2014
 ; KV Mechelen      ; 0-3; Charleroi         
 ; Lierse           ; 1-2; Lokeren           
 ; Mons             ; 3-2; OH Leuven         
-;; Waasland-Beveren;  1-1 Standard          
+; Waasland-Beveren;  1-1; Standard          
 
 
 * 1.R. Standard de Liège             30  20  7  3  59-17  67  Championship Playoff
@@ -521,7 +521,7 @@ Date: 3/16/2014
 
 Stage: Playoff
 
-Championship Playoff
+*Championship Playoff
 
 * 1.Club Brugge KV                    6   3  1  2  11- 7  42  [32]
 * 2.R. Standard de Liège              6   1  3  2   6- 8  40  [34]
@@ -630,7 +630,7 @@ Round: 1
 Date: 3/29/2014
 
 ; Gent             ; 0-1; Oostende          
-;; Waasland-Beveren;  2-0 Lierse            
+; Waasland-Beveren;  2-0; Lierse            
 
 Round: 2 
 Date: 4/5/2014
@@ -648,7 +648,7 @@ Round: 4
 Date: 4/19/2014
 
 ; Lierse           ; 0-2; Oostende          
-;; Waasland-Beveren;  2-4 Gent              
+; Waasland-Beveren;  2-4; Gent              
 
 Round: 5 
 Date: 4/26/2014

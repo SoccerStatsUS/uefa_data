@@ -448,6 +448,8 @@ BlockSource: http://www.rsssf.com/tablesd/duit2013.html
 Season: 2013-2014
 BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Bundesliga
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+
 1           ; Bayern Munich             ; 34     ; 29     ; 3      ; 2      ; 94     ; 23     ; +71    ; 90 ;     2014–15 UEFA Champions League group stage
 2           ; Borussia Dortmund         ; 34     ; 22     ; 5      ; 7      ; 80     ; 38     ; +42    ; 71;
 3           ; Schalke 04                ; 34     ; 19     ; 7      ; 8      ; 63     ; 43     ; +20    ; 64;

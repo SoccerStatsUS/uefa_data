@@ -606,6 +606,7 @@ BlockSource: http://www.rsssf.com/tablesb/belg2013.html
 16; Cercle Brugge KSV               ; 30;   3;  5; 22;  30; 65;  14
 
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
 
 Season: 2013-2014
 BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Belgian_Pro_League

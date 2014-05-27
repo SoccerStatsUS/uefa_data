@@ -30,23 +30,23 @@ Round: 1
 Date: 8/14/2010
 
 ; Aston Villa  ; 3-0; West Ham      
-  Downing 15, Petrov 40, Milner 66
+  Downing 15, Petrov 40, Milner 66;
 
 ; Blackburn    ; 1-0; Everton       
-  Kalinic 14
+  Kalinic 14;
 
 ; Bolton       ; 0-0; Fulham        
 
 ; Chelsea      ; 6-0; WBA           
-  Malouda 6, 90, Drogba 45, 55, 68, Lampard 63
+  Malouda 6, Malouda 90, Drogba 45, Drogba 55, Drogba 68, Lampard 63;
 
 ; Sunderland   ; 2-2; Birmingham    
-  Bent 24pen, Carr 56og; Dann 77, Ridgewell 88
+  Bent (pk) 24, Carr (og) 56; Dann 77, Ridgewell 88
 
 ; Tottenham    ; 0-0; Manchester C  
 
 ; Wigan        ; 0-4; Blackpool     
-  Taylor-Fletcher 16, Harewood 38, 43, Baptiste 75
+;  Taylor-Fletcher 16, Harewood 38, Harewood 43, Baptiste 75
 
 ; Wolverhampton; 2-1; Stoke         
   Jones 37, Fletcher 39; Faye 55
@@ -54,12 +54,12 @@ Date: 8/14/2010
 Date: 8/15/2010
 
 ; Liverpool    ; 1-1; Arsenal       
-  Ngog 46; Reina 91og
+  Ngog 46; Reina (og) 91
 
 Date: 8/16/2010
 
 ; Manchester U ; 3-0; Newcastle     
-  Berbatov 33, Fletcher 41, Giggs 85
+  Berbatov 33, Fletcher 41, Giggs 85;
 
 Round: 2
 Date: 8/21/2010

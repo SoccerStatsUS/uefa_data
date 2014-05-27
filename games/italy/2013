@@ -1,0 +1,806 @@
+BlockSource: http://www.rsssf.com/tablesi/ital2014.html
+Competition: Serie A
+Season: 2013-2014
+
+
+* 1.Juventus FC         38  33  3  2  80-23 102  Champions
+* 2.AS Roma             38  26  7  5  72-25  85
+* 3.SSC Napoli          38  23  9  6  77-39  78
+* 4.AC Fiorentina       38  19  8 11  65-44  65
+* 5.FC Internazionale   38  15 15  8  62-39  60
+* 6.Parma FC            38  15 13 10  58-46  58
+* 7.Torino FC           38  15 12 11  58-48  57  [2 0 2 0 3-3 2]
+* 8.Milan AC            38  16  9 13  57-49  57  [2 0 2 0 3-3 2]
+* 9.SS Lazio            38  15 11 12  54-54  56
+*10.Hellas Verona FC    38  16  6 16  62-68  54
+*11.Atalanta BC         38  15  5 18  43-51  50
+*12.UC Sampdoria        38  12  9 17  48-62  45
+*13.Udinese Calcio      38  12  8 18  46-57  44  [2 1 1 0 4-3 4]
+*14.Genoa CFC           38  11 11 16  41-50  44  [2 0 1 1 3-4 1]
+*15.Cagliari Calcio     38   9 12 17  34-53  39
+*16.AC Chievo Verona    38  10  6 22  34-54  36
+*17.US Sassuolo         38   9  7 22  43-72  34
+*----------------------------------------------
+*18.Calcio Catania      38   8  8 22  34-66  32  Relegated
+*19.Bologna FC          38   5 14 19  28-58  29  Relegated
+*20.AS Livorno          38   6  7 25  39-77  25  Relegated
+
+Round: 1
+Date: 8/24/2013
+
+; Sampdoria  ; 0-1; Juventus    
+; Verona     ; 2-1; Milan       
+
+Date: 8/25/2013
+
+; Cagliari   ; 2-1; Atalanta    
+; Inter      ; 2-0; Genoa       
+; Lazio      ; 2-1; Udinese     
+; Livorno    ; 0-2; Roma        
+; Napoli     ; 3-0; Bologna     
+; Parma      ; 0-0; Chievo      
+; Torino     ; 2-0; Sassuolo    
+
+Date: 8/26/2013
+
+; Fiorentina ; 2-1; Catania     
+
+Round: 2
+Date: 8/31/2013
+
+; Chievo     ; 2-4; Napoli      
+; Juventus   ; 4-1; Lazio       
+
+Date: 8/1/2013
+
+; Milan      ; 3-1; Cagliari    
+; Roma       ; 3-0; Verona      
+; Atalanta   ; 2-0; Torino      
+; Bologna    ; 2-2; Sampdoria   
+; Catania    ; 0-3; Inter       
+; Genoa      ; 2-5; Fiorentina  
+; Sassuolo   ; 1-4; Livorno     
+; Udinese    ; 3-1; Parma       
+
+Round: 3
+Date: 9/14/2013
+
+; Inter      ; 1-1; Juventus    
+; Napoli     ; 2-0; Atalanta    
+; Torino     ; 2-2; Milan       
+
+Date: 9/15/2013
+
+; Fiorentina ; 1-1; Cagliari    
+; Lazio      ; 3-0; Chievo      
+; Livorno    ; 2-0; Catania     
+; Sampdoria  ; 0-3; Genoa       
+; Udinese    ; 1-1; Bologna     
+; Verona     ; 2-0; Sassuolo    
+
+Date: 9/16/2013
+
+; Parma      ; 1-3; Roma        
+
+Round: 4
+Date: 9/21/2013
+
+; Cagliari   ; 2-2; Sampdoria   
+; Chievo     ; 2-1; Udinese     
+; Genoa      ; 0-0; Livorno     
+
+Date: 9/22/2013
+
+; Milan      ; 1-2; Napoli      
+; Roma       ; 2-0; Lazio       
+; Atalanta   ; 0-2; Fiorentina  
+; Bologna    ; 1-2; Torino      
+; Catania    ; 0-0; Parma       
+; Juventus   ; 2-1; Verona      
+; Sassuolo   ; 0-7; Inter       
+
+Round: 5
+Date: 9/24/2013
+
+; Udinese    ; 1-0; Genoa       
+
+Date: 9/25/2013
+
+; Bologna    ; 3-3; Milan       
+; Chievo     ; 1-2; Juventus    
+; Lazio      ; 3-1; Catania     
+; Livorno    ; 1-1; Cagliari    
+; Napoli     ; 1-1; Sassuolo    
+; Parma      ; 4-3; Atalanta    
+; Sampdoria  ; 0-2; Roma        
+; Torino     ; 2-2; Verona      
+
+Date: 9/26/2013
+
+; Inter      ; 2-1; Fiorentina  
+
+Round: 6
+Date: 9/28/2013
+
+; Milan      ; 1-0; Sampdoria   
+; Genoa      ; 0-2; Napoli      
+
+Date: 9/29/2013
+
+; Roma       ; 5-0; Bologna     
+; Atalanta   ; 2-0; Udinese     
+; Cagliari   ; 1-1; Inter       
+; Catania    ; 2-0; Chievo      
+; Sassuolo   ; 2-2; Lazio       
+; Torino     ; 0-1; Juventus    
+; Verona     ; 2-1; Livorno     
+
+Date: 9/30/2013
+
+; Fiorentina ; 2-2; Parma       
+
+Round: 7
+Date: 10/5/2013
+
+; Chievo     ; 0-1; Atalanta    
+; Inter      ; 0-3; Roma        
+
+Date: 10/6/2013
+
+; Bologna    ; 1-4; Verona      
+; Catania    ; 1-1; Genoa       
+; Juventus   ; 3-2; Milan       
+; Lazio      ; 0-0; Fiorentina  
+; Napoli     ; 4-0; Livorno     
+; Parma      ; 3-1; Sassuolo    
+; Sampdoria  ; 2-2; Torino      
+; Udinese    ; 2-0; Cagliari    
+
+Round: 8
+Date: 10/18/2013
+
+; Roma       ; 2-0; Napoli      
+
+Date: 10/19/2013
+
+; Milan      ; 1-0; Udinese     
+; Cagliari   ; 2-1; Catania     
+
+Date: 10/20/2013
+
+; Atalanta   ; 2-1; Lazio       
+; Fiorentina ; 4-2; Juventus    
+; Genoa      ; 2-1; Chievo      
+; Livorno    ; 1-2; Sampdoria   
+; Sassuolo   ; 2-1; Bologna     
+; Torino     ; 3-3; Inter       
+; Verona     ; 3-2; Parma       
+
+Round: 9
+Date: 10/26/2013
+
+; Inter      ; 4-2; Verona      
+; Sampdoria  ; 1-0; Atalanta    
+
+Date: 10/27/2013
+
+; Bologna    ; 1-0; Livorno     
+; Catania    ; 0-0; Sassuolo    
+; Chievo     ; 1-2; Fiorentina  
+; Juventus   ; 2-0; Genoa       
+; Lazio      ; 2-0; Cagliari    
+; Napoli     ; 2-0; Torino      
+; Parma      ; 3-2; Milan       
+; Udinese    ; 0-1; Roma        
+
+Round: 10
+Date: 10/29/2013
+
+; Atalanta   ; 1-1; Inter       
+
+Date: 10/30/2013
+
+; Milan      ; 1-1; Lazio       
+; Cagliari   ; 0-3; Bologna     
+; Fiorentina ; 1-2; Napoli      
+; Genoa      ; 1-0; Parma       
+; Juventus   ; 4-0; Catania     
+; Livorno    ; 3-3; Torino      
+; Sassuolo   ; 1-2; Udinese     
+; Verona     ; 2-0; Sampdoria   
+
+Date: 10/31/2013
+
+; Roma       ; 1-0; Chievo      
+
+Round: 11
+Date: 11/2/2013
+
+; Milan      ; 0-2; Fiorentina  
+; Napoli     ; 2-1; Catania     
+; Parma      ; 0-1; Juventus    
+
+Date: 11/2/2013
+
+; Lazio      ; 0-2; Genoa       
+; Livorno    ; 1-0; Atalanta    
+; Sampdoria  ; 3-4; Sassuolo    
+; Torino     ; 1-1; Roma        
+; Udinese    ; 0-3; Inter       
+; Verona     ; 2-1; Cagliari    
+
+Date: 11/4/2013
+
+; Bologna    ; 0-0; Chievo      
+
+Round: 12
+Date: 11/9/2013
+
+; Catania    ; 1-0; Udinese     
+; Inter      ; 2-0; Livorno     
+
+Date: 11/10/2013
+
+; Roma       ; 1-1; Sassuolo    
+; Atalanta   ; 2-1; Bologna     
+; Cagliari   ; 2-1; Torino      
+; Chievo     ; 0-0; Milan       
+; Fiorentina ; 2-1; Sampdoria   
+; Genoa      ; 2-0; Verona      
+; Juventus   ; 3-0; Napoli      
+; Parma      ; 1-1; Lazio       
+
+Round: 13
+Date: 11/23/2013
+
+; Milan      ; 1-1; Genoa       
+; Napoli     ; 0-1; Parma       
+; Verona     ; 0-1; Chievo      
+
+Date: 11/24/2013
+
+; Bologna    ; 1-1; Inter       
+; Livorno    ; 0-2; Juventus    
+; Sampdoria  ; 1-1; Lazio       
+; Sassuolo   ; 2-0; Atalanta    
+; Torino     ; 4-1; Catania     
+; Udinese    ; 1-0; Fiorentina  
+
+Date: 11/25/2013
+
+; Roma       ; 0-0; Cagliari    
+
+Round: 14
+Date: 11/30/2013
+
+; Genoa      ; 1-1; Torino      
+; Parma      ; 1-1; Bologna     
+
+Date: 12/1/2013
+
+; Atalanta   ; 1-1; Roma        
+; Cagliari   ; 2-2; Sassuolo    
+; Catania    ; 1-3; Milan       
+; Chievo     ; 3-0; Livorno     
+; Inter      ; 1-1; Sampdoria   
+; Juventus   ; 1-0; Udinese     
+
+Date: 12/2/2013
+
+; Fiorentina ; 4-3; Verona      
+; Lazio      ; 2-4; Napoli      
+
+Round: 15
+Date: 12/6/2013
+
+; Bologna    ; 0-2; Juventus    
+
+Date: 12/7/2013
+
+; Livorno    ; 2-2; Milan       
+; Napoli     ; 3-3; Udinese     
+
+Date: 12/8/2013
+
+; Roma       ; 2-1; Fiorentina  
+; Cagliari   ; 2-1; Genoa       
+; Inter      ; 3-3; Parma       
+; Sampdoria  ; 2-0; Catania     
+; Sassuolo   ; 0-1; Chievo      
+; Torino     ; 1-0; Lazio       
+; Verona     ; 2-1; Atalanta    
+
+Round: 16
+Date: 12/14/2013
+
+; Catania    ; 0-0; Verona      
+
+Date: 12/15/2013
+
+; Chievo     ; 0-1; Sampdoria   
+; Fiorentina ; 3-0; Bologna     
+; Genoa      ; 1-1; Atalanta    
+; Juventus   ; 4-0; Sassuolo    
+; Lazio      ; 2-0; Livorno     
+; Napoli     ; 4-2; Inter       
+; Parma      ; 0-0; Cagliari    
+; Udinese    ; 0-2; Torino      
+
+Date: 12/16/2013
+
+; Milan      ; 2-2; Roma        
+
+Round: 17
+Date: 12/21/2013
+
+; Cagliari   ; 1-1; Napoli      
+; Livorno    ; 1-2; Udinese     
+
+Date: 12/22/2013
+
+; Roma       ; 4-0; Catania     
+; Atalanta   ; 1-4; Juventus    
+; Bologna    ; 1-0; Genoa       
+; Inter      ; 1-0; Milan       
+; Sampdoria  ; 1-1; Parma       
+; Sassuolo   ; 0-1; Fiorentina  
+; Torino     ; 4-1; Chievo      
+; Verona     ; 4-1; Lazio       
+
+Round: 18
+Date: 1/5/2014
+
+; Chievo     ; 0-0; Cagliari    
+; Fiorentina ; 1-0; Livorno     
+; Juventus   ; 3-0; Roma        
+
+Date: 1/6/2014
+
+; Milan      ; 3-0; Atalanta    
+; Catania    ; 2-0; Bologna     
+; Genoa      ; 2-0; Sassuolo    
+; Lazio      ; 1-0; Inter       
+; Napoli     ; 2-0; Sampdoria   
+; Parma      ; 3-1; Torino      
+; Udinese    ; 1-3; Verona      
+
+Round: 19
+Date: 1/11/2014
+
+; Bologna    ; 0-0; Lazio       
+; Livorno    ; 0-3; Parma       
+
+Date: 1/12/2014
+
+; Roma       ; 4-0; Genoa       
+; Atalanta   ; 2-1; Catania     
+; Cagliari   ; 1-4; Juventus    
+; Sassuolo   ; 4-3; Milan       
+; Torino     ; 0-0; Fiorentina  
+; Verona     ; 0-3; Napoli      
+
+Date: 1/13/2014
+
+; Inter      ; 1-1; Chievo      
+; Sampdoria  ; 3-0; Udinese     
+
+Round: 20
+Date: 1/18/2014
+
+; Roma       ; 3-0; Livorno     
+; Juventus   ; 4-2; Sampdoria   
+
+Date: 1/19/2014
+
+; Milan      ; 1-0; Verona      
+; Atalanta   ; 1-0; Cagliari    
+; Bologna    ; 2-2; Napoli      
+; Catania    ; 0-3; Fiorentina  
+; Chievo     ; 1-2; Parma       
+; Genoa      ; 1-0; Inter       
+; Sassuolo   ; 0-2; Torino      
+; Udinese    ; 2-3; Lazio       
+
+Round: 21
+Date: 1/25/2014
+
+; Lazio      ; 1-1; Juventus    
+; Napoli     ; 1-1; Chievo      
+
+Date: 1/26/2014
+
+; Cagliari   ; 1-2; Milan       
+; Fiorentina ; 3-3; Genoa       
+; Inter      ; 0-0; Catania     
+; Livorno    ; 3-1; Sassuolo    
+; Parma      ; 1-0; Udinese     
+; Sampdoria  ; 1-1; Bologna     
+; Torino     ; 1-0; Atalanta    
+; Verona     ; 1-3; Roma        
+
+Round: 22
+Date: 2/1/2014
+
+; Milan      ; 1-1; Torino      
+; Bologna    ; 0-2; Udinese     
+; Cagliari   ; 1-0; Fiorentina  
+
+Date: 2/2/2014
+
+; Roma        abd Parma       [abandoned at; 0-0; in 11' due to heavy rain]
+; Atalanta   ; 3-0; Napoli      
+; Catania    ; 3-3; Livorno     
+; Chievo     ; 0-2; Lazio       
+; Juventus   ; 3-1; Inter       
+; Sassuolo   ; 1-2; Verona      
+
+Date: 2/3/2014
+
+; Genoa      ; 0-1; Sampdoria   
+
+Date: 4/2/2014
+
+; Roma       ; 4-2; Parma       [replay]
+
+Round: 23
+
+Date: 2/8/2014
+
+; Fiorentina ; 2-0; Atalanta    
+; Napoli     ; 3-1; Milan       
+; Udinese    ; 3-0; Chievo      
+
+Date: 2/9/2014
+
+; Inter      ; 1-0; Sassuolo    
+; Lazio      ; 0-0; Roma        
+; Livorno    ; 0-1; Genoa       
+; Parma      ; 0-0; Catania     
+; Sampdoria  ; 1-0; Cagliari    
+; Torino     ; 1-2; Bologna     
+; Verona     ; 2-2; Juventus    
+
+Round: 24
+Date: 2/14/2014
+
+; Milan      ; 1-0; Bologna     
+
+Date: 2/15/2014
+
+; Fiorentina ; 1-2; Inter       
+
+Date: 2/16/2014
+
+; Roma       ; 3-0; Sampdoria   
+; Atalanta   ; 0-4; Parma       
+; Cagliari   ; 1-2; Livorno     
+; Catania    ; 3-1; Lazio       
+; Genoa      ; 3-3; Udinese     
+; Juventus   ; 3-1; Chievo      
+; Sassuolo   ; 0-2; Napoli      
+
+Date: 2/17/2014
+
+; Verona     ; 1-3; Torino      
+
+Round: 25
+Date: 2/22/2014
+
+; Bologna    ; 0-1; Roma        
+
+Date: 2/23/2014
+
+; Chievo     ; 2-0; Catania     
+; Inter      ; 1-1; Cagliari    
+; Juventus   ; 1-0; Torino      
+; Lazio      ; 3-2; Sassuolo    
+; Livorno    ; 2-3; Verona      
+; Sampdoria  ; 0-2; Milan       
+; Udinese    ; 1-1; Atalanta    
+
+Date: 2/24/2014
+
+; Parma      ; 2-2; Fiorentina  
+; Napoli     ; 1-1; Genoa       
+
+Round: 26
+Date: 3/1/2014
+
+; Roma       ; 0-0; Inter       
+
+Date: 3/2/2014
+
+; Milan      ; 0-2; Juventus    
+; Atalanta   ; 2-1; Chievo      
+; Cagliari   ; 3-0; Udinese     
+; Fiorentina ; 0-1; Lazio       
+; Genoa      ; 2-0; Catania     
+; Livorno    ; 1-1; Napoli      
+; Sassuolo   ; 0-1; Parma       
+; Torino     ; 0-2; Sampdoria   
+; Verona     ; 0-0; Bologna     
+
+Round: 27
+Date: 3/8/2014
+
+; Catania    ; 1-1; Cagliari    
+; Udinese    ; 1-0; Milan       
+
+Date: 3/9/2014
+
+; Bologna    ; 0-0; Sassuolo    
+; Chievo     ; 2-1; Genoa       
+; Inter      ; 1-0; Torino      
+; Juventus   ; 1-0; Fiorentina  
+; Lazio      ; 0-1; Atalanta    
+; Napoli     ; 1-0; Roma        
+; Parma      ; 2-0; Verona      
+; Sampdoria  ; 4-2; Livorno     
+
+Round: 28
+Date: 3/15/2014
+
+; Verona     ; 0-2; Inter       
+
+Date: 3/16/2014
+
+; Milan      ; 2-4; Parma       
+; Atalanta   ; 3-0; Sampdoria   
+; Cagliari   ; 0-2; Lazio       
+; Fiorentina ; 3-1; Chievo      
+; Genoa      ; 0-1; Juventus    
+; Livorno    ; 2-1; Bologna     
+; Sassuolo   ; 3-1; Catania     
+
+Date: 3/17/2014
+
+; Roma       ; 3-2; Udinese     
+; Torino     ; 0-1; Napoli      
+
+Round: 29
+Date: 3/22/2014
+
+; Chievo     ; 0-2; Roma        
+; Torino     ; 3-1; Livorno     
+
+Date: 3/23/2014
+
+; Bologna    ; 1-0; Cagliari    
+; Catania    ; 0-1; Juventus    
+; Inter      ; 1-2; Atalanta    
+; Lazio      ; 1-1; Milan       
+; Napoli     ; 0-1; Fiorentina  
+; Parma      ; 1-1; Genoa       
+; Sampdoria  ; 5-0; Verona      
+; Udinese    ; 1-0; Sassuolo    
+
+Round: 30
+Date: 3/25/2014
+
+; Roma       ; 2-1; Torino      
+
+Date: 3/26/2014
+
+; Atalanta   ; 2-0; Livorno     
+; Cagliari   ; 1-0; Verona      
+; Catania    ; 2-4; Napoli      
+; Chievo     ; 3-0; Bologna     
+; Fiorentina ; 0-2; Milan       
+; Genoa      ; 2-0; Lazio       
+; Juventus   ; 2-1; Parma       
+; Sassuolo   ; 1-2; Sampdoria   
+
+Date: 3/27/2014
+
+; Inter      ; 0-0; Udinese     
+
+Round: 31
+Date: 3/29/2014
+
+; Milan      ; 3-0; Chievo      
+; Bologna    ; 0-2; Atalanta    
+
+Date: 3/30/2014
+
+; Lazio      ; 3-2; Parma       
+; Napoli     ; 2-0; Juventus    
+; Sampdoria  ; 0-0; Fiorentina  
+; Sassuolo   ; 0-2; Roma        
+; Torino     ; 2-1; Cagliari    
+; Verona     ; 3-0; Genoa       
+
+Date: 3/31/2014
+
+; Livorno    ; 2-2; Inter       
+; Udinese    ; 1-0; Catania     
+
+Round: 32
+Date: 4/5/2014
+
+; Chievo     ; 0-1; Verona      
+; Inter      ; 2-2; Bologna     
+
+Date: 4/6/2014
+
+; Atalanta   ; 0-2; Sassuolo    
+; Cagliari   ; 1-3; Roma        
+; Catania    ; 1-2; Torino      
+; Fiorentina ; 2-1; Udinese     
+; Lazio      ; 2-0; Sampdoria   
+; Parma      ; 1-0; Napoli      
+
+Date: 4/7/2014
+
+; Genoa      ; 1-2; Milan       
+; Juventus   ; 2-0; Livorno     
+
+Round: 33
+Date: 4/12/2014
+
+; Roma       ; 3-1; Atalanta    
+; Sassuolo   ; 1-1; Cagliari    
+
+Date: 4/13/2014
+
+; Milan      ; 1-0; Catania     
+; Bologna    ; 1-1; Parma       
+; Livorno    ; 2-4; Chievo      
+; Napoli     ; 4-2; Lazio        
+; Sampdoria  ; 0-4; Inter       
+; Torino     ; 2-1; Genoa       
+; Verona     ; 3-5; Fiorentina  
+
+Date: 4/14/2014
+
+; Udinese    ; 0-2; Juventus    
+
+Round: 34 
+Date: 4/19/2014
+
+; Milan      ; 3-0; Livorno     
+; Atalanta   ; 1-2; Verona      
+; Catania    ; 2-1; Sampdoria   
+; Chievo     ; 0-1; Sassuolo    
+; Fiorentina ; 0-1; Roma        
+; Genoa      ; 1-2; Cagliari    
+; Juventus   ; 1-0; Bologna     
+; Lazio      ; 3-3; Torino      
+; Parma      ; 0-2; Inter       
+; Udinese    ; 1-1; Napoli      
+
+Round: 35
+Date: 4/25/2014
+
+; Roma       ; 2-0; Milan       
+
+Date: 4/26/2014
+
+; Bologna    ; 0-3; Fiorentina  
+; Inter      ; 0-0; Napoli      
+
+Date: 4/27/2014
+
+; Atalanta   ; 1-1; Genoa       
+; Cagliari   ; 1-0; Parma       
+; Livorno    ; 0-2; Lazio       
+; Sampdoria  ; 2-1; Chievo      
+; Torino     ; 2-0; Udinese     
+; Verona     ; 4-0; Catania     
+
+Date: 4/28/2014
+
+; Sassuolo   ; 1-3; Juventus    
+
+Round: 36
+Date: 5/4/2014
+
+; Milan      ; 1-0; Inter       
+; Catania    ; 4-1; Roma        
+; Chievo     ; 0-1; Torino      
+; Genoa      ; 0-0; Bologna     
+; Parma      ; 2-0; Sampdoria   
+; Udinese    ; 5-3; Livorno     
+
+Date: 5/5/2014
+
+; Juventus   ; 1-0; Atalanta    
+; Lazio      ; 3-3; Verona      
+
+Date: 5/6/2014
+
+; Fiorentina ; 3-4; Sassuolo    
+; Napoli     ; 3-0; Cagliari    
+
+Round: 37
+Date: 5/10/2014
+
+; Inter      ; 4-1; Lazio       
+; Verona     ; 2-2; Udinese     
+
+Date: 5/11/2014
+
+; Roma       ; 0-1; Juventus    
+; Atalanta   ; 2-1; Milan       
+; Bologna    ; 1-2; Catania     
+; Cagliari   ; 0-1; Chievo      
+; Livorno    ; 0-1; Fiorentina  
+; Sampdoria  ; 2-5; Napoli      
+; Sassuolo   ; 4-2; Genoa       
+; Torino     ; 1-1; Parma       
+
+Round: 38
+Date: 5/17/2014
+
+; Udinese    ; 3-3; Sampdoria   
+
+Date: 5/18/2014
+
+; Milan      ; 2-1; Sassuolo    
+; Catania    ; 2-1; Atalanta    
+; Chievo     ; 2-1; Inter       
+; Fiorentina ; 2-2; Torino      
+; Genoa      ; 1-0; Roma        
+; Juventus   ; 3-0; Cagliari    
+; Lazio      ; 1-0; Bologna     
+; Napoli     ; 5-1; Verona      
+; Parma      ; 2-0; Livorno     
+
+
+* 1.Juventus FC         38  33  3  2  80-23 102  Champions
+* 2.AS Roma             38  26  7  5  72-25  85
+* 3.SSC Napoli          38  23  9  6  77-39  78
+* 4.AC Fiorentina       38  19  8 11  65-44  65
+* 5.FC Internazionale   38  15 15  8  62-39  60
+* 6.Parma FC            38  15 13 10  58-46  58
+* 7.Torino FC           38  15 12 11  58-48  57  [2 0 2 0 3-3 2]
+* 8.Milan AC            38  16  9 13  57-49  57  [2 0 2 0 3-3 2]
+* 9.SS Lazio            38  15 11 12  54-54  56
+*10.Hellas Verona FC    38  16  6 16  62-68  54
+*11.Atalanta BC         38  15  5 18  43-51  50
+*12.UC Sampdoria        38  12  9 17  48-62  45
+*13.Udinese Calcio      38  12  8 18  46-57  44  [2 1 1 0 4-3 4]
+*14.Genoa CFC           38  11 11 16  41-50  44  [2 0 1 1 3-4 1]
+*15.Cagliari Calcio     38   9 12 17  34-53  39
+*16.AC Chievo Verona    38  10  6 22  34-54  36
+*17.US Sassuolo         38   9  7 22  43-72  34
+*----------------------------------------------
+*18.Calcio Catania      38   8  8 22  34-66  32  Relegated
+*19.Bologna FC          38   5 14 19  28-58  29  Relegated
+*20.AS Livorno          38   6  7 25  39-77  25  Relegated
+
+
+Competition: Serie B
+
+
+* 1.US Città di Palermo 40  24 10  6  60-27  82  Promoted
+* 2.Empoli FC           40  19 11 10  55-33  68
+*----------------------------------------------
+* 3.AC Cesena           40  17 14  9  44-32  65
+* 4.Latina Calcio       40  17 13 10  41-35  64
+* 5.FC Modena           40  16 14 12  63-41  62
+* 6.AS Bari             40  18 10 12  48-40  60  [-4]
+* - - - - - - - - - - - - - - - - - - - - - - -
+* 7.FC Crotone          40  16 11 13  54-51  59
+* 8.AC Siena            40  17 15  8  55-39  58  [-8]
+* 9.SS Virtus Lanciano  40  15 13 12  42-43  58
+*10.Spezia Calcio       40  15 13 12  44-48  58
+*11.Trapani Calcio      40  14 15 11  57-51  57
+*12.Avellino Calcio     40  14 14 12  44-43  56
+*13.Carpi FC            40  15 10 15  46-47  55
+*14.Brescia Calcio      40  13 14 13  51-52  53
+*15.Delfino Pescara     40  13 12 15  48-49  51
+*16.Ternana Calcio      40  11 15 14  51-53  48
+*17.AS Cittadella       40  11 12 17  40-47  45
+* - - - - - - - - - - - - - - - - - - - - - - -
+*18.AS Varese           40  11 10 19  49-63  43
+*19.Novara Calcio       40  10 13 17  39-54  43
+*----------------------------------------------
+*20.Calcio Padova       40   9 11 20  43-60  38
+*21.Reggina Calcio      40   6 11 23  37-65  28  [-1]  Relegated
+*22.SS Juve Stabia      40   2 13 25  36-74  19  Relegated
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 22 May 2014
+*(C) Copyright Karel Stokkermans and RSSSF 2013/14
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

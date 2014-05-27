@@ -30,75 +30,73 @@ Round: 1
 Date: 8/15/2009
 
 ; Aston Villa  ; 0-2; Wigan
-  Rodallega 31, Koumas 56
+;  Rodallega 31, Koumas 56
 
 ; Blackburn    ; 0-2; Manchester C
-  Adebayor 3, Ireland 90
+;  Adebayor 3, Ireland 90
 
 ; Bolton       ; 0-1; Sunderland
-  Bent 5
+;  Bent 5
 
 ; Chelsea      ; 2-1; Hull
 
 ; Everton      ; 1-6; Arsenal
-  Saha 90; Denilson 26, Vermaelen 37, Gallas 41, Fabregas 48, 69,
-   Eduardo 88
+  Saha 90; Denilson 26, Vermaelen 37, Gallas 41, Fabregas 48, Fabregas 69, Eduardo 88
 
 ; Portsmouth   ; 0-1; Fulham
-  Zamora 13
+;  Zamora 13
 
 ; Stoke        ; 2-0; Burnley
-  Shawcross 19, Jordan 33og
+  Shawcross 19, Jordan (og) 33;
 
 ; Wolverhampton; 0-2; West Ham
-  Noble 22, Upson 69
+;  Noble 22, Upson 69
 
 Date: 8/16/2009
 
 ; Manchester U ; 1-0; Birmingham
-  Rooney 34
+  Rooney 34;
 
 ; Tottenham    ; 2-1; Liverpool
-  Assou-Ekotto 44, Bassong 59; Gerrard 56pen
+  Assou-Ekotto 44, Bassong 59; Gerrard (pk) 56
 
 Round: 2
 Date: 8/18/2009
 
 ; Sunderland   ; 1-3; Chelsea
-  Bent 18; Ballack 52, Lampard 61pen, Deco 70
+  Bent 18; Ballack 52, Lampard (pk) 61, Deco 70
 
 ; Wigan        ; 0-1; Wolverhampton
-  Keogh 6
+;  Keogh 6
 
 Date: 8/19/2009
 
 ; Birmingham   ; 1-0; Portsmouth
-  McFadden 90pen
+  McFadden (pk) 90;
 
 ; Burnley      ; 1-0; Manchester U
-  Blake 19
+  Blake 19;
 
 ; Hull         ; 1-5; Tottenham
-  Hunt 25; Defoe 10, 45, 90, Palacios 14, Keane 78
+  Hunt 25; Defoe 10, Defoe 45, Defoe 90, Palacios 14, Keane 78
 
 ; Liverpool    ; 4-0; Stoke
-  Torres 5, Johnson 45, Kuyt 78, Ngog 90
+  Torres 5, Johnson 45, Kuyt 78, Ngog 90;
 
 Date: 11/4/2009
 
 ; West Ham     ; 2-1; Aston Villa
-  Noble 45pen, Hines 93; Young 52
+  Noble (pk) 45, Hines 93; Young 52
 
 Date: 11/25/2009
 
 ; Fulham       ; 3-0; Blackburn
-  Nevland 43, Dempsey 67, 88
+  Nevland 43, Dempsey 67, Dempsey 88;
 
 Date: 1/20/2010
 
 ; Arsenal      ; 4-2; Bolton
-  Rosicky 43, Fabregas 52, Vermaelen 65, Arshavin 85; Cahill 7,
-   Taylor 28pen
+  Rosicky 43, Fabregas 52, Vermaelen 65, Arshavin 85; Cahill 7, Taylor (pk) 28
 
 Date: 3/24/2010
 
@@ -233,16 +231,16 @@ Date: 10/17/2009
   Bilyaletdinov 88; Doyle 76
 
 ; Manchester U ; 2-1; Bolton      
-  Knight 5og, Valencia 33; Taylor 75
+  Knight (og) 5, Valencia 33; Taylor 75
   
 ; Portsmouth   ; 1-2; Tottenham    
   Boateng 59; King 29, Defoe 45
  
 ; Stoke        ; 2-1; West Ham      
-  Beattie 11pen, 69; Upson 34
+  Beattie (pk) 11, Beattie 69; Upson 34
 
 ; Sunderland   ; 1-0; Liverpool     
-  Bent 5
+  Bent 5;
 
 Date: 10/18/2009
 
@@ -252,62 +250,56 @@ Date: 10/18/2009
 ; Wigan        ; 1-1; Manchester C  
   N'Zogbia 45; Petrov 47
 
-
 Date: 10/19/2009
 
 ; Fulham       ; 2-0; Hull          
-  Zamora 43, Kamara 64
-
+  Zamora 43, Kamara 64;
 
 Round: 10
-
 Date: 10/24/2009
 
 ; Birmingham   ; 2-1; Sunderland 
-  Ridgewell 37, McFadden 48; Dann 82og
+  Ridgewell 37, McFadden 48; Dann (og) 82
    
 ; Burnley      ; 1-3; Wigan    
-  Fletcher 4; Rodallega 11, 51, Boyce 76
+  Fletcher 4; Rodallega 11, Rodallega 51, Boyce 76
      
 ; Chelsea      ; 5-0; Blackburn  
-  Givet 20og, Lampard 48, 59pen, Essien 52, Drogba 64
+  Givet (og) 20, Lampard 48, Lampard (pk) 59, Essien 52, Drogba 64;
    
 ; Hull         ; 0-0; Portsmouth    
 
 ; Tottenham    ; 0-1; Stoke         
-  Whelan 86
+;  Whelan 86
 
 ; Wolverhampton; 1-1; Aston Villa  
-  Ebanks-Blake 83pen; Agbonlahor 79
+  Ebanks-Blake (pk) 83; Agbonlahor 79
  
-
 Date: 10/25/2009
 
 ; Bolton       ; 3-2; Everton       
   Lee 16, Cahill 27, Klasnic 86; Saha 32, Fellaini 55
 
 ; Liverpool    ; 2-0; Manchester U
-  Torres 65, Ngog 96
+  Torres 65, Ngog 96;
   
 ; Manchester C ; 2-2; Fulham        
   Lescott 53, Petrov 60; Duff 62, Dempsey 68
 
 ; West Ham     ; 2-2; Arsenal   
-  Cole 74, Diamanti 80pen; Van Persie 16, Gallas 37
+  Cole 74, Diamanti (pk) 80; Van Persie 16, Gallas 37
     
-
 Round: 11
-
 Date: 10/31/2009
 
 ; Arsenal      ; 3-0; Tottenham     
-  Van Persie 42, 60, Fabregas 43
+  Van Persie 42, Van Persie 60, Fabregas 43;
 
 ; Bolton       ; 0-4; Chelsea       
-  Lampard 45pen, Deco 61, Knight 82og, Drogba 90
+;  Lampard (pk) 45, Deco 61, Knight (og) 82, Drogba 90
 
 ; Burnley      ; 2-0; Hull     
-  Alexander 20pen, 77
+  Alexander (pk) 20, Alexander 77;
      
 ; Everton      ; 1-1; Aston Villa   
   Bilyaletdinov 45; Carew 47
@@ -316,24 +308,22 @@ Date: 10/31/2009
   Zamora 24, Nevland 73, Dempsey 87; Torres 42
 
 ; Manchester U ; 2-0; Blackburn   
-  Berbatov 55, Rooney 87
+  Berbatov 55, Rooney 87;
   
 ; Portsmouth   ; 4-0; Wigan         
-  Dindane 35, 64, 90pen, Piquionne 45
+  Dindane 35, Dindane 64, Dindane (pk) 90, Piquionne 45;
 
 ; Stoke        ; 2-2; Wolverhampton 
-  Elokobi 17og, Etherington 44; Craddock 47, 64
+  Elokobi (og) 17, Etherington 44; Craddock 47, Craddock 64
 
 ; Sunderland   ; 2-2; West Ham      
   Reid 39, Richardson 76; Franco 30, Cole 36
-
 
 Date: 11/1/2009
 
 ; Birmingham   ; 0-0; Manchester C  
 
 Round: 12
-
 Date: 11/7/2009
 
 ; Aston Villa  ; 5-1; Bolton        
@@ -354,7 +344,6 @@ Date: 11/9/2009
 ; Liverpool    ; 2-2; Birmingham    
 
 Round: 13
-
 Date: 11/21/2009
 
 ; Birmingham   ; 1-0; Fulham        
@@ -372,7 +361,6 @@ Date: 11/22/2009
 ; Tottenham    ; 9-1; Wigan         
 
 Round: 14
-
 Date: 11/28/2009
 
 ; Aston Villa  ; 1-1; Tottenham     
@@ -390,7 +378,6 @@ Date: 11/29/2009
 ; Wolverhampton; 0-1; Birmingham    
 
 Round: 15
-
 Date: 12/5/2009
 
 ; Arsenal      ; 2-0; Stoke
@@ -411,21 +398,21 @@ Round: 16
 Date: 12/12/2009
 
 ; Birmingham   ; 1-0; West Ham
-  Bowyer 52
+  Bowyer 52;
 
 ; Bolton       ; 3-3; Manchester C
-  Klasnic 11, 53, Cahill 43; Tevez 28, 77, Richards 45
+  Klasnic 11, Klasnic 53, Cahill 43; Tevez 28, Tevez 77, Richards 45
 
 ; Burnley      ; 1-1; Fulham
   Elliott 60; Zamora 50
 
 ; Chelsea      ; 3-3; Everton
-  Drogba 18, 59, Anelka 23; Cech 12og, Yakubu 45, Saha 63
+  Drogba 18, Drogba 59, Anelka 23; Cech (og) 12, Yakubu 45, Saha 63
 
 ; Hull         ; 0-0; Blackburn
 
 ; Manchester U ; 0-1; Aston Villa
-  Agbonlahor 21
+;  Agbonlahor 21
 
 ; Stoke        ; 2-2; Wigan
   Sanli 37, Shawcross 74; Boyce 15, Figueroa 72
@@ -434,47 +421,46 @@ Date: 12/12/2009
   Bent 23; Kaboul 93
 
 ; Tottenham    ; 0-1; Wolverhampton
-  Doyle 3
+;  Doyle 3
 
 Date: 12/13/2009
 
 ; Liverpool    ; 1-2; Arsenal
-  Kuyt 41; Johnson 50og, Arshavin 58
+  Kuyt 41; Johnson (og) 50, Arshavin 58
 
 Round: 17
 Date: 11/25/2009
 
 ; Hull         ; 3-2; Everton      
-  Hunt 9, Dawson 20, Marney 28; Zayatte 49og, Saha 65pen
+  Hunt 9, Dawson 20, Marney 28; Zayatte (og) 49, Saha (pk) 65
  
 Date: 12/15/2009
 
 ; Birmingham   ; 2-1; Blackburn
-  Jerome 12, 48; Nelsen 69
+  Jerome 12, Jerome 48; Nelsen 69
 
 ; Bolton       ; 3-1; West Ham
   Lee 64, Klasnic 77, Cahill 88; Diamanti 69
 
 ; Manchester U ; 3-0; Wolverhampton
-  Rooney 30pen, Vidic 43, Valencia 66
+  Rooney (pk) 30, Vidic 43, Valencia 66;
 
 ; Sunderland   ; 0-2; Aston Villa
-  Heskey 24, Milner 61
+;  Heskey 24, Milner 61
 
 Date: 12/16/2009
 
 ; Burnley      ; 1-1; Arsenal
-  Alexander 28pen; Fabregas 7
+  Alexander (pk) 28; Fabregas 7
 
 ; Chelsea      ; 2-1; Portsmouth
-  Anelka 23, Lampard 79pen; Piquionne 51
+  Anelka 23, Lampard (pk) 79; Piquionne 51
 
 ; Liverpool    ; 2-1; Wigan
   Ngog 9, Torres 79; N'Zogbia 92
 
 ; Tottenham    ; 3-0; Manchester C
-  Kranjcar 37, 93, Defoe 54
-
+  Kranjcar 37, Kranjcar 93, Defoe 54;
 
 Date: 1/5/2010
 
@@ -485,23 +471,22 @@ Round: 18
 Date: 12/19/2009
 
 ; Arsenal      ; 3-0; Hull
-  Denilson 45, Eduardo 59, Diaby 80
+  Denilson 45, Eduardo 59, Diaby 80;
 
 ; Aston Villa  ; 1-0; Stoke
-  Carew 61
+  Carew 61;
 
 ; Blackburn    ; 0-2; Tottenham
-  Crouch 45, 83
+;  Crouch 45, Crouch 83
 
 ; Fulham       ; 3-0; Manchester U
-  Murphy 22, Zamora 46, Duff 75
+  Murphy 22, Zamora 46, Duff 75;
 
 ; Manchester C ; 4-3; Sunderland
-  Santa Cruz 4, 69, Tevez 12pen, Bellamy 35; Mensah 16,
-   Henderson 24, Jones 62
+  Santa Cruz 4, Santa Cruz 69, Tevez (pk) 12, Bellamy 35; Mensah 16, Henderson 24, Jones 62
 
 ; Portsmouth   ; 2-0; Liverpool
-  Belhadj 33, Piquionne 82
+  Belhadj 33, Piquionne 82;
 
 Date: 12/20/2009
 
@@ -509,11 +494,10 @@ Date: 12/20/2009
   Bilyaletdinov 5; Larsson 22
 
 ; West Ham     ; 1-1; Chelsea
-  Diamanti 45pen; Lampard 61pen
+  Diamanti (pk) 45; Lampard (pk) 61
 
 ; Wolverhampton; 2-0; Burnley
-  Milijas 15, Doyle 50
-
+  Milijas 15, Doyle 50;
 
 Date: 2/17/2010
 
@@ -530,16 +514,16 @@ Date: 12/26/2009
 ; Fulham       ; 0-0; Tottenham
 
 ; Liverpool    ; 2-0; Wolverhampton
-  Gerrard 62, Benayoun 70
+  Gerrard 62, Benayoun 70;
 
 ; Manchester C ; 2-0; Stoke
-  Petrov 28, Tevez 45
+  Petrov 28, Tevez 45;
 
 ; Sunderland   ; 1-1; Everton
   Bent 17; Fellaini 85
 
 ; West Ham     ; 2-0; Portsmouth
-  Diamanti 23pen, Kovac 89
+  Diamanti (pk) 23, Kovac 89;
 
 ; Wigan        ; 1-1; Blackburn
   Rodallega 53; McCarthy 30
@@ -547,86 +531,76 @@ Date: 12/26/2009
 Date: 12/27/2009
 
 ; Arsenal      ; 3-0; Aston Villa
-  Fabregas 65, 81, Diaby 91
+  Fabregas 65, Fabregas 81, Diaby 91;
 
 ; Hull         ; 1-3; Manchester U
-  Fagan 60pen; Rooney 45, Dawson 73og, Berbatov 82
+  Fagan (pk) 60pen; Rooney 45, Dawson (og) 73, Berbatov 82
 
 Round: 20
 Date: 12/28/2009
 
 ; Blackburn    ; 2-2; Sunderland
-  Pedersen 53, Diouf 77; Bent 52, 65
+  Pedersen 53, Diouf 77; Bent 52, Bent 65
 
 ; Chelsea      ; 2-1; Fulham
-  Drogba 73, Smalling 75og; Gera 4
+  Drogba 73, Smalling (og) 75; Gera 4
 
 ; Everton      ; 2-0; Burnley
-  Vaughan 83, Pienaar 92
+  Vaughan 83, Pienaar 92;
 
 ; Stoke        ; 0-1; Birmingham
-  Jerome 50
+;  Jerome 50
 
 ; Tottenham    ; 2-0; West Ham
-  Modric 11, Defoe 81
+  Modric 11, Defoe 81;
 
 ; Wolverhampton; 0-3; Manchester C
-  Tevez 33, 86, Garrido 69
-
+; Tevez 33, Tevez 86, Garrido 69
 
 Date: 12/29/2009
 
 ; Aston Villa  ; 0-1; Liverpool
-  Torres 93
+;  Torres 93
 
 ; Bolton       ; 2-2; Hull
-  Klasnic 20, Davies 61; Hunt 71, 78
-
+  Klasnic 20, Davies 61; Hunt 71, Hunt 78
 
 Date: 12/30/2009
 
 ; Manchester U ; 5-0; Wigan
-  Rooney 28, Carrick 32, Rafael Da Silva 45, Berbatov 50,
-   Valencia 75
+  Rooney 28, Carrick 32, Rafael Da Silva 45, Berbatov 50, Valencia 75;
 
 ; Portsmouth   ; 1-4; Arsenal
   Belhadj 74; Eduardo 28, Nasri 42, Ramsey 69, Song Billong 81
 
-
 Round: 21
-
 Date: 1/9/2010
 
 ; Arsenal      ; 2-2; Everton
   Denilson 28, Rosicky 92; Osman 12, Pienaar 81
 
 ; Birmingham   ; 1-1; Manchester U
-  Jerome 39; Dann 63og
-
+  Jerome 39; Dann (og) 63
 
 Date: 1/11/2010
 
 ; Manchester C ; 4-1; Blackburn
-  Tevez 7, 49, 91, Richards 39; Pedersen 71
-
+  Tevez 7, Tevez 49, Tevez 91, Richards 39; Pedersen 71
 
 Date: 1/20/2010
 
 ; Liverpool    ; 2-0; Tottenham
-  Kuyt 6pen, 93
-
+  Kuyt (pk) 6, Kuyt 93;
 
 Date: 1/2/2010
 
 ; Hull         ; 1-1; Chelsea
   Mouyokolo 30; Drogba 42
 
-
 Date: 1/3/2010
 
 ; Fulham       ; 1-0; Portsmouth
-  Greening 74
-
+  Greening 74;
 
 Date: 3/9/2010
 
@@ -645,7 +619,6 @@ Date: 3/23/2010
 ; West Ham     ; 1-3; Wolverhampton
 
 Round: 22
-
 Date: 1/16/2010
 
 ; Chelsea      ; 7-2; Sunderland    
@@ -666,7 +639,6 @@ Date: 3/9/2010
 ; Portsmouth   ; 1-2; Birmingham    
 
 Round: 23
-
 Date: 1/23/2010
 
 ; Manchester U ; 4-0; Hull          
@@ -690,7 +662,6 @@ Date: 2/16/2010
 ; Stoke        ; 1-1; Manchester C  
 
 Round: 24
-
 Date: 1/30/2010
 
 ; Birmingham   ; 1-1; Tottenham     
@@ -704,17 +675,16 @@ Date: 1/30/2010
 Date: 1/31/2010
 
 ; Arsenal      ; 1-3; Manchester U 
-  Vermaelen 80; Almunia 33og, Rooney 37, Park 52
+  Vermaelen 80; Almunia (og) 33, Rooney 37, Park 52
  
 ; Manchester C ; 2-0; Portsmouth    
-  Adebayor 40, Kompany 45
+  Adebayor 40, Kompany 45;
 
 Date: 2/1/2010
 
 ; Sunderland   ; 0-0; Stoke         
 
 Round: 25
-
 Date: 2/6/2010
 
 ; Bolton       ; 0-0; Fulham        
@@ -732,7 +702,6 @@ Date: 2/7/2010
 ; Chelsea      ; 2-0; Arsenal       
 
 Round: 26
-
 Date: 2/9/2010
 
 ; Fulham       ; 3-0; Burnley       
@@ -750,7 +719,6 @@ Date: 2/10/2010
 ; Wolverhampton; 1-0; Tottenham     
 
 Round: 27
-
 Date: 2/20/2010
 
 ; Arsenal      ; 2-0; Sunderland    
@@ -768,7 +736,6 @@ Date: 2/21/2010
 ; Wigan        ; 0-3; Tottenham     
 
 Round: 28
-
 Date: 2/23/2010
 
 ; Manchester U ; 3-0; West Ham      
@@ -792,7 +759,6 @@ Date: 4/21/2010
 ; Hull         ; 0-2; Aston Villa   
 
 Round: 29
-
 Date: 3/6/2010
 
 ; Arsenal      ; 3-1; Burnley       
@@ -819,7 +785,6 @@ Date: 5/5/2010
 ; Manchester C ; 0-1; Tottenham     
 
 Round: 30
-
 Date: 3/13/2010
 
 ; Birmingham   ; 2-2; Everton       
@@ -840,7 +805,6 @@ Date: 3/15/2010
 ; Liverpool    ; 4-1; Portsmouth    
 
 Round: 31
-
 Date: 3/20/2010
 
 ; Arsenal      ; 2-0; West Ham      
@@ -864,47 +828,46 @@ Date: 3/27/2010
   Phillips 92; Nasri 81
      
 ; Bolton       ; 0-4; Manchester U 
-  Samuel 38og, Berbatov 69, 78, Gibson 82
+;  Samuel (og) 38, Berbatov 69, Berbatov 78, Gibson 82
 
 ; Chelsea      ; 7-1; Aston Villa   
-  Lampard 15pen, 44pen, 62, 91 Malouda 57, 68, Kalou 83; Carew 29
+  Lampard (pk) 15, Lampard (pk) 44, Lampard 62, Lampard 91, Malouda 57, Malouda 68, Kalou 83; Carew 29
 
 ; Hull         ; 2-0; Fulham        
-  Bullard 16pen, Fagan 48
+  Bullard (pk) 16, Fagan 48;
 
 ; Tottenham    ; 2-0; Portsmouth  
-  Crouch 27, Kranjcar 41
+  Crouch 27, Kranjcar 41;
   
 ; West Ham     ; 0-1; Stoke  
-  Fuller 69
+;  Fuller 69
        
 ; Wolverhampton; 0-0; Everton       
 
 Date: 3/28/2010
 
 ; Burnley      ; 0-1; Blackburn 
-  Dunn 20pen
+;  Dunn (pk) 20
     
 ; Liverpool    ; 3-0; Sunderland   
-  Torres 3, 60, Johnson 32
+  Torres 3, Torres 60, Johnson 32;
  
 Date: 3/29/2010
 
 ; Manchester C ; 3-0; Wigan        
-  Tevez 72, 74, 84
+  Tevez 72, Tevez 74, Tevez 84;
  
 Round: 33
 Date: 4/3/2010
 
 ; Arsenal      ; 1-0; Wolverhampton 
-  Bendtner 94
+  Bendtner 94;
 
 ; Bolton       ; 0-1; Aston Villa   
-  A Young 11
+;  A Young 11
 
 ; Burnley      ; 1-6; Manchester C  
-  Fletcher 71; Adebayor 4, 45, Bellamy 5, Tevez 7, Vieira 20,
-   Kompany 58
+  Fletcher 71; Adebayor 4, Adebayor 45, Bellamy 5, Tevez 7, Vieira 20, Kompany 58
 
 ; Manchester U ; 1-2; Chelsea    
   Macheda 81; J Cole 20, Drogba 79
@@ -912,10 +875,10 @@ Date: 4/3/2010
 ; Portsmouth   ; 0-0; Blackburn     
 
 ; Stoke        ; 2-0; Hull         
-  Fuller 6, Lawrence 90
+  Fuller 6, Lawrence 90;
  
 ; Sunderland   ; 3-1; Tottenham  
-  Bent 1, 29pen, Zenden 86; Crouch 72
+  Bent 1, Bent (pk) 29, Zenden 86; Crouch 72
    
 Date: 4/4/2010
 
