@@ -1,6 +1,32 @@
+Competition: Ukrainian Premier League
+
+Key:position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+
+Season: 2013-2014
+BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Ukrainian_Premier_League
+
+1      ; Shakhtar Donetsk       ; 28     ; 21     ; 2      ; 5      ; 62     ; 23     ; +39    ; 65;      2014–15 UEFA Champions League group stage
+2      ; Dnipro Dnipropetrovsk  ; 28     ; 18     ; 5      ; 5      ; 56     ; 28     ; +28    ; 59;      2014–15 UEFA Champions League Third qualifying round
+3      ; Metalist Kharkiv       ; 28     ; 16     ; 9      ; 3      ; 54     ; 29     ; +25    ; 57;      2014–15 UEFA Europa League play-off round
+4      ; Dynamo Kyiv            ; 28     ; 16     ; 5      ; 7      ; 55     ; 33     ; +22    ; 53;      2014–15 UEFA Europa League group stage
+5      ; Chornomorets Odesa     ; 28     ; 12     ; 10     ; 6      ; 30     ; 22     ; +8     ; 46;      2014–15 UEFA Europa League Third qualifying round
+6      ; Metalurh Donetsk       ; 28     ; 12     ; 7      ; 9      ; 45     ; 42     ; +3     ; 43;      Excluded from European competitions 1
+7      ; Zorya Luhansk          ; 28     ; 11     ; 9      ; 8      ; 35     ; 30     ; +5     ; 42;      2014–15 UEFA Europa League Second qualifying round
+8      ; Vorskla Poltava        ; 28     ; 10     ; 10     ; 8      ; 36     ; 38     ; −2     ; 40;
+9      ; Sevastopol             ; 28     ; 10     ; 5      ; 13     ; 32     ; 43     ; −11    ; 35;
+10     ; Illichivets Mariupol   ; 28     ; 10     ; 4      ; 14     ; 27     ; 33     ; −6     ; 34;
+11     ; Karpaty Lviv           ; 28     ; 7      ; 11     ; 10     ; 33     ; 39     ; −6     ; 32;
+12     ; Hoverla Uzhhorod       ; 28     ; 7      ; 5      ; 16     ; 26     ; 39     ; −13    ; 26;
+13     ; Volyn Lutsk            ; 28     ; 7      ; 6      ; 15     ; 25     ; 51     ; −26    ; 24;      Deducted 3 points 2
+14     ; Metalurh Zaporizhya    ; 28     ; 2      ; 6      ; 20     ; 19     ; 54     ; −35    ; 12;
+15     ; Tavriya Simferopol     ; 28     ; 2      ; 4      ; 22     ; 15     ; 46     ; −31    ; 10;      Relegation to the 2014–15 Ukrainian First League
+16     ; Arsenal Kyiv           ;  0     ; 0      ; 0      ; 0      ; 0      ; 0      ; 0      ; 0 ;      Club officially expelled from the league 3
+
+
+
 BlockSource: http://www.rsssf.com/tableso/oekr2013.html
 Season: 2012-2013
-Competition: Ukrainian Premier League
+
 
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
 

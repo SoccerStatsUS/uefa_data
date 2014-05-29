@@ -2,7 +2,6 @@ Competition: Superligaen
 
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
-
 Season: 1995-1996
 BlockSource: http://www.rsssf.com/tablesd/den96.html
 
@@ -399,3 +398,24 @@ BlockSource: http://www.rsssf.com/tablesd/den2013.html
 *Relegated
 12; Silkeborg IF             ; 33 ;  8 ; 7 ;18 ; 38; 66 ; 31  
 *Relegated
+
+
+
+Season: 2013-2014     
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+
+
+1      ; AaB          ; 33       ; 18     ; 8      ; 7      ; 60     ; 38     ; +22    ; 62;      2014–15 UEFA Champions League Third qualifying round
+2      ; Copenhagen   ; 33       ; 15     ; 11     ; 7      ; 54     ; 38     ; +16    ; 56;
+3      ; Midtjylland  ; 33       ; 16     ; 7      ; 10     ; 61     ; 38     ; +23    ; 55;      2014–15 UEFA Europa League play-off round
+4      ; Brøndby      ; 33       ; 13     ; 13     ; 7      ; 47     ; 38     ; +9     ; 52;      2014–15 UEFA Europa League Third qualifying round
+5      ; Esbjerg      ; 33       ; 13     ; 9      ; 11     ; 47     ; 38     ; +9     ; 48;      2014–15 UEFA Europa League Second qualifying round
+6      ; Nordsjælland ; 33       ; 13     ; 7      ; 13     ; 38     ; 44     ; −6     ; 46;
+7      ; Randers      ; 33       ; 9      ; 14     ; 10     ; 41     ; 45     ; −4     ; 41;
+8      ; OB           ; 33       ; 10     ; 10     ; 13     ; 47     ; 46     ; +1     ; 40;
+9      ; Vestsjælland ; 33       ; 8      ; 14     ; 11     ; 31     ; 42     ; −11    ; 38;
+10     ; SønderjyskE  ; 33       ; 10     ; 8      ; 15     ; 41     ; 53     ; −12    ; 38;
+11     ; AGF          ; 33       ; 9      ; 5      ; 19     ; 38     ; 60     ; −22    ; 32;      Relegation to the 2014–15 Danish 1st Division
+12     ; Viborg       ; 33       ; 6      ; 10     ; 17     ; 38     ; 63     ; −25    ; 28;

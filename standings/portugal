@@ -447,3 +447,26 @@ BlockSource: http://www.rsssf.com/tablesp/port2013.html
 
 15; Moreirense FC               ; 30;   5;  9; 16;  30; 51;  24;  Relegated
 16; SC Beira-Mar                ; 30;   5;  8; 17;  35; 55;  23;  Relegated
+
+
+
+Season: 2013-2014
+BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Primeira_Liga
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+
+1      ; Benfica        ; 30     ; 23     ; 5      ; 2      ; 58     ; 18     ; +40    ; 74;      2014–15 UEFA Champions League group stage
+2      ; Sporting CP    ; 30     ; 20     ; 7      ; 3      ; 54     ; 20     ; +34    ; 67;
+3      ; Porto          ; 30     ; 19     ; 4      ; 7      ; 57     ; 25     ; +32    ; 61;      2014–15 UEFA Champions League play-off round
+4      ; Estoril        ; 30     ; 15     ; 9      ; 6      ; 42     ; 26     ; +16    ; 54;      2014–15 UEFA Europa League group stage
+5      ; Nacional       ; 30     ; 11     ; 12     ; 7      ; 43     ; 33     ; +10    ; 45;      2014–15 UEFA Europa League play-off round
+6      ; Marítimo       ; 30     ; 11     ; 8      ; 11     ; 40     ; 44     ; −4     ; 41;      
+7      ; Vitoria S      ; 30     ; 10     ; 9      ; 11     ; 41     ; 41     ; 0      ; 39;
+8      ; Académica      ; 30     ; 9      ; 10     ; 11     ; 25     ; 35     ; −10    ; 37;      
+9      ; Braga          ; 30     ; 10     ; 7      ; 13     ; 39     ; 37     ; +2     ; 37;
+10     ; Vitória G      ; 30     ; 10     ; 5      ; 15     ; 30     ; 35     ; −5     ; 35;
+11     ; Rio Ave        ; 30     ; 8      ; 8      ; 14     ; 21     ; 35     ; −14    ; 32;      2014–15 UEFA Europa League Third qualifying round 1
+12     ; Arouca         ; 30     ; 8      ; 7      ; 15     ; 28     ; 42     ; −14    ; 31;              
+13     ; Gil Vicente    ; 30     ; 8      ; 7      ; 15     ; 23     ; 37     ; −14    ; 31;
+14     ; Belenenses     ; 30     ; 6      ; 10     ; 14     ; 19     ; 33     ; −14    ; 28;
+15     ; Paços F        ; 30     ; 6      ; 6      ; 18     ; 28     ; 59     ; −31    ; 24;      Qualification to the relegation play-offs 
+16     ; Olhanense      ; 30     ; 6      ; 6      ; 18     ; 21     ; 49     ; −28    ; 24;      Relegation to the 2014–15 Segunda Liga

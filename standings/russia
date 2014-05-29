@@ -1,8 +1,57 @@
-BlockSource: http://www.rsssf.com/tablesr/rus2012.html
-Season: 2011-2012
 Competition: Russian Premier League
 
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; misc
+
+Season: 2013-2014
+BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Russian_Premier_League
+
+1  ; CSKA Moscow            ; 30     ; 20     ; 4      ; 6      ; 49     ; 26     ; +23    ; 64;      2014–15 UEFA Champions League group stage
+2  ; Zenit St. Petersburg   ; 30     ; 19     ; 6      ; 5      ; 63     ; 32     ; +31    ; 63;      2014–15 UEFA Champions League Third qualifying round
+3  ; Lokomotiv Moscow       ; 30     ; 17     ; 8      ; 5      ; 51     ; 23     ; +28    ; 59;      2014–15 UEFA Europa League play-off round
+4  ; Dynamo Moscow          ; 30     ; 15     ; 7      ; 8      ; 54     ; 37     ; +17    ; 52;      2014–15 UEFA Europa League Third qualifying round
+5  ; Krasnodar              ; 30     ; 15     ; 5      ; 10     ; 46     ; 39     ; +7     ; 50;      2014–15 UEFA Europa League Second qualifying round KRA 4–0 SPA
+6  ; Spartak Moscow         ; 30     ; 15     ; 5      ; 10     ; 46     ; 36     ; +10    ; 50;      
+7  ; Rostov                 ; 30     ; 10     ; 9      ; 11     ; 40     ; 40     ; 0      ; 39;      2014–15 UEFA Europa League play-off round 1
+8  ; Kuban Krasnodar        ; 30     ; 10     ; 8      ; 12     ; 40     ; 42     ; −2     ; 38;      
+9  ; Rubin Kazan            ; 30     ; 9      ; 11     ; 10     ; 36     ; 30     ; +6     ; 38;      RUB 3–0 AMK
+10 ; Amkar Perm             ; 30     ; 9      ; 11     ; 10     ; 36     ; 37     ; −1     ; 38;
+11 ; Ural Sverdlovsk Oblast ; 30     ; 9      ; 7      ; 14     ; 28     ; 46     ; −18    ; 34;
+12 ; Terek Grozny           ; 30     ; 8      ; 9      ; 13     ; 27     ; 33     ; −6     ; 33;
+13 ; Tom Tomsk              ; 30     ; 8      ; 7      ; 15     ; 23     ; 39     ; −16    ; 31;      Qualification to the Relegation play-offs
+14 ; Krylia Sovetov Samara  ; 30     ; 6      ; 11     ; 13     ; 27     ; 46     ; −19    ; 29;
+15 ; Volga Nizhny Novgorod  ; 30     ; 6      ; 3      ; 21     ; 22     ; 65     ; −43    ; 21;      Relegation to the 2014–15 FNL
+16 ; Anzhi Makhachkala      ; 30     ; 3      ; 11     ; 16     ; 25     ; 42     ; −17    ; 20;
+
+
+Season: 2012-2013
+BlockSource: http://en.wikipedia.org/wiki/2012%E2%80%9313_Russian_Premier_League
+
+1     ;  CSKA Moscow            ; 30     ; 20     ; 4      ; 6      ; 49     ; 25     ; +24    ; 64;      2013–14 UEFA Champions League Group stage
+2     ;  Zenit St. Petersburg   ; 30     ; 18     ; 8      ; 4      ; 53     ; 25     ; +28    ; 62;      2013–14 UEFA Champions League Third qualifying round
+3     ;  Anzhi Makhachkala      ; 30     ; 15     ; 8      ; 7      ; 45     ; 34     ; +11    ; 53;      2013–14 UEFA Europa League group stage
+4     ;  Spartak Moscow         ; 30     ; 15     ; 6      ; 9      ; 51     ; 39     ; +12    ; 51;      2013–14 UEFA Europa League Play-off round
+5     ;  Kuban Krasnodar        ; 30     ; 14     ; 9      ; 7      ; 48     ; 28     ; +20    ; 51;      2013–14 UEFA Europa League Third qualifying round
+6     ;  Rubin Kazan            ; 30     ; 15     ; 5      ; 10     ; 41     ; 27     ; +14    ; 50;      2013–14 UEFA Europa League Second qualifying round
+7     ;  Dynamo Moscow          ; 30     ; 14     ; 6      ; 10     ; 41     ; 34     ; +7     ; 48;       
+8     ;  Terek Grozny           ; 30     ; 14     ; 6      ; 10     ; 38     ; 40     ; −2     ; 48;
+9     ;  Lokomotiv Moscow       ; 30     ; 12     ; 7      ; 11     ; 39     ; 36     ; +3     ; 43;
+10    ;  Krasnodar              ; 30     ; 12     ; 6      ; 12     ; 45     ; 39     ; +6     ; 42;
+11    ;  Amkar Perm             ; 30     ; 7      ; 8      ; 15     ; 34     ; 51     ; −17    ; 29;      
+12    ;  Volga Nizhny Novgorod  ; 30     ; 7      ; 8      ; 15     ; 28     ; 46     ; −18    ; 29;
+13    ;  Rostov                 ; 30     ; 7      ; 8      ; 15     ; 30     ; 41     ; −11    ; 29;      Qualification to the Relegation play-offs
+14    ;  Krylia Sovetov Samara  ; 30     ; 7      ; 7      ; 16     ; 31     ; 52     ; −21    ; 28;
+15    ;  Mordovia Saransk       ; 30     ; 5      ; 5      ; 20     ; 30     ; 57     ; −27    ; 20;      Relegation to the 2013–14 FNL
+16    ;  Alania Vladikavkaz     ; 30     ; 4      ; 7      ; 19     ; 26     ; 53     ; −27    ; 19;
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesr/rus2012.html
+Season: 2011-2012
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+
 
  1; Zenit Sankt-Peterburg  ; 30;  17; 10;  3;  59; 25;  61;  Championship Group
  2; CSKA Moskva            ; 30;  16; 11;  3;  58; 29;  59;  Championship Group
@@ -28,8 +77,6 @@ Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
 
 BlockSource: http://www.rsssf.com/tablesr/rus2010.html
 Season: 2010
-Competition: Russian Football Premier League
-
 
  1; Zenit Sankt-Peterburg     ; 30;  20;  8;  2;  61; 21;  68;  Champions      [-> Champions League 11/12 Group Stage]
  2; CSKA Moskva               ; 30;  18;  8;  4;  51; 22;  62;                 [-> Champions League 11/12 Group Stage]
@@ -55,8 +102,6 @@ Competition: Russian Football Premier League
 
 BlockSource: http://www.rsssf.com/tablesr/rus09.html
 Season: 2009
-Competition: Russian Football Premier League
-
 
  1; Rubin Kazan               ; 30;  19;  6;  5;  62; 21;  63;  Champions              [-> Champions League 10/11 Group Stage]
  2; Spartak Moskva            ; 30;  17;  4;  9;  61; 33;  55;                         [-> Champions League 10/11 Group Stage]
@@ -80,9 +125,6 @@ Competition: Russian Football Premier League
 
 BlockSource: http://www.rsssf.com/tablesr/rus08.html
 Season: 2008
-Competition: Russian Premier League
-
-
 
  1; Rubin Kazan               ; 30;  18;  6;  6;  44; 26;  60;  Champions [-> Champions League 09/10 Group Stage]
  2; CSKA Moskva               ; 30;  16;  8;  6;  53; 24;  56;            [-> Champions League 09/10 Group Stage]

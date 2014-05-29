@@ -225,7 +225,265 @@ Date: 11/10/2012
 
 Date: 11/11/2012
 
-; Chelsea      ; 1-1; Liverpottenham     
+; Chelsea      ; 1-1; Liverpool     
+; Manchester C ; 2-1; Tottenham      
+; Newcastle    ; 0-1; West Ham      
+
+Round: 12
+Date: 11/17/2012
+
+; Arsenal      ; 5-2; Tottenham     
+; Liverpool    ; 3-0; Wigan         
+; Manchester C ; 5-0; Aston Villa   
+; Newcastle    ; 1-2; Swansea       
+; Norwich      ; 1-0; Manchester U  
+; QPR          ; 1-3; Southampton   
+; Reading      ; 2-1; Everton       
+; West Bromwich; 2-1; Chelsea       
+
+Date: 11/18/2012
+
+; Fulham       ; 1-3; Sunderland    
+
+Date: 11/19/2012
+
+; West Ham     ; 1-1; Stoke         
+
+Round: 13
+Date: 11/24/2012
+
+; Aston Villa  ; 0-0; Arsenal       
+; Everton      ; 1-1; Norwich       
+; Manchester U ; 3-1; QPR           
+; Stoke        ; 1-0; Fulham        
+; Sunderland   ; 2-4; West Bromwich 
+; Wigan        ; 3-2; Reading       
+
+Date: 11/25/2012
+
+; Chelsea      ; 0-0; Manchester C  
+; Southampton  ; 2-0; Newcastle     
+; Swansea      ; 0-0; Liverpool     
+; Tottenham    ; 3-1; West Ham      
+
+Round: 14
+Date: 11/27/2012
+
+; Aston Villa  ; 1-0; Reading       
+; Sunderland   ; 0-0; QPR           
+
+Date: 11/28/2012
+
+; Chelsea      ; 0-0; Fulham        
+; Everton      ; 1-1; Arsenal       
+; Manchester U ; 1-0; West Ham      
+; Southampton  ; 1-1; Norwich       
+; Stoke        ; 2-1; Newcastle     
+; Swansea      ; 3-1; West Bromwich 
+; Tottenham    ; 2-1; Liverpool     
+; Wigan        ; 0-2; Manchester C  
+
+Round: 15
+Date: 12/1/2012
+
+; Arsenal      ; 0-2; Swansea       
+; Fulham       ; 0-3; Tottenham     
+; Liverpool    ; 1-0; Southampton   
+; Manchester C ; 1-1; Everton       
+; QPR          ; 1-1; Aston Villa   
+; Reading      ; 3-4; Manchester U  
+; West Bromwich; 0-1; Stoke         
+; West Ham     ; 3-1; Chelsea       
+
+Date: 12/2/2012
+
+; Norwich      ; 2-1; Sunderland    
+
+Date: 12/3/2012
+
+; Newcastle    ; 3-0; Wigan         
+
+Round: 16
+Date: 12/8/2012
+
+; Arsenal      ; 2-0; West Bromwich 
+; Aston Villa  ; 0-0; Stoke         
+; Southampton  ; 1-0; Reading       
+; Sunderland   ; 1-3; Chelsea       
+; Swansea      ; 3-4; Norwich       
+; Wigan        ; 2-2; QPR           
+
+Date: 12/9/2012
+
+; Everton      ; 2-1; Tottenham     
+; Manchester C ; 2-3; Manchester U  
+; West Ham     ; 2-3; Liverpool     
+
+Date: 12/10/2012
+
+; Fulham       ; 2-1; Newcastle     
+
+Round: 17
+Date: 12/15/2012
+
+; Liverpool    ; 1-3; Aston Villa   
+; Manchester U ; 3-1; Sunderland    
+; Newcastle    ; 1-3; Manchester C  
+; Norwich      ; 2-1; Wigan         
+; QPR          ; 2-1; Fulham        
+; Stoke        ; 1-1; Everton       
+
+Date: 12/16/2012
+
+; Tottenham    ; 1-0; Swansea       
+; West Bromwich; 0-0; West Ham      
+
+Date: 12/17/2012
+
+; Reading      ; 2-5; Arsenal       
+
+Date: 1/16/2013
+
+; Chelsea      ; 2-2; Southampton   
+
+Round: 18
+Date: 12/22/2012
+
+; Liverpool    ; 4-0; Fulham        
+; Manchester C ; 1-0; Reading       
+; Newcastle    ; 1-0; QPR           
+; Southampton  ; 0-1; Sunderland    
+; Tottenham    ; 0-0; Stoke         
+; West Bromwich; 2-1; Norwich       
+; West Ham     ; 1-2; Everton       
+; Wigan        ; 0-1; Arsenal       
+
+Date: 12/23/2012
+
+; Chelsea      ; 8-0; Aston Villa   
+; Swansea      ; 1-1; Manchester U  
+
+Round: 19
+Date: 12/26/2012
+
+; Aston Villa  ; 0-4; Tottenham     
+; Everton      ; 2-1; Wigan         
+; Fulham       ; 1-1; Southampton   
+; Manchester U ; 4-3; Newcastle     
+; Norwich      ; 0-1; Chelsea       
+; QPR          ; 1-2; West Bromwich 
+; Reading      ; 0-0; Swansea       
+; Stoke        ; 3-1; Liverpool     
+; Sunderland   ; 1-0; Manchester C  
+
+Date: 1/23/2013
+
+; Arsenal      ; 5-1; West Ham      
+
+Round: 20
+Date: 12/29/2012
+
+; Arsenal      ; 7-3; Newcastle     
+; Aston Villa  ; 0-3; Wigan         
+; Fulham       ; 1-2; Swansea       
+; Manchester U ; 2-0; West Bromwich 
+; Norwich      ; 3-4; Manchester C  
+; Reading      ; 1-0; West Ham      
+; Stoke        ; 3-3; Southampton   
+; Sunderland   ; 1-2; Tottenham     
+
+Date: 12/30/2012
+
+; Everton      ; 1-2; Chelsea       
+; QPR          ; 0-3; Liverpool     
+
+Round: 21
+Date: 1/1/2013
+
+; Manchester C ; 3-0; Stoke         
+; Southampton  ; 1-1; Arsenal       
+; Swansea      ; 2-2; Aston Villa   
+; Tottenham    ; 3-1; Reading       
+; West Bromwich; 1-2; Fulham        
+; West Ham     ; 2-1; Norwich       
+; Wigan        ; 0-4; Manchester U  
+
+Date: 1/2/2013
+
+; Chelsea      ; 0-1; QPR           
+; Liverpool    ; 3-0; Sunderland    
+; Newcastle    ; 1-2; Everton       
+
+Round: 22
+Date: 1/12/2013
+
+; Aston Villa  ; 0-1; Southampton   
+; Everton      ; 0-0; Swansea       
+; Fulham       ; 1-1; Wigan         
+; Norwich      ; 0-0; Newcastle     
+; QPR          ; 0-0; Tottenham     
+; Reading      ; 3-2; West Bromwich 
+; Stoke        ; 0-4; Chelsea       
+; Sunderland   ; 3-0; West Ham      
+
+Date: 1/13/2013
+
+; Arsenal      ; 0-2; Manchester C  
+; Manchester U ; 2-1; Liverpool     
+
+Round: 23
+Date: 1/19/2013
+
+; Liverpool    ; 5-0; Norwich       
+; Manchester C ; 2-0; Fulham        
+; Newcastle    ; 1-2; Reading       
+; Swansea      ; 3-1; Stoke         
+; West Bromwich; 2-2; Aston Villa   
+; West Ham     ; 1-1; QPR           
+; Wigan        ; 2-3; Sunderland    
+
+Date: 1/20/2013
+
+; Chelsea      ; 2-1; Arsenal       
+; Tottenham    ; 1-1; Manchester U  
+
+Date: 1/21/2013
+
+; Southampton  ; 0-0; Everton       
+
+Round: 24
+Date: 1/29/2013
+
+; Aston Villa  ; 1-2; Newcastle     
+; QPR          ; 0-0; Manchester C  
+; Stoke        ; 2-2; Wigan         
+; Sunderland   ; 0-0; Swansea       
+
+Date: 1/30/2013
+
+; Arsenal      ; 2-2; Liverpool     
+; Everton      ; 2-1; West Bromwich 
+; Fulham       ; 3-1; West Ham      
+; Manchester U ; 2-1; Southampton   
+; Norwich      ; 1-1; Tottenham     
+; Reading      ; 2-2; Chelsea       
+
+Round: 25
+Date: 2/2/2013
+
+; Arsenal      ; 1-0; Stoke         
+; Everton      ; 3-3; Aston Villa   
+; Fulham       ; 0-1; Manchester U  
+; Newcastle    ; 3-2; Chelsea       
+; QPR          ; 0-0; Norwich       
+; Reading      ; 2-1; Sunderland    
+; West Ham     ; 1-0; Swansea       
+; Wigan        ; 2-2; Southampton   
+
+Date: 2/3/2013
+
+; Manchester C ; 2-2; Liverpool     
+; West Bromwich; 0-1; Tottenham     
 
 Round: 26
 Date: 2/9/2013
