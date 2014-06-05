@@ -25,14 +25,13 @@ Date: 4/10/2003
 ; Derry          ; 2-3; Longford
   Doherty 4, McGlynn 92; Ferguson 7, Lavine 9, Kirby 17
 
-
 Date: 4/11/2003
 
 ; Waterford      ; 0-4; Shelbourne
-  J Byrne 45, 75, Crawley 18 pen, Geoghegan 32
+; J Byrne 45, J Byrne 75, Crawley (pk) 18, Geoghegan 32
 
 ; Bohemians      ; 1-0; UCD
-  Crowe 35
+  Crowe 35;
 
 ; Shamrock Rovers; 0-0; Drogheda
 
@@ -44,20 +43,18 @@ Round: 2
 Date: 4/17/2003
 
 ; Drogheda       ; 1-3; Waterford
-  Gray 37; Clifford 65, Daryl Murphy 85, O’Neill 90
+  Gray 37; Clifford 65, Daryl Murphy 85, O'Neill 90
 
 ; St. Patrick's  ; 1-1; Shamrock Rovers
-  Bird 35; Gough 4 pen
-
+  Bird 35; Gough (pk) 4
 
 Date: 4/18/2003
 
 ; Shelbourne     ; 1-0; Derry
-  J Byrne 4
+  J Byrne 4;
 
 ; UCD            ; 0-3; Cork
-  O’Flynn 32, 52, 59
-
+; O'Flynn 32, O'Flynn 52, O'Flynn 59
 
 Date: 4/19/2003
 
@@ -68,40 +65,38 @@ Round: 3
 Date: 4/21/2003
 
 ; Waterford      ; 4-2; St. Patrick's
-  Reilly 35 pen, 60, 81 pen, Fitzgerald 92; Bird 69, 84
+  Reilly (pk) 35, Reilly 60, Reilly (pk) 81, Fitzgerald 92; Bird 69, Bird 84
    
 ; Shamrock Rovers; 1-0; UCD
-  Kelly 9
-
+  Kelly 9;
 
 Date: 4/22/2003
 
 ; Cork           ; 3-2; Bohemians
-  O’Callaghan 18, 92, O’Flynn 68; Crowe 19, Rutherford 41
+  O'Callaghan 18, O'Callaghan 92, O'Flynn 68; Crowe 19, Rutherford 41
 
 ; Derry          ; 0-1; Drogheda
-  Quinless 6
-
+;  Quinless 6
 
 ; Shelbourne     ; 3-2; Longford
-  J Byrne 18, Geoghegan 50, Gannon 86; Ferguson 19 pen, Francis 58
+  J Byrne 18, Geoghegan 50, Gannon 86; Ferguson (pk) 19, Francis 58
   
 Round: 4
 Date: 4/25/2003
 
 ; St. Patrick's  ; 4-1; Derry
-  Osam 45, Prenderville 56, Mbabazi 62, Jones 78; McBride 25 pen
+  Osam 45, Prenderville 56, Mbabazi 62, Jones 78; McBride (pk) 25
 
 ; UCD            ; 1-2; Waterford
-  R Martin 52; O’Neill 16, Davey 44 og
+  R Martin 52; O'Neill 16, Davey (og) 44
 
 ; Drogheda       ; 1-1; Shelbourne
-  O’Connor 42; J Byrne 40
+  O'Connor 42; J Byrne 40
 
 Date: 4/26/2003
 
 ; Longford       ; 0-3; Cork
-  O’Flynn 14, 55, O’Callaghan 48
+; O'Flynn 14, O'Flynn 55, O'Callaghan 48
 
 Date: 4/27/2003
 
@@ -112,7 +107,7 @@ Round: 5
 Date: 5/1/2003
 
 ; Derry          ; 1-0; UCD
-  Martyn 64
+  Martyn 64;
 
 Date: 5/2/2003
 
@@ -120,7 +115,7 @@ Date: 5/2/2003
   Waters 13; Pereplyotkin 2, Morrison 80, Hawkins 85
  
 ; Shelbourne     ; 2-2; St. Patrick's
-  J Byrne 1, 80; Doherty 54 og, Osam 58
+  J Byrne 1, J Byrne 80; Doherty (og) 54, Osam 58
 
 ; Drogheda       ; 2-2; Longford
   Myler 49, Delaney 90; Kirby 30, Sheridan
@@ -128,7 +123,7 @@ Date: 5/2/2003
 Date: 5/4/2003
 
 ; Shamrock Rovers; 2-1; Cork
-  S Grant 59, Hedderman 87 og; O’Flynn 22
+  S Grant 59, Hedderman (og) 87; O'Flynn 22
 
 Round: 6
 Date: 5/9/2003
@@ -137,13 +132,13 @@ Date: 5/9/2003
   Caffrey 50; Moran
 
 ; Cork           ; 1-1; Waterford
-  O’Flynn 67 pen; Reilly 52
+  O'Flynn (pk) 67; Reilly 52
 
 ; St. Patrick's  ; 3-1; Drogheda
-  Fahey 58, Bird 63, 73; Quinless 19
+  Fahey 58, Bird 63, Bird 73; Quinless 19
 
 ; UCD            ; 0-2; Shelbourne
-  Hoolahan 48, R Baker 77
+;  Hoolahan 48, R Baker 77
 
 Date: 5/10/2003
 
@@ -153,13 +148,12 @@ Round: 7
 Date: 5/15/2003
 
 ; Derry          ; 1-0; Cork
-  Beckett 90
-
+  Beckett 90;
 
 Date: 5/16/2003
 
 ; Waterford      ; 2-0; Shamrock Rovers
-  Ryan og 30, Sullivan 53
+  Ryan (og) 30, Sullivan 53;
 
 ; St. Patrick's  ; 1-1; Longford
   Mbabazi 45; Foley, 90
@@ -168,21 +162,21 @@ Date: 5/16/2003
   Crawford 45, McCarthy 90; Coughlan 53, Hunt 83
 
 ; Drogheda       ; 2-0; UCD
-  O’Brien 12, Bunce 56
+  O'Brien 12, Bunce 56;
 
 Round: 8 
 Date: 5/23/2003
 
 ; Waterford      ; 1-1; Longford
-  D.Murphy 8; Hughes 25 og
+  D.Murphy 8; Hughes (og) 25
 
 ; Bohemians      ; 1-0; Drogheda
-  Harkin 63
+  Harkin 63;
 
 ; Cork           ; 0-0; Shelbourne
 
 ; Shamrock Rovers; 5-1; Derry
-  Gough 47 pen, 78, Keddy 58, 68, 85 ; Beckett 13
+  Gough (pk) 47, Gough 78, Keddy 58, Keddy 68, Keddy 85 ; Beckett 13
 
 ; UCD            ; 0-0; St. Patrick's
 
@@ -190,33 +184,29 @@ Round: 9
 Date: 5/29/2003
 
 ; Derry          ; 4-1; Waterford
-  Deery 23, Martyn 52, W. Byrne 71 og, Gill 86; W.Byrne 44
+  Deery 23, Martyn 52, W. Byrne (og) 71, Gill 86; W.Byrne 44
 
 Date: 5/30/2003
 
 ; St. Patrick's  ; 1-0; Bohemians
-  Jones 8
+  Jones 8;
 
 ; Shelbourne     ; 1-0; Shamrock Rovers 
-  Geoghegan 41
-
+  Geoghegan 41;
 
 Date: 5/31/2003
 
 ; Drogheda       ; 3-1; Cork
-  O’Brien 18, Myler 48 pen, 81 pen; O’Callaghan 80
+  O'Brien 18, Myler (pk) 48, Myler (pk) 81; O'Callaghan 80
 
 ; Longford       ; 2-1; UCD
-  Francis 44, Barrett 76; McAuley 75 pen
-
+  Francis 44, Barrett 76; McAuley (pk) 75
 
 Round: 10
-
 Date: 6/4/2003
 
 ; Shelbourne     ; 1-1; Waterford
-  McCarthy; O’Neill 6
-
+  McCarthy; O'Neill 6
 
 Date: 6/6/2003
 
@@ -227,27 +217,26 @@ Date: 6/6/2003
   Cawley 19, McDonnell 81; Harkin 53
 
 ; St. Patrick's  ; 1-1; Cork
-  Bird 7 pen; Behan 94
+  Bird (pk) 7; Behan 94
 
 Date: 7/15/2003
 
 ; Longford       ; 4-0; Derry
-  Keogh 23, McGovern 37, Ferguson 49 pen, Barrett 64
+  Keogh 23, McGovern 37, Ferguson (pk) 49, Barrett 64;
 
 Round: 11
 Date: 6/12/2003
 
 ; Derry          ; 2-0; Shelbourne
-  McGlynn 67, Martyn 70
-
+  McGlynn 67, Martyn 70;
 
 Date: 6/13/2003
 
 ; Shamrock Rovers; 1-0; St. Patrick's
-  T. Grant 90
+  T. Grant 90;
 
 ; Cork           ; 1-0; UCD
-  O’Flynn 34
+  O'Flynn 34;
 
 ; Bohemians      ; 1-1; Longford
   Doyle 23; Lavine 2
@@ -255,40 +244,33 @@ Date: 6/13/2003
 ; Waterford      ; 2-1; Drogheda
   D.Murphy 36, W.Byrne 67; Beesley 70
 
- 
 Round: 12
-
 Date: 6/30/2003
 
 ; St. Patrick's  ; 4-1; Waterford
-  Bird 27, Foley 40, Freeman 61, 82; D.Murphy 62
+  Bird 27, Foley 40, Freeman 61, Freeman 82; D.Murphy 62
 
 ; Bohemians      ; 1-1; Cork
-  Crowe 7; O’Flynn 23
-
+  Crowe 7; O'Flynn 23
 
 Date: 7/1/2003
 
 ; Longford       ; 0-2; Shelbourne
-  Rogers 42, Cahill 61
+;  Rogers 42, Cahill 61
 
 ; Drogheda       ; 1-0; Derry
-  O’Connor 45
-
+  O'Connor 45;
 
 Date: 8/4/2003
 
 ; UCD            ; 2-2; Shamrock Rovers
-  Ryan 49, McAuley 90 pen; Fitzpatrick 64, Molloy 92
-
+  Ryan 49, McAuley (pk) 90; Fitzpatrick 64, Molloy 92
 
 Round: 13
-
 Date: 7/3/2003
 
 ; Derry          ; 2-2; St. Patrick's
   Martyn 65, Coyle 82; Freeman 35, Bird 48
-
 
 Date: 7/4/2003
 
@@ -296,27 +278,26 @@ Date: 7/4/2003
   Fitzgerald 90; McNally 51
 
 ; Cork           ; 4-1; Longford
-  Woods 22, 82 O’Flynn 44, Doyle 90; Francis 59
+  Woods 22, Woods 82, O'Flynn 44, Doyle 90; Francis 59
 
 ; Shelbourne     ; 3-0; Drogheda
-Geoghegan 14, Crawford 75, Cahill 80
+Geoghegan 14, Crawford 75, Cahill 80;
 
 Date: 9/1/2003
 
 ; Shamrock Rovers; 1-2; Bohemians
-  Haylock 81 pen; Crowe 57, Doyle 63 pen
+  Haylock (pk) 81; Crowe 57, Doyle (pk) 63
 
 Round: 14
 Date: 7/11/2003
 
 ; Bohemians      ; 5-1; Waterford
-  McGuinness 44, Doyle 54, Crowe 66, 77, 78; D. Murphy 24
+  McGuinness 44, Doyle 54, Crowe 66, Crowe 77, Crowe 78; D. Murphy 24
 
 ; St. Patrick's  ; 0-0; Shelbourne
 
 ; UCD            ; 1-1; Derry
   Cawley; Coyle
-
 
 Date: 7/12/2003
 
@@ -325,13 +306,13 @@ Date: 7/12/2003
 Date: 8/15/2003
 
 ; Cork           ; 1-0; Shamrock Rovers
-  O’Flynn 54
+  O'Flynn 54;
 
 Round: 15
 Date: 7/18/2003
 
 ; Waterford      ; 2-1; Cork
-  Banville 79, Sullivan 88 pen; CT O’Brien 35
+  Banville 79, Sullivan (pk) 88; CT O'Brien 35
 
 ; Shamrock Rovers; 2-3; Longford
   T. Grant 37, Molloy 80; Kirby 39, McGovern 51, Keogh 83
@@ -340,64 +321,56 @@ Date: 7/18/2003
   J. Byrne 19; Griffin 7
 
 ; Drogheda       ; 4-2; St. Patrick's
-  O’Connor 14, Tierney 61, Myler 75, O’Brien 88; Bird 2, Byrne 17
-
+  O'Connor 14, Tierney 61, Myler 75, O'Brien 88; Bird 2, Byrne 17
 
 Date: 11/25/2003
 
 ; Derry          ; 1-0; Bohemians
-  Hargan 17
+  Hargan 17;
 
 Round: 16
 Date: 8/1/2003
 
 ; Shamrock Rovers; 0-1; Waterford
-  Sullivan 85
+;  Sullivan 85
 
 ; UCD            ; 1-0; Drogheda
-  Griffin 38
+  Griffin 38;
 
 ; Cork           ; 1-1; Derry
-  O’Grady 64; Beckett 32
-
+  O'Grady 64; Beckett 32
 
 Date: 8/2/2003
 
 ; Longford       ; 1-1; St. Patrick's
-  Ferguson 27 pen; Bird 70
-
+  Ferguson (pk) 27; Bird 70
 
 Date: 9/29/2003
 
 ; Bohemians      ; 1-0; Shelbourne
-  Oman 59
-
+  Oman 59;
 
 Round: 17
-
 Date: 8/7/2003
 
 ; Derry          ; 1-1; Shamrock Rovers
-  Coyle 86 pen; Robinson 80
+  Coyle (pk) 86; Robinson 80
 
 ; Shelbourne     ; 1-1; Cork
   J. Byrne 13; Doyle 8
 
 ; St. Patrick's  ; 2-0; UCD
-  Bird 19, Osam 48
-
+  Bird 19, Osam 48;
 
 Date: 8/9/2003
 
 ; Drogheda       ; 1-2; Bohemians
-  Myler 49; Hunt 68 pen, Keegan 90
+  Myler 49; Hunt (pk) 68, Keegan 90
 
 ; Longford       ; 1-0; Waterford
-  Francis 69
-
+  Francis 69;
 
 Round: 18 
-
 Date: 8/22/2003
 
 ; Waterford      ; 1-1; Derry
@@ -407,72 +380,61 @@ Date: 8/22/2003
   Crowe 63; Freeman 50, Harris 65
 
 ; Cork           ; 4-0; Drogheda
-  O’Flynn 20, 75, Murray 30, O’Grady 76
+  O'Flynn 20, O'Flynn 75, Murray 30, O'Grady 76;
 
 ; UCD            ; 0-3; Longford
-  Sheridan 32, Barrett 47, Francis 77
-
+;  Sheridan 32, Barrett 47, Francis 77
 
 Date: 10/28/2003
 
 ; Shamrock Rovers; 2-4; Shelbourne
-  S. Grant, Fitzpatrick 38; J. Byrne pen, 78, Baker, Harris 78
- 
+  S. Grant, Fitzpatrick 38; J. Byrne (pk), J. Byrne 78, Baker, Harris 78
 
 Round: 19
-
 Date: 8/29/2003
 
 ; Bohemians      ; 2-1; UCD
-  Doyle 5, 36; Griffin 55
+  Doyle 5, Doyle 36; Griffin 55
 
 ; Cork           ; 0-2; St. Patrick's
-  McPhee 45, Bird 72
+;  McPhee 45, Bird 72
 
 ; Shamrock Rovers; 3-2; Drogheda
-  Molloy 7, T.Grant 80, S.Grant 85; Myler 63 pen, Flanagan 72
-
+  Molloy 7, T.Grant 80, S.Grant 85; Myler (pk) 63, Flanagan 72
 
 Date: 8/31/2003
 
 ; Derry          ; 1-1; Longford
   Beckett 31; Francis 29
 
-
 Date: 9/1/2003
 
 ; Waterford      ; 1-2; Shelbourne
-  O’Brien 47; Cahill 9, J.Byrne 12
-
+  O'Brien 47; Cahill 9, J.Byrne 12
 
 Round: 20
-
 Date: 9/4/2003
 
 ; Drogheda       ; 3-0; Waterford
-  Myler 69, 90, O’Brien 90
-
+  Myler 69, Myler 90, O'Brien 90;
 
 Date: 9/5/2003
 
 ; Longford       ; 2-4; Bohemians
-  Francis 18, 84; Morrison (2), Crowe 25, 46
+  Francis 18, Francis 84; Morrison, Morrison, Crowe 25, Crowe 46
   
 ; Shelbourne     ; 3-1; Derry
   J.Byrne 51, Harris 52, Crawford 62; Doherty 50
 
 ; St. Patrick's  ; 1-0; Shamrock Rovers
-  Bird 67
-
+  Bird 67;
 
 Date: 9/7/2003
 
 ; UCD            ; 1-1; Cork
   Rooney 19; Doyle 51
 
-
 Round: 21
-
 Date: 9/19/2003
 
 ; Waterford      ; 0-0; St. Patrick's
@@ -480,12 +442,11 @@ Date: 9/19/2003
 ; Cork           ; 1-2; Bohemians
   Kearney 75; Morrison 34, Doyle 65
 
-; Shamrock Rovers; 2-0; UCD             [played at UCD]
-  Fitzpatrick 22; T.Grant 71
+; Shamrock Rovers; 2-0; UCD             ; UCD
+  Fitzpatrick 22; T.Grant 71;
 
 ; Shelbourne     ; 2-1; Longford
-  J.Byrne 19, 59 pen; Lavine 30
-
+  J.Byrne 19, J. Byrne (pk) 59; Lavine 30
 
 Date: 10/2/2003
 
@@ -495,29 +456,27 @@ Round: 22
 Date: 9/22/2003
 
 ; St. Patrick's  ; 2-2; Derry
-  Delaney 27, Hutton 31 og; Holt 38, Beckett 45
+  Delaney 27, Hutton (og) 31; Holt 38, Beckett 45
 
 ; UCD            ; 3-0; Waterford
-  Sullivan 60, O’Donnell 77, Leech 90
+  Sullivan 60, O'Donnell 77, Leech 90;
 
 ; Bohemians      ; 2-1; Shamrock Rovers
   Lynch 37, Crowe 79; Fitzpatrick 30
 
-
 Date: 9/23/2003
 
 ; Drogheda       ; 0-1; Shelbourne
-  J.Byrne 56
+;  J.Byrne 56
 
 ; Longford       ; 0-1; Cork
-  O’Callaghan 90 pen
+;  O'Callaghan (pk) 90
 
 Round: 23
 Date: 9/25/2003
 
 ; Derry          ; 0-2; UCD
-  Gallen 28, Martin 50
-
+;  Gallen 28, Martin 50
 
 Date: 9/26/2003
 
@@ -525,42 +484,39 @@ Date: 9/26/2003
   D.Murphy 18, Fenn 54; Crowe 5
 
 ; Shelbourne     ; 2-0; St. Patrick's
-  J.Byrne 23, 43
+  J.Byrne 23, J.Byrne 43;
 
 ; Drogheda       ; 0-5; Longford
-  Gartland 28, Francis 35, Lavine 40, Prunty 57, Kelly 87
-
+;  Gartland 28, Francis 35, Lavine 40, Prunty 57, Kelly 87
 
 Date: 9/27/2003
 
-; Shamrock Rovers; 0-2; Cork            [played at Cork]
-  Murray 66, O’Callaghan
+; Shamrock Rovers; 0-2; Cork            ; Cork
+;  Murray 66, O'Callaghan
 
 Round: 24
 Date: 10/3/2003
 
 ; Cork           ; 2-2; Waterford
-  O’Halloran 3, 12; D. Murphy 55, Murray 90 og; 
+  O'Halloran 3, O'Halloran 12; D. Murphy 55, Murray (og) 90
 
 ; UCD            ; 0-1; Shelbourne
-  Harris 60
-
+;  Harris 60
 
 Date: 10/6/2003
 
 ; Longford       ; 1-2; Shamrock Rovers
-  Barrett 82; Molloy 47, pen
+  Barrett 82; Molloy 47, Molloy (pk)
 
 Date: 10/28/2003
 
 ; Bohemians      ; 3-1; Derry
-  Keegan 59, 82, Heary; Martyn 21
-
+  Keegan 59, Keegan 82, Heary; Martyn 21
 
 Date: 10/29/2003
 
 ; St. Patrick's  ; 3-3; Drogheda
-  Fahey 16, Maguire, Prenderville 61; Myler 14, pen, O’Brien
+  Fahey 16, Maguire, Prenderville 61; Myler (pk), Myler 14, O'Brien
  
 Round: 25
 Date: 10/9/2003
@@ -568,11 +524,10 @@ Date: 10/9/2003
 ; Derry          ; 1-1; Cork
   Holt 62; Doyle 4
 
-
 Date: 10/10/2003
 
 ; Waterford      ; 3-3; Shamrock Rovers
-  Reilly 7, Fenn 13, 61 pen; Molloy 64 pen, Palmer 81, Fitzpatrick 84
+  Reilly 7, Fenn 13, Fenn (pk) 61; Molloy (pk) 64, Palmer 81, Fitzpatrick 84
 
 ; Drogheda       ; 0-0; UCD
 
@@ -589,7 +544,7 @@ Round: 26
 Date: 10/13/2003
 
 ; Bohemians      ; 1-1; Drogheda
-  Hunt 88 pen
+  Hunt (pk) 88;
 
 ; Cork           ; 1-1; Shelbourne
   Kearney 12; Harris 89
@@ -610,13 +565,13 @@ Date: 10/16/2003
 Date: 10/17/2003
 
 ; St. Patrick's  ; 2-4; Bohemians
-  D. Byrne 90, Delaney 91; Morrison 19, 45, Crowe 35, 97
+  D. Byrne 90, Delaney 91; Morrison 19, Morrison 45, Crowe 35, Crowe 97
   
 ; Shelbourne     ; 0-2; Shamrock Rovers
-  Keddy 10, Haylock 92
+;  Keddy 10, Haylock 92
 
 ; Drogheda       ; 0-1; Cork
-  CT O’Brien 61
+;  CT O'Brien 61
 
 Date: 10/18/2003
 
@@ -627,21 +582,21 @@ Round: 28
 Date: 10/20/2003
 
 ; Shelbourne     ; 3-1; Waterford
-  Heary 14, Houlihan 38, Mulcahy 60 og; Reilly 61 pen
+  Heary 14, Houlihan 38, Mulcahy (og) 60; Reilly (pk) 61
 
 ; St. Patrick's  ; 0-2; Cork
-  Horgan 57, O’Callaghan 68
+;  Horgan 57, O'Callaghan 68
 
 Date: 10/21/2003
 
 ; Drogheda       ; 0-1; Shamrock Rovers
-  S. Grant 58
+;  S. Grant 58
 
 ; UCD            ; 0-1; Bohemians
-  Morrison
+;  Morrison
 
 ; Longford       ; 0-1; Derry
-  Hutton 88
+;  Hutton 88
 
 Round: 29
 Date: 10/24/2003
@@ -649,7 +604,7 @@ Date: 10/24/2003
 ; Cork           ; 0-0; UCD
 
 ; Waterford      ; 0-2; Drogheda
-  Cronin 63, Myler 86
+;  Cronin 63, Myler 86
 
 Date: 10/25/2003
 
@@ -662,26 +617,24 @@ Date: 11/17/2003
 Date: 11/24/2003
 
 ; Shamrock Rovers; 3-5; St. Patrick's
-  Robinson 25, Molloy 59, T. Grant; McPhee 15, 16, Rose 53, O’Keeffe, Foy 70 pen
+  Robinson 25, Molloy 59, T. Grant; McPhee 15, McPhee 16, Rose 53, O'Keeffe, Foy (pk) 70
 
 Round: 30
 Date: 10/31/2003
 
 ; Bohemians      ; 1-0; Cork
-  Crowe 82
+  Crowe 82;
 
 ; UCD            ; 1-1; Shamrock Rovers
-  Whelan 80, Molloy 86
-
+  Whelan 80; Molloy 86
 
 Date: 11/1/2003
 
 ; St. Patrick's  ; 1-0; Waterford
-  McLoughlin 88 og
+  McLoughlin (og) 88;
 
 ; Drogheda       ; 1-1; Derry
-  Myler 68 pen; Friars 24
-
+  Myler (pk) 68; Friars 24
 
 Date: 11/24/2003
 
@@ -699,14 +652,14 @@ Date: 11/4/2003
   Beckett 58; McPhee 27
 
 ; Waterford      ; 2-2; UCD
-  Sullivan 1, Waters 70; McAuley 7 pen, Frost 35 og
+  Sullivan 1, Waters 70; McAuley (pk) 7, Frost (og) 35
 
 ; Cork           ; 0-0; Longford
 
 Date: 11/17/2003
 
 ; Shelbourne     ; 2-0; Drogheda
-  J. Byrne 74, Byrne 79
+  J. Byrne 74, Byrne 79;
 
 Round: 32
 Date: 11/7/2003
@@ -715,19 +668,18 @@ Date: 11/7/2003
   Crowe 13; Fenn 72
 
 ; St. Patrick's  ; 0-1; Shelbourne
-  Foley 29 og
+;  Foley (og) 29
 
 ; Cork           ; 2-2; Shamrock Rovers
   Horgan 24, Bennett 92; Fitzpatrick 14, Robinson 62
 
 ; UCD            ; 2-0; Derry
-  McAuley 2 pen, P. Martin 21
-
+  McAuley (pk) 2, P. Martin 21;
 
 Date: 11/8/2003
 
 ; Longford       ; 0-2; Drogheda
-  Cronin 54, Myler 80
+; Cronin 54, Myler 80
 
 Round: 33
 Date: 11/10/2003
@@ -737,22 +689,22 @@ Date: 11/10/2003
 Date: 11/11/2003
 
 ; Waterford      ; 3-0; Cork
-  Fitzgerald 2, O’Brien 5, Fenn 71
+  Fitzgerald 2, O'Brien 5, Fenn 71;
 
 ; Shamrock Rovers; 0-1; Longford
-  Francis 64
+;  Francis 64
 
 ; Drogheda       ; 2-2; St. Patrick's
-  Quinless 5, O’Brien 41; Dunne 53, Osam 79
+  Quinless 5, O'Brien 41; Dunne 53, Osam 79
 
 ; Derry          ; 0-3; Bohemians
-  Ryan 5, Morrison 29, Hunt 81
+;  Ryan 5, Morrison 29, Hunt 81
 
 Round: 34 
 Date: 11/14/2003
 
 ; Cork           ; 1-0; Derry
-  Doyle 78
+  Doyle 78;
 
 ; Shamrock Rovers; 1-1; Waterford
   Fitzpatrick 12; Sullivan 86
@@ -761,10 +713,10 @@ Date: 11/14/2003
   Whelan 18, Griffin 78; Quinless 25
 
 ; Longford       ; 2-0; St. Patrick's
-  Byrne 40, 90
+  Byrne 40, Byrne 90;
 
 ; Bohemians      ; 0-1; Shelbourne
-  S. Byrne 17
+;  S. Byrne 17
 
 Round: 35
 Date: 11/20/2003
@@ -772,40 +724,38 @@ Date: 11/20/2003
 ; Derry          ; 1-1; Shamrock Rovers
   McGlynn 56; T. Grant 84
 
-
 Date: 11/21/2003
 
 ; St Patrick's   ; 0-0; UCD
 
 ; Shelbourne     ; 2-0; Cork
-  Byrne, Harris
+  Byrne, Harris;
 
 ; Drogheda       ; 2-0; Bohemians
-  O’Brien 57, Cronin 60
+  O'Brien 57, Cronin 60;
 
 ; Longford       ; 0-1; Waterford
-  Sullivan 42
+;  Sullivan 42
 
 Round: 36 
 Date: 11/28/2003
 
 ; Shamrock Rovers; 1-1; Shelbourne
-  McGuinness 55; J. Byrne 24 pen
-
+  McGuinness 55; J. Byrne (pk) 24
 
 Date: 11/30/2003
 
 ; Bohemians      ; 3-0; St Patrick's
-  Morrison 30, Crowe 79, Keegan 90
+  Morrison 30, Crowe 79, Keegan 90;
 
 ; Cork           ; 1-0; Drogheda
-K. Murray 65]
+K. Murray 65;
 
 ; UCD            ; 2-0; Longford
-  McDonnell 22, Cawley 89
+  McDonnell 22, Cawley 89;
 
 ; Waterford      ; 0-1; Derry
-  Martyn 20
+;  Martyn 20
 
 
 

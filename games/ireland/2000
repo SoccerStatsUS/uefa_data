@@ -21,26 +21,23 @@ Round: 1
 Date: 8/11/2000
 
 ; Galway     ; 5-2; Finn Harps
-  Lavine 25, 46, 53, 90, Goldbey 77; Nesovic 27, 55
+  Lavine 25, Lavine 46, Lavine 53, Lavine 90, Goldbey 77; Nesovic 27, Nesovic 55
  
-
 Date: 8/12/2000
 
 ; Derry      ; 0-1; Longford  
-  O'Connor 45
+;  O'Connor 45
 
 ; UCD        ; 2-1; Kilkenny 
   Riordan (og) 9, O'Byrne 44; Byrne 27
 
-
 Date: 8/13/2000
 
 ; Cork       ; 1-0; St Pat's
-  Herrick 63
+  Herrick 63;
   
 ; Shelbourne ; 0-1; Bray
-  J Byrne 82
-
+;  J Byrne 82
 
 Date: 8/14/2000
 
@@ -50,29 +47,26 @@ Round: 2
 Date: 8/18/2000
 
 ; Bohemians  ; 5-0; Galway
-  Molloy 8, 68, Mark Dempsey 30, Crowe 72, 90
+  Molloy 8, Molloy 68, Mark Dempsey 30, Crowe 72, Crowe 90;
 
 ; Bray       ; 1-0; Derry
-  Tresson 78
+  Tresson 78;
 
 ; St Pat's   ; 1-1; UCD
   Russell 56; Martyn 90
 
-
 Date: 8/19/2000
 
 ; Finn Harps ; 0-1; Cork
-  O'Brien 52
+;  O'Brien 52
 
 ; Kilkenny   ; 1-1; Shamrock
-  Muclahy 57; Francis (pen) 90
+  Muclahy 57; Francis (pk) 90
 
 ; Longford   ; 0-1; Shelbourne
-  McCarthy 28
-
+;  McCarthy 28
 
 Round: 3 
-
 Date: 8/25/2000
 
 ; Galway     ; 1-2; Kilkenny
@@ -82,112 +76,96 @@ Date: 8/25/2000
   Grant 36, Palmer 57, Purdy 89; Holt 11, Notaro 80
 
 ; Shelbourne ; 0-1; Finn Harps
-  Nesovic 78
-
+;  Nesovic 78
 
 Date: 9/26/2000
 
 ; Derry      ; 1-1; St Pat's
-  Hargan 81; Russell (pen) 20
-
+  Hargan 81; Russell (pk) 20
 
 Date: 9/27/2000
 
 ; Cork       ; 0-0; Bray
 
 ; UCD        ; 0-1; Bohemians
-  Crowe 29
-
+;  Crowe 29
 
 Round: 4
-
 Date: 9/1/2000
 
 ; Bohemians  ; 1-1; Cork 
-  Markey 63; Flanagan (pen) 87
+  Markey 63; Flanagan (pk) 87
 
 ; Bray       ; 0-1; Galway 
-  Malee 18
+;  Malee 18
 
 ; Finn Harps ; 0-0; Shamrock
 
 ; St Pat's   ; 0-2; Shelbourne
-  Foran 58, R Baker 61
+;  Foran 58, R Baker 61
  
-
 Date: 9/3/2000
 
 ; Kilkenny   ; 0-2; Derry 
-  Beckett 65, McCaul 90
+;  Beckett 65, McCaul 90
 
 ; Longford   ; 2-0; UCD 
-  Smith 76, Zellor 86
-
+  Smith 76, Zellor 86;
 
 Round: 5
-
 Date: 9/7/2000
 
 ; Derry      ; 1-0; Bohemians
-  Coyle 33
-
+  Coyle 33;
 
 Date: 9/8/2000
 
 ; Galway     ; 1-1; St Pat's
-  Morgan 47; Byrne (pen) 38
+  Morgan 47; Byrne (pk) 38
 
 ; Shelbourne ; 1-0; Kilkenny
-  Foran 74
-
+  Foran 74;
 
 Date: 9/10/2000
 
 ; Bray       ; 2-2; Shamrock
-  J Byrne 65, 75; Kenny 32, Grant 54
+  J Byrne 65, J Byrne 75; Kenny 32, Grant 54
 
 ; Cork       ; 0-0; Longford
 
 ; UCD        ; 3-2; Finn Harps
   Martin 3, Delaney 9, Mooney 61; Nesovic 72, Avdiu 77
 
-
 Round: 6
-
 Date: 9/15/2000
 
 ; Bray       ; 1-2; UCD
-  Tresson 31; Grogan 51, 82
+  Tresson 31; Grogan 51, Grogan 82
 
 ; Galway     ; 1-0; Shamrock
-  Lavine 77
+  Lavine 77;
 
 ; St Pat's   ; 2-4; Longford
-  L Kelly 47, McCarthy 72; S Byrne 36, 58, Farrell 71, 80
+  L Kelly 47, McCarthy 72; S Byrne 36, S Byrne 58, Farrell 71, Farrell 80
 
 ; Shelbourne ; 4-2; Bohemians
-  Foran 1, 32, Maher (OG) 16, S Geoghegan 78; Morrisson 45, Crowe 57
-
+  Foran 1, Foran 32, Maher (OG) 16, S Geoghegan 78; Morrisson 45, Crowe 57
 
 Date: 9/16/2000
 
 ; Finn Harps ; 1-1; Kilkenny
   Harkin 54; Kabia 52
 
-
 Date: 9/17/2000
 
 ; Cork       ; 0-2; Derry
-  McLaughlin 13, McCaul 90
-
+;  McLaughlin 13, McCaul 90
 
 Round: 7
-
 Date: 9/29/2000
 
 ; Bohemians  ; 3-1; Bray
-  Crowe 29, 47, 57; Britton 86
-
+  Crowe 29, Crowe 47, Crowe 57; Britton 86
 
 Date: 9/30/2000
 
@@ -199,22 +177,19 @@ Date: 9/30/2000
 ; Longford   ; 2-2; Galway
   Kelly 17, O'Connor 63; Lavine 14, Ryan 54
 
-
 Date: 10/1/2000
 
 ; Shamrock   ; 1-2; St Pat's
   Kenny 25; Byrne 22, L Kelly 79
 
 ; UCD        ; 0-1; Shelbourne
-  Foran 5
-
+;  Foran 5
 
 Round: 8
-
 Date: 10/6/2000
 
 ; Bray       ; 3-0; Kilkenny
-  B O'Connor 14, 29, J Byrne 85
+  B O'Connor 14, B O'Connor 29, J Byrne 85;
 
 ; St Pat's   ; 2-1; Finn Harps
   McCarthy 10, Byrne 75; Nesovic 37
@@ -222,58 +197,50 @@ Date: 10/6/2000
 ; Shelbourne ; 2-2; Shamrock
   S Geoghegan 8, Fenlon 36; Kenny 21, Vaudequin 78
 
-
 Date: 10/8/2000
 
 ; Cork       ; 2-1; UCD
   Mahon (og) 57, Morley 75; Grogan 42
 
 ; Derry      ; 0-1; Galway
-  Lavine 38
+;  Lavine 38
 
 ; Longford   ; 1-6; Bohemians
-  O'Connor (og) 2; Caffrey 18, Crowe 20, 30, 67, Molloy (pen) 45, Morrisson 62
+  O'Connor (og) 2; Caffrey 18, Crowe 20, Crowe 30, Crowe 67, Molloy (pk) 45, Morrisson 62
 
- 
 Round: 9 
-
 Date: 10/13/2000
 
 ; Bohemians  ; 2-2; St Pat's
-  Crowe 3, 31; L Kelly 57, O'Connor (og) 60
+  Crowe 3, Crowe 31; L Kelly 57, O'Connor (og) 60
 
 ; Galway     ; 1-1; Shelbourne  
   Fortune 17; Doolin 31
 
-
 Date: 10/14/2000
 
 ; Finn Harps ; 1-0; Bray
-  Bradley 43
+  Bradley 43;
 
 ; Kilkenny   ; 0-1; Longford
-  Kelly (pen) 56
-
+;  Kelly (pk) 56
 
 Date: 10/15/2000
 
 ; Shamrock   ; 4-1; Cork
-  Byrne 22, 45, Francis 48, 85; Morley (pen) 31
+  Byrne 22, Byrne 45, Francis 48, Francis 85; Morley (pk) 31
  
 ; UCD        ; 0-1; Derry 
-  Coyle 60
-
+;  Coyle 60
 
 Round: 10
-
 Date: 10/20/2000
 
 ; Bohemians  ; 1-0; Finn Harps
-  Molloy 58
+  Molloy 58;
 
 ; St Pat's   ; 3-0; Kilkenny
-  Foley 38, Kelly 47, Griffin (pen) 60
-
+  Foley 38, Kelly 47, Griffin (pk) 60;
 
 Date: 10/21/2000
 
@@ -281,28 +248,24 @@ Date: 10/21/2000
   Parkhouse 72; S Geoghegan 88
 
 ; Longford   ; 0-1; Bray
-  Tresson 39
-
+; Tresson 39
 
 Date: 10/22/2000
 
 ; Cork       ; 2-0; Galway
-  Morley 55, Mulligan 59
+  Morley 55, Mulligan 59;
 
 ; UCD        ; 2-2; Shamrock
-  McDonnell 56, 90; Colwell 35, Francis (pen) 90
-
+  McDonnell 56, McDonnell 90; Colwell 35, Francis (pk) 90
 
 Round: 11
-
 Date: 10/27/2000
 
 ; Galway     ; 1-4; UCD
   Crossley 24; Keady (og) 1, Martyn 65, McDonnell 68, Bennis 71
 
 ; Shelbourne ; 2-0; Cork
-  Keddy 38, R Baker 55
-
+  Keddy 38, R Baker 55;
 
 Date: 10/29/2000
 
@@ -310,91 +273,80 @@ Date: 10/29/2000
   Campbell 45, Byrne 85; L Kelly 25, McCarthy 35
 
 ; Shamrock   ; 2-0; Derry
-  Colwell 44, Grant 90
-
+  Colwell 44, Grant 90;
 
 Date: 12/5/2000
 
 ; Finn Harps ; 2-2; Longford
-  J Kenny 3, 58; Gavin 24, S Byrne 73
-
+  J Kenny 3, J Kenny 58; Gavin 24, S Byrne 73
 
 Date: 12/12/2000
 
 ; Bohemians  ; 2-1; Kilkenny 
   Webb 11, Hopper 37; Parkes 9
-     
 *Notes: venue swapped; later home fixture Bohemians to be swapped as well
 
 Round: 12
 Date: 11/3/2000
 
 ; Bohemians  ; 0-1; Shamrock
-  Francis 24
+;  Francis 24
 
 ; St Pat's   ; 1-1; Cork
   L Kelly 5; Mulligan 76
 
-
 Date: 11/4/2000
 
 ; Finn Harps ; 1-0; Galway
-  McHugh 26
+  McHugh 26;
 
 ; Longford   ; 1-0; Derry
-  Kelly (pen) 64
+  Kelly (pk) 64;
 
 ; Kilkenny   ; 0-1; UCD
-  McLaughlin 16
-
+;  McLaughlin 16
 
 Date: 11/29/2000
 
 ; Bray       ; 3-0; Shelbourne
-  Tresson (pen) 24, 48, Keegan 89
-
+  Tresson (pk) 24, Tresson 48, Keegan 89;
 
 Round: 13
 Date: 11/10/2000
 
 ; Galway     ; 0-2; Bohemians
-  Molloy 40, Caffrey 80
+;  Molloy 40, Caffrey 80
 
 ; Shelbourne ; 1-1; Longford
   Byrne 83; O'Connor 55
 
-
 Date: 11/11/2000
 
 ; Derry      ; 1-1; Bray
-  Coyle 42; Tresson (pen) 69
-
+  Coyle 42; Tresson (pk) 69
 
 Date: 11/12/2000
 
 ; Cork       ; 1-0; Finn Harps
-  Morley (pen) 4
+  Morley (pk) 4;
 
 ; Shamrock   ; 2-1; Kilkenny
-  Kenny (pen) 16, Palmer 21; Carter (pen) 36
+  Kenny (pk) 16, Palmer 21; Carter (pk) 36
 
 ; UCD        ; 1-1; St Pat's
-  Bennis 67; Griffin (pen) 28
-
+  Bennis 67; Griffin (pk) 28
 
 Round: 14
-
 Date: 11/17/2000
 
 ; Bohemians  ; 2-0; UCD 
-  Crowe 17, Molloy (pen) 63
+  Crowe 17, Molloy (pk) 63;
 
 ; Bray       ; 1-0; Cork  
-  Keegan 47
+  Keegan 47;
 
 ; St Pat's   ; 1-0; Derry 
-  Foley 88
-
+  Foley 88;
 
 Date: 11/18/2000
 
@@ -402,25 +354,21 @@ Date: 11/18/2000
   McHugh 43, Nesovic 77; Foran 23, D Baker 54
 
 ; Kilkenny   ; 0-1; Galway 
-  Lavine 19
-
+;  Lavine 19
 
 Date: 11/19/2000
 
 ; Longford   ; 2-1; Shamrock
   O'Connor 22, Kelly 58; Byrne 14
  
-
 Round: 15
-
 Date: 11/24/2000
 
 ; Galway     ; 2-2; Bray 
-  Grant 7, 16; Gormley 56, 90
+  Grant 7, Grant 16; Gormley 56, Gormley 90
 
 ; Shelbourne ; 3-1; St Pat's 
-  R Baker 11, Fenion 22, D Baker 87; Griffin (pen) 53
-
+  R Baker 11, Fenion 22, D Baker 87; Griffin (pk) 53
 
 Date: 11/25/2000
 
@@ -429,25 +377,21 @@ Date: 11/25/2000
 Date: 11/26/2000
 
 ; Shamrock   ; 2-0; Finn Harps 
-  Cousins 3, 41
+  Cousins 3, Cousins 41;
 
 ; UCD        ; 0-2; Longford  
-  Gavin 1, Zellor 41
-
+;  Gavin 1, Zellor 41
 
 Date: 4/18/2001
 
 ; Derry      ; 1-0; Kilkenny
-  Kelly 80
-
+  Kelly 80;
 
 Round: 16
-
 Date: 12/1/2000
 
 ; St Pat's   ; 3-0; Galway
-  Griffin 5, Byrne 30, McCarthy 50
-
+  Griffin 5, Byrne 30, McCarthy 50;
 
 Date: 12/2/2000
 
@@ -455,11 +399,10 @@ Date: 12/2/2000
   Kelly 57, Holt 83; Cahill 48
 
 ; Kilkenny   ; 0-3; Shelbourne
-  D Baker 33, Foran 67, Crawford 82
+;  D Baker 33, Foran 67, Crawford 82
 
 ; Finn Harps ; 1-1; UCD
   J Kenny 46; Kavanagh 71
-
 
 Date: 12/3/2000
 
@@ -469,20 +412,16 @@ Date: 12/3/2000
 ; Shamrock   ; 1-1; Bray
   Cousins 45; Keegan 90
 
-
 Round: 17
-
 Date: 12/8/2000
 
 ; Bohemians  ; 0-1; Shelbourne
-  Foran 2
-
+;  Foran 2
 
 Date: 12/9/2000
 
 ; Longford   ; 0-3; St Pat's
-  Maguire 22, 39, Harris 82
-
+;  Maguire 22, Maguire 39, Harris 82
 
 Date: 12/10/2000
 
@@ -492,29 +431,24 @@ Date: 12/10/2000
 ; Shamrock   ; 0-0; Galway 
 
 ; UCD        ; 1-1; Bray 
-  McDonnell 55; Gormley (pen) 28
+  McDonnell 55; Gormley (pk) 28
 
-[Feb 27]
-; Kilkenny   ; 0-1; Finn Harps 
-  Marrow 86
-
+2/27/2010; Kilkenny   ; 0-1; Finn Harps 
+;  Marrow 86
 
 Round: 18
-
 Date: 12/15/2000
 
 ; Galway     ; 1-0; Longford
-  Murphy 59
+  Murphy 59;
 
 ; Shelbourne ; 3-1; UCD
   D Baker 5, Crawford 31, R Baker 43; Grogan 18
 
-
 Date: 12/16/2000
 
 ; Finn Harps ; 0-1; Derry
-  Doherty 18
-
+;  Doherty 18
 
 Date: 12/17/2000
 
@@ -525,37 +459,32 @@ Date: 12/17/2000
   Morley 5, Caulfield 40, Mulligan 74; McGrath 9
 
 ; St Pat's   ; 0-1; Shamrock
-  Deans 64
-
+;  Deans 64
 
 Round: 19
-
 Date: 12/21/2000
 
 ; Bohemians  ; 1-0; Longford
-  Hopper 27
-
+  Hopper 27;
 
 Date: 12/22/2000
 
 ; Galway     ; 1-0; Derry
-  Grant 7
-
+  Grant 7;
 
 Date: 12/23/2000
 
 ; Finn Harps ; 0-1; St Pat`s
-  Russell 18
+;  Russell 18
 
 ; Kilkenny   ; 2-2; Bray
   Rocha 61, McAreavey 86; Keegan 11, O'Connor 28
 
-
 Date: 12/27/2000
 
-; Shamrock   ; 1-3; Shelbourne          
+; Shamrock   ; 1-3; Shelbourne          ; Tolka Park
+  Cousins 9; R Baker 26, R Baker 90, S Geoghegan 63
 *[played at Tolka Park, Shelbourne's home ground]
-  Cousins 9; R Baker 26, 90, S Geoghegan 63
                
 ; UCD        ; 0-0; Cork
 
@@ -563,84 +492,69 @@ Round: 20
 Date: 1/3/2001
 
 ; Shelbourne ; 3-1; Galway
-  R Baker 1, D Baker 56, S Geoghegan 65; Grant (pen) 35
-
+  R Baker 1, D Baker 56, S Geoghegan 65; Grant (pk) 35
 
 Date: 1/24/2001
 
 ; Cork       ; 1-2; Shamrock
-  Herrock 42; Francis 25, (pen) 70
-
+  Herrock 42; Francis 25, Francis (pk) 70
 
 Date: 3/25/2001
-
 
 ; Bray       ; 0-0; Finn Harps
 
 ; Derry      ; 0-1; UCD
-  Swan 17
-
+;  Swan 17
 
 Date: 3/27/2001
 
 ; Longford   ; 2-1; Kilkenny
   Murphy 41, Kelly 69; McGrath 40
 
-
 Date: 4/3/2001
 
 ; St Pat's   ; 2-1; Bohemians
   S McGuinness 60, McCarthy 91; Nesovic 88
 
-
 Round: 21
-
 Date: 1/12/2001
 
 ; Bray       ; 3-1; Longford 
-  Gormley (pen), Keegan, Byrne; Smith
+  Gormley (pk), Keegan, Byrne; Smith
 
 ; Galway     ; 0-2; Cork
-  Mulligan, Cotter
-
+;  Mulligan, Cotter
 
 Date: 1/13/2001
 
 ; Kilkenny   ; 0-2; St Pat's 
-  S McGuinness, L Kelly
+;  S McGuinness, L Kelly
          
-
 Date: 1/14/2001
 
 ; Shamrock   ; 1-1; UCD 
   Robinson 47; Fitzpatrick 45
 
-
 Date: 1/23/2001
 
 ; Shelbourne ; 0-1; Derry City
-  Hutton 21
-
+;  Hutton 21
 
 Date: 2/21/2001
 
 ; Finn Harps ; 1-1; Bohemians
   Marrow 37; Crowe 65
 
-
 Round: 22
-
 Date: 1/19/2001
 
 ; St Pat's   ; 1-1; Bray
   Griffin 21; Tresson 59
 
-
 Date: 1/20/2001
 
 ; Longford   ; 4-1; Finn Harps
-  Zellor 16, 90, S Byrne 59, O'Connor 80; S Bradley 63
-
+  Zellor 16, Zellor 90, S Byrne 59, O'Connor 80; S Bradley 63
 
 Date: 1/21/2001
 
@@ -648,24 +562,21 @@ Date: 1/21/2001
   Caulfield 74; Doolin 19
 
 ; Derry      ; 2-0; Shamrock
-  Kelly 46, Doherty 89
+  Kelly 46, Doherty 89;
 
 ; Kilkenny   ; 0-0; Bohemians
 
 ; UCD        ; 0-1; Galway
-  O'Brien 75
-
+;  O'Brien 75
 
 Round: 23
-
 Date: 1/26/2001
 
 ; Galway     ; 1-1; Finn Harps
   Murphy 11; S Bradley 29
 
 ; Shelbourne ; 3-2; Bray
-  Foran 48, 77, Keddy 57; B O'Connor 69, Tresson 87
-
+  Foran 48, Foran 77, Keddy 57; B O'Connor 69, Tresson 87
 
 Date: 1/27/2001
 
@@ -674,18 +585,15 @@ Date: 1/27/2001
 Date: 1/28/2001
 
 ; Cork       ; 0-4; St Pat's
-  McCarthy 21, 69, S McGuinness 23, 45
+;  McCarthy 21, McCarthy 69, S McGuinness 23, S McGuinness 45
 
 ; Shamrock   ; 4-6; Bohemians
-  Grant 2, 31, Francis (pen) 26, Byrne 39; Hill 16, Nesovic 62, 
-   Morrison 70, Crowe 74, 90, Rutherford 79
+  Grant 2, Grant 31, Francis (pk) 26, Byrne 39; Hill 16, Nesovic 62, Morrison 70, Crowe 74, Crowe 90, Rutherford 79
 
 ; UCD        ; 1-0; Kilkenny
-  R Martin 81
-
+  R Martin 81;
 
 Round: 24
-
 Date: 2/9/2001
 
 ; Bohemians  ; 2-2; Galway
@@ -697,28 +605,24 @@ Date: 2/9/2001
 ; St Pat's   ; 2-1; UCD
   Holt 89, Kelly 90; Delaney 45
 
-
 Date: 2/10/2001
 
 ; Finn Harps ; 1-1; Cork
   McHugh 55; O'Brien 22
 
 ; Longford   ; 0-1; Shelbourne
-  D Baker 10
-
+;  D Baker 10
 
 Date: 2/11/2001
 
 ; Kilkenny   ; 0-4; Shamrock
-  Francis 20, (pen) 80, Palmer 49, Grant 55
-
+;  Francis 20, Francis (pk) 80, Palmer 49, Grant 55
 
 Round: 25
-
 Date: 2/16/2001
 
 ; Galway     ; 2-0; Kilkenny
-  Clery (pen) 35, O'Connor 37
+  Clery (pk) 35, O'Connor 37;
 
 ; Shelbourne ; 0-0; Finn Harps
 
@@ -727,29 +631,25 @@ Date: 2/17/2001
 ; Derry      ; 1-1; St Pat's
   Doherty 54; S McGuinness 41
 
-
 Date: 2/18/2001
 
 ; Cork       ; 1-0; Bray
-  Cahill 10
+  Cahill 10;
 
 ; Shamrock   ; 3-1; Longford
   Woods 34, Palmer 71, Grant 80; O'Connor 17
 
 ; UCD        ; 3-4; Bohemians
-  McAuley 34, Martyn 63, 86; Crowe 1, 71, 88, Nesovic 80
-
+  McAuley 34, Martyn 63, Martyn 86; Crowe 1, Crowe 71, Crowe 88, Nesovic 80
 
 Round: 26
-
 Date: 2/23/2001
 
 ; Bray       ; 2-1; Galway
-  Keogh 2, Tresson (pen) 34; Ryan 28
+  Keogh 2, Tresson (pk) 34; Ryan 28
 
 ; St Pat's   ; 4-1; Shelbourne
-  L Kelly 50, 67, Maguire 55, Griffin 63; D Baker 3
-
+  L Kelly 50, L Kelly 67, Maguire 55, Griffin 63; D Baker 3
 
 Date: 2/24/2001
 
@@ -757,16 +657,16 @@ Date: 2/24/2001
   S Bradley 20, McHugh 51; Deans 21, Cousins 88
 
 ; Kilkenny   ; 0-1; Derry
-  McCaul 46
+;  McCaul 46
 
 ; Longford   ; 2-0; UCD
-  S Byrne 36, Farrell 84
+  S Byrne 36, Farrell 84;
 
 
 Date: 2/25/2001
 
 ; Bohemians  ; 0-1; Cork
-  Caulfield 72
+;  Caulfield 72
 
 
 *NB: all matches postponed from March 2 to 24 due to Foot and Mouth Disease 
@@ -782,30 +682,27 @@ Date: 3/30/2001
 Date: 3/31/2001
 
 ; Derry      ; 0-2; Bohemians
-  Rutherford 26, 49
-
+;  Rutherford 26, Rutherford 49
 
 Date: 4/1/2001
 
 ; Cork       ; 1-0; Longford
-  Flanagan (pen) 4
+  Flanagan (pk) 4;
 
 ; UCD        ; 1-1; Finn Harps
   McDonell 35; Harkin 18
 
 ; Shamrock   ; 1-2; Bray
-  Francis 43; Byrne 23, 54
+  Francis 43; Byrne 23, Byrne 54
 
 ; Shelbourne ; 3-1; Kilkenny
-  Heary 36, S Geoghegan 54, 79; Roos 44
-
+  Heary 36, S Geoghegan 54, S Geoghegan 79; Roos 44
 
 Round: 28
-
 Date: 4/6/2001
 
 ; Bray       ; 1-0; UCD 
-  Doohan 19
+  Doohan 19;
 
 ; Galway     ; 1-1; Shamrock
   Murphy 32; Francis 1
@@ -814,77 +711,67 @@ Date: 4/6/2001
   L Kelly 8, Mbabazi 60; Holt 82
 
 ; Shelbourne ; 2-4; Bohemians 
-  Scully 62, S Geoghegan 76; Hill 16, Molloy (pen) 66, Nesovic 69, Crowe 73
-
+  Scully 62, S Geoghegan 76; Hill 16, Molloy (pk) 66, Nesovic 69, Crowe 73
 
 Date: 4/7/2001
 
 ; Finn Harps ; 2-0; Kilkenny
-  McHugh 9, Minnock 42
-
+  McHugh 9, Minnock 42;
 
 Date: 4/8/2001
 
 ; Cork       ; 1-0; Derry
-  Morley 78
-
+  Morley 78;
 
 Round: 29
-
 Date: 4/10/2001
 
 ; Derry      ; 2-0; Finn Harps
-  McCready (pen) 64, Parkhouse 74
+  McCready (pk) 64, Parkhouse 74;
 
 ; Kilkenny   ; 1-4; Cork
-  O'Byrne 15; Flanagan 22, (pen) 65, Coughlan 60, O'Neill (og) 90
+  O'Byrne 15; Flanagan 22, Flanagan (pk) 65, Coughlan 60, O'Neill (og) 90
 
 ; Longford   ; 2-1; Galway
-  Gavin 38, Holt (pen) 53; Clery (pen) 84
+  Gavin 38, Holt (pk) 53; Clery (pk) 84
 
 ; UCD        ; 1-2; Shelbourne
-  Delaney 64; Fenlon 33, S Geoghegan (pen) 90
-
+  Delaney 64; Fenlon 33, S Geoghegan (pk) 90
 
 Date: 4/17/2001
 
 ; Shamrock   ; 1-1; St Pat's
-  Francis 4; L Kelly (pen) 84
+  Francis 4; L Kelly (pk) 84
 
 ; Bohemians  ; 1-0; Bray
-  Rutherford 38
-
+  Rutherford 38;
 
 Round: 30
-
 Date: 4/13/2001
 
 ; Bray       ; 5-0; Kilkenny
-  O'Connor 25, Tresson 45, Fox 65, 72, Williamson 74
+  O'Connor 25, Tresson 45, Fox 65, Fox 72, Williamson 74;
 
 ; St Pat's   ; 1-4; Finn Harps
-  Foley 91; Bonnar 51, Speak 76, McHugh 90, 94
-
+  Foley 91; Bonnar 51, Speak 76, McHugh 90, McHugh 94
 
 Date: 4/14/2001
 
 ; Derry      ; 0-1; Galway
-  Clery 28
-
+;  Clery 28
 
 Date: 4/15/2001
 
 ; Cork       ; 2-2; UCD
-  Mulligan 16, Morley 90; Swan (pen) 15, Bennis 91
-
+  Mulligan 16, Morley 90; Swan (pk) 15, Bennis 91
 
 Date: 5/2/2001
 
 ; Shelbourne ; 3-1; Shamrock
-  Foran 56, S Geoghegan 66, D Baker 73; Kenny (pen) 77
+  Foran 56, S Geoghegan 66, D Baker 73; Kenny (pk) 77
 
 ; Longford   ; 1-3; Bohemians
-  Holt 33; Crowe 17, Hill 25, Molloy (pen) 55
+  Holt 33; Crowe 17, Hill 25, Molloy (pk) 55
 
 Round: 31
 Date: 4/20/2001
@@ -897,8 +784,7 @@ Date: 4/21/2001
   Crowe 12, Nesovic 89: Osam 49
 
 ; Finn Harps ; 4-1; Bray 
-  Speak 29, Bonner 31, McHugh 69, 89; Fox 49
-
+  Speak 29, Bonner 31, McHugh 69, McHugh 89; Fox 49
 
 Date: 4/22/2001
 
@@ -908,29 +794,24 @@ Date: 4/22/2001
 ; UCD        ; 1-1; Derry 
   Swan 69; Hargan 52
 
-
 Date: 5/8/2001
 
 ; Kilkenny   ; 1-1; Longford
   O'Byrne 22; V Perth 42
 
-
 Round: 32
-
 Date: 4/27/2001
 
 ; Bohemians  ; 5-1; Finn Harps 
-  Caffrey 2, 53, Rutherford 7, Molloy 70, Nesovic 90; S Bradley 67
+  Caffrey 2, Caffrey 53, Rutherford 7, Molloy 70, Nesovic 90; S Bradley 67
 
 ; St Pat's   ; 3-0; Kilkenny
-  L Kelly 3, Russell 52, McCarthy 58
-
+  L Kelly 3, Russell 52, McCarthy 58;
 
 Date: 4/28/2001
 
 ; Derry      ; 3-3; Shelbourne 
-  McCready (pen) 4, McGlynn 12, Coyle 21; Foran 24, Scully 52, S Geoghegan 68
-
+  McCready (pk) 4, McGlynn 12, Coyle 21; Foran 24, Scully 52, S Geoghegan 68
 
 Date: 4/29/2001
 
@@ -943,12 +824,11 @@ Date: 4/29/2001
 ; UCD        ; 2-1; Shamrock
   Bennis 22, McDonnell 58; Grant 9
 
-
 Round: 33 
 Date: 5/6/2001
 
 ; Bray       ; 4-1; St Pat's
-  Doohan 52, 88, Byrne 68, Tresson 90; Russell 14
+  Doohan 52, Doohan 88, Byrne 68, Tresson 90; Russell 14
   
 ; Finn Harps ; 2-1; Longford
   R Kenny 67, Bonnar 90; Murphy 61
@@ -957,13 +837,13 @@ Date: 5/6/2001
   Sheridan 41; Bennis 13, Swan 59
 
 ; Kilkenny   ; 0-5; Bohemians
-  Morrisson 31, Crowe 46, 89, Molloy 53, Rutherford 66
+; Morrisson 31, Crowe 46, Crowe 89, Molloy 53, Rutherford 66
  
 ; Shamrock   ; 2-3; Derry
-  Palmer 43, Grant 71; Coyle 52, McCready (pen) 73, Hutton 85
+  Palmer 43, Grant 71; Coyle 52, McCready (pk) 73, Hutton 85
 
 ; Shelbourne ; 0-1; Cork 
-  Cahill 44
+;  Cahill 44
  
 
 * 1.Bohemians                 33 18  8  7 66-35 62  Champions
@@ -988,13 +868,14 @@ Promotion/Relegation Playoff
 Date: 5/15/2001
 
 ; Athlone    ; 2-1; UCD
-  Myler (pen) 14, 90; McDonnell 20
+  Myler (pk) 14, Myler 90; McDonnell 20
 
 *Second Leg 
 Date: 5/18/2001
 
-; UCD        ; 2-1; Athlone Town          [4-3 pen]
+; UCD        ; 2-1; Athlone Town          
   Swan 1, McAuley 49; Connolly 71
+Penalty kicks: 4-3
   
 *UCD remain at 1st level
 

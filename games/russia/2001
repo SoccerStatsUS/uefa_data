@@ -49,7 +49,7 @@ V.Shmarov (pk) 16, E.Baltrushevich (pk) 77; V.Kamol'tsev 53, D.Vyaz'mikin 65
 Date: 3/11/2003
 
 ; Dinamo      ; 0-1; Krylya Sov   
-;K.Dokhoyan 46. 
+; K.Dokhoyan 46. 
 *Missed PK: R.Gusev(D) 25
  
 Round: 2 
@@ -59,22 +59,22 @@ Date: 3/17/2003
 A.Gashkin (pk) 35; D.Bulykin 15
  
 ; Alania      ; 0-1; Fakel        
-E.Baltrushevich 6
+; E.Baltrushevich 6
  
 ; Anzhi       ; 1-1; Saturn       
 B.Budunov 78; A.Dzamikhov 83
  
 ; Lokomotiv   ; 1-0; Torpedo-ZIL  
-V.Maminov 44
+V.Maminov 44;
  
 ; Zenit       ; 3-1; Rostselmash  
-Ye.Tarasov 10, 58, M.Demenko 15; A.Bessmertny 59
+Ye.Tarasov 10, Ye.Tarasov 58, M.Demenko 15; A.Bessmertny 59
  
 ; Sokol       ; 1-0; Rotor        
-A.Fed'kov 11
+A.Fed'kov 11;
  
 ; CSKA        ; 0-3; Krylya Sov   
-A.Tikhonov 14, Angelo 47, R.Bulatov(CSKA) 52 og
+; A.Tikhonov 14, Angelo 47, R.Bulatov (og) 52
  
 Date: 3/18/2003
 
@@ -85,10 +85,10 @@ Round: 3
 Date: 3/31/2003
 
 ; Spartak     ; 1-0; CSKA         
-V.Baranov 33
+V.Baranov 33;
  
 ; Rotor       ; 3-0; Chernomorets 
-V.Yesipov 20, 56, A.Zernov 23
+V.Yesipov 20, V.Yesipov 56, A.Zernov 23;
  
 ; Rostselmash ; 1-2; Sokol        
 R.Adamov 19; V.Samoylov 58, A.Fed'kov (pk) 62
@@ -96,24 +96,24 @@ R.Adamov 19; V.Samoylov 58, A.Fed'kov (pk) 62
 ; Saturn      ; 0-0; Lokomotiv 
 
 ; Fakel       ; 0-1; Anzhi        
-B.Budunov 51
+;B.Budunov 51
  
 ; Dinamo      ; 2-0; Alania       
-D.Bulykin 26, D.Zutautas 74
+D.Bulykin 26, D.Zutautas 74;
  
 ; Krylya Sov  ; 3-0; Torpedo      
-Angelo 3, 64, 72
+Angelo 3, Angelo 64, Angelo 72;
  
 Date: 4/1/2003
 
 ;; Torpedo-ZIL;  0-2 Zenit        
-A.Gorshkov 56, O.Spivak 87
+;A.Gorshkov 56, O.Spivak 87
  
 Round: 4 
 Date: 4/6/2003
 
 ; CSKA        ; 0-1; Torpedo      
-A.Gashkin (pk) 29
+; A.Gashkin (pk) 29
  
 Date: 4/7/2003
 
@@ -121,36 +121,36 @@ Date: 4/7/2003
 A.Berezutskiy 57; R.Adamov 39
  
 ; Spartak     ; 1-0; Rotor        
-M.Kalynychenko 14
+M.Kalynychenko 14;
  
 ; Alania      ; 0-1; Krylya Sov   
-M.Kasimov 26
+; M.Kasimov 26
  
 ; Anzhi       ; 1-0; Dinamo       
-R.Agalarov 75
+R.Agalarov 75;
  
 ; Lokomotiv   ; 1-0; Fakel        
-Z.Janashia 55
+Z.Janashia 55;
  
 ; Zenit       ; 2-1; Saturn       
 Ye.Tarasov 30, M.Demenko 42; S.Rogaciov (pk) 49
  
 ; Sokol       ; 1-0; Torpedo-ZIL  
-M.Nikitin 90
+M.Nikitin 90;
  
 Round: 5 
 Date: 4/13/2003
 
 ;; Torpedo-ZIL;  2-0 Chernomorets 
-S.Mikalajunas 60, M.Radojcic 85
+S.Mikalajunas 60, M.Radojcic 85;
  
 Date: 4/14/2003
 
 ; Rotor       ; 1-1; CSKA         
-V.Yesipov (pk) 3; A.Borzenkov(R) 37 og
+V.Yesipov (pk) 3; A.Borzenkov (og) 37
  
 ; Rostselmash ; 0-1; Spartak      
-D.Parfyonov (pk) 72
+; D.Parfyonov (pk) 72
  
 ; Saturn      ; 1-2; Sokol        
 V.Kechinov 33; M.Nikitin 45, V.Samoylov 63
@@ -162,25 +162,26 @@ G.Gurbanov (pk) 32; H.Popovych 11, A.Arshavin 42
 V.Grishin 29; D.Los'kov 61, M.Buznikin 76
  
 ; Krylya Sov  ; 0-0; Anzhi        
-Saved PK: M.Kasimov(KS) 11
+*Saved PK: M.Kasimov(KS) 11
  
 ; Torpedo     ; 0-1; Alania       
-R.Bitarov 84
+; R.Bitarov 84
  
 Round: 6 
 Date: 4/18/2003
 
 ; Chernomorets; 0-3; Saturn       
-V.Kechinov 29, 70, S.Rogaciov 31
+; V.Kechinov 29, V.Kechinov 70, S.Rogaciov 31
  
 ; Spartak     ; 1-1; Torpedo-ZIL  
 N.Pisarev 85; V.Klimov 89
  
 ; Rotor       ; 1-0; Rostselmash  
-R.Pavlyuchenko 7
+R.Pavlyuchenko 7;
  
 ; Anzhi       ; 0-1; Torpedo      
-V.Litvinov 7. Missed PK: A.Gashkin(T) 62
+; V.Litvinov 7
+* Missed PK: A.Gashkin(T) 62
  
 ; Lokomotiv   ; 1-2; Krylya Sov   
 D.Los'kov (pk) 31; Angelo 29, A.Konovalov 87
@@ -192,25 +193,25 @@ S.Vasyanovich 63, H.Popovych (pk) 68; D.Bulykin 89
 A.Fed'kov 15, H.Orbu 59; I.Degtyaryov 26
  
 ; CSKA        ; 3-0; Alania       
-O.Kornaukhov (pk) 29, (pk) 62, S.Lysenko 73
+O.Kornaukhov (pk) 29, O.Kornaukhov (pk) 62, S.Lysenko 73;
  
 Round: 7 
 Date: 4/28/2003
 
 ; Rostselmash ; 0-1; CSKA         
-S.Semak 71
+; S.Semak 71
  
 ; Saturn      ; 3-0; Spartak      
-V.Kechinov 12, 42, A.Sosnovschii 26
+V.Kechinov 12, V.Kechinov 42, A.Sosnovschii 26;
  
 ; Fakel       ; 0-1; Chernomorets 
-E.Baltrushevich(F) 33 og
+; E.Baltrushevich (og) 33
  
 ; Dinamo      ; 1-1; Sokol        
 P.Bystrov 38; V.Fedotov 67
  
 ; Krylya Sov  ; 1-0; Zenit        
-A.Konovalov 37
+A.Konovalov 37;
  
 ; Torpedo     ; 1-1; Lokomotiv    
 V.Leonchenko (pk) 8; D.Los'kov 45
@@ -221,8 +222,7 @@ I.Tarlouski 85, V.Bestayev 87; N.Sirkhayev 53
 Date: 4/29/2003
 
 ;; Torpedo-ZIL;  3-2 Rotor        
-B.Ajinjal (pk) 7, V.Leonov 45, A.Gryazin 87; N.Olenikov 4, 
-                               R.Pavlyuchenko 82
+B.Ajinjal (pk) 7, V.Leonov 45, A.Gryazin 87; N.Olenikov 4, R.Pavlyuchenko 82
  
 Round: 8 
 Date: 5/5/2003
@@ -231,34 +231,34 @@ Date: 5/5/2003
 S.Snytko (pk) 25; A.Khazov 83
  
 ; Spartak     ; 3-0; Fakel        
-A.Shirko 62, O.Hranovs'ky 66, Ye.Titov 77
+A.Shirko 62, O.Hranovs'ky 66, Ye.Titov 77;
  
 ; Rotor       ; 1-0; Saturn       
-N.Olenikov 66. Missed PK: V.Yesipov(R) 80
+N.Olenikov 66;
+* Missed PK: V.Yesipov(R) 80
  
 ; Rostselmash ; 1-0; Torpedo-ZIL  
 D.Kirichenko 43
  
 ; Lokomotiv   ; 3-1; Alania       
-R.Pimenov 76, D.Los'kov (pk) 82, J.Obiorah 89; 
-                               A.Pagayev 41
+R.Pimenov 76, D.Los'kov (pk) 82, J.Obiorah 89; A.Pagayev 41
  
 ; Zenit       ; 0-3; Torpedo      
-A.Lukhvich 12, D.Vyaz'mikin 38, 80
+; A.Lukhvich 12, D.Vyaz'mikin 38, D.Vyaz'mikin 80
  
 ; Sokol       ; 1-0; Krylya Sov   
-A.Fed'kov 70
+A.Fed'kov 70;
  
 Date: 5/6/2003
 
 ; CSKA        ; 1-0; Anzhi        
-D.Popov 89
+D.Popov 89;
  
 Round: 9 
 Date: 5/12/2003
 
 ; Saturn      ; 0-1; Rostselmash  
-R.Adamov 1
+; R.Adamov 1
  
 ; Fakel       ; 3-1; Rotor        
 V.Shmarov 14, R.Arlouski 69, A.Shchyogolev 90; M.Mysin 74
@@ -269,45 +269,42 @@ S.Gogniyev 8; A.Shirko 28
 ; Krylya Sov  ; 0-0; Chernomorets 
 
 ; Torpedo     ; 6-2; Sokol        
-M.Aristarkhov 26, D.Vyaz'mikin 27, 48, 62, A.Lukhvich 64, 
-                               V.Kamol'tsev 87; A.Fed'kov 65, A.Zhidkov 67
+M.Aristarkhov 26, D.Vyaz'mikin 27, D.Vyaz'mikin 48, D.Vyaz'mikin 62, A.Lukhvich 64, V.Kamol'tsev 87; A.Fed'kov 65, A.Zhidkov 67
  
 ; Alania      ; 2-0; Zenit        
-A.Kusov 5, J.Bazayev 22
+A.Kusov 5, J.Bazayev 22;
  
 ; Anzhi       ; 1-0; Lokomotiv    
-P.Randjelovic 70
+P.Randjelovic 70;
  
 Date: 5/13/2003
 
 ;; Torpedo-ZIL;  0-2 CSKA         
-S.Semak 34, D.Popov 48
+; S.Semak 34, D.Popov 48
  
 Round: 10 
 Date: 5/19/2003
 
 ; Chernomorets; 0-5; Torpedo      
-A.Famil'tsev 30, I.Semshov 31, D.Vyaz'mikin 39, 88, 
-                               M.Aristarkhov 71
+; A.Famil'tsev 30, I.Semshov 31, D.Vyaz'mikin 39, D.Vyaz'mikin 88, M.Aristarkhov 71
  
 ; Spartak     ; 1-0; Krylya Sov   
-Ye.Titov 59
+Ye.Titov 59;
  
 ; Rotor       ; 1-2; Dinamo       
 N.Olenikov 55; P.Nemov 35, S.Gogniyev 70
  
 ; Rostselmash ; 1-0; Fakel        
-D.Kirichenko 35
+D.Kirichenko 35;
  
 ;; Torpedo-ZIL;  1-0 Saturn       
-V.Klimov 82
+V.Klimov 82;
  
 ; Zenit       ; 1-1; Anzhi        
 H.Popovich (pk) 56; N.Sirkhayev 46
  
 ; Sokol       ; 4-1; Alania       
-A.Fed'kov 26, 51, R.Baltiyev 84, M.Nizovtsev 88; 
-                               D.Bazayev 1
+A.Fed'kov 26, A.Fed'kov 51, R.Baltiyev 84, M.Nizovtsev 88; D.Bazayev 1
  
 Date: 5/20/2003
 
@@ -318,8 +315,7 @@ Round: 11
 Date: 5/25/2003
 
 ; Lokomotiv   ; 5-1; Zenit        
-Z.Janashia 20, J.Obiorah 46, V.Maminov 64, M.Izmaylov 80, 
-                               M.Buznikin 90; A.Gorshkov 12
+Z.Janashia 20, J.Obiorah 46, V.Maminov 64, M.Izmaylov 80, M.Buznikin 90; A.Gorshkov 12
  
 Date: 5/26/2003
 
@@ -327,22 +323,23 @@ Date: 5/26/2003
 A.Movsesyan 64; S.Lysenko 75
  
 ; Fakel       ; 2-0; Torpedo-ZIL  
-Yu.Shukanau 38, V.Kulyov 67. Missed PK: E.Agayev(T) 85
+Yu.Shukanau 38, V.Kulyov 67;
+* Missed PK: E.Agayev(T) 85
  
 ; Dinamo      ; 3-1; Rostselmash  
-R.Gusev 9, P.Bystrov 47, 78; Yu.Seleznyov 17
+R.Gusev 9, P.Bystrov 47, P.Bystrov 78; Yu.Seleznyov 17
  
 ; Krylya Sov  ; 3-0; Rotor        
-Angelo 21, 90, A.Tikhonov 66
+Angelo 21, Angelo 90, A.Tikhonov 66;
  
 ; Torpedo     ; 2-0; Spartak      
-D.Vyaz'mikin 34, V.Leonchenko 39
+D.Vyaz'mikin 34, V.Leonchenko 39;
  
 ; Alania      ; 1-0; Chernomorets 
-Paulo Emilio (pk) 79
+Paulo Emilio (pk) 79;
  
 ; Anzhi       ; 2-0; Sokol        
-B.Budunov 56, N.Sirkhayev 70
+B.Budunov 56, N.Sirkhayev 70;
  
 Round: 12 
 Date: 6/10/2003
@@ -356,7 +353,7 @@ Yu.Kovtun 65; V.Bestayev 63
 O.Trifonov 21; D.Vyaz'mikin 58
  
 ; Rostselmash ; 2-0; Krylya Sov   
-S.Datsenko 78, M.Osinov 81
+S.Datsenko 78, M.Osinov 81;
  
 ;; Torpedo-ZIL;  1-1 Dinamo       
 A.A.Borodkin 10; R.Gusev 36
@@ -378,23 +375,22 @@ Date: 6/16/2003
 Yu.Shukanau 25; S.Filippenkov 5
  
 ; Dinamo      ; 2-0; Saturn       
-R.Rebeja(S) 26 og, A.Tochilin 89
+R.Rebeja (og) 26, A.Tochilin 89;
  
 ; Krylya Sov  ; 2-1; Torpedo-ZIL  
-A.Koryaka 14, (pk) 48; I.Piyuk 63
+A.Koryaka 14, A.Koryaka (pk) 48; I.Piyuk 63
  
 ; Torpedo     ; 2-1; Rostselmash  
 D.Vyaz'mikin 35, V.Leonchenko (pk) 90; A.Shmarko 65
  
 ; Alania      ; 3-1; Rotor        
-G.Botsiyev 26, R.Dzutsev 29, Paulo Emilio 37; 
-                               O.Trifonov 47
+G.Botsiyev 26, R.Dzutsev 29, Paulo Emilio 37; O.Trifonov 47
  
 ; Anzhi       ; 1-2; Spartak      
 M.Adiyev 88; A.Shirko 17, Ye.Titov 61
  
 ; Lokomotiv   ; 4-0; Chernomorets 
-J.Obiorah 31, I.Chugaynov 60, M.Izmaylov 67, M.Buznikin 71
+J.Obiorah 31, I.Chugaynov 60, M.Izmaylov 67, M.Buznikin 71;
  
 ; Zenit       ; 1-1; Sokol        
 H.Popovych 25; A.Fed'kov (pk) 84
@@ -403,52 +399,51 @@ Round: 14
 Date: 6/24/2003
 
 ; Chernomorets; 1-4; Zenit        
-S.Snytko 80; M.Demenko (pk) 31, 47, A.Kobelev 63, 
-                               H.Popovych 65. Missed PK: S.Snytko(C) 75
+S.Snytko 80; M.Demenko (pk) 31, M.Demenko (pk) 47, A.Kobelev 63, H.Popovych 65
+* Missed PK: S.Snytko(C) 75
  
 ; Rotor       ; 1-1; Anzhi        
 D.Zubko 38; M.Ramazanov 55
  
 ; Rostselmash ; 3-0; Alania       
-A.Hakopyants 4, D.Kirichenko 39, 82
+A.Hakopyants 4, D.Kirichenko 39, D.Kirichenko 82
  
 ;; Torpedo-ZIL;  1-1 Torpedo      
-V.Klimov 89; D.Vyaz'mikin 32. 
-                               Saved PK: A.A.Borodkin(TZ) 43
+V.Klimov 89; D.Vyaz'mikin 32
+*  Saved PK: A.A.Borodkin(TZ) 43
  
 ; Saturn      ; 2-0; Krylya Sov   
-S.Rogaciov 73, V.Kechinov 82
+S.Rogaciov 73, V.Kechinov 82;
  
 ; Fakel       ; 1-2; Dinamo       
-V.Safronov 53; D.Bulykin 36, 81
+V.Safronov 53; D.Bulykin 36, D.Bulykin 81
  
 ; CSKA        ; 4-0; Sokol        
-S.Filippenkov 28, S.Semak 35, D.Popov 58, 
-                               O.Kornaukhov (pk) 65
+S.Filippenkov 28, S.Semak 35, D.Popov 58, O.Kornaukhov (pk) 65;
  
 Date: 6/25/2003
 
 ; Spartak     ; 1-0; Lokomotiv    
-Ye.Titov 22
+Ye.Titov 22;
  
 Round: 15 
 Date: 6/30/2003
 
 ; Krylya Sov  ; 3-1; Fakel        
-A.Koryaka 2, 11, Samarone 84; V.Safronov 36
+A.Koryaka 2, A.Koryaka 11, Samarone 84; V.Safronov 36
  
 ; Torpedo     ; 1-4; Saturn       
-V.Leonchenko (pk) 20; A.Movsesyan 18, A.Melyoshin 50, 
-                               D.Lyapkin 58, V.Kechinov (pk) 80
+V.Leonchenko (pk) 20; A.Movsesyan 18, A.Melyoshin 50, D.Lyapkin 58, V.Kechinov (pk) 80
  
 ; Alania      ; 1-1; Torpedo-ZIL  
-R.Bitarov 50; V.Klimov 29. Missed PK: Paulo Emilio(A) 63
+R.Bitarov 50; V.Klimov 29
+* Missed PK: Paulo Emilio(A) 63
  
 ; Anzhi       ; 0-1; Rostselmash  
-D.Kirichenko 78
+; D.Kirichenko 78
  
 ; Lokomotiv   ; 2-0; Rotor        
-J.Obiorah 23, M.Buznikin 69
+J.Obiorah 23, M.Buznikin 69;
  
 ; Zenit       ; 2-1; Spartak      
 A.Kerzhakov 70, A.Katul'skiy 74; D.Parfyonov (pk) 17
@@ -456,27 +451,25 @@ A.Kerzhakov 70, A.Katul'skiy 74; D.Parfyonov (pk) 17
 ; Sokol       ; 0-0; Chernomorets 
 
 ; CSKA        ; 2-0; Dinamo       
-D.Popov 59, S.Filippenkov 64
+D.Popov 59, S.Filippenkov 64;
  
 Round: 16 
 Date: 7/11/2003
 
 ; Spartak     ; 5-0; Chernomorets 
-Robson 8, 18, Ye.Titov 28, E.Tsykhmeystruk 56, 
-                               V.Bulatov 60
+Robson 8, Robson 18, Ye.Titov 28, E.Tsykhmeystruk 56, V.Bulatov 60
  
 ; Fakel       ; 1-0; Alania       
-V.Safronov 17
+V.Safronov 17;
  
 ; Saturn      ; 1-0; Anzhi        
-S.Rogaciov 42
+S.Rogaciov 42;
  
 ;; Torpedo-ZIL;  0-4 Lokomotiv    
-M.Buznikin 24, V.Maminov 70, 82, J.Obiorah 75
+; M.Buznikin 24, V.Maminov 70, V.Maminov 82, J.Obiorah 75
  
 ; Rostselmash ; 1-2; Zenit        
-D.Kirichenko 34; M.Demenko (pk) 17, 
-                               O.Khizaneishvili(R) 79 og
+D.Kirichenko 34; M.Demenko (pk) 17, O.Khizaneishvili (og) 79
  
 ; Rotor       ; 1-2; Sokol        
 R.Pavlyuchenko 5; R.Baltiyev 7, Yu.Bavykin 35
@@ -486,8 +479,7 @@ R.Pavlyuchenko 5; R.Baltiyev 7, Yu.Bavykin 35
 Date: 7/12/2003
 
 ; Dinamo      ; 0-4; Torpedo      
-V.Kamol'tsev 31, A.Lukhvich 45, I.Semshov 48, 
-                               D.Vyaz'mikin 90
+; V.Kamol'tsev 31, A.Lukhvich 45, I.Semshov 48, D.Vyaz'mikin 90
  
 Round: 17 
 Date: 7/18/2003
@@ -496,29 +488,25 @@ Date: 7/18/2003
 P.Randjelovic 30; V.Beschastnykh 10
  
 ; Chernomorets; 2-3; Rotor        
-O.Pryzetko 48, 68; V.Yesipov (pk) 36, 77, 
-                               R.Pavlyuchenko 80
+O.Pryzetko 48, O.Pryzetko 68; V.Yesipov (pk) 36, V.Yesipov 77, R.Pavlyuchenko 80
  
 ; Sokol       ; 1-1; Rostselmash  
 O.Veretennikov 15; D.Kirichenko 88
  
 ; Zenit       ; 4-0; Torpedo-ZIL  
-A.Kerzhakov 40, O.Spivak (pk) 48, A.Gorshkov 63, 
-                               A.Arshavin 90
+A.Kerzhakov 40, O.Spivak (pk) 48, A.Gorshkov 63, A.Arshavin 90;
  
 ; Lokomotiv   ; 1-1; Saturn       
 V.Maminov 79; A.Movsesyan 75
  
 ; Anzhi       ; 2-2; Fakel        
-B.Budunov 23, N.Sirkhayev 38; Ye.Alkhimov 39, 
-                               V.Safronov 50
+B.Budunov 23, N.Sirkhayev 38; Ye.Alkhimov 39, V.Safronov 50
  
 ; Alania      ; 3-3; Dinamo       
-I.Tarlouski 25, Paulo Emilio (pk) 84, G.Botsiyev 90; 
-                               D.Klyuyev 13, Ye.Kharlachov 17, R.Gusev 67
+I.Tarlouski 25, Paulo Emilio (pk) 84, G.Botsiyev 90; D.Klyuyev 13, Ye.Kharlachov 17, R.Gusev 67
  
 ; Torpedo     ; 0-4; Krylya Sov   
-S.Vinogradov 62, 86, A.Koryaka 82, D.Kouba 84
+; S.Vinogradov 62, S.Vinogradov 86, A.Koryaka 82, D.Kouba 84
  
 Round: 18 
 Date: 7/22/2003
@@ -526,8 +514,7 @@ Date: 7/22/2003
 ; Rostselmash ; 0-0; Chernomorets 
 
 ; Rotor       ; 3-3; Spartak      
-V.Yesipov (pk) 50, M.Bondarenko 82, 88; Ye.Titov 23, 
-                               V.Baranov 44, Robson 51
+V.Yesipov (pk) 50, M.Bondarenko 82, M.Bondarenko 88; Ye.Titov 23, V.Baranov 44, Robson 51
  
 ; Krylya Sov  ; 1-1; Alania       
 A.Koryaka (pk) 77; Paulo Emilio 90
@@ -536,50 +523,46 @@ A.Koryaka (pk) 77; Paulo Emilio 90
 A.Khazov 31; N.Sirkhayev 41
  
 ; Fakel       ; 2-0; Lokomotiv    
-Yu.Shukanau (pk) 17, R.Arlouski 45
+Yu.Shukanau (pk) 17, R.Arlouski 45;
  
 ; Saturn      ; 2-2; Zenit        
-S.Rogaciov 35, A.Movsesyan 47; A.Kerzhakov 22, 
-                               M.Astafyev 76
+S.Rogaciov 35, A.Movsesyan 47; A.Kerzhakov 22, M.Astafyev 76
  
 ; Torpedo     ; 1-3; CSKA         
-V.Dayev 72; S.Lysenko 35, S.Gogniyev 89, 90
+V.Dayev 72; S.Lysenko 35, S.Gogniyev 89, S.Gogniyev 90
  
 Date: 7/23/2003
 
 ;; Torpedo-ZIL;  1-0 Sokol        
-I.Piyuk 86
+I.Piyuk 86;
  
 Round: 19 
 Date: 7/27/2003
 
 ; Spartak     ; 5-1; Rostselmash  
-Ye.Titov 23, 65, Robson 67, V.Beschastnykh 86, 
-                               R.Vasilyuk 89; M.Osinov 75
+Ye.Titov 23, Ye.Titov 65, Robson 67, V.Beschastnykh 86, R.Vasilyuk 89; M.Osinov 75
  
 Date: 7/28/2003
 
 ; CSKA        ; 2-1; Rotor        
-P.Randjelovic 28, 45; M.Bondarenko 59
+P.Randjelovic 28, P.Randjelovic 45; M.Bondarenko 59
  
 ; Chernomorets; 0-0; Torpedo-ZIL 
 
 ; Sokol       ; 0-2; Saturn       
-S.Muratovic 9, S.Rogaciov 52
+; S.Muratovic 9, S.Rogaciov 52
  
 ; Zenit       ; 2-1; Fakel        
 A.Gorshkov (pk) 35, M.Astafyev 61; V.Shmarov 79
  
 ; Lokomotiv   ; 4-1; Dinamo       
-D.Los'kov 6, J.Obiorah 15, 23, I.Chugaynov 66; 
-                               D.Zutautas 52
+D.Los'kov 6, J.Obiorah 15, J.Obiorah 23, I.Chugaynov 66; D.Zutautas 52
  
 ; Anzhi       ; 4-1; Krylya Sov   
-N.Sirkhayev 10, R.Agalarov 45, 78, Edu 90; 
-                               S.Vinogradov 22
+N.Sirkhayev 10, R.Agalarov 45, R.Agalarov 78, Edu 90; S.Vinogradov 22
  
 ; Alania      ; 2-0; Torpedo      
-J.Bazayev 48, Paulo Emilio 78
+J.Bazayev 48, Paulo Emilio 78;
  
 Round: 20 
 Date: 8/1/2003
@@ -590,10 +573,10 @@ V.Radimov 88; M.Izmaylov 59
 Date: 8/4/2003
 
 ; Saturn      ; 4-0; Chernomorets 
-S.Rogaciov 34, 77, (pk) 80, A.Movsesyan 42
+S.Rogaciov 34, S.Rogaciov 77, S.Rogaciov (pk) 80, A.Movsesyan 42;
  
 ;; Torpedo-ZIL;  0-2 Spartak      
-D.Parfyonov 27, Robson 52
+; D.Parfyonov 27, Robson 52
  
 ; Rostselmash ; 1-2; Rotor        
 D.Kirichenko 54; R.Pavlyuchenko 18, M.Bondarenko 51
@@ -602,15 +585,14 @@ D.Kirichenko 54; R.Pavlyuchenko 18, M.Bondarenko 51
 V.Leonchenko (pk) 31, D.Vyaz'mikin 39; B.Budunov 19
  
 ; Fakel       ; 0-1; Sokol        
-M.Nizovtsev 89
+; M.Nizovtsev 89
  
 ; Alania      ; 0-0; CSKA 
 
 Date: 8/5/2003
 
 ; Dinamo      ; 1-3; Zenit        
-D.Semberas 50; M.Astafyev 42, O.Spivak 67, 
-                               A.Katul'skiy 78
+D.Semberas 50; M.Astafyev 42, O.Spivak 67, A.Katul'skiy 78
  
 Round: 21 
 Date: 8/11/2003
@@ -622,30 +604,29 @@ Date: 8/11/2003
 ; Spartak     ; 0-0; Saturn 
 
 ; Chernomorets; 1-0; Fakel        
-R.Oreshchuk 90
+R.Oreshchuk 90;
  
 ; Sokol       ; 2-1; Dinamo       
 L.Markevich 4, A.Fed'kov 57; A.Medvedev 73
  
 ; Zenit       ; 1-1; Krylya Sov   
-A.Kobelev 55; A.Spivak(Z) 4 og
+A.Kobelev 55; A.Spivak (og) 4
  
 ; Lokomotiv   ; 3-1; Torpedo      
 D.Los'kov 19, M.Izmaylov 43, J.Obiorah 81; I.Semshov 21
  
 ; Anzhi       ; 3-2; Alania       
-R.Agalarov (pk) 52, B.Budunov 59, 71; J.Bazayev 7, 
-                               V.Bestayev 67
+R.Agalarov (pk) 52, B.Budunov 59, B.Budunov 71; J.Bazayev 7, V.Bestayev 67
  
 Round: 22 
 Date: 8/18/2003
 
 ; Dinamo      ; 2-1; Chernomorets 
-R.Gusev 36, A.Khazov 52; S.Bezhenar 85. 
-                               Saved PK: D.Bulykin(D) 81
+R.Gusev 36, A.Khazov 52; S.Bezhenar 85 
+*Saved PK: D.Bulykin(D) 81
  
 ; Fakel       ; 0-5; Spartak      
-V.Beschastnykh 12, E.Tsykhmeistruk 19, 68, Robson 30, 45
+; V.Beschastnykh 12, E.Tsykhmeistruk 19, E.Tsykhmeistruk 68, Robson 30, Robson 45
  
 ; Saturn      ; 2-1; Rotor        
 S.Rogaciov 61, Ye.Smertin 88; M.Bondarenko 58
@@ -654,11 +635,10 @@ S.Rogaciov 61, Ye.Smertin 88; M.Bondarenko 58
 J.Bazayev 79; J.Obiorah 30
  
 ; Torpedo     ; 3-2; Zenit        
-A.Shirko 4, N.Jolovic 9, V.Leonchenko (pk) 25; S.Osipov 10, 
-                               A.Gorshkov 87
+A.Shirko 4, N.Jolovic 9, V.Leonchenko (pk) 25; S.Osipov 10, A.Gorshkov 87
  
 ; Krylya Sov  ; 1-0; Sokol        
-A.Koryaka (pk) 21
+A.Koryaka (pk) 21;
  
 ; Anzhi       ; 0-0; CSKA 
 
@@ -675,10 +655,10 @@ S.Gogniyev 83; V.Klimov 32. Missed PK: U.Bakayev(TZ) 40
 Date: 8/25/2003
 
 ; Rostselmash ; 1-4; Saturn       
-M.Jovic 20; D.Lyapkin 16, 59, S.Muratovic 68, 82
+M.Jovic 20; D.Lyapkin 16, D.Lyapkin 59, S.Muratovic 68, S.Muratovic 82
  
 ; Rotor       ; 4-0; Fakel        
-A.Borzenkov 15, 78, N.Olenikov 41, V.Yesipov (pk) 70
+A.Borzenkov 15, A.Borzenkov 78, N.Olenikov 41, V.Yesipov (pk) 70;
  
 ; Spartak     ; 2-1; Dinamo       
 R.Vasilyuk 28, Robson 35; A.Khazov 3
@@ -686,15 +666,15 @@ R.Vasilyuk 28, Robson 35; A.Khazov 3
 ; Chernomorets; 0-0; Krylya Sov 
 
 ; Sokol       ; 0-2; Torpedo      
-D.Vyaz'mikin 32, A.Shirko 64
+; D.Vyaz'mikin 32, A.Shirko 64
  
 ; Zenit       ; 3-0; Alania       
-A.Kobelev 12, A.Kerzhakov 14, H.Popovych 90
+A.Kobelev 12, A.Kerzhakov 14, H.Popovych 90; 
  
 Date: 8/26/2003
 
 ; Lokomotiv   ; 4-0; Anzhi        
-D.Los'kov 57, 69, J.Obiorah 84, 88
+D.Los'kov 57, D.Los'kov 69, J.Obiorah 84, J.Obiorah 88
  
 
 *########################################################################### 
@@ -717,21 +697,18 @@ Round: 24
 Date: 9/15/2001
 
 ; Lokomotiv   ; 3-2; CSKA         
-M.Izmaylov 56, D.Yevsikov(C) 85 og, O.Kornaukhov(C) 89 og; 
-                               P.Randjelovic 10, R.Monaryov 22
- 
+M.Izmaylov 56, D.Yevsikov (og) 85  O.Kornaukhov (og) 89; P.Randjelovic 10, R.Monaryov 22
 
 Date: 9/16/2001
 
 ; Fakel       ; 4-1; Rostselmash  
-V.Safronov (pk) 13, 47, 72, Ye.Alkhimov 57; 
-                               D.Kirichenko (pk) 32
+V.Safronov (pk) 13, V.Safronov 47, V.Safronov 72, Ye.Alkhimov 57; D.Kirichenko (pk) 32
  
 ; Saturn      ; 1-0; Torpedo-ZIL  
-S.Rogaciov (pk) 45
+S.Rogaciov (pk) 45;
  
 ; Alania      ; 2-0; Sokol        
-G.Botsiyev 37, 90
+G.Botsiyev 37, G.Botsiyev 90;
  
 ; Dinamo      ; 2-1; Rotor        
 D.Klyuyev 39, D.Bulykin 78; V.Yesipov 71
@@ -739,10 +716,8 @@ D.Klyuyev 39, D.Bulykin 78; V.Yesipov 71
 ; Anzhi       ; 0-0; Zenit 
 
 ; Torpedo     ; 3-1; Chernomorets 
-A.Shirko 7, D.Vyaz'mikin 29, I.Semshov 69; 
-                               O.Pryzetko (pk) 56
- 
-
+A.Shirko 7, D.Vyaz'mikin 29, I.Semshov 69; O.Pryzetko (pk) 56
+                               
 Date: 10/13/2001
 
 ; Krylya Sov  ; 1-2; Spartak      
@@ -754,25 +729,24 @@ Date: 9/22/2001
 ; CSKA        ; 0-0; Saturn 
 
 ;; Torpedo-ZIL;  3-1 Fakel        
-A.Novosadov (pk) 47, I.Piyuk 59, M.Beletskyi 73; 
-                               V.Safronov (pk) 71
+A.Novosadov (pk) 47, I.Piyuk 59, M.Beletskyi 73; V.Safronov (pk) 71
  
 ; Rotor       ; 3-1; Krylya Sov   
 V.Yesipov (pk) 7, D.Zubko 13, A.Zernov 65; A.Koryaka 84
  
-
 Date: 9/23/2001
 
 ; Rostselmash ; 1-1; Dinamo       
 D.Kirichenko (pk) 41; V.Grishin 24
  
 ; Chernomorets; 1-0; Alania       
-A.Oleynik 64
+A.Oleynik 64;
  
 Date: 10/5/2001
 
 ; Sokol       ; 2-0; Anzhi        
-O.Veretennikov 3, A.Fed'kov 36. Missed PK: A.Fed'kov(S) 18
+O.Veretennikov 3, A.Fed'kov 36;
+* Missed PK: A.Fed'kov(S) 18
   
 Date: 10/12/2001
 
@@ -787,21 +761,19 @@ Round: 26
 Date: 9/30/2001
 
 ; Alania      ; 3-3; Spartak      
-R.Bitarov 13, V.Bestayev 66, G.Kutarba 89; 
-                               V.Beschastnykh 7, 42, A.Bezrodny 35
- 
+R.Bitarov 13, V.Bestayev 66, G.Kutarba 89; V.Beschastnykh 7, V.Beschastnykh 42, A.Bezrodny 35
+                               
 ; Krylya Sov  ; 3-0; Rostselmash  
-A.Tikhonov 43, A.Konovalov 85, S.Vinogradov 89
+A.Tikhonov 43, A.Konovalov 85, S.Vinogradov 89;
  
 ; Fakel       ; 1-0; Saturn       
-V.Safronov 72
+V.Safronov 72;
  
 ; Lokomotiv   ; 3-0; Sokol        
-D.Los'kov 22, M.Obradovic 59, J.Obiorah 74
+D.Los'kov 22, M.Obradovic 59, J.Obiorah 74;
  
 ; Zenit       ; 6-1; CSKA         
-M.Demenko 30, K.Lepyokhin 53, 57, A.Katul'skiy 54, 
-                               A.Kobelev 58, A.Arshavin 80; S.Semak 19
+M.Demenko 30, K.Lepyokhin 53, K.Lepyokhin 57, A.Katul'skiy 54, A.Kobelev 58, A.Arshavin 80; S.Semak 19
  
 Date: 10/1/2001
 
@@ -818,28 +790,25 @@ Round: 27
 Date: 10/9/2001
 
 ; CSKA        ; 5-1; Fakel        
-P.Randjelovic 23, 28, I.Yanovskiy 51, S.Gogniyev 54, 
-                               M.Bokov 75; V.Safronov 43
+P.Randjelovic 23, P.Randjelovic 28, I.Yanovskiy 51, S.Gogniyev 54, M.Bokov 75; V.Safronov 43
  
 ; Saturn      ; 6-1; Dinamo       
-S.Muratovic 7, S.Rogaciov 25, V.Kechinov 31, 63, 
-                               A.Savelyev 71, A.Movsesyan 77; A.Khazov 15
+S.Muratovic 7, S.Rogaciov 25, V.Kechinov 31, V.Kechinov 63, A.Savelyev 71, A.Movsesyan 77; A.Khazov 15
  
 ;; Torpedo-ZIL;  1-0 Krylya Sov   
-I.Piyuk 48
+I.Piyuk 48;
  
 ; Rostselmash ; 5-2; Torpedo      
-A.Fomenka 10, 18, 56, D.Kirichenko 63, 85; A.Shirko 37, 
-                               V.Leonchenko 48
+A.Fomenka 10, A.Fomenka 18, A.Fomenka 56, D.Kirichenko 63, 85; A.Shirko 37, V.Leonchenko 48
  
 ; Rotor       ; 3-0; Alania       
-D.Zubko 15, V.Yesipov (pk) 30, A.Zernov 49
+D.Zubko 15, V.Yesipov (pk) 30, A.Zernov 49;
  
 ; Chernomorets; 2-1; Lokomotiv    
 L.Mayorov 59, R.Oreshchuk 86; D.Los'kov 38
  
 ; Sokol       ; 0-1; Zenit        
-A.Kerzhakov 17
+; A.Kerzhakov 17
  
 Date: 10/20/2001
 
@@ -850,60 +819,58 @@ Round: 30
 Date: 9/21/2001
 
 ; Sokol       ; 2-4; Spartak      
-A.Fed'kov 60, 88; Robson 45, 54, V.Beschastnykh 62, 71
+A.Fed'kov 60, A.Fed'kov 88; Robson 45, Robson 54, V.Beschastnykh 62, V.Beschastnykh 71
  
 Date: 10/21/2001
 
 ; CSKA        ; 2-1; Chernomorets 
-P.Randjelovic 42, 52; A.Oleynik 44
+P.Randjelovic 42, P.Randjelovic 52; A.Oleynik 44
  
 ; Zenit       ; 2-1; Rotor        
 A.Kobelev 25, A.Kerzhakov 90; A.Zernov 9
  
 ; Alania      ; 0-5; Saturn       
-A.Savelyev 14, A.Melyoshin 34, S.Rogaciov 44, P.Amoako 87, 
-                               S.Muratovic (pk) 88. Saved PK: Paulo Emilio(A) 80
- 
+; A.Savelyev 14, A.Melyoshin 34, S.Rogaciov 44, P.Amoako 87, S.Muratovic (pk) 88
+* Saved PK: Paulo Emilio(A) 80
+                               
 ; Torpedo     ; 3-1; Fakel        
-D.Vyaz'mikin 6, 21, I.Semshov 90; V.Kulyov 51
+D.Vyaz'mikin 6, D.Vyaz'mikin 21, I.Semshov 90; V.Kulyov 51
  
 Date: 10/22/2001
 
 ; Krylya Sov  ; 3-0; Dinamo       
-A.Bobyor 45, D.Kouba 64, S.Vinogradov 73
+A.Bobyor 45, D.Kouba 64, S.Vinogradov 73;
  
 Date: 11/4/2001
 
 ; Lokomotiv   ; 0-0; Rostselmash 
 
 ; Anzhi       ; 0-2; Torpedo-ZIL  
-I.Piyuk 5, 19
+; I.Piyuk 5, I.Piyuk 19
  
 Round: 29 
 Date: 10/27/2001
 
 ; Chernomorets; 1-3; Sokol        
-S.Bezhenar 10; A.Fed'kov 45, 54, S.Repuh 52
+S.Bezhenar 10; A.Fed'kov 45, A.Fed'kov 54, S.Repuh 52
  
 ; Spartak     ; 3-1; Zenit        
-Ye.Titov 25, V.Baranov 27, D.Parfyonov (pk) 53; 
-                               A.Arshavin 3
+Ye.Titov 25, V.Baranov 27, D.Parfyonov (pk) 53; A.Arshavin 3
  
 ; Rotor       ; 1-3; Lokomotiv    
-V.Yesipov (pk) 37; R.Pimenov 7, 58, M.Buznikin 45
+V.Yesipov (pk) 37; R.Pimenov 7, R.Pimenov 58, M.Buznikin 45
  
 ; Rostselmash ; 3-2; Anzhi        
-A.Fomenka 37, D.Kirichenko (pk) 61, M.Osinov 88; 
-                               N.Sirkhayev 42, M.Adiyev 51
+A.Fomenka 37, D.Kirichenko (pk) 61, M.Osinov 88; N.Sirkhayev 42, M.Adiyev 51
  
 ;; Torpedo-ZIL;  1-1 Alania       
 M.Radojicic 2; A.Doguzov 50
  
 ; Saturn      ; 0-1; Torpedo      
-A.Lukhvich 86
+; A.Lukhvich 86
  
 ; Fakel       ; 1-0; Krylya Sov   
-V.Safronov 84
+V.Safronov 84;
  
 ; Dinamo      ; 3-1; CSKA         
 P.Bystrov 20, A.Tochilin 53, A.Dyatel' 58; S.Gogniyev 74
@@ -920,20 +887,19 @@ D.Los'kov (pk) 75, J.Obiorah 90; V.Beschastnykh (pk) 47
 ; Anzhi       ; 0-0; Rotor 
 
 ; Alania      ; 3-0; Rostselmash  
-B.Tedeyev 24, Paulo Emilio 45, D.Pyatibratov 50
+B.Tedeyev 24, Paulo Emilio 45, D.Pyatibratov 50;
  
 ; Torpedo     ; 1-0; Torpedo-ZIL  
-B.Ajinjal 4
+B.Ajinjal 4;
  
 ; Krylya Sov  ; 2-0; Saturn       
-Angelo 82, A.Tikhonov 90
+Angelo 82, A.Tikhonov 90;
  
 ; Dinamo      ; 6-2; Fakel        
-A.Khazov 1, 10, 12, 72, D.Bulykin 49, 65; V.Safronov 26, 
-                               M.Lunin 80
+A.Khazov 1, A.Khazov 10, A.Khazov 12, A.Khazov 72, D.Bulykin 49, D.Bulykin 65; V.Safronov 26, M.Lunin 80
  
 ; Sokol       ; 0-2; CSKA         
-S.Gogniyev 34, V.Kulik 87
+; S.Gogniyev 34, V.Kulik 87
  
 
 

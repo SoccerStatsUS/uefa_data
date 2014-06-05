@@ -24,9 +24,8 @@ Round: 1
 Date: 3/16/2005
 
 ; Shelbourne     ; 1-1; UCD        
-  S Byrne 84pen; Dupuy 63
+  S Byrne (pk) 84; Dupuy 63
        
-
 Date: 3/18/2005
 
 ; Bohemians      ; 1-1; Shamrock         
@@ -36,24 +35,21 @@ Date: 3/18/2005
   Zayed 60, Tresson 67; Doyle 86
 
 ; Drogheda       ; 0-2; Derry     
-  Murphy 27, 65
+; Murphy 27, Murphy 65
        
-
 Date: 3/19/2005
 
 ; Longford       ; 1-2; Waterford    
-  Barrett 23; Crowley 11pen, Murphy 39
+  Barrett 23; Crowley (pk) 11, Murphy 39
      
 ; Finn Harps     ; 0-2; Cork         
-  O'Flynn 25pen, Doyle 47
+; O'Flynn (pk) 25, Doyle 47
      
-
 Round: 2 
-
 Date: 3/25/2005
 
 ; Waterford      ; 2-1; Finn Harps     
-  Finn 79pen, Bradley 83og; Funston 17
+  Finn (pk) 79, Bradley (og) 83; Funston 17
    
 ; Cork           ; 1-1; Bray        
   Behan 37; Fox 80
@@ -61,83 +57,74 @@ Date: 3/25/2005
 ; Saint Patrick's; 0-0; Bohemians         
 
 ; Shamrock       ; 0-2; Shelbourne  
-  S Byrne 39, Baker 75
+;  S Byrne 39, Baker 75
      
 ; UCD            ; 0-2; Drogheda
-  Ristila 6, Whelan 58
+; Ristila 6, Whelan 58
   
-
 Date: 4/12/2005
 
 ; Derry          ; 1-0; Longford         
-  O'Flynn 87
-
+  O'Flynn 87;
 
 Round: 3
-
 Date: 3/31/2005
 
 ; Longford       ; 0-1; Cork         
-  Behan 45
+; Behan 45
     
-
 Date: 4/1/2005
 
 ; Bohemians      ; 0-1; Derry 
-  Farren 38
+;  Farren 38
             
 ; Bray           ; 1-0; UCD            
-  Charles 30
+  Charles 30;
    
 ; Drogheda       ; 1-1; Saint Patrick's 
   Reilly 60; Doyle 24
   
 ; Shelbourne     ; 1-0; Waterford  
-  J Byrne 16pen
+  J Byrne (pk) 16;
        
-
 Date: 4/2/2005
 
 ; Finn Harps     ; 1-1; Shamrock          
   Brown 90; Caffrey 78
 
-
 Round: 4 
 Date: 4/8/2005
 
 ; Waterford      ; 2-0; Bohemians   
-  Byrne 61og, Doyle 89
+  Byrne (og) 61, Doyle 89;
      
 ; Cork           ; 0-0; UCD               
 
 ; Bray           ; 2-2; Drogheda            
-  Lynch 45, Fox 79; O'Brien 15, 61
+  Lynch 45, Fox 79; O'Brien 15, O'Brien 61
 
 ; Derry          ; 0-0; Shelbourne       
 
 ; Saint Patrick's; 2-0; Finn Harps  
-  Rowe 46, Foley 87
+  Rowe 46, Foley 87;
       
 ; Shamrock       ; 0-2; Longford         
-  Paisley 70, Baker 75
-
+;  Paisley 70, Baker 75
 
 Round: 5
-
 Date: 4/15/2005
 
 ; Bohemians      ; 0-2; Cork    
-  Behan 48, Doyle 90
+; Behan 48, Doyle 90
           
 ; Drogheda       ; 2-1; Shamrock  
-  Reilly 53pen, Gartland 60; McCourt 8
+  Reilly (pk) 53, Gartland 60; McCourt 8
         
 ; UCD            ; 1-0; Waterford
-  Martin 65
+  Martin 65;
          
 ; Shelbourne     ; 3-1; Saint Patrick's  
   O'Neill 31, Hoolahan 45, S Byrne 69; Dunne 36
-
 
 Date: 4/16/2005
 
@@ -145,55 +132,49 @@ Date: 4/16/2005
   Baker 53, O'Connor 82; Lynch 12
         
 ; Finn Harps     ; 0-2; Derry             
-  Farren 38, A Murphy 45pen
-
+; Farren 38, A Murphy (pk) 45
 
 Round: 6          
-
 Date: 4/21/2005
 
 ; Longford       ; 0-2; Shelbourne  
-  J Byrne 13, Baker 22
-
+; J Byrne 13, Baker 22
 
 Date: 4/22/2005
 
 ; Bohemians      ; 1-0; Finn Harps 
-  Minnock 34og
+  Minnock (og) 34;
       
 ; Bray           ; 2-1; Waterford    
-  Ryan 41 Zayed 45; Purcell 18
+  Ryan 41, Zayed 45; Purcell 18
      
 ; Cork           ; 0-1; Drogheda    
-  Lynch 70pen
+;  Lynch (pk) 70
       
 ; Derry          ; 2-3; Shamrock       
-  Farren 33, Martyn 73; Mooney 6, McCourt 14, 45
+  Farren 33, Martyn 73; Mooney 6, McCourt 14, McCourt 45
     
 ; Saint Patrick's; 3-2; UCD          
-  Rowe 13, 31, Quigley 16; McNally 75, Byrne 83
-
+  Rowe 13, Rowe 31, Quigley 16; McNally 75, Byrne 83
 
 Round: 7
-
 Date: 4/29/2005
 
 ; Waterford      ; 1-0; Saint Patrick's  
-  Purcell 73
+  Purcell 73;
 
 ; Drogheda       ; 2-2; Bohemians  
   Whelan 16, Robinson 23; Grant 42, Harkin 77
 
 ; Shamrock       ; 1-3; Cork         
-  O'Connor 83; O'Callaghan 50, 86, Doyle 56
+  O'Connor 83; O'Callaghan 50, O'Callaghan 86, Doyle 56
      
 ; UCD            ; 1-0; Derry    
-  R Martin 10
+  R Martin 10;
          
 ; Shelbourne     ; 4-1; Bray       
-  Baker 7, 49, Hoolahan 45, J Byrne 51; Zayed 28
+  Baker 7, Baker 49, Hoolahan 45, J Byrne 51; Zayed 28
       
-
 Date: 4/30/2005
 
 ; Finn Harps     ; 0-0; Longford         
@@ -202,94 +183,85 @@ Round: 8
 Date: 5/6/2005
 
 ; Cork           ; 3-1; Saint Patrick's  
-  Doyle 9, Behan 23, O'Donovan 51; O'Callaghan 80og
+  Doyle 9, Behan 23, O'Donovan 51; O'Callaghan (og) 80
  
 ; Derry          ; 1-0; Waterford     
-  Hargan 8
+  Hargan 8;
    
 ; Shamrock       ; 3-2; Bray            
-  McCourt 36, 45, 64pen; James 28, Keogh 80
+  McCourt 36, McCourt 45, McCourt (pk) 64; James 28, Keogh 80
  
 ; UCD            ; 1-1; Bohemians  
   R Martin 77; Ward 54
        
 ; Shelbourne     ; 3-0; Finn Harps       
-  Harris 38, Baker 48, J Byrne 90
- 
+  Harris 38, Baker 48, J Byrne 90;
 
 Date: 5/7/2005
 
 ; Longford       ; 1-1; Drogheda          
   Baker 22; Grey 82
 
-
 Round: 9
-
 Date: 5/13/2005
 
 ; Waterford      ; 2-2; Cork      
-  Breen 57, Sullivan 78pen; Doyle 40, Murray 60
+  Breen 57, Sullivan (pk) 78; Doyle 40, Murray 60
        
 ; Bohemians      ; 2-0; Longford 
-  Aggrey 65, Ward 90
+  Aggrey 65, Ward 90;
  
 ; Bray           ; 0-1; Derry         
-  Murphy 27
+;  Murphy 27
     
 ; Drogheda       ; 0-0; Shelbourne        
 
 ; Saint Patrick's; 1-1; Shamrock       
-  Fahy 71; Mooney 90
-  
+  Fahy 71; Mooney 90 
 
 Date: 5/14/2005
 
 ; Finn Harps     ; 1-0; UCD               
-  McHugh 4
-
+  McHugh 4;
 
 Round: 10
-
 Date: 5/20/2005
 
 ; Bray           ; 1-2; Bohemians       
   Zayed 12; Oman 54, Harkin 90
  
 ; Derry          ; 2-2; Saint Patrick's  
-  Murphy 61, Farren 65; Fahy 26pen, Doyle 86
+  Murphy 61, Farren 65; Fahy (pk) 26, Doyle 86
 
 ; Drogheda       ; 1-0; Finn Harps      
-  Sandvliet 56
+  Sandvliet 56;
  
 ; Shamrock       ; 0-0; Waterford         
 
 Date: 5/21/2005
 
 ; Longford       ; 1-0; UCD      
-  Myler 63
+  Myler 63;
         
-
 Date: 5/30/2005
 
 ; Shelbourne     ; 0-2; Cork             
-  O'Donovan 54, Brennan 75og
-
+;  O'Donovan 54, Brennan (og) 75
 
 Round: 11
-
 Date: 5/27/2005
 
 ; Waterford      ; 0-3; Drogheda  
-  Whelan 3, Malcolm 23, Pucell 48og
+; Whelan 3, Malcolm 23, Pucell (og) 48
         
 ; Bohemians      ; 2-1; Shelbourne
   Farrelly 37, Oman 40; Moore 18
         
 ; Cork           ; 2-0; Derry      
-  O'Callaghan 55, O'Flynn 82
+  O'Callaghan 55, O'Flynn 82;
       
 ; Saint Patrick's; 0-1; Longford 
-  Myler 50
+;  Myler 50
         
 ; UCD            ; 0-0; Shamrock         
 
@@ -298,16 +270,14 @@ Date: 5/28/2005
 ; Finn Harps     ; 1-2; Bray             
   McHugh 67; O'Brien 8, Keogh 26
 
-
 Round: 12 
-
 Date: 6/3/2005
 
 ; Derry          ; 3-0; Drogheda
-  Hutton 43, Farren 56, 66
+  Hutton 43, Farren 56, Farren 66;
           
 ; Saint Patrick's; 2-0; Bray       
-  Doyle 64, Fahy 83
+  Doyle 64, Fahy 83;
       
 ; Shamrock       ; 1-2; Bohemians   
   McGuinness 77; Foley 34, Grant 59
@@ -315,21 +285,17 @@ Date: 6/3/2005
 ; UCD            ; 1-1; Shelbourne       
   McDonnell 8; Crowe 70
 
-
 Date: 6/5/2005
 
 ; Waterford      ; 0-3; Longford          
-  Paul Keegan 32, John Martin 64, Andy Myler 80
-        
+; Paul Keegan 32, John Martin 64, Andy Myler 80       
 
 Date: 6/6/2005
 
 ; Cork           ; 2-0; Finn Harps  
-  Kevin Doyle 30, 44
+  Kevin Doyle 30, Kevin Doyle 44;
 
-      
 Round: 13
-
 Date: 6/17/2005
 
 ; Bray           ; 1-2; Cork     
@@ -341,78 +307,64 @@ Date: 6/17/2005
 ; Shelbourne     ; 1-2; Shamrock        
   Rogers 5; Mooney 35, McDonagh 45
   
-
 Date: 6/18/2005
 
 ; Longford       ; 0-0; Derry             
 
 ; Finn Harps     ; 2-0; Waterford         
-  Kevin McHugh 12, Eloka Asokuh 40
+  Kevin McHugh 12, Eloka Asokuh 40;
 
 Date: 10/3/2005
 
 ; Bohemians      ; 1-1; Saint Patrick's  
-  Tony Grant 68pen; Michael Foley 52pen
+  Tony Grant (pk) 68; Michael Foley (pk) 52
  
-
 Round: 14 
-
 Date: 6/24/2005
 
 ; Waterford      ; 2-4; Shelbourne
-  Steve Yelverton 12, 51; Glen Crowe 13, Stuart Byrne 25,
-   Owen Heary 66, Glen Fitzpatrick 90
+  Steve Yelverton 12, Steve Yelverton 51; Glen Crowe 13, Stuart Byrne 25, Owen Heary 66, Glen Fitzpatrick 90
       
 ; Cork           ; 0-0; Longford         
 
 ; Saint Patrick's; 0-2; Drogheda
-  Mark Leech 28, 60
+; Mark Leech 28, Mark Leech 60
           
 ; Shamrock       ; 1-4; Finn Harps
-  Pat McCourt 23; Kevin McHugh 22, Paddy McGrenaghan 36,
-   Chris Breen 56, Stephen Capper 75
+  Pat McCourt 23; Kevin McHugh 22, Paddy McGrenaghan 36, Chris Breen 56, Stephen Capper 75
         
 ; UCD            ; 3-2; Bray
-  Stephen Hurley 16, Pat McWalter 48, 75; Kieran O'Brien 28,
-   Eamon Zayed 46
+  Stephen Hurley 16, Pat McWalter 48, Pat McWalter 75; Kieran O'Brien 28, Eamon Zayed 46
         
-
 Date: 8/2/2005
 
 ; Derry          ; 3-1; Bohemians          
-  Peter Hutton 34pen, Ciaran Martyn 81, Mark Farren 90;
-   Barry Molloy 18og
+  Peter Hutton (pk) 34, Ciaran Martyn 81, Mark Farren 90; Barry Molloy (og) 18
 
- 
 Round: 15
-
 Date: 7/1/2005
 
 ; Bohemians      ; 2-1; Waterford 
-  Dominic Foley 8pen, Stephen Ward 80; Neil Andrews 83
+  Dominic Foley (pk) 8, Stephen Ward 80; Neil Andrews 83
         
 ; Drogheda       ; 3-0; Bray 
-  Mark Leech 35, Sami Ristila 58, Mark Rooney 89
+  Mark Leech 35, Sami Ristila 58, Mark Rooney 89;
              
 ; UCD            ; 1-5; Cork 
-  Tony McDonnell 30; Liam Kearney 21, John O'Flynn 23, 47pen, 76,
-   Neale Fenn 71
+  Tony McDonnell 30; Liam Kearney 21, John O'Flynn 23, John O'Flynn (pk) 47, John O'Flynn 76, Neale Fenn 71
        
 ; Shelbourne     ; 1-2; Derry 
   Jason Byrne 59; Killian Brennan 17, Mark Farren 23
             
-
 Date: 7/2/2005
 
 ; Longford       ; 2-1; Shamrock 
   Stephen Paisley 73, Sean Dillon 78; Gavin McDonnell 49
          
 ; Finn Harps     ; 0-2; Saint Patrick's 
-  Keith Fahey 62, Colm Foley 71
-
+;  Keith Fahey 62, Colm Foley 71
 
 Round: 16 
-
 Date: 7/8/2005
 
 ; Bray           ; 1-1; Longford 
@@ -422,15 +374,13 @@ Date: 7/8/2005
   John O'Flynn 17, Roy O'Donovan 46; Dominic Foley 62
        
 ; Derry          ; 3-2; Finn Harps 
-  Declan Boyle 19og, Mark Farren 27, Killian Brennan 48;
-   Kevin McHugh 30, 56
+  Declan Boyle (og) 19, Mark Farren 27, Killian Brennan 48; Kevin McHugh 30, Kevin McHugh 56
        
 ; Saint Patrick's; 0-1; Shelbourne 
-  Wes Hoolahan 44
+;  Wes Hoolahan 44
      
 ; Shamrock       ; 1-0; Drogheda
-  Dave Mooney 46
-
+  Dave Mooney 46;
 
 Date: 7/9/2005
 
@@ -440,131 +390,111 @@ Round: 17
 Date: 6/27/2005
 
 ; Shelbourne     ; 1-0; Longford
-  Jason Bynre 48
+  Jason Bynre 48;
          
-
 Date: 7/15/2005
 
 ; Waterford      ; 1-2; Bray              
-  Neil Andrews 9; Eamon Zayed 13, 23
+  Neil Andrews 9; Eamon Zayed 13, Eamon Zayed 23
 
 ; Shamrock       ; 0-2; Derry             
-  Ciaran Martyn 49, Damien Brennan 81
+;  Ciaran Martyn 49, Damien Brennan 81
 
 ; UCD            ; 1-0; Saint Patrick's  
-  Stephen Hurley 75
-
+  Stephen Hurley 75;
 
 Date: 7/16/2005
 
 ; Finn Harps     ; 1-3; Bohemians         
-  Kevin McHugh 17; Fergal Harkin 7, 73, Dominic Foley 46
-
+  Kevin McHugh 17; Fergal Harkin 7, Fergal Harkin 73, Dominic Foley 46
 
 Date: 7/17/2005
 
 ; Drogheda       ; 0-1; Cork             
-  George O'Callaghan 51
-
+;  George O'Callaghan 51
 
 Round: 18
-
 Date: 7/22/2005
 
 ; Bohemians      ; 3-2; Drogheda
-  Dominic Foley 36, 90+, Fergal Harkin 88; Declan O'Brien 63, 65
+  Dominic Foley 36, Dominic Foley 90+, Fergal Harkin 88; Declan O'Brien 63, Declan O'Brien 65
          
 ; Bray           ; 2-2; Shelbourne 
   Eamon Zayed 66, Colm Tresson 81; Owen Heary 6, Glen Crowe 11
        
 ; Cork           ; 3-0; Shamrock
-  Joe Gamble 4, John O'Flynn 63, Keith Doyle 80og
+  Joe Gamble 4, John O'Flynn 63, Keith Doyle (og) 80;
          
 ; Derry          ; 3-0; UCD
-  Mark Farren 27, Ciaran Martyn 46, 85
+  Mark Farren 27, Ciaran Martyn 46, Ciaran Martyn 85;
               
 ; Saint Patrick's; 1-0; Waterford
-  Keith Dunne 40
+  Keith Dunne 40;
          
-
 Date: 7/23/2005
 
 ; Longford       ; 1-0; Finn Harps        
-  Gary Cronin 78
+  Gary Cronin 78;
 
- 
 Round: 19
-
 Date: 7/29/2005
 
 ; Waterford      ; 1-3; Derry 
-  Paul Crowley 31; Damien Brennan 18, Mark Farren 42, 53
+  Paul Crowley 31; Damien Brennan 18, Mark Farren 42, Mark Farren 53
            
 ; Bohemians      ; 1-1; UCD 
   John Paul Kelly 21; Robert Martin 27
  
-
 Date: 7/31/2005
 
 ; Bray           ; 2-3; Shamrock         
-  Eamon Zayed 9, Andrei Georgescu 32; Willo McDonagh 17, 
-   Cathal O'Connor 31, Tony Sheridan 67
+  Eamon Zayed 9, Andrei Georgescu 32; Willo McDonagh 17, Cathal O'Connor 31, Tony Sheridan 67
 
 ; Drogheda       ; 1-1; Longford 
-  Mark Leech 90+; Barry Ferguson 73pen
+  Mark Leech 90+; Barry Ferguson (pk) 73
         
 ; Saint Patrick's; 0-2; Cork 
-  Neale Fenn 41, 80
+; Neale Fenn 41, Neale Fenn 80
          
-
 Date: 9/23/2005
 
 ; Finn Harps     ; 0-3; Shelbourne        
-  Gary O'Neill 45, Jason Byrne 63, Dave Rogers 90pen
-
+; Gary O'Neill 45, Jason Byrne 63, Dave Rogers (pk) 90
 
 Round: 20
-
 Date: 8/5/2005
 
 ; Cork           ; 1-1; Waterford        
   Liam Kearney 32; David Mulcahy 44
 
 ; Derry          ; 2-2; Bray              
-  Ciaran Martyn 45+, Clive Delaney 90+; Andrei Georgescu 35,
-   Colm Tresson 76
+  Ciaran Martyn 45+, Clive Delaney 90+; Andrei Georgescu 35, Colm Tresson 76
 
 ; Shamrock       ; 0-0; Saint Patrick's  
 
 ; UCD            ; 1-1; Finn Harps       
-  Robbie Martin 62pen; Stephen Capper 52
-
+  Robbie Martin (pk) 62; Stephen Capper 52
 
 Date: 8/6/2005
 
 ; Longford       ; 1-0; Bohemians         
-  Paul Keegan 70
-
+  Paul Keegan 70;
 
 Date: 8/8/2005
 
 ; Shelbourne     ; 3-3; Drogheda         
-  Wes Hoolahan 3, Stuart Byrne 14, Jason Byrne 90+;
-   Jermaine Sandvliet 8, Keith Fahey 29, Declan O'Brien 88
+  Wes Hoolahan 3, Stuart Byrne 14, Jason Byrne 90+; Jermaine Sandvliet 8, Keith Fahey 29, Declan O'Brien 88
 
- 
 Round: 21
-
 Date: 8/11/2005
 
 ; Bohemians      ; 1-0; Bray       
-  Tony Grant 33pen
-
+  Tony Grant (pk) 33;
 
 Date: 8/12/2005
 
 ; Waterford      ; 0-1; Shamrock          
-  Ciaran Foley 67
+;  Ciaran Foley 67
 
 ; Saint Patrick's; 1-1; Derry            
   Chris Armstrong 34; Mark Farren 86
@@ -578,109 +508,95 @@ Date: 8/13/2005
 Date: 8/15/2005
 
 ; Cork           ; 1-0; Shelbourne     
-  Neal Horgan 24
+  Neal Horgan 24;
 
- 
 Round: 22
-
 Date: 8/19/2005
 
 ; Bray           ; 2-1; Finn Harps        
   Andrei Georgescu 42, Eamon Zayed 67; Stephen Capper 84
 
 ; Derry          ; 3-1; Cork              
-  Gary Beckett 6, Stephen O'Flynn 74, Barry Molloy 77; 
-   George O'Callaghan 59pen
+  Gary Beckett 6, Stephen O'Flynn 74, Barry Molloy 77; George O'Callaghan (pk) 59
 
 ; Drogheda       ; 1-0; Waterford        
-  Declan O'Brien 37
+  Declan O'Brien 37;
 
 ; Shamrock       ; 1-0; UCD              
-  Jason McGuinness 49
+  Jason McGuinness 49;
 
 ; Shelbourne     ; 2-1; Bohemians         
-  Jason Byrne 43pen, Glen Crowe 71; Tony Grant 50
-
+  Jason Byrne (pk) 43, Glen Crowe 71; Tony Grant 50
 
 Date: 8/20/2005
 
 ; Longford       ; 1-0; Saint Patrick's  
-  Barry Ferguson 77pen
-
+  Barry Ferguson (pk) 77;
 
 Round: 23
-
 Date: 9/2/2005
 
 ; Bohemians      ; 1-3; Shamrock          
   Tony Grant 11; Tony Sheridan 23, Trevor Molloy 71, Lee Roche 86
          
 ; Bray           ; 1-0; Saint Patrick's   
-  Kieran O'Brien 85
+  Kieran O'Brien 85;
   
 ; Drogheda       ; 1-1; Derry             
   Gavin Whelan 13; Kevin Deery 81
            
 ; Shelbourne     ; 4-2; UCD         
-  Jason Byrne 14, 35, 73pen, Owen Heary 80; Anthony Murphy 15,
-   Patrick McWalter 47
+  Jason Byrne 14, Jason Byrne 35, Jason Byrne (pk) 73, Owen Heary 80; Anthony Murphy 15, Patrick McWalter 47
        
 ; Longford       ; 3-0; Waterford        
-  David Mooney 45, Sean Dillon 67, John Martin 69
-
+  David Mooney 45, Sean Dillon 67, John Martin 69;
 
 Date: 10/18/2005
 
 ; Finn Harps     ; 1-2; Cork             
   Kevin McHugh 52; Alan Bennett 2, Dan Murray 67
    
-
 Round: 24 
 Date: 9/9/2005
 
 ; Waterford      ; 2-2; Finn Harps       
-  Rodney Jack 45, Kevin Doherty 63; Anthony Gorman 52
-   Sean Finn 87og
+  Rodney Jack 45, Kevin Doherty 63; Anthony Gorman 52, Sean Finn (og) 87
 
 ; Cork           ; 3-0; Bray             
-  John O'Flynn 20, Derek Coughlan 33, Roy O'Donovan 78
+  John O'Flynn 20, Derek Coughlan 33, Roy O'Donovan 78;
        
 ; Derry          ; 3-1; Longford         
-  Pat McCourt 14, Gareth McGlynn 32, 64; Alan Cawley 85
+  Pat McCourt 14, Gareth McGlynn 32, Gareth McGylnn 64; Alan Cawley 85
          
 ; Saint Patrick's; 0-1; Bohemians        
-  Aidan O'Keefe 90
+;  Aidan O'Keefe 90
         
 ; Shamrock       ; 0-2; Shelbourne       
-  Joseph Ndo 45, Jason Byrne 58pen
+; Joseph Ndo 45, Jason Byrne (pk) 58
        
 ; UCD            ; 2-2; Drogheda         
   Anthony Murphy 16, Gary Dicker 45; Keith Fahey 40, Declan O'Brien 75
 
-
 Round: 25
-
 Date: 9/16/2005
 
 ; Bohemians      ; 2-3; Derry            
-  Stephen Ward 38, 61; Mark Farren 25, 84, Gareth McGlynn 67
+  Stephen Ward 38, Stephen Ward 61; Mark Farren 25, Mark Farren 84, Gareth McGlynn 67
        
 ; Bray           ; 0-1; UCD               
-  Patrick McWalter 53
+;  Patrick McWalter 53
              
 ; Drogheda       ; 1-1; Saint Patrick's   
   Shane Robinson 90; Robbie Doyle 77
   
 ; Shelbourne     ; 5-0; Waterford         
-  Gary O'Neill 16, 49, Jason Byrne 27, 39, 45
-
+  Gary O'Neill 16, Gary O'Neill 49, Jason Byrne 27, Jason Byrne 39, Jason Byrne 45;
 
 Date: 9/17/2005
 
 ; Finn Harps     ; 3-0; Shamrock         
-  Kevin McHugh 37pen, Shane Bradley 46, 63
+  Kevin McHugh (pk) 37, Shane Bradley 46, Shane Bradley 63;
          
-
 Date: 9/18/2005
 
 ; Longford       ; 0-0; Cork 
@@ -689,10 +605,10 @@ Round: 26
 Date: 9/30/2005
 
 ; Waterford      ; 2-0; Bohemians        
-  Vinny Sullivan 35, Paul Crowley 43
+  Vinny Sullivan 35, Paul Crowley 43;
         
 ; Bray           ; 0-2; Drogheda          
-  Simon Webb 6, Stephen Fox 69og
+;  Simon Webb 6, Stephen Fox (og) 69
 
 ; Derry          ; 2-1; Shelbourne        
   Mark Farren 3, Stephen O'Flynn 90+; Glen Crowe 57
@@ -700,172 +616,144 @@ Date: 9/30/2005
 ; Saint Patrick's; 0-0; Finn Harps        
 
 ; Shamrock       ; 4-2; Longford          
-  Trevor Molloy 25, Willo McDonagh 71, Lee Roche 74, Mark Quigley 90;
-   David Mooney 29, 52
-     
+  Trevor Molloy 25, Willo McDonagh 71, Lee Roche 74, Mark Quigley 90; David Mooney 29, David Mooney 52
 
 Date: 10/2/2005
 
 ; Cork           ; 1-0; UCD              
-  John O'Flynn 9
-
+  John O'Flynn 9;
 
 Round: 27
-
 Date: 10/7/2005
 
 ; Drogheda       ; 0-0; Shamrock          
 
 ; Shelbourne     ; 1-0; Saint Patrick's   
-  Gary O'Neill 75
+  Gary O'Neill 75;
 
 ; Finn Harps     ; 0-1; Derry            
-  Killian Brennan 88
+;  Killian Brennan 88
          
-
 Date: 10/9/2005
 
 ; Longford       ; 1-1; Bray              
-  David Mooney 45pen; Kieran O'Brien 9
-
+  David Mooney (pk) 45; Kieran O'Brien 9
 
 Date: 10/17/2005
 
 ; UCD            ; 2-3; Waterford 
-  Patrick McWalter 66, Anthony Murphy 70; Colm Heffernan 2,
-   Kevin Waters 13, Pat Purcell 90 +
+  Patrick McWalter 66, Anthony Murphy 70; Colm Heffernan 2, Kevin Waters 13, Pat Purcell 90 +
          
-
 Date: 10/31/2005
 
 ; Bohemians      ; 1-2; Cork              
-  Stephen Ward 4; Ken Oman 30og, Dan Murray 85
+  Stephen Ward 4; Ken Oman (og) 30, Dan Murray 85
             
-
 Round: 28
-
 Date: 10/14/2005
 
 ; Bohemians      ; 3-1; Finn Harps       
-  Gareth Farrelly 22, Aidan O’Keefe 24, Stephen Ward 75;
-   Kevin McHugh 66
+  Gareth Farrelly 22, Aidan O'Keefe 24, Stephen Ward 75; Kevin McHugh 66
       
 ; Bray           ; 1-0; Waterford         
-  Stephen Fox 76
+  Stephen Fox 76;
         
 ; Cork           ; 1-0; Drogheda         
-  John O'Flynn 72
+  John O'Flynn 72;
  
 ; Derry          ; 2-0; Shamrock          
-  Gareth McGlynn 50, Mark Farren 78pen
+  Gareth McGlynn 50, Mark Farren (pk) 78;
           
 ; Saint Patrick's; 0-0; UCD              
 
 Date: 10/15/2005
 
 ; Longford       ; 0-2; Shelbourne        
-  Jason Byrne 7, Gary O'Neill 26
+;  Jason Byrne 7, Gary O'Neill 26
         
-
 Round: 29 
-
 Date: 10/21/2005
 
 ; Waterford      ; 1-1; Saint Patrick's  
   Vinny Sullivan 19; Robbie Doyle 85
   
-
 Date: 10/22/2005
 
 ; Finn Harps     ; 5-0; Longford          
-  Kevin McHugh 17, 41, Conor Gethins 32, Chris Breen 39, 82
-
+  Kevin McHugh 17, Kevin McHugh 41, Conor Gethins 32, Chris Breen 39, Chris Breen 82;
 
 Date: 10/31/2005
 
 ; UCD            ; 0-2; Derry           
-  Stephen O'Flynn 13, Barry Molloy 90
+;  Stephen O'Flynn 13, Barry Molloy 90
   
 ; Shelbourne     ; 5-0; Bray    
-  Jason Byrne 36pen, 77, 78, Dave Rogers 66, Glen Crowe 79
-
+  Jason Byrne (pk) 36, Jason Byrne 77, Jason Byrne 78, Dave Rogers 66, Glen Crowe 79;
 
 Date: 11/7/2005
 
 ; Shamrock       ; 0-2; Cork             
-  Roy O'Donovan 41, Joe Gamble 54
-
+;  Roy O'Donovan 41, Joe Gamble 54
 
 Date: 11/8/2005
 
 ; Drogheda       ; 3-2; Bohemians         
-  Damien Lynch 41pen, Gavin Whelan 60, 90+; John-Paul Kelly 54,
-   Aidan O'Keefe 56
-
+  Damien Lynch (pk) 41, Gavin Whelan 60, Gavin Whelan 90+; John-Paul Kelly 54, Aidan O'Keefe 56
 
 Round: 30
-
 Date: 10/28/2005
 
 ; UCD            ; 1-3; Bohemians        
-  Patrick Mc Walter 74; Fergal Harkin 25, 82, Aidan O'Keefe 38
+  Patrick Mc Walter 74; Fergal Harkin 25, Fergal Harkin 82, Aidan O'Keefe 38
         
 ; Cork           ; 0-1; Saint Patrick's  
-  Darragh Maguire 61
+;  Darragh Maguire 61
 
 ; Shamrock       ; 0-1; Bray             
-  Paul Cafrey 50
+;  Paul Cafrey 50
           
 ; Shelbourne     ; 1-0; Finn Harps            
-  Jason Byrne 4
+  Jason Byrne 4;
        
 ; Derry          ; 0-1; Waterford    
-  Vinnie Sullivan 16
+;  Vinnie Sullivan 16
          
-
 Date: 10/29/2005
 
 ; Longford       ; 0-1; Drogheda          
-  Barry Ferguson 27og
+;  Barry Ferguson (og) 27
           
-
 Round: 31
-
 Date: 11/4/2005
 
 ; Waterford      ; 2-2; Cork
-  Paul Crowley 1pen, Vinnie Sullivan 50; Colin T. O'Brien 49, 
-   George O'Callaghan 57
+  Paul Crowley (pk) 1, Vinnie Sullivan 50; Colin T. O'Brien 49, George O'Callaghan 57
              
 ; Bohemians      ; 1-0; Longford          
-  Gareth Farrelly 28
+  Gareth Farrelly 28;
 
 ; Bray           ; 0-3; Derry 
-  Mark Farren 16, Stephen O'Flynn 58, Ciaran Martyn 63
+;  Mark Farren 16, Stephen O'Flynn 58, Ciaran Martyn 63
              
 ; Drogheda       ; 0-2; Shelbourne        
-  Gary O'Neill 4, Glen Crowe 80
+;  Gary O'Neill 4, Glen Crowe 80
 
 ; Saint Patrick's; 3-1; Shamrock
-  Alan Reilly 45, Gerard Rowe 69, Robbie Doyle 90pen;
-   Mark Rutherford 88
+  Alan Reilly 45, Gerard Rowe 69, Robbie Doyle (pk) 90; Mark Rutherford 88
          
-
 Date: 11/5/2005
 
 ; Finn Harps     ; 1-2; UCD
-  Kevin McHugh 2; Tony McDonnell 10, Robert Martin 85pen
+  Kevin McHugh 2; Tony McDonnell 10, Robert Martin (pk) 85
             
-
 Round: 32
-
 Date: 11/11/2005
 
 ; Bray           ; 3-1; Bohemians         
-  David Tyrell 9, 20, Ciaran Ryan 90; Aidan O'Keefe 49
+  David Tyrell 9, David Tyrell 20, Ciaran Ryan 90; Aidan O'Keefe 49
 
 ; Drogheda       ; 2-0; Finn Harps       
-  Gavin Whelan 13, Sami Ristila 76
+  Gavin Whelan 13, Sami Ristila 76;
 
 ; Shamrock       ; 1-2; Waterford         
   Willo McDonagh 16; Paul Crowley 63, Kevin Waters 69
@@ -875,33 +763,31 @@ Date: 11/11/2005
 Date: 11/12/2005
 
 ; Derry          ; 2-0; Saint Patrick's  
-  Peter Hutton 28, Clive Delaney 36
+  Peter Hutton 28, Clive Delaney 36;
 
 ; Longford       ; 1-0; UCD              
-  John Martin 64
-
+  John Martin 64;
 
 Round: 33 
 Date: 11/18/2005
 
 ; Waterford      ; 1-0; Drogheda          
-  David Mulcahy 77
+  David Mulcahy 77;
           
 ; Bohemians      ; 0-3; Shelbourne       
-  Richie Baker 53, Jason Byrne 55, Glen Crowe 65
+;  Richie Baker 53, Jason Byrne 55, Glen Crowe 65
        
 ; Cork           ; 2-0; Derry            
-  John O'Flynn 18, Liam Kearney 61
+  John O'Flynn 18, Liam Kearney 61;
  
 ; Saint Patrick's; 1-3; Longford         
   Sean O'Connor 86; Andy Myler 34, Sean Dillon 45, Danny O'Connor 59
      
 ; UCD            ; 2-2; Shamrock 
-  Patrick McWalter 36, Sean Finn 87; Cathal O'Connor 13, 22
+  Patrick McWalter 36, Sean Finn 87; Cathal O'Connor 13, Cathal O'Connor 22
   
 ; Finn Harps     ; 2-4; Bray              
-  Conor Gethins 41, Michael Funston 57; Colm Tresson 8, 46,
-   Wayne Byrne 31pen, Stephen Fox 56
+  Conor Gethins 41, Michael Funston 57; Colm Tresson 8, Colm Tresson 46, Wayne Byrne (pk) 31, Stephen Fox 56
               
 
 
@@ -929,7 +815,7 @@ Promotion/Relegation Playoff
 Date: 11/22, Dalymount Park/2005
 
 ; Shamrock Rovers; 1-2; Dublin City      
-  Trevor Molloy 58pen; Aidan Lynch 45, David McGill 86
+  Trevor Molloy (pk) 58; Aidan Lynch 45, David McGill 86
 
 *Second Leg 
 Date: 11/25, Tolka Park/2005
