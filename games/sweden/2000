@@ -47,7 +47,7 @@ Date: 4/10/2000
 Round: 2
 Date: 4/16/2000
 
-GIF Sundsvall      2-2 Orebro SK FK
+; GIF Sundsvall     ; 2-2; Orebro SK FK
   Yngvesson 17, Yngvesson 49; Skoog (pk) 36, Zetterlund 87
 
 ; Vastra Frolunda IF; 0-1; Trelleborgs FF
@@ -448,65 +448,65 @@ Date: 9/26/2000
 ; Orebro SK FK      ; 2-2; IFK Goteborg
 
 Round: 22
-Dat: 10/1/2000
+Date: 10/1/2000
 
 ; AIK               ; 0-1; Orgryte IS
 ; Halmstads BK      ; 4-1; BK Hacken
 ; Trelleborgs FF    ; 4-1; IF Elfsborg 
 ; Vastra Frolunda IF; 0-8; IFK Norrkoping
 
-Dat: 10/2/2000
+Date: 10/2/2000
 
 ; IFK Goteborg      ; 3-1; Hammarby IF FF
 ; Helsingborgs IF   ; 2-2; Orebro SK FK
 ; GIF Sundsvall     ; 2-1; GAIS
 
 Round: 23
-Dat: 10/14/2000
+Date: 10/14/2000
 
 ; BK Hacken         ; 3-1; Helsingborgs IF
 
-Dat: 10/15/2000
+Date: 10/15/2000
 
 ; Halmstads BK      ; 2-0; Vastra Frolunda IF
 ; Trelleborgs FF    ; 2-1; AIK
 
-Dat: 10/16/2000
+Date: 10/16/2000
 
 ; IF Elfsborg       ; 3-0; IFK Goteborg 
 ; Orebro SK FK      ; 0-2; GAIS
 ; Orgryte IS        ; 1-0; GIF Sundsvall 
 
-Dat: 10/17/2000
+Date: 10/17/2000
 
 ; Hammarby IF FF    ; 3-2; IFK Norrkoping
 
 Round: 24
-Dat: 10/21/2000
+Date: 10/21/2000
 
 ; AIK               ; 1-0; Halmstads BK
 ; Helsingborgs IF   ; 1-1; IF Elfsborg 
 
-Dat: 10/22/2000
+Date: 10/22/2000
 
 ; IFK Goteborg      ; 3-0; Trelleborgs FF
 ; GIF Sundsvall     ; 3-3; BK Hacken
 
-Dat: 10/23/2000
+Date: 10/23/2000
 
 ; GAIS              ; 2-4; Hammarby IF FF
 ; IFK Norrkoping    ; 1-1; Orgryte IS
 ; Vastra Frolunda IF; 0-4; Orebro SK FK
 
 Round: 25 
-Dat: 10/28/2000
+Date: 10/28/2000
 
 ; Hammarby IF FF    ; 0-2; Helsingborgs IF
 ; Trelleborgs FF    ; 3-0; Vastra Frolunda IF
 ; Orebro SK FK      ; 2-3; GIF Sundsvall
 ; Orgryte IS        ; 1-2; IFK Goteborg
 
-Dat: 10/29/2000
+Date: 10/29/2000
 
 ; IF Elfsborg       ; 0-2; Halmstads BK 
 ; GAIS              ; 3-0; IFK Norrkoping

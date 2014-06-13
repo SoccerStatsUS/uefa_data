@@ -209,7 +209,7 @@ A.Gudkov 77;
 D.Klyuyev 41; 
  
 ; Saturn      ; 2-0; Alania       
-A.Gryazin 45, A.Gryazin 69
+A.Gryazin 45, A.Gryazin 69;
  
 ; Chernomorets; 1-2; Rostselmash  
 K.Kovalenko 47; D.Kirichenko 67, D.Kirichenko 80
@@ -254,7 +254,7 @@ Date: 5/17/2000
 ; V.Kulik 11
  
 ; Anzhi       ; 4-0; Fakel        
-N.Sirkhayev 38, P.Randjelovic 52, P.Randjelovic 62, P.Randjelovic 63
+N.Sirkhayev 38, P.Randjelovic 52, P.Randjelovic 62, P.Randjelovic 63;
  
 ; Lokomotiv NN; 0-2; Spartak      
 ; M.Buznikin 79, N.Pisarev 88
@@ -593,7 +593,7 @@ R.Gusev 29, A.Medvedev 32, P.Bystrov 43, M.Romashchenko 89 ; B.Tedeyev 60, B.Ted
 * Saved PK: G.Kutarba(A) 83
                               
 ; Lokomotiv NN; 2-0; Uralan       
-M.Dragus 66, M.Dragus 81
+M.Dragus 66, M.Dragus 81;
  
 ; Torpedo     ; 0-1; CSKA         
 ; D.Khomukha 67
@@ -644,7 +644,7 @@ Date: 8/19/2000
 Max.Romashchenko 31, R.Gusev 33; R.Pimenov 55, I.Chugaynov 58
  
 ; Lokomotiv NN; 1-0; Krylya Sov   
-D.Gradilenko (pk) 90
+D.Gradilenko (pk) 90;
  
 ; Rotor       ; 2-0; Fakel        
 V.Yesipov 4, R.Pavlyuchenko 86;
@@ -787,7 +787,7 @@ Robson 13, Robson 52, Robson 90, Ye.Titov 22; V.Litvinov 21, V.Dayev 61
 Date: 10/14/2000
 
 ; CSKA        ; 5-0; Lokomotiv NN 
-V.Kulik 3, A.Savelyev 30, S.Filippenkov 32, S.Semak (pk) 56, A.Bychkov 87
+V.Kulik 3, A.Savelyev 30, S.Filippenkov 32, S.Semak (pk) 56, A.Bychkov 87;
  
 ; Anzhi       ; 2-2; Dinamo       
 B.Budunov 15, V.Alekseyev 88; S.Gogniyev 5, Max.Romashchenko 78

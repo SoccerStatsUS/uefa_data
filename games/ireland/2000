@@ -781,7 +781,7 @@ Date: 4/20/2001
 Date: 4/21/2001
 
 ; Bohemians  ; 2-1; St Pat's 
-  Crowe 12, Nesovic 89: Osam 49
+  Crowe 12, Nesovic 89; Osam 49
 
 ; Finn Harps ; 4-1; Bray 
   Speak 29, Bonner 31, McHugh 69, McHugh 89; Fox 49
@@ -862,18 +862,15 @@ Date: 5/6/2001
 *12.Kilkenny City             33  1  6 26 14-66  9  Relegated
 * 
 
-Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 5/15/2001
-
-; Athlone    ; 2-1; UCD
+5/15/2001; Athlone    ; 2-1; UCD
   Myler (pk) 14, Myler 90; McDonnell 20
 
-*Second Leg 
-Date: 5/18/2001
+Leg: 2
 
-; UCD        ; 2-1; Athlone Town          
+5/18/2001; UCD        ; 2-1; Athlone Town          
   Swan 1, McAuley 49; Connolly 71
 Penalty kicks: 4-3
   

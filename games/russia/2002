@@ -75,7 +75,7 @@ Date: 3/13/2002
 ; Zenit      ; 1-0; Rotor
   Andrei Arshavin 56;
 
-;; Torpedo-ZIL; 2-1 Torpedo
+; Torpedo-ZIL; 2-1; Torpedo
   Dmitriy Kuznetsov 2, Dmitriy A. Smirnov 24; Karen Oganyan 45
 
 ; Sokol      ; 0-1; CSKA
@@ -132,7 +132,7 @@ Date: 3/23/2002
 ; Zenit      ; 2-2; Torpedo
   Maksim Astafyev 17, Aleksandr Kerzhakov 62; Igor Lebedenko 66, Igor Lebedenko 74
 
-;; Torpedo-ZIL; 0-2 Rotor
+; Torpedo-ZIL; 0-2; Rotor
 ; Valeriy Yesipov (pk) 8, Valeriy Yesipov (pk) 88
 
 ; Sokol      ; 1-0; Anzhi
@@ -174,7 +174,7 @@ Round: 6
 Date: 4/6/2002
 
 ; Spartak    ; 2-0; Rotor
-  Dmitriy Sychov 19, Dmitriy Sychov 48
+  Dmitriy Sychov 19, Dmitriy Sychov 48;
 
 ; Alania     ; 1-1; Torpedo
   Jambulat Bazayev 89; Igor Semshov 59
@@ -191,7 +191,7 @@ Date: 4/7/2002
 ; Zenit      ; 1-1; Shinnik
   Maksim Astafyev 4; Aleksei Bychkov 65
 
-;; Torpedo-ZIL; 0-2 Lokomotiv
+; Torpedo-ZIL; 0-2; Lokomotiv
 ;  Narvik Sirkhayev 4, Dmitriy Sennikov 70
 
 ; Sokol      ; 0-0; Krylya Sov
@@ -253,7 +253,7 @@ Date: 4/21/2002
 ; Spartak    ; 0-3; CSKA
 ;  Andrei Solomatin 11, Roland Gusev (pk) 40, Juris Laizans 53
 
-;; Torpedo-ZIL; 1-0 Shinnik
+; Torpedo-ZIL; 1-0; Shinnik
   Valeriy Leonov 32;
 
 Round: 9
@@ -289,7 +289,7 @@ Date: 4/29/2002
 Round: 10
 Date: 5/3/2002
 
-;; Torpedo-ZIL; 0-2 Dinamo
+; Torpedo-ZIL; 0-2; Dinamo
 ;  Zsolt Hornak 5, Aleksandr Tochilin 59
 
 Date: 5/4/2002
@@ -335,7 +335,7 @@ Date: 5/8/2002
 ; Saturn     ; 1-2; Spartak
   Valeriy Kechinov 77; Dmitriy Sychov 79, Vladimir Beschastnykh (pk) 85
 
-;; Torpedo-ZIL; 1-2 Zenit
+; Torpedo-ZIL; 1-2; Zenit
   Dmitriy A. Smirnov 60; Aleksandr Kerzhakov 27, Aleksandr Kerzhakov 72
 
 ; Sokol      ; 0-1; Dinamo
@@ -398,7 +398,7 @@ Date: 7/2/2002
 
 Date: 7/3/2002
 
-;; Torpedo-ZIL; 0-2 Spartak
+; Torpedo-ZIL; 0-2; Spartak
 ; Vladimir Beschastnykh (pk) 40, Vladimir Beschastnykh 43
 
 Round: 14
@@ -454,7 +454,7 @@ Date: 7/16/2002
 ; Sokol      ; 1-1; Alania
   Andrei Fedkov 60; Georgi Demetradze (pk) 14
 
-;; Torpedo-ZIL; 2-2 Uralan
+; Torpedo-ZIL; 2-2; Uralan
   Dmitriy A. Smirnov 53, Aleksei Sherstnyov; German Lovchev 43, Zurab Tsiklauri 60
 
 Date: 7/17/2002
@@ -515,7 +515,7 @@ Date: 7/30/2002
 ; Zenit      ; 0-1; Spartak
 ;  Vladimir Beschastnykh 77
 
-;; Torpedo-ZIL; 0-0 Alania
+; Torpedo-ZIL; 0-0; Alania
 
 ; Torpedo    ; 4-3; Krylya Sov
   Aleksandr Shirko 21, Vladimir Leonchenko (pk) 45, Igor Semshov 47, Igor Lebedenko 49; Patrick Ovie 38, Andrei Karyaka 63, Vladislav Radimov 86
@@ -577,7 +577,7 @@ Date: 8/11/2002
 ; Sokol      ; 2-2; Spartak
   Alan Sakiyev 22, Ruslan Baltiyev 32; Moises Pinheiro 66, Vladimir Beschastnykh 88
 
-;; Torpedo-ZIL; 0-0 Saturn
+; Torpedo-ZIL; 0-0; Saturn
 
 Round: 20
 Date: 8/16/2002
@@ -601,7 +601,7 @@ Date: 8/17/2002
 
 Date: 8/18/2002
 
-;; Torpedo-ZIL; 2-0 Sokol
+; Torpedo-ZIL; 2-0; Sokol
   Dmitriy A. Smirnov 34, Oleg Kornaukhov (pk) 55;
 
 ; Shinnik    ; 0-0; Lokomotiv
@@ -725,7 +725,7 @@ Date: 9/21/2002
 
 Date: 9/23/2002
 
-;; Torpedo-ZIL; 0-2 CSKA
+; Torpedo-ZIL; 0-2; CSKA
 ;  Sergei Semak 9, Dmitriy Kirichenko 17
 
 ; Zenit      ; 2-2; Anzhi
@@ -792,7 +792,7 @@ Date: 10/6/2002
 
 Date: 10/7/2002
 
-;; Torpedo-ZIL; 1-0 Anzhi
+; Torpedo-ZIL; 1-0; Anzhi
   Oleg Kornaukhov (pk) 21;
 
 Round: 27
@@ -857,7 +857,7 @@ Date: 11/2/2002
 
 Date: 11/3/2002
 
-;; Torpedo-ZIL; 0-2 Krylya Sov
+; Torpedo-ZIL; 0-2; Krylya Sov
 ; Rogerio Marcio Gaucho 25, Andrei Karyaka 90+2
 
 Round: 29
@@ -907,7 +907,7 @@ Date: 11/17/2002
 ; Zenit      ; 1-2; Krylya Sov
   Daniel Chirita 32; Robertas Poskus 39, Sergei Vinogradov 78
 
-;; Torpedo-ZIL; 2-0 Rostselmash
+; Torpedo-ZIL; 2-0; Rostselmash
   Dmitriy A. Smirnov 14, Dmitriy A. Smirnov 41;
 
 ; Sokol      ; 1-3; Shinnik

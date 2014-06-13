@@ -62,7 +62,7 @@ Date: 7/12/2002
 ; Dynamo           ; 3-1; Arsenal 
   Serhi Fedorov 70, Andri Husyn 73, Florin Cernat 90+3; Serhi Konovalov 87
 
-; SC; Volyn-1;        2-0 Metalist 
+; SC Volyn-1;        2-0; Metalist 
   Samir Aliev 44, Roman Tolochko 67;
 
 ; Kryvbas          ; 1-1; Dnipro  
@@ -261,7 +261,7 @@ Date: 9/12/2002
   Oleh Venhlinsky 44, Oleh Venhlinsky 65;
 
 ; Dynamo           ; 8-0; Vorskla
-  Leandro 7, Leandro 17, Maxim Shatskikh 64, Maxim Shatskikh 83, Diogo Rincon 70, Diogo Rincon 77, Florin Cernat 71, Olexandr Melaschenko 80
+  Leandro 7, Leandro 17, Maxim Shatskikh 64, Maxim Shatskikh 83, Diogo Rincon 70, Diogo Rincon 77, Florin Cernat 71, Olexandr Melaschenko 80;
 
 ; Metalist         ; 1-0; Chornomorets
   Dmytro Bermudes 87;
@@ -542,7 +542,7 @@ Date: 3/23/2002
   Viacheslav Tereschenko 80;
 
 ; Karpaty          ; 1-2; Arsenal
-  Jerko Mikulic 82; Emmanuel Okoduwa 79, Shalva Apkhazava 84;
+  Jerko Mikulic 82; Emmanuel Okoduwa 79, Shalva Apkhazava 84
 *   Serhi Kovalchuk (K) missed pen 49; Oleh Husev (A) missed pen 60
 
 Round: 19
@@ -592,7 +592,7 @@ Date: 4/12/2002
 
 Date: 4/13/2002
 
-Karpaty           2-0 Metalist
+; Karpaty          ; 2-0; Metalist
   Hennadi Khrol 25, Taras Kabanov 72;
 
 ; Chornomorets     ; 2-0; Tavria
@@ -661,7 +661,7 @@ Date: 4/26/2002
 Round: 23
 Date: 5/4/2002
 
-Volyn             0-1 Karpaty
+; Volyn            ; 0-1; Karpaty
 ;  Serhi Mizin 34
 
 ; Dynamo           ; 1-0; Kryvbas
@@ -704,7 +704,7 @@ Date: 5/11/2002
   Olexandr Rykun 58, Olexandr Rykun 80;
 
 ; Metalurh D       ; 3-2; Metalist
-  Georgi Demetradze 32, 63, Bernard Tchoutang 85; Ivan Pohorelov 11, Olexandr Palianytsia 36
+  Georgi Demetradze 32, Georgi Demetradze 63, Bernard Tchoutang 85; Ivan Pohorelov 11, Olexandr Palianytsia 36
 
 ; Obolon           ; 1-1; Tavria
   Viacheslav Tereschenko 21; Vasil Gigiadze 65

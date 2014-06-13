@@ -43,7 +43,7 @@ Veretennikov 38; Gusev 61, Teryokhin 81
 ; Rostselmash     ; 1-1; Lokomotiv M       
 Kirichenko 56; Kharlachyov 13
 
-;; Torpedo-Luzhniki; 1-0 Zhemchuzhina      
+; Torpedo-Luzhniki; 1-0; Zhemchuzhina      
 Kamol'tsev 86;
 
 ; Lokomotiv NN    ; 0-1; Saturn            
@@ -101,7 +101,7 @@ Khomukha (pk) 10, Semak 77;
 ; Rostselmash     ; 2-1; Krylya Sovetov   
 Matveyev 44, Pestryakov 62; Safronov 16
 
-;; Torpedo-Luzhniki; 0-1 Dinamo           
+; Torpedo-Luzhniki; 0-1; Dinamo           
 ; Teryokhin (pk) 84
 
 ; Lokomotiv NN    ; 0-0; Lokomotiv M
@@ -158,7 +158,7 @@ O.Veretennikov 29, O.Veretennikov (pk) 84;
 ; Rostselmash     ; 2-0; Uralan           
 S.Kolotovkin 28, A.Bessmertny 64;
 
-;; Torpedo-Luzhniki; 1-1 Alania           
+; Torpedo-Luzhniki; 1-1; Alania           
 S.Skachenko 35; B.Tedeyev 22
 
 ; Lokomotiv NN    ; 3-0; Krylya Sovetov   
@@ -215,7 +215,7 @@ O.Veretennikov 40, D.Zubko 65, V.Abramov 90; A.Shirko 50, A.Shirko 71, A.Tikhono
 ; Rostselmash     ; 2-1; Zenit            
 I.Khankeyev 26, I.Khankeyev 59; A.Panov 61
 
-;; Torpedo-Luzhniki; 0-0 Shinnik
+; Torpedo-Luzhniki; 0-0; Shinnik
 
 ; Lokomotiv NN    ; 1-2; Uralan           
 D.Kuznetsov (pk) 74; D.Ivanov 30, V.Vishnevsky 70
@@ -264,7 +264,7 @@ O.Veretennikov 39, D.Zubko 61, V.Yesipov 68, M.Tishchenko 82, M.Tishchenko (pk) 
 ; Rostselmash     ; 1-3; CSKA             
 I.Khankeyev 38; Ye.Varlamov 33, V.Min'ko 51, S.Semak 62
 
-;; Torpedo-Luzhniki; 0-0 Spartak    
+; Torpedo-Luzhniki; 0-0; Spartak    
 
 ; Lokomotiv NN    ; 1-0; Zenit            
 A.Avakov 86;
@@ -296,7 +296,7 @@ S.Yuran 14, V.Bulatov 80; D.Vyaz'mikin 20, D.Vyaz'mikin 78
 ; V.Duyun 67
 
 ; Alania          ; 5-1; Dinamo           
-I.Tarlovsky 3, G.Demetradze 20, (pk) 73, G.Kutarba 42, Paulo Emilio 89; O.Teryokhin 46
+I.Tarlovsky 3, G.Demetradze 20, G.Demetradze (pk) 73, G.Kutarba 42, Paulo Emilio 89; O.Teryokhin 46
                                        
 ; Uralan          ; 0-1; Lokomotiv M      
 ; D.Los'kov 31
@@ -307,7 +307,7 @@ K.Kamnev 73; S.Shishkin 50
 Round: 11 
 Date: 6/19/1999
 
-;; Torpedo-Luzhniki; 2-1 Rotor            
+; Torpedo-Luzhniki; 2-1; Rotor            
 V.Kamol'tsev 65, V.Kamol'tsev 80; O.Veretennikov 48
  
 ; Lokomotiv NN    ; 0-2; CSKA             
@@ -360,7 +360,7 @@ B.Spanderashvili 74;
 Round: 13 
 Date: 6/27/1999
 
-;; Torpedo-Luzhniki; 3-1 Chernomorets     
+; Torpedo-Luzhniki; 3-1; Chernomorets     
 V.Kamol'tsev 30, V.Kamol'tsev 90, A.Lukhvich 43; K.Gordiyuk 61
 
 ; Saturn          ; 1-0; Rotor            
@@ -406,7 +406,7 @@ O.Shishkin 73;
 
 ; Rotor           ; 0-0; Zhemchuzhina
 
-;; Torpedo-Luzhniki; 3-2 Lokomotiv NN     
+; Torpedo-Luzhniki; 3-2; Lokomotiv NN     
 I.Semshov 44, V.Dayev 71, Ye.Durnev 87;  D.Vyaz'mikin 12, P.Bystrov 69
                                        
 ; Chernomorets    ; 0-0; Uralan
@@ -459,7 +459,7 @@ R.Maximyuk 36, A.Petukhov 67; S.Snytko 9
 ; Lokomotiv NN    ; 2-1; Zhemchuzhina     
 A.Avakov 63, G.Gogrichiani 79; K.Kovalenko 13
 
-;; Torpedo-Luzhniki; 2-4 Lokomotiv M      
+; Torpedo-Luzhniki; 2-4; Lokomotiv M      
 Ye.Durnev 47, V.Dayev 55; D.Los'kov (pk) 50, Z.Janashia 58, S.Oganesyan 82, D.Bulykin 87
  
 ; Rostselmash     ; 1-3; Dinamo           
@@ -514,7 +514,7 @@ Round: 18
 Date: 7/28/1999
 
 ; Spartak         ; 4-1; Zenit            
-V.Bulatov 2, 73, A.Tikhonov (pk) 6, A.Shirko 51; A.Panov 66
+V.Bulatov 2, V.Bulatov 73, A.Tikhonov (pk) 6, A.Shirko 51; A.Panov 66
 
 ; Saturn          ; 1-1; Lokomotiv M      
 M.Buznikin 45; Ye.Kharlachyov 25
@@ -522,7 +522,7 @@ M.Buznikin 45; Ye.Kharlachyov 25
 ; Lokomotiv NN    ; 1-3; Dinamo           
 A.Avakov 64; O.Teryokhin 27, S.Grishin 31, R.Gusev 88
                                        
-;; Torpedo-Luzhniki; 3-1 Krylya Sovetov   
+; Torpedo-Luzhniki; 3-1; Krylya Sovetov   
 V.Kamol'tsev 4, V.Litvinov 9, Ye.Durnev (pk) 21; Z.Popkhadze (pk) 80
                                       
 
@@ -569,7 +569,7 @@ A.Gryazin 43, I.Men'shchikov (pk) 71;
 ; Lokomotiv NN    ; 2-1; Alania           
 A.Avakov 38, A.Lipko 80; G.Demetradze (pk) 34
 
-;; Torpedo-Luzhniki; 3-1 Uralan           
+; Torpedo-Luzhniki; 3-1; Uralan           
 V.Kamol'tsev 24, P.Shkapenko 43, P.Shkapenko (pk) 60; S.Mikalajunas 44
                                        
 Date: 8/15/1999
@@ -616,7 +616,7 @@ Date: 8/28/1999
 ; Lokomotiv NN    ; 1-0; Shinnik          
 A.Avakov 3;
 
-;; Torpedo-Luzhniki; 1-0 Zenit            
+; Torpedo-Luzhniki; 1-0; Zenit            
 V.Litvinov 40;
 
 ; Rotor           ; 1-1; CSKA             
@@ -671,7 +671,7 @@ M.Demenko 41;
 ; Lokomotiv NN    ; 2-4; Spartak          
 A.Avakov 73, D.Vyaz'mikin 85; Robson 50, Ye.Titov 60, Ye.Titov 66, I.Tsymbalar' 65
                                        
-;; Torpedo-Luzhniki; 2-2 CSKA             
+; Torpedo-Luzhniki; 2-2; CSKA             
 V.Kamol'tsev 5, A.Gashkin 30; Ye.Varlamov 20, S.Semak 79
 
 ; Rostselmash     ; 1-1; Rotor            
@@ -732,7 +732,7 @@ I.Men'shchikov 41, A.Medvedev 66; V.Kulik 53, D.Lyapkin (og) 65, S.Semak 71
 ; Lokomotiv NN    ; 1-1; Rotor            
 A.Avakov 73; M.Tishchenko 70
 
-;; Torpedo-Luzhniki; 1-2 Rostselmash      
+; Torpedo-Luzhniki; 1-2; Rostselmash      
 P.Shkapenko (pk) 55; Yu.Borovskoy 38, D.Kirichenko 52
 
 ; Krylya Sovetov  ; 0-1; Uralan           
@@ -807,7 +807,7 @@ I.Chugaynov 42;
 Round: 29 
 Date: 10/30/1999
 
-;; Torpedo-Luzhniki; 0-2 Saturn           
+; Torpedo-Luzhniki; 0-2; Saturn           
 ; I.Gavrilin 14, M.Buznikin 54
 
 ; Rostselmash     ; 2-1; Zhemchuzhina     

@@ -35,7 +35,7 @@ Date: 7/15/2004
 ; Chornomorets' Odesa       ; 3-1; Kryvbas Kryvyj Rih; 7500
    Symonenko 4, Symonenko 57, Miteriev 23; Morozov 22              
 
-;; Vorskla-Naftohaz; Poltava   3-0 Arsenal Kyiv; 5000
+; Vorskla-Naftohaz Poltava  ; 3-0; Arsenal Kyiv; 5000
    Kovalevsky 20, Medvediev 29, Braila 72;                 
 
 ; Borysfen Boryspil'        ; 1-1; Metalurh-Zap. Zaporizhzhja; 1500
@@ -97,12 +97,12 @@ Date: 7/25/2004
 
 ; Chornomorets' Odesa       ; 0-0; Zakarpattja Uzhhorod            ; 7500
 
-;; Vorskla-Naftohaz; Poltava   0-1 Metalist Kharkiv; 12000
+; Vorskla-Naftohaz Poltava  ; 0-1; Metalist Kharkiv; 12000
 ;   Ribeiro 56                                               
 
 ; Borysfen Boryspil         ; 0-0; Obolon' Kyiv                    ; 3000
 
-;; Metalurh-Zap.; Zaporizhzhja 0-0 Arsenal Kyiv                    ; 3000
+; Metalurh-Zap. Zaporizhzhja; 0-0; Arsenal Kyiv                    ; 3000
 
 Round: 4
 Date: 7/31/2004
@@ -152,12 +152,12 @@ Date: 8/14/2004
 ; Dynamo Kyiv               ; 1-0; Tavrija Simferopol'; 3000
    Ghioane 27;                                               
 
-;; Vorskla-Naftohaz; Poltava   0-2 Shakhtar Donets'k; 10000
+; Vorskla-Naftohaz Poltava  ; 0-2; Shakhtar Donets'k; 10000
 ;  Brandao 29, Brandao 79                                          
 
 ; Borysfen Boryspil         ; 0-0; Kryvbas Kryvyj Rih              ; 3000
 
-;; Metalurh-Zap.; Zaporizhzhja 1-4 Metalist Kharkiv; 2500
+; Metalurh-Zap. Zaporizhzhja; 1-4; Metalist Kharkiv; 2500
    Demchenko 41; Hunchak 1, Hunchak 57, Kuzniatsov 49, Ibrahimov 69                                             
 
 Date: 8/15/2004
@@ -199,7 +199,7 @@ Date: 9/18/2004
 ; Arsenal Kyiv              ; 0-2; Kryvbas Kryvyj Rih; 1200
 ;   Kashevsky 63, Nikitsenka 66                             
 
-;; Metalurh-Zap.; Zaporizhzhja 1-3 Shakhtar Donets'k; 5000
+; Metalurh-Zap. Zaporizhzhja; 1-3; Shakhtar Donets'k; 5000
    Demchenko 27; Matuzalem 6, Brandao 43, Brandao 62             
 
 Date: 9/19/2004
@@ -207,7 +207,7 @@ Date: 9/19/2004
 ; Chornomorets' Odesa       ; 1-0; Tavrija Simferopol'; 8000
    Kosyrin (pk) 26;                                            
 
-;; Vorskla-Naftohaz; Poltava   0-2 Volyn' Luts'k; 8000
+; Vorskla-Naftohaz Poltava  ; 0-2; Volyn' Luts'k; 8000
 ;   Krunic (pk) 61, Sachko 81                                 
 
 ; Borysfen Boryspil         ; 1-3; Zakarpattja Uzhhorod; 2500
@@ -259,13 +259,13 @@ Date: 10/2/2004
 
 Date: 10/3/2004
 
-;; Vorskla-Naftohaz; Poltava   0-3 Dynamo Kyiv; 10000
+; Vorskla-Naftohaz Poltava  ; 0-3; Dynamo Kyiv; 10000
 ;   Ghioane 34, Kleber 41, Verpakovskis 66                 
 
 ; Borysfen Boryspil         ; 1-1; Illichivets' Mariupol'; 1500
    Khromtsov 21; Tsykhmeistruk 30                          
 
-;; Metalurh-Zap.; Zaporizhzhja 1-1 Volyn' Luts'k; 4000
+; Metalurh-Zap. Zaporizhzhja; 1-1; Volyn' Luts'k; 4000
    Bosnjak (pk) 79; Sachko 35                                
 
 ; Obolon' Kyiv              ; 0-1; Shakhtar Donets'k; 5000
@@ -319,7 +319,7 @@ Date: 10/29/2004
 ; Arsenal Kyiv              ; 5-2; Illichivets' Mariupol'; 700
    Babych 28, Anikeiev 34, Okoduwa 53, Mizin (pk) 64, Koval'chyk 80; Zubov 9, Tsykhmeistruk 48                               
 
-;; Metalurh-Zap.; Zaporizhzhja 0-2 Dynamo Kyiv; 6500
+; Metalurh-Zap. Zaporizhzhja; 0-2; Dynamo Kyiv; 6500
 ;   Kleber 29, Rincon (pk) 66                                 
 
 ; Kryvbas Kryvyj Rih        ; 1-2; Shakhtar Donets'k; 21700
@@ -330,7 +330,7 @@ Date: 10/30/2004
 ; Metalurh Donets'k         ; 2-1; Tavrija Simferopol'; 2500
    Mendoza 30, Mendoza 85; Junior 40                              
 
-;; Vorskla-Naftohaz; Poltava   0-0 Dnipro Dnipropetrovs'k          ; 4500
+; Vorskla-Naftohaz Poltava  ; 0-0; Dnipro Dnipropetrovs'k          ; 4500
 
 ; Borysfen Boryspil         ; 0-1; Chornomorets' Odesa; 2000
 ;   Kosyrin 80                                               
@@ -373,10 +373,10 @@ Date: 11/11/2004
 ; Borysfen Boryspil         ; 0-1; Metalurh Donets'k; 6000
 ;   Mendoza 89                                               
 
-;; Vorskla-Naftohaz; Poltava   1-0 Tavrija Simferopol'; 1500
+; Vorskla-Naftohaz Poltava  ; 1-0; Tavrija Simferopol'; 1500
    Yepuryanu 33 ;                                            
 
-;; Metalurh-Zap.; Zaporizhzhja 1-1 Dnipro Dnipropetrovs'k; 4500
+; Metalurh-Zap. Zaporizhzhja; 1-1; Dnipro Dnipropetrovs'k; 4500
    Modebadze 70; Kostyshyn 14                              
 
 ; Arsenal Kyiv              ; 2-1; Chornomorets' Odesa; 1500
@@ -411,7 +411,7 @@ Date: 11/28/2004
 ; Dnipro Dnipropetrovs'k    ; 1-0; Arsenal Kyiv; 3000
    Melaschenko 67 ;                                          
 
-;; Vorskla-Naftohaz; Poltava   1-1 Borysfen Boryspil; 3000
+; Vorskla-Naftohaz Poltava  ; 1-1; Borysfen Boryspil; 3000
    Yepuryanu 90+1; Melnyk 60                               
 
 ; Tavrija Simferopol'       ; W-L; Zakarpattja Uzhhorod
@@ -444,7 +444,7 @@ Date: 12/5/2004
 ; Borysfen Boryspil         ; 0-1; Tavrija Simferopol'; 800
 ;   Junior 64                                                
 
-;; Metalurh-Zap.; Zaporizhzhja 1-0 Vorskla-Naftohaz Poltava; 4000
+; Metalurh-Zap. Zaporizhzhja; 1-0; Vorskla-Naftohaz Poltava; 4000
    Demchenko (pk) 87;                                          
 
 ; Obolon' Kyiv              ; 0-1; Dnipro Dnipropetrovs'k; 5000
@@ -470,7 +470,7 @@ Date: 3/1/2005
 ; Tavrija Simferopol'       ; 2-1; Borysfen Boryspil; 5000
    Edmar 45, Junior 57; Melnyk 53                         
 
-;; Vorskla-Naftohaz; Poltava   1-0 Metalurh-Zap. Zaporizhzhja; 3500
+; Vorskla-Naftohaz Poltava  ; 1-0; Metalurh-Zap. Zaporizhzhja; 3500
    Milenkovic 18;                                            
 
 ; Dnipro Dnipropetrovs'k    ; 3-0; Obolon' Kyiv; 1540
@@ -496,7 +496,7 @@ Date: 3/5/2005
 
 Date: 3/6/2005
 
-;; Metalurh-Zap.; Zaporizhzhja 2-0 Metalurh Donets'k; 3000
+; Metalurh-Zap. Zaporizhzhja; 2-0; Metalurh Donets'k; 3000
    Popov 34, Bredun 70   ;                                  
 
 ; Zakarpattja Uzhhorod      ; 0-0; Tavrija Simferopol'             ; 2200
@@ -507,9 +507,9 @@ Date: 3/6/2005
 ;   Ghioane 44, Shatskikh 49                                
 
 ; Arsenal Kyiv              ; 1-2; Dnipro Dnipropetrovs'k; 800
-   Mizin 52; Karnilenka 14, (pk) 81                         
+   Mizin 52; Karnilenka 14, Karnilenka (pk) 81                         
 
-Borysfen Boryspil          ; L-W;  Vorskla-Naftohaz Poltava
+; Borysfen Boryspil          ; L-W;  Vorskla-Naftohaz Poltava
 *   [NB: Technical victory awarded to Vorskla-Naftohaz due to
 *    Borysfen inadequately preparing the pitch before the game.
 *    $1000 fine as well]
@@ -555,7 +555,7 @@ Date: 3/18/2005
 
 Date: 3/19/2005
 
-;; Vorskla-Naftohaz; Poltava   1-1 Metalurh Donets'k; 5000
+; Vorskla-Naftohaz Poltava  ; 1-1; Metalurh Donets'k; 5000
    Tselykh 73; Mendoza (pk) 39                               
 
 ; Shakhtar Donets'k         ; 1-0; Tavrija Simferopol'; 9000
@@ -569,7 +569,7 @@ Date: 3/19/2005
 
 ; Arsenal Kyiv              ; 0-0; Dynamo Kyiv                     ; 3000
 
-;; Metalurh-Zap.; Zaporizhzhja 0-2 Chornomorets' Odesa; 3500
+; Metalurh-Zap. Zaporizhzhja; 0-2; Chornomorets' Odesa; 3500
 ;   Lashankov 4, Hilaziev 70                                
 
 ; Borysfen Boryspil         ; 1-1; Dnipro Dnipropetrovs'k; 100
@@ -618,12 +618,12 @@ Date: 4/10/2005
 
 ; Obolon' Kyiv              ; 0-0; Zakarpattja Uzhhorod            ; 1500
 
-;; Metalurh-Zap.; Zaporizhzhja 0-2 Illichivets' Mariupol'; 4200
+; Metalurh-Zap. Zaporizhzhja; 0-2; Illichivets' Mariupol'; 4200
 ;   Hai 55, Zakarliuka 58                                   
 
 ; Borysfen Boryspil         ; 0-0; Dynamo Kyiv                     ; 6500
 
-;; Vorskla-Naftohaz; Poltava   0-0 Chornomorets' Odesa             ; 7000
+; Vorskla-Naftohaz Poltava  ; 0-0; Chornomorets' Odesa             ; 7000
 
 Round: 22 
 Date: 4/16/2005
@@ -658,13 +658,13 @@ Date: 4/24/2005
 ; Metalist Kharkiv          ; 1-1; Tavrija Simferopol'; 11000
    Konsessao 27; Lytovchenko 12                            
 
-;; Metalurh-Zap.; Zaporizhzhja 1-0 Zakarpattja Uzhhorod; 4650
+; Metalurh-Zap. Zaporizhzhja; 1-0; Zakarpattja Uzhhorod; 4650
    Siliuk 57 ;                                               
 
 ; Borysfen Boryspil         ; 1-0; Volyn' Luts'k; 3000
    Levyha 54  ;                                              
 
-;; Vorskla-Naftohaz; Poltava   1-2 Illichivets' Mariupol'; 7000
+; Vorskla-Naftohaz Poltava  ; 1-2; Illichivets' Mariupol'; 7000
    Milenkovic 55; Zakarliuka 27, Zakarliuka (pk) 66                    
 
 Date: 4/25/2005
@@ -723,13 +723,13 @@ Date: 5/7/2005
 ; Obolon' Kyiv              ; 0-1; Tavrija Simferopol'; 800
 ;   Lytovchenko 72                                           
 
-;; Metalurh-Zap.; Zaporizhzhja 2-0 Kryvbas Kryvyj Rih; 3500
+; Metalurh-Zap. Zaporizhzhja; 2-0; Kryvbas Kryvyj Rih; 3500
    Liubarsky 21, Luchkevych 76;                             
 
 ; Borysfen Boryspil         ; 0-2; Shakhtar Donets'k; 3500
 ;   Matuzalem 44, Brandao 81                                
 
-;; Vorskla-Naftohaz; Poltava   2-0 Zakarpattja Uzhhorod; 4500
+; Vorskla-Naftohaz Poltava  ; 2-0; Zakarpattja Uzhhorod; 4500
    Chychykov 76, Milenkovic 90+1 ;                          
 
 ; Dnipro Dnipropetrovs'k    ; 2-0; Illichivets' Mariupol'; 7000
@@ -772,13 +772,13 @@ Date: 5/21/2005
 ; Metalurh Donets'k         ; 1-3; Shakhtar Donets'k; 24000
    Demetradze 69; Brandao 21, Elano 45, Matuzalem 56     
 
-;; Metalurh-Zap.; Zaporizhzhja 1-0 Obolon' Kyiv; 4500
+; Metalurh-Zap. Zaporizhzhja; 1-0; Obolon' Kyiv; 4500
    Siliuk 46 ;                                               
 
 ; Borysfen Boryspil         ; 0-1; Metalist Kharkiv; 2500
 ;   Yaroshenko 82                                            
 
-;; Vorskla-Naftohaz; Poltava   2-1 Kryvbas Kryvyj Rih; 7000
+; Vorskla-Naftohaz Poltava  ; 2-1; Kryvbas Kryvyj Rih; 7000
    Chychykov 63, Tsurri 81; Kashevsky (pk) 43               
 
 ; Dnipro Dnipropetrovs'k    ; 0-3; Zakarpattja Uzhhorod; 7000
@@ -831,10 +831,10 @@ Date: 6/12/2005
 ; Metalurh Donets'k         ; 3-1; Metalist Kharkiv; 3000
    Babangida 47, Mendoza 61, Toure 74; Selezniov (pk) 76   
 
-;; Metalurh-Zap.; Zaporizhzhja 1-2 Tavrija Simferopol'; 4200
+; Metalurh-Zap. Zaporizhzhja; 1-2; Tavrija Simferopol'; 4200
    Popov 45; Edmar 28, Korniev 59                         
 
-;; Vorskla-Naftohaz; Poltava   2-1 Obolon' Kyiv; 1600
+; Vorskla-Naftohaz Poltava  ; 2-1; Obolon' Kyiv; 1600
    Chychykov 24, Rebenok 47; Tereschenko 84               
 
 ; Dnipro Dnipropetrovs'k    ; 2-1; Kryvbas Kryvyj Rih; 7000
@@ -869,7 +869,7 @@ Date: 6/16/2005
 ; Arsenal Kyiv              ; 2-0; Vorskla-Naftohaz Poltava; 950
    Okoduwa 56, Mizin (pk) 86  ;                               
 
-;; Metalurh-Zap.; Zaporizhzhja 2-1 Borysfen Boryspil'; 3000
+; Metalurh-Zap. Zaporizhzhja; 2-1; Borysfen Boryspil'; 3000
    Karakevych 4, Modebadze 84; Lisovy 64                  
 
 ; Metalist Kharkiv          ; 0-2; Dnipro Dnipropetrovs'k; 6000
