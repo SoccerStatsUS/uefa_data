@@ -168,7 +168,8 @@ Date: 10/27/2013
 
 Date: 2/25/2014
 
-; Ross County        ; 0-3; Inverness CT        [replay]
+; Ross County        ; 0-3; Inverness CT        
+*[replay]
 
 Round: 12
 
@@ -231,12 +232,13 @@ Date: 12/14/2013
 ; Celtic             ; 1-0; Hibernian           
 ; Heart of Midlothian; 0-2; Inverness CT        
 ; Kilmarnock         ; 1-4; Dundee United       
-; Partick Thistle     abd Saint Johnstone     [abandoned at; 0-0; at half-time due
-; Ross County        ; 1-2; Motherwell           to waterlogged pitch]
+*; Partick Thistle     abd Saint Johnstone     [abandoned at; 0-0; at half-time due to waterlogged pitch]
+; Ross County        ; 1-2; Motherwell           
 
 Date: 1/21/2014
 
-; Partick Thistle    ; 0-1; Saint Johnstone     [replay]
+; Partick Thistle    ; 0-1; Saint Johnstone     
+*[replay]
 
 Round: 17 
 Date: 12/21/2013
