@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tabless/slov04.html
 Season: 2003-2004
+Competition: 1. SNL
 
 * 1.ND Gorica                    22 12  6  4  46-21 42
 * 2.Olimpija Ljubljana           22 12  5  5  42-27 41
@@ -18,231 +19,307 @@ Season: 2003-2004
 *12.Drava Ptuj                   22  3  6 13  23-42 15
 
 Round: 1 
-[Jul 20]
-Celje      2-1 Gorica
-Mura       3-1 Dravograd
-Olimpija   6-1 Maribor
-Ptuj       0-2 Domzale
-Ajdovscina 3-2 Smartno
-[Jul 22]
-Koper      1-0 Ljubljana
+Date: 7/20/2003
+
+; Celje     ; 2-1; Gorica
+; Mura      ; 3-1; Dravograd
+; Olimpija  ; 6-1; Maribor
+; Ptuj      ; 0-2; Domzale
+; Ajdovscina; 3-2; Smartno
+
+Date: 7/22/2003
+
+; Koper     ; 1-0; Ljubljana
 
 Round: 2
-[Jul 26]
-Gorica     3-1 Smartno
-Maribor    4-1 Ptuj
-[Jul 27]
-Dravograd  1-0 Olimpija
-Ljubljana  0-4 Ajdovscina
-Celje      3-2 Mura
-[Aug 13]
-Domzale    0-3 Koper
+Date: 7/26/2003
+
+; Gorica    ; 3-1; Smartno
+; Maribor   ; 4-1; Ptuj
+
+Date: 7/27/2003
+
+; Dravograd ; 1-0; Olimpija
+; Ljubljana ; 0-4; Ajdovscina
+; Celje     ; 3-2; Mura
+
+Date: 8/13/2003
+
+; Domzale   ; 0-3; Koper
 
 Round: 3
-[Aug 2]
-Koper      0-1 Maribor
-Olimpija   2-2 Celje
-[Aug 3]
-Mura       2-2 Gorica
-Ptuj       3-1 Dravograd
-Ajdovscina 6-0 Domzale
-Smartno    3-1 Ljubljana
+Date: 8/2/2003
+
+; Koper     ; 0-1; Maribor
+; Olimpija  ; 2-2; Celje
+
+Date: 8/3/2003
+
+; Mura      ; 2-2; Gorica
+; Ptuj      ; 3-1; Dravograd
+; Ajdovscina; 6-0; Domzale
+; Smartno   ; 3-1; Ljubljana
 
 Round: 4
-[Aug 8]
-Gorica     5-0 Ljubljana
-[Aug 9]
-Mura       0-4 Olimpija
-Domzale    2-1 Smartno
-[Aug 10]
-Dravograd  0-1 Koper
-Celje      3-1 Ptuj
-Maribor    2-1 Ajdovscina
+Date: 8/8/2003
 
-Round: 5 [Aug 17]
-Ljubljana  3-0 Domzale
-Ptuj       2-3 Mura
-Ajdovscina 2-2 Dravograd
-Smartno    0-0 Maribor
-Koper      0-0 Celje
-Olimpija   awd Gorica       [awarded 0-3, originally 0-0; Olimpija
-                             fielded ineligible player (Kreft)]
+; Gorica    ; 5-0; Ljubljana
+
+Date: 8/9/2003
+
+; Mura      ; 0-4; Olimpija
+; Domzale   ; 2-1; Smartno
+
+Date: 8/10/2003
+
+; Dravograd ; 0-1; Koper
+; Celje     ; 3-1; Ptuj
+; Maribor   ; 2-1; Ajdovscina
+
+Round: 5 
+Date: 8/17/2003
+
+; Ljubljana ; 3-0; Domzale
+; Ptuj      ; 2-3; Mura
+; Ajdovscina; 2-2; Dravograd
+; Smartno   ; 0-0; Maribor
+; Koper     ; 0-0; Celje
+*Olimpija   awd Gorica       [awarded 0-3, originally 0-0; Olimpija
+*                             fielded ineligible player (Kreft)]
+
 Round: 6
-[Aug 22]
-Olimpia    1-0 Ptuj
-[Aug 23]
-Gorica     3-0 Domzale
-[Aug 24]
-Dravograd  1-4 Smartno
-Celje      2-4 Ajdovscina
-Mura       0-1 Koper
-Maribor    2-1 Ljubljana
+Date: 8/22/2003
+
+; Olimpia   ; 1-0; Ptuj
+
+Date: 8/23/2003
+
+; Gorica    ; 3-0; Domzale
+
+Date: 8/24/2003
+
+; Dravograd ; 1-4; Smartno
+; Celje     ; 2-4; Ajdovscina
+; Mura      ; 0-1; Koper
+; Maribor   ; 2-1; Ljubljana
 
 Round: 7
-[Aug 30]
-Ajdovscina 4-0 Mura
-[Aug 31]
-Ljubljana  1-3 Dravograd
-Ptuj       2-4 Gorica
-Koper      1-1 Olimpija
-Smartno    2-0 Celje
-Domzale    0-1 Maribor
+Date: 8/30/2003
+
+; Ajdovscina; 4-0; Mura
+
+Date: 8/31/2003
+
+; Ljubljana ; 1-3; Dravograd
+; Ptuj      ; 2-4; Gorica
+; Koper     ; 1-1; Olimpija
+; Smartno   ; 2-0; Celje
+; Domzale   ; 0-1; Maribor
 
 Round: 8
-[Sep 12]
-Celje      3-1 Ljubljana
-Olimpija   1-0 Ajdovscina
-[Sep 13]
-Dravograd  1-5 Domzale
-Gorica     2-0 Maribor
-[Sep 14]
-Mura       3-1 Smartno
-Ptuj       1-1 Koper
+Date: 9/12/2003
+
+; Celje     ; 3-1; Ljubljana
+; Olimpija  ; 1-0; Ajdovscina
+
+Date: 9/13/2003
+
+; Dravograd ; 1-5; Domzale
+; Gorica    ; 2-0; Maribor
+
+Date: 9/14/2003
+
+; Mura      ; 3-1; Smartno
+; Ptuj      ; 1-1; Koper
 
 Round: 9
-[Sep 20]
-Smartno    1-1 Olimpija
-[Sep 21]
-Ajdovscina 0-0 Ptuj
-Domzale    1-5 Celje
-Koper      2-0 Gorica
-Ljubljana  0-4 Mura
-Maribor    1-0 Dravograd
+Date: 9/20/2003
+
+; Smartno   ; 1-1; Olimpija
+
+Date: 9/21/2003
+
+; Ajdovscina; 0-0; Ptuj
+; Domzale   ; 1-5; Celje
+; Koper     ; 2-0; Gorica
+; Ljubljana ; 0-4; Mura
+; Maribor   ; 1-0; Dravograd
 
 Round: 10
-[Sep 27]
-Koper      0-2 Ajdovscina
-Gorica     1-1 Dravograd
-[Sep 28]
-Ptuj       0-0 Smartno
-Mura       3-1 Domzale
-Olimpija   0-0 Ljubljana
-Celje      1-2 Maribor
+Date: 9/27/2003
+
+; Koper     ; 0-2; Ajdovscina
+; Gorica    ; 1-1; Dravograd
+
+Date: 9/28/2003
+
+; Ptuj      ; 0-0; Smartno
+; Mura      ; 3-1; Domzale
+; Olimpija  ; 0-0; Ljubljana
+; Celje     ; 1-2; Maribor
 
 Round: 11
-[Oct 4]
-Ajdovscina 2-2 Gorica
-[Oct 5]
-Ljubljana  0-0 Ptuj
-Smartno    0-0 Koper
-Domzale    2-1 Olimpija
-Dravograd  2-1 Celje
-Maribor    3-3 Mura
+Date: 10/4/2003
+
+; Ajdovscina; 2-2; Gorica
+
+Date: 10/5/2003
+
+; Ljubljana ; 0-0; Ptuj
+; Smartno   ; 0-0; Koper
+; Domzale   ; 2-1; Olimpija
+; Dravograd ; 2-1; Celje
+; Maribor   ; 3-3; Mura
 
 Round: 12
-[Oct 18]
-Maribor    0-0 Olimpija
-Gorica     1-4 Celje
-[Oct 19]
-Ljubljana  1-4 Koper
-Dravograd  2-2 Mura
-Domzale    3-2 Ptuj
-Smartno    1-1 Ajdovscina
+Date: 10/18/2003
+
+; Maribor   ; 0-0; Olimpija
+; Gorica    ; 1-4; Celje
+
+Date: 10/19/2003
+
+; Ljubljana ; 1-4; Koper
+; Dravograd ; 2-2; Mura
+; Domzale   ; 3-2; Ptuj
+; Smartno   ; 1-1; Ajdovscina
 
 Round: 13
-[Oct 25]
-Koper      2-1 Domzale
-[Oct 26]
-Ajdovscina awd Ljubljana    [awarded 3-0, originally 2-1]
-Smartno    0-0 Gorica
-Ptuj       1-1 Maribor
-Mura       3-2 Celje
-[Oct 29]
-Olimpija   4-0 Dravograd
+Date: 10/25/2003
+
+; Koper     ; 2-1; Domzale
+
+Date: 10/26/2003
+
+*Ajdovscina awd Ljubljana    [awarded 3-0, originally 2-1]
+
+; Smartno   ; 0-0; Gorica
+; Ptuj      ; 1-1; Maribor
+; Mura      ; 3-2; Celje
+
+Date: 10/29/2003
+
+; Olimpija  ; 4-0; Dravograd
 
 Round: 14
-[Oct 31]
-Maribor    1-0 Koper
-[Nov 2]
-Ljubljana  2-3 Smartno
-Dravograd  1-3 Ptuj
-Domzale    0-0 Ajdovscina
-Gorica     6-1 Mura
-Celje      1-2 Olimpija
+Date: 10/31/2003
 
-Round: 15 [Nov 5]
-Ajdovscina 0-0 Maribor
-Ptuj       0-3 Celje
-Smartno    2-3 Domzale
-Koper      3-0 Dravograd
-Ljubljana  1-1 Gorica
-Olimpija   2-1 Mura
+; Maribor   ; 1-0; Koper
 
-Round: 16 [Nov 9]
-Gorica     5-1 Olimpija
-Mura       1-0 Ptuj
-Celje      0-1 Koper
-Dravograd  1-1 Ajdovscina
-Maribor    1-2 Smartno
-Domzale    1-1 Ljubljana
+Date: 11/2/2003
 
-Round: 17 [Nov 23]
-Ljubljana  2-1 Maribor
-Domzale    0-1 Gorica
-Smartno    2-1 Dravograd
-Ajdovscina 2-2 Celje
-Koper      1-1 Mura
-Ptuj       3-4 Olimpija
+; Ljubljana ; 2-3; Smartno
+; Dravograd ; 1-3; Ptuj
+; Domzale   ; 0-0; Ajdovscina
+; Gorica    ; 6-1; Mura
+; Celje     ; 1-2; Olimpija
+
+Round: 15 
+Date: 11/5/2003
+
+; Ajdovscina; 0-0; Maribor
+; Ptuj      ; 0-3; Celje
+; Smartno   ; 2-3; Domzale
+; Koper     ; 3-0; Dravograd
+; Ljubljana ; 1-1; Gorica
+; Olimpija  ; 2-1; Mura
+
+Round: 16 
+Date: 11/9/2003
+
+; Gorica    ; 5-1; Olimpija
+; Mura      ; 1-0; Ptuj
+; Celje     ; 0-1; Koper
+; Dravograd ; 1-1; Ajdovscina
+; Maribor   ; 1-2; Smartno
+; Domzale   ; 1-1; Ljubljana
+
+Round: 17 
+Date: 11/23/2003
+
+; Ljubljana ; 2-1; Maribor
+; Domzale   ; 0-1; Gorica
+; Smartno   ; 2-1; Dravograd
+; Ajdovscina; 2-2; Celje
+; Koper     ; 1-1; Mura
+; Ptuj      ; 3-4; Olimpija
 
 Round: 18
-[Nov 28]
-Olimpija   2-1 Koper
-[Nov 29]
-Dravograd  1-3 Ljubljana
-Mura       4-3 Ajdovscina
-Gorica     3-0 Ptuj
-Celje      5-0 Smartno
-[Nov 30]
-Maribor    1-0 Domzale
+Date: 11/28/2003
+
+; Olimpija  ; 2-1; Koper
+
+Date: 11/29/2003
+
+; Dravograd ; 1-3; Ljubljana
+; Mura      ; 4-3; Ajdovscina
+; Gorica    ; 3-0; Ptuj
+; Celje     ; 5-0; Smartno
+
+Date: 11/30/2003
+
+; Maribor   ; 1-0; Domzale
 
 Round: 19
-[Mar 6]
-Maribor    1-0 Gorica
-[Mar 7]
-Smartno    0-3 Mura
-Koper      3-0 Ptuj
-[Mar 13]
-Domzale    3-0 Dravograd
-Ljubljana  2-1 Celje
-Ajdovscina 4-2 Olimpija
+Date: 3/6/2004
+
+; Maribor   ; 1-0; Gorica
+
+Date: 3/7/2004
+
+; Smartno   ; 0-3; Mura
+; Koper     ; 3-0; Ptuj
+
+Date: 3/13/2004
+
+; Domzale   ; 3-0; Dravograd
+; Ljubljana ; 2-1; Celje
+; Ajdovscina; 4-2; Olimpij/2004
 
 Round: 20
-[Mar 20]
-Gorica     0-0 Koper
-[Mar 21]
-Ptuj       0-1 Ajdovscina
-Olimpija   3-0 Smartno
-Mura       0-1 Ljubljana
-Dravograd  2-1 Maribor
-Celje      1-1 Domzale
+Date: 3/20/2004
 
-Round: 21 [Mar 28]
-Ajdovscina 5-2 Koper 
-Dravograd  0-1 Gorica 
-Smartno    1-1 Ptuj 
-Domzale    0-1 Mura
-Ljubljana  0-1 Olimpija
-Maribor    3-0 Celje 
+; Gorica    ; 0-0; Koper
 
-Round: 22 [Apr 4]
-Celje      2-3 Dravograd
-Gorica     2-1 Ajdovscina
-Mura       1-2 Maribor
-Olimpija   4-1 Domzale
-Koper      1-1 Smartno
-Ptuj       3-2 Ljubljana   
+Date: 3/21/2004
+
+; Ptuj      ; 0-1; Ajdovscina
+; Olimpija  ; 3-0; Smartno
+; Mura      ; 0-1; Ljubljana
+; Dravograd ; 2-1; Maribor
+; Celje     ; 1-1; Domzale
+
+Round: 21 
+Date: 3/28/2004
+
+; Ajdovscina; 5-2; Koper 
+; Dravograd ; 0-1; Gorica 
+; Smartno   ; 1-1; Ptuj 
+; Domzale   ; 0-1; Mura
+; Ljubljana ; 0-1; Olimpija
+; Maribor   ; 3-0; Celje 
+
+Round: 22 
+Date: 4/4/2004
+
+; Celje     ; 2-3; Dravograd
+; Gorica    ; 2-1; Ajdovscina
+; Mura      ; 1-2; Maribor
+; Olimpija  ; 4-1; Domzale
+; Koper     ; 1-1; Smartno
+; Ptuj      ; 3-2; Ljubljana   
 
 
-* 1.ND Gorica                    22 12  6  4  46-21 42
-* 2.Olimpija Ljubljana           22 12  5  5  42-27 41
-* 3.NK Maribor piv. Lasko        22 12  5  5  29-23 41
-* 4.Primorje Ajdovscina          22 10  8  4  49-25 38
-* 5.FC Koper                     22 10  7  5  28-17 37
-* 6.Mura Murska Sobota           22 10  4  8  41-41 34
-*- - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 7.CMC Publikum Celje           22  8  4 10  43-36 28
-* 8.Esotech Smartno              22  6  8  8  27-35 26
-* 9.Domzale                      22  7  3 12  26-42 24
+* 1.ND Gorica                    22 12  6  4 ; 46-21; 42
+* 2.Olimpija Ljubljana           22 12  5  5 ; 42-27; 41
+* 3.NK Maribor piv. Lasko        22 12  5  5 ; 29-23; 41
+* 4.Primorje Ajdovscina          22 10  8  4 ; 49-25; 38
+* 5.FC Koper                     22 10  7  5 ; 28-17; 37
+* 6.Mura Murska Sobota           22 10  4  8 ; 41-41; 34
+*-; - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 7.CMC Publikum Celje           22  8  4 10 ; 43-36; 28
+* 8.Esotech Smartno              22  6  8  8 ; 27-35; 26
+* 9.Domzale                      22  7  3 12 ; 26-42; 24
 *10.Ljubljana V&V                22  5  4 13  22-44 19
 *- - - - - - - - - - - - - - - - - - - - - - - - - - -
 *11.Dravograd                    22  5  4 13  24-47 19
@@ -264,27 +341,39 @@ Championship Playoff
 *    such a license, Primorje obtain a place in the UEFA Cup 2004/05
 
 Round: 23
-[Apr 9]
+
+Date: 4/9/2004
+
 Olimpija   2-2 Koper
-[Apr 10]
+
+Date: 4/10/2004
+
 Gorica     0-0 Mura
 Maribor    1-1 Ajdovscina
 
-Round: 24 [Apr 14]
+Round: 24 
+Date: 4/14/2004
+
 Koper      1-0 Maribor
 Mura       1-0 Ajdovscina
 Gorica     1-0 Olimpija
 
-Round: 25 [Apr 18]
+Round: 25 
+Date: 4/18/2004
+
 Olimpija   2-1 Mura
 Maribor    1-2 Gorica
 Ajdovscina 3-0 Koper
 
 Round: 26
-[Apr 24]
+
+Date: 4/24/2004
+
 Gorica     0-0 Ajdovscina
 Olimpija   1-2 Maribor
-[Apr 25]
+
+Date: 4/25/2004
+
 Mura       2-2 Koper
 
 Round: 27 [May 2]
@@ -347,26 +436,38 @@ Relegation Playoff
 *NB: Dravograd have 1 point deducted, Ljubljana 3 points deducted
 
 Round: 23
-[Apr 9]
+
+Date: 4/9/2004
+
 Celje      0-1 Ptuj
-[Apr 10]
+
+Date: 4/10/2004
+
 Domzale    0-0 Ljubljana   
 Smartno    2-0 Dravograd
 
-Round: 24 [Apr 14]
+Round: 24 
+Date: 4/14/2004
+
 Ptuj       0-3 Ljubljana
 Dravograd  0-2 Domzale
 Celje      2-1 Smartno
 
-Round: 25 [Apr 18]
+Round: 25 
+Date: 4/18/2004
+
 Smartno    3-0 Ptuj
 Domzale    2-2 Celje
 Ljubljana  2-1 Dravograd
 
 Round: 26
-[Apr 24]
+
+Date: 4/24/2004
+
 Celje      1-2 Ljubljana
-[Apr 25]
+
+Date: 4/25/2004
+
 Ptuj       3-1 Dravograd
 Smartno    1-1 Domzale
 

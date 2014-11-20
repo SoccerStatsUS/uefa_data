@@ -21,307 +21,422 @@ Competition: Cypriot First Division
 *14.Atromitos        26  1  4 21  19-69   7  Relegated  [Yeroskipos]
 
 Round: 1
-[Aug 30]
-Atromitos        0-1 Ethnikos
-Apollonas        1-3 AEL
-[Aug 31]
-Alki             2-2 AEP
-APOP             awd AEK                [awarded 2-0; abandoned at 1-1]
-[Sep 1]
-APOEL            3-2 Doxa
-Anorthosis       3-0 APEP
-ENP              0-2 Omonia
+Date: 8/30/2008
+
+; Atromitos       ; 0-1; Ethnikos
+; Apollonas       ; 1-3; AEL
+
+Date: 8/31/2008
+
+; Alki            ; 2-2; AEP
+*APOP             awd AEK                [awarded 2-0; abandoned at 1-1]
+
+Date: 9/1/2008
+
+; APOEL           ; 3-2; Doxa
+; Anorthosis      ; 3-0; APEP
+; ENP             ; 0-2; Omonia
 
 Round: 2
-[Sep 12]
-Ethnikos         1-1 APOEL
-Doxa             0-1 Anorthosis
-[Sep 13]
-APOP             1-3 ENP
-AEK              0-2 APEP
-AEL              2-1 Atromitos
-[Sep 14]
-Omonia           2-0 Alki
-[Sep 15]
-AEP              1-2 Apollonas
+Date: 9/12/2008
+
+; Ethnikos        ; 1-1; APOEL
+; Doxa            ; 0-1; Anorthosis
+
+Date: 9/13/2008
+
+; APOP            ; 1-3; ENP
+; AEK             ; 0-2; APEP
+; AEL             ; 2-1; Atromitos
+
+Date: 9/14/2008
+
+; Omonia          ; 2-0; Alki
+
+Date: 9/15/2008
+
+; AEP             ; 1-2; Apollonas
 
 Round: 3
-[Sep 20]
-ENP              2-1 AEK
-APEP             3-3 Doxa
-[Sep 21]
-APOEL            4-0 AEL
-Atromitos        2-2 AEP
-[Sep 22]
-Apollonas        awd Omonia             [awarded 0-2; abandoned at 0-2]
-Alki             1-3 APOP
-Anorthosis       2-1 Ethnikos         
+Date: 9/20/2008
+
+; ENP             ; 2-1; AEK
+; APEP            ; 3-3; Doxa
+
+Date: 9/21/2008
+
+; APOEL           ; 4-0; AEL
+; Atromitos       ; 2-2; AEP
+
+Date: 9/22/2008
+
+*; Apollonas        awd Omonia             [awarded; 0-2;; abandoned at 0-2]
+; Alki            ; 1-3; APOP
+; Anorthosis      ; 2-1; Ethnikos         
 
 Round: 4
-[Sep 27]
-ENP              1-1 Alki
-APOP             1-1 Apollonas
-Omonia           2-0 Atromitos
-AEL              0-2 Anorthosis
-[Sep 28]
-AEP              2-2 APOEL
-Ethnikos         2-2 APEP
-AEK              2-2 Doxa
+Date: 9/27/2008
+
+; ENP             ; 1-1; Alki
+; APOP            ; 1-1; Apollonas
+; Omonia          ; 2-0; Atromitos
+; AEL             ; 0-2; Anorthosis
+
+Date: 9/28/2008
+
+; AEP             ; 2-2; APOEL
+; Ethnikos        ; 2-2; APEP
+; AEK             ; 2-2; Doxa
 
 Round: 5
-[Oct 18]
-Atromitos        0-2 APOP
-Apollonas        4-0 ENP
-Anorthosis       0-0 AEP
-[Oct 19]
-APEP             0-1 AEL
-Doxa             0-0 Ethnikos
-Alki             1-0 AEK
-[Oct 20]
-APOEL            3-2 Omonia
+Date: 10/18/2008
+
+; Atromitos       ; 0-2; APOP
+; Apollonas       ; 4-0; ENP
+; Anorthosis      ; 0-0; AEP
+
+Date: 10/19/2008
+
+; APEP            ; 0-1; AEL
+; Doxa            ; 0-0; Ethnikos
+; Alki            ; 1-0; AEK
+
+Date: 10/20/2008
+
+; APOEL           ; 3-2; Omonia
 
 Round: 6
-[Oct 25]
-ENP              1-0 Atromitos        
-APOP             1-2 APOEL
-Alki             0-3 Apollonas
-[Oct 26]
-AEK              1-1 Ethnikos
-AEP              1-1 APEP
-[Oct 27]
-AEL              2-1 Doxa
-Omonia           4-0 Anorthosis       
+Date: 10/25/2008
+
+; ENP             ; 1-0; Atromitos        
+; APOP            ; 1-2; APOEL
+; Alki            ; 0-3; Apollonas
+
+Date: 10/26/2008
+
+; AEK             ; 1-1; Ethnikos
+; AEP             ; 1-1; APEP
+
+Date: 10/27/2008
+
+; AEL             ; 2-1; Doxa
+; Omonia          ; 4-0; Anorthosis       
 
 Round: 7
-[Oct 31]
-Anorthosis       2-0 APOP
-[Nov 1]
-Atromitos        1-1 Alki
-Apollonas        1-0 AEK
-APOEL            1-0 ENP
-[Nov 2]
-Doxa             1-0 AEP
-APEP             1-3 Omonia
-Ethnikos         3-1 AEL
+Date: 10/31/2008
+
+; Anorthosis      ; 2-0; APOP
+
+Date: 11/1/2008
+
+; Atromitos       ; 1-1; Alki
+; Apollonas       ; 1-0; AEK
+; APOEL           ; 1-0; ENP
+
+Date: 11/2/2008
+
+; Doxa            ; 1-0; AEP
+; APEP            ; 1-3; Omonia
+; Ethnikos        ; 3-1; AEL
 
 Round: 8
-[Nov 8]
-AEK              awd AEL              [awarded 2-0; abandoned at 2-0 in 80']
-Omonia           2-0 Doxa             
-[Nov 9]
-APOP             1-0 APEP             
-Apollonas        2-1 Atromitos        
-ENP              0-3 Anorthosis       
-Alki             1-0 APOEL            
-[Nov 10]
-AEP              0-0 Ethnikos         
+Date: 11/8/2008
+
+*AEK              awd AEL              [awarded 2-0; abandoned at 2-0 in 80']
+; Omonia          ; 2-0; Doxa             
+
+Date: 11/9/2008
+
+; APOP            ; 1-0; APEP             
+; Apollonas       ; 2-1; Atromitos        
+; ENP             ; 0-3; Anorthosis       
+; Alki            ; 1-0; APOEL            
+
+Date: 11/10/2008
+
+; AEP             ; 0-0; Ethnikos         
 
 Round: 9
-[Nov 15]
-APEP             0-0 ENP              
-Atromitos        1-0 AEK              
-APOEL            4-1 Apollonas        
-Ethnikos         2-1 Omonia           
-[Nov 16]
-AEL              2-1 AEP              
-Doxa             2-0 APOP             
-Anorthosis       2-1 Alki
+Date: 11/15/2008
+
+; APEP            ; 0-0; ENP              
+; Atromitos       ; 1-0; AEK              
+; APOEL           ; 4-1; Apollonas        
+; Ethnikos        ; 2-1; Omonia           
+
+Date: 11/16/2008
+
+; AEL             ; 2-1; AEP              
+; Doxa            ; 2-0; APOP             
+; Anorthosis      ; 2-1; Alki
 
 Round: 10
-[Nov 22]
-APOP             1-2 Ethnikos         
-Apollonas        1-2 Anorthosis       
-[Nov 23]
-AEK              1-1 AEP              
-Atromitos        0-1 APOEL            
-ENP              1-1 Doxa             
-Omonia           1-0 AEL              
-[Nov 24]
-Alki             3-1 APEP             
+Date: 11/22/2008
+
+; APOP            ; 1-2; Ethnikos         
+; Apollonas       ; 1-2; Anorthosis       
+
+Date: 11/23/2008
+
+; AEK             ; 1-1; AEP              
+; Atromitos       ; 0-1; APOEL            
+; ENP             ; 1-1; Doxa             
+; Omonia          ; 1-0; AEL              
+
+Date: 11/24/2008
+
+; Alki            ; 3-1; APEP             
 
 Round: 11
-[Nov 29]
-Ethnikos         2-1 ENP
-AEL              1-1 APOP
-Doxa             1-1 Alki
-APOEL            2-0 AEK
-[Nov 30]
-Anorthosis       3-0 Atromitos        
-AEP              2-3 Omonia           
-[Dec 1]
-APEP             1-2 Apollonas        
+Date: 11/29/2008
+
+; Ethnikos        ; 2-1; ENP
+; AEL             ; 1-1; APOP
+; Doxa            ; 1-1; Alki
+; APOEL           ; 2-0; AEK
+
+Date: 11/30/2008
+
+; Anorthosis      ; 3-0; Atromitos        
+; AEP             ; 2-3; Omonia           
+
+Date: 12/1/2008
+
+; APEP            ; 1-2; Apollonas        
 
 Round: 12
-[Dec 5]
-APOEL            1-0 Anorthosis       
-[Dec 6]
-APOP             0-0 AEP
-AEK              2-5 Omonia           
-[Dec 7]
-Apollonas        awd Doxa               [awarded 0-2; abandoned at 1-2]
-Atromitos        1-5 APEP              
-Alki             0-1 Ethnikos         
-ENP              0-3 AEL
+Date: 12/5/2008
+
+; APOEL           ; 1-0; Anorthosis       
+
+Date: 12/6/2008
+
+; APOP            ; 0-0; AEP
+; AEK             ; 2-5; Omonia           
+
+Date: 12/7/2008
+
+*; Apollonas        awd Doxa               [awarded; 0-2;; abandoned at 1-2]
+; Atromitos       ; 1-5; APEP              
+; Alki            ; 0-1; Ethnikos         
+; ENP             ; 0-3; AEL
 
 Round: 13
-[Dec 13]
-AEP              0-2 ENP
-Doxa             2-1 Atromitos        
-APEP             1-1 APOEL
-[Dec 14]
-Ethnikos         1-1 Apollonas        
-Omonia           4-1 APOP
-Anorthosis       1-0 AEK
-[Dec 16]
-AEL              2-2 Alki
+Date: 12/13/2008
+
+; AEP             ; 0-2; ENP
+; Doxa            ; 2-1; Atromitos        
+; APEP            ; 1-1; APOEL
+
+Date: 12/14/2008
+
+; Ethnikos        ; 1-1; Apollonas        
+; Omonia          ; 4-1; APOP
+; Anorthosis      ; 1-0; AEK
+
+Date: 12/16/2008
+
+; AEL             ; 2-2; Alki
 
 Round: 14
-[Dec 20]
-Ethnikos         2-1 Atromitos
-AEK              1-2 APOP
-APEP             1-2 Anorthosis
-[Dec 21]
-AEP              5-2 Alki
-Doxa             0-2 APOEL
-AEL              1-0 Apollonas
-[Dec 22]
-Omonia           7-1 ENP
+Date: 12/20/2008
+
+; Ethnikos        ; 2-1; Atromitos
+; AEK             ; 1-2; APOP
+; APEP            ; 1-2; Anorthosis
+
+Date: 12/21/2008
+
+; AEP             ; 5-2; Alki
+; Doxa            ; 0-2; APOEL
+; AEL             ; 1-0; Apollonas
+
+Date: 12/22/2008
+
+; Omonia          ; 7-1; ENP
 
 Round: 15
-[Dec 27]
-Apollonas        4-1 AEP
-APOEL            3-0 Ethnikos 
-[Dec 28]
-APEP             1-0 AEK
-ENP              1-2 APOP
-Atromitos        0-3 AEL
-Anorthosis       2-0 Doxa
-[Dec 29]
-Alki             0-1 Omonia
+Date: 12/27/2008
+
+; Apollonas       ; 4-1; AEP
+; APOEL           ; 3-0; Ethnikos 
+
+Date: 12/28/2008
+
+; APEP            ; 1-0; AEK
+; ENP             ; 1-2; APOP
+; Atromitos       ; 0-3; AEL
+; Anorthosis      ; 2-0; Doxa
+
+Date: 12/29/2008
+
+; Alki            ; 0-1; Omonia
 
 Round: 16
-[Jan 3]
-Doxa             3-2 APEP
-AEP              1-0 Atromitos
-Ethnikos         0-1 Anorthosis
-AEK              2-2 ENP
-Omonia           1-0 Apollonas
-[Jan 4]
-APOP             1-0 Alki
-AEL              0-1 APOEL
+Date: 1/3/2009
+
+; Doxa            ; 3-2; APEP
+; AEP             ; 1-0; Atromitos
+; Ethnikos        ; 0-1; Anorthosis
+; AEK             ; 2-2; ENP
+; Omonia          ; 1-0; Apollonas
+
+Date: 1/4/2009
+
+; APOP            ; 1-0; Alki
+; AEL             ; 0-1; APOEL
 
 Round: 17
-[Jan 10]
-Doxa             2-2 AEK
-Apollonas        3-1 APOP
-Atromitos        0-5 Omonia
-Anorthosis       2-1 AEL
-[Jan 11]
-Alki             2-1 ENP
-APOEL            4-1 AEP
-[Jan 12]
-APEP             2-2 Ethnikos
+Date: 1/10/2009
+
+; Doxa            ; 2-2; AEK
+; Apollonas       ; 3-1; APOP
+; Atromitos       ; 0-5; Omonia
+; Anorthosis      ; 2-1; AEL
+
+Date: 1/11/2009
+
+; Alki            ; 2-1; ENP
+; APOEL           ; 4-1; AEP
+
+Date: 1/12/2009
+
+; APEP            ; 2-2; Ethnikos
 
 Round: 18
-[Jan 17]
-Ethnikos         2-0 Doxa
-AEP              2-2 Anorthosis
-ENP              0-3 Apollonas
-Omonia           0-1 APOEL
-[Jan 18]
-AEK              1-1 Alki
-APOP             3-1 Atromitos
-[Jan 19]
-AEL              0-0 APEP
+Date: 1/17/2009
+
+; Ethnikos        ; 2-0; Doxa
+; AEP             ; 2-2; Anorthosis
+; ENP             ; 0-3; Apollonas
+; Omonia          ; 0-1; APOEL
+
+Date: 1/18/2009
+
+; AEK             ; 1-1; Alki
+; APOP            ; 3-1; Atromitos
+
+Date: 1/19/2009
+
+; AEL             ; 0-0; APEP
 
 Round: 19
-[Jan 24]
-APEP             0-1 AEP
-Atromitos        1-1 ENP
-APOEL            1-0 APOP
-[Jan 25]
-Doxa             3-2 AEL
-Apollonas        7-1 Alki
-Anorthosis       1-2 Omonia
-[Feb 18]
-Ethnikos         2-1 AEK
+Date: 1/24/2009
+
+; APEP            ; 0-1; AEP
+; Atromitos       ; 1-1; ENP
+; APOEL           ; 1-0; APOP
+
+Date: 1/25/2009
+
+; Doxa            ; 3-2; AEL
+; Apollonas       ; 7-1; Alki
+; Anorthosis      ; 1-2; Omonia
+
+Date: 2/18/2009
+
+; Ethnikos        ; 2-1; AEK
 
 Round: 20
-[Jan 31]
-APOP             0-3 Anorthosis
-Alki             2-2 Atromitos
-ENP              0-1 APOEL
-AEL              2-0 Ethnikos
-[Feb 1]
-AEP              2-1 Doxa
-AEK              1-5 Apollonas
-Omonia           3-0 APEP
+Date: 1/31/2009
+
+; APOP            ; 0-3; Anorthosis
+; Alki            ; 2-2; Atromitos
+; ENP             ; 0-1; APOEL
+; AEL             ; 2-0; Ethnikos
+
+Date: 2/1/2009
+
+; AEP             ; 2-1; Doxa
+; AEK             ; 1-5; Apollonas
+; Omonia          ; 3-0; APEP
 
 Round: 21
-[Feb 7]
-Ethnikos         1-3 AEP
-Doxa             1-2 Omonia
-APOEL            3-1 Alki
-[Feb 8]
-AEL              1-0 AEK
-Atromitos        3-6 Apollonas
-Anorthosis       1-0 ENP
-[Feb 9]
-APEP             0-1 APOP
+Date: 2/7/2009
+
+; Ethnikos        ; 1-3; AEP
+; Doxa            ; 1-2; Omonia
+; APOEL           ; 3-1; Alki
+
+Date: 2/8/2009
+
+; AEL             ; 1-0; AEK
+; Atromitos       ; 3-6; Apollonas
+; Anorthosis      ; 1-0; ENP
+
+Date: 2/9/2009
+
+; APEP            ; 0-1; APOP
 
 Round: 22
-[Feb 14]
-APOP             2-1 Doxa
-ENP              4-0 APEP
-Alki             0-2 Anorthosis       
-[Feb 15]
-Apollonas        0-1 APOEL
-AEK              5-0 Atromitos     
-Omonia           1-0 Ethnikos         
-[Feb 16]
-AEP              0-1 AEL
+Date: 2/14/2009
+
+; APOP            ; 2-1; Doxa
+; ENP             ; 4-0; APEP
+; Alki            ; 0-2; Anorthosis       
+
+Date: 2/15/2009
+
+; Apollonas       ; 0-1; APOEL
+; AEK             ; 5-0; Atromitos     
+; Omonia          ; 1-0; Ethnikos         
+
+Date: 2/16/2009
+
+; AEP             ; 0-1; AEL
 
 Round: 23
-[Feb 21]
-APEP             2-1 Alki
-APOEL            4-0 Atromitos     
-Ethnikos         1-4 APOP
-AEP              0-3 AEK
-Doxa             0-1 ENP
-Anorthosis       2-1 Apollonas
-[Feb 22]
-AEL              0-2 Omonia
+Date: 2/21/2009
+
+; APEP            ; 2-1; Alki
+; APOEL           ; 4-0; Atromitos     
+; Ethnikos        ; 1-4; APOP
+; AEP             ; 0-3; AEK
+; Doxa            ; 0-1; ENP
+; Anorthosis      ; 2-1; Apollonas
+
+Date: 2/22/2009
+
+; AEL             ; 0-2; Omonia
 
 Round: 24
-[Feb 28]
-APOP             1-3 AEL
-Alki             1-2 Doxa
-ENP              0-4 Ethnikos         
-Apollonas        1-1 APEP
-AEK              0-1 APOEL
-[Mar 1]
-Atromitos        1-6 Anorthosis       
-Omonia           0-0 AEP
+Date: 2/28/2009
+
+; APOP            ; 1-3; AEL
+; Alki            ; 1-2; Doxa
+; ENP             ; 0-4; Ethnikos         
+; Apollonas       ; 1-1; APEP
+; AEK             ; 0-1; APOEL
+
+Date: 3/1/2009
+
+; Atromitos       ; 1-6; Anorthosis       
+; Omonia          ; 0-0; AEP
 
 Round: 25
-[Mar 7]
-AEL              1-1 ENP
-Doxa             2-2 Apollonas
-AEP              2-2 APOP
-Ethnikos         2-1 Alki
-[Mar 8]
-APEP             2-1 Atromitos        
-Omonia           4-1 AEK   
-Anorthosis       1-2 APOEL 
+Date: 3/7/2009
 
-Round: 26 [Mar 14]
-ENP              0-0 AEP
-Atromitos        1-5 Doxa
-AEK              1-3 Anorthosis       
-APOEL            4-0 APEP
-APOP             2-0 Omonia           
-Apollonas        2-1 Ethnikos         
-Alki             1-2 AEL
+; AEL             ; 1-1; ENP
+; Doxa            ; 2-2; Apollonas
+; AEP             ; 2-2; APOP
+; Ethnikos        ; 2-1; Alki
+
+Date: 3/8/2009
+
+; APEP            ; 2-1; Atromitos        
+; Omonia          ; 4-1; AEK   
+; Anorthosis      ; 1-2; APOEL 
+
+Round: 26 
+Date: 3/14/2009
+
+; ENP             ; 0-0; AEP
+; Atromitos       ; 1-5; Doxa
+; AEK             ; 1-3; Anorthosis       
+; APOEL           ; 4-0; APEP
+; APOP            ; 2-0; Omonia           
+; Apollonas       ; 2-1; Ethnikos         
+; Alki            ; 1-2; AEL
 
 
 * 1.A.P.O.E.L.       26 22  3  1  53-14  69  [Lefkosia]
@@ -343,152 +458,166 @@ Alki             1-2 AEL
 *14.Atromitos        26  1  4 21  19-69   7  Relegated  [Yeroskipos]
 
 
-Playoffs
+Stage: Playoffs
+Group: A
 
-Group A
+* 1.A.P.O.E.L.       32 26  4  1  62-17  82  Champions  [Lefkosia]
+* 2.Omonia           32 25  1  5  70-22  76  [Lefkosia]
+* 3.Anorthosis       32 21  4  7  52-26  67  [Ammochostos]
+* 4.A.E.L.           32 13  5 14  38-41  44  [Lemesos]
+*NB: match APOEL vs Omonia on May 10 not counted in W-D-L or F-A
+*    columns
 
-Final Table:
+Round: 1 
+Date: 3/22/2009
 
- 1.A.P.O.E.L.       32 26  4  1  62-17  82  Champions  [Lefkosia]
- 2.Omonia           32 25  1  5  70-22  76  [Lefkosia]
- 3.Anorthosis       32 21  4  7  52-26  67  [Ammochostos]
- 4.A.E.L.           32 13  5 14  38-41  44  [Lemesos]
-
-NB: match APOEL vs Omonia on May 10 not counted in W-D-L or F-A
-    columns
-
-Round: 1 [Mar 22]
-AEL              0-1 APOEL
-Anorthosis       0-2 Omonia
+; AEL             ; 0-1; APOEL
+; Anorthosis      ; 0-2; Omonia
 
 Round: 2
-[Apr 5]
-Anorthosis       1-0 AEL              
-[Apr 6]
-Omonia           1-2 APOEL
 
-Round: 3 [Apr 11]
-APOEL            2-0 Anorthosis       
-AEL              2-3 Omonia
+Date: 4/5/2009
+
+; Anorthosis      ; 1-0; AEL              
+
+Date: 4/6/2009
+
+; Omonia          ; 1-2; APOEL
+
+Round: 3 
+Date: 4/11/2009
+
+; APOEL           ; 2-0; Anorthosis       
+; AEL             ; 2-3; Omonia
 
 Round: 4
-[Apr 25]
-Anorthosis       1-1 APOEL
-[Apr 26]
-Omonia           2-0 AEL
+
+Date: 4/25/2009
+
+; Anorthosis      ; 1-1; APOEL
+
+Date: 4/26/2009
+
+; Omonia          ; 2-0; AEL
 
 Round: 25
-[May 1]
-APOEL            3-1 AEL
-[May 2]
-Omonia           1-0 Anorthosis
+
+5/1/2009; APOEL           ; 3-1; AEL
+
+5/2/2009; Omonia          ; 1-0; Anorthosis
 
 Round: 6
-[May 9]
-AEL              1-1 Anorthosis
-[May 10]
-APOEL            abd Omonia             [abandoned at 0-2; match
-                                         no counted in table but
-                                         considered played]
-Final Table:
 
- 1.A.P.O.E.L.       32 26  4  1  62-17  82  Champions  [Lefkosia]
- 2.Omonia           32 25  1  5  70-22  76  [Lefkosia]
- 3.Anorthosis       32 21  4  7  52-26  67  [Ammochostos]
- 4.A.E.L.           32 13  5 14  38-41  44  [Lemesos]
+5/9/2009; AEL             ; 1-1; Anorthosis
 
-NB: match APOEL vs Omonia on May 10 not counted in W-D-L or F-A
-    columns
+*5/10/2009; APOEL            abd Omonia             [abandoned at; 0-2;; match
+*                                         no counted in table but
+*                                         considered played]
 
-Group B
+* 1.A.P.O.E.L.       32 26  4  1  62-17  82  Champions  [Lefkosia]
+* 2.Omonia           32 25  1  5  70-22  76  [Lefkosia]
+* 3.Anorthosis       32 21  4  7  52-26  67  [Ammochostos]
+* 4.A.E.L.           32 13  5 14  38-41  44  [Lemesos]
 
-Final Table:
+*NB: match APOEL vs Omonia on May 10 not counted in W-D-L or F-A
+*    columns
 
- 5.Apollonas        32 17  6  9  68-42  57  [Lemesos]
- 6.Ethnikos         32 13  8 11  47-45  47  [Achna]
- 7.A.P.O.P./Kinyras 32 13  6 13  45-49  39  [-6]  [Peyia]
- 8.Doxa             32 10  8 14  46-51  38  [Katokopia]
+Group: B
 
-NB: APOP/Kinyras 6 points deducted by FIFA sanction
+* 5.Apollonas        32 17  6  9  68-42  57  [Lemesos]
+* 6.Ethnikos         32 13  8 11  47-45  47  [Achna]
+* 7.A.P.O.P./Kinyras 32 13  6 13  45-49  39  [-6]  [Peyia]
+* 8.Doxa             32 10  8 14  46-51  38  [Katokopia]
+*NB: APOP/Kinyras 6 points deducted by FIFA sanction
 
-Round: 1 [Mar 21]
-Doxa             1-1 Apollonas
-Ethnikos         2-2 APOP
+Round: 1 
+Date: 3/21/2009
+
+; Doxa            ; 1-1; Apollonas
+; Ethnikos        ; 2-2; APOP
 
 Round: 2
-[Apr 4]
-Ethnikos         0-2 Doxa             
-[Apr 5]
-APOP             2-2 Apollonas
+Date: 4/4/2009
 
-Round: 3 [Apr 10]
-Apollonas        2-0 Ethnikos         
-Doxa             3-2 APOP
+; Ethnikos        ; 0-2; Doxa             
 
-Round: 4 [Apr 26]
-Ethnikos         2-4 Apollonas       
-APOP             1-0 Doxa             
+Date: 4/5/2009
 
-Round: 25 [May 1]
-Apollonas        3-1 Doxa
-APOP             1-4 Ethnikos 
+; APOP            ; 2-2; Apollonas
+
+Round: 3 
+Date: 4/10/2009
+
+; Apollonas       ; 2-0; Ethnikos         
+; Doxa            ; 3-2; APOP
+
+Round: 4 
+Date: 4/26/2009
+
+; Ethnikos        ; 2-4; Apollonas       
+; APOP            ; 1-0; Doxa             
+
+Round: 25
+
+5/1/2009; Apollonas       ; 3-1; Doxa
+5/1/2009; APOP            ; 1-4; Ethnikos 
 
 Round: 26
-[May 8]
-Doxa             2-5 Ethnikos
-[May 10]
-Apollonas        3-2 APOP
 
-Final Table:
+5/8/2009; Doxa            ; 2-5; Ethnikos
+5/10/2009; Apollonas       ; 3-2; APOP
 
- 5.Apollonas        32 17  6  9  68-42  57  [Lemesos]
- 6.Ethnikos         32 13  8 11  47-45  47  [Achna]
- 7.A.P.O.P./Kinyras 32 13  6 13  45-49  39  [-6]  [Peyia]
- 8.Doxa             32 10  8 14  46-51  38  [Katokopia]
+* 5.Apollonas        32 17  6  9  68-42  57  [Lemesos]
+* 6.Ethnikos         32 13  8 11  47-45  47  [Achna]
+* 7.A.P.O.P./Kinyras 32 13  6 13  45-49  39  [-6]  [Peyia]
+* 8.Doxa             32 10  8 14  46-51  38  [Katokopia]
+*NB: APOP/Kinyras 6 points deducted by FIFA sanction
 
-NB: APOP/Kinyras 6 points deducted by FIFA sanction
+Group: G
 
-Group G
+* 9.A.E.P.           32  7 15 10  39-44  36  [Pafos]
+*10.E.N.P.           32  8  8 16  27-51  32  [Paralimni]
+*11.A.P.E.P.         32  7 10 15  33-51  31  [Pitsilia]
+*------------------------------------------
+*12.Alki             32  6  9 17  39-59  27  Relegated  [Larnaka]
 
-Final Table:
+Round: 1 
+Date: 3/21/2009
 
- 9.A.E.P.           32  7 15 10  39-44  36  [Pafos]
-10.E.N.P.           32  8  8 16  27-51  32  [Paralimni]
-11.A.P.E.P.         32  7 10 15  33-51  31  [Pitsilia]
-------------------------------------------
-12.Alki             32  6  9 17  39-59  27  Relegated  [Larnaka]
+; Alki            ; 1-1; AEP
+; APEP            ; 2-0; ENP
 
-Round: 1 [Mar 21]
-Alki             1-1 AEP
-APEP             2-0 ENP
+Round: 2 
+Date: 4/4/2009
 
-Round: 2 [Apr 4]
-ENP              0-0 AEP
-APEP             0-4 Alki
+; ENP             ; 0-0; AEP
+; APEP            ; 0-4; Alki
 
-Round: 3 [Apr 11]
-AEP              1-1 APEP
-Alki             1-2 ENP
+Round: 3 
+Date: 4/11/2009
 
-Round: 4 [Apr 25]
-ENP              2-1 Alki
-APEP             0-1 AEP
+; AEP             ; 1-1; APEP
+; Alki            ; 1-2; ENP
 
-Round: 5 [May 2]
-AEP              3-4 Alki
-ENP              0-1 APEP
+Round: 4 
+Date: 4/25/2009
 
-Round: 6 [May 9]
-AEP              3-0 ENP
-Alki             1-1 APEP
+; ENP             ; 2-1; Alki
+; APEP            ; 0-1; AEP
 
-Final Table:
+Round: 5
+5/2/2009; AEP             ; 3-4; Alki
+5/2/2009; ENP             ; 0-1; APEP
 
- 9.A.E.P.           32  7 15 10  39-44  36  [Pafos]
-10.E.N.P.           32  8  8 16  27-51  32  [Paralimni]
-11.A.P.E.P.         32  7 10 15  33-51  31  [Pitsilia]
-------------------------------------------
-12.Alki             32  6  9 17  39-59  27  Relegated  [Larnaka]
+Round: 6
+5/9/2009; AEP             ; 3-0; ENP
+5/9/2009; Alki            ; 1-1; APEP
+
+* 9.A.E.P.           32  7 15 10  39-44  36  [Pafos]
+*10.E.N.P.           32  8  8 16  27-51  32  [Paralimni]
+*11.A.P.E.P.         32  7 10 15  33-51  31  [Pitsilia]
+*------------------------------------------
+*12.Alki             32  6  9 17  39-59  27  Relegated  [Larnaka]
 
 
 

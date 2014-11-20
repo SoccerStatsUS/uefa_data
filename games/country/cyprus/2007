@@ -23,300 +23,396 @@ Season: 2007-2008
 *NB: tie-breaker changed from goal difference to head-to-head
 
 Round: 1
-[Sep 1]
-APOP/Kinyras     4-2 Nea Salamina
-Apollonas        4-3 AEL
-AEK              1-0 Aris
-[Sep 2]
-Alki             1-3 Ethnikos Achnas
-APOEL            3-2 Doxa
-[Sep 3]
-ENP              1-2 Anorthosis
-Olympiakos       0-1 Omonia
+Date: 9/1/2007
+
+; APOP/Kinyras    ; 4-2; Nea Salamina
+; Apollonas       ; 4-3; AEL
+; AEK             ; 1-0; Aris
+
+Date: 9/2/2007
+
+; Alki            ; 1-3; Ethnikos Achnas
+; APOEL           ; 3-2; Doxa
+
+Date: 9/3/2007
+
+; ENP             ; 1-2; Anorthosis
+; Olympiakos      ; 0-1; Omonia
 
 Round: 2
-[Sep 15]
-APOP/Kinyras     1-1 ENP             
-Aris             2-5 Alki            
-Anorthosis       1-0 APOEL           
-[Sep 16]
-Doxa             1-0 Apollonas       
-Omonia           3-2 AEK              
-Nea Salamina     2-0 Ethnikos Achnas  
-AEL              3-1 Olympiakos      
+Date: 9/15/2007
+
+; APOP/Kinyras    ; 1-1; ENP             
+; Aris            ; 2-5; Alki            
+; Anorthosis      ; 1-0; APOEL           
+
+Date: 9/16/2007
+
+; Doxa            ; 1-0; Apollonas       
+; Omonia          ; 3-2; AEK              
+; Nea Salamina    ; 2-0; Ethnikos Achnas  
+; AEL             ; 3-1; Olympiakos      
 
 Round: 3
-[Sep 22]
-ENP              1-0 Nea Salamina    
-Olympiakos       2-1 Doxa             
-Ethnikos Achnas  2-0 Aris            
-Alki             2-1 Omonia           
-[Sep 23]
-AEK              2-2 AEL             
-APOEL            4-0 APOP/Kinyras    
-[Sep 24]
-Apollonas        2-2 Anorthosis      
+Date: 9/22/2007
+
+; ENP             ; 1-0; Nea Salamina    
+; Olympiakos      ; 2-1; Doxa             
+; Ethnikos Achnas ; 2-0; Aris            
+; Alki            ; 2-1; Omonia           
+
+Date: 9/23/2007
+
+; AEK             ; 2-2; AEL             
+; APOEL           ; 4-0; APOP/Kinyras    
+
+Date: 9/24/2007
+
+; Apollonas       ; 2-2; Anorthosis      
 
 Round: 4
-[Sep 29]
-ENP              1-0 APOEL           
-APOP/Kinyras     1-0 Apollonas       
-Nea Salamina     0-0 Aris             
-Omonia           2-1 Ethnikos Achnas  
-Anorthosis       1-0 Olympiakos      
-[Sep 30]
-Doxa             3-3 AEK             
-AEL              2-0 Alki            
+Date: 9/29/2007
+
+; ENP             ; 1-0; APOEL           
+; APOP/Kinyras    ; 1-0; Apollonas       
+; Nea Salamina    ; 0-0; Aris             
+; Omonia          ; 2-1; Ethnikos Achnas  
+; Anorthosis      ; 1-0; Olympiakos      
+
+Date: 9/30/2007
+
+; Doxa            ; 3-3; AEK             
+; AEL             ; 2-0; Alki            
 
 Round: 5
-[Oct 6]
-Ethnikos Achnas  2-1 AEL             
-Olympiakos       1-1 APOP/Kinyras    
-Aris             1-2 Omonia          
-[Oct 7]
-Apollonas        3-0 ENP             
-APOEL            3-1 Nea Salamina     
-Alki             1-1 Doxa            
-[Oct 8]
-AEK              1-1 Anorthosis      
+Date: 10/6/2007
+
+; Ethnikos Achnas ; 2-1; AEL             
+; Olympiakos      ; 1-1; APOP/Kinyras    
+; Aris            ; 1-2; Omonia          
+
+Date: 10/7/2007
+
+; Apollonas       ; 3-0; ENP             
+; APOEL           ; 3-1; Nea Salamina     
+; Alki            ; 1-1; Doxa            
+
+Date: 10/8/2007
+
+; AEK             ; 1-1; Anorthosis      
 
 Round: 6
-[Oct 20]
-Doxa             2-1 Ethnikos Achnas 
-ENP              0-1 Olympiakos      
-Nea Salamina     0-2 Omonia          
-[Oct 21]
-APOP/Kinyras     0-1 AEK            
-AEL              0-0 Aris            
-Anorthosis       1-0 Alki    
-APOEL            awd Apollonas            [abandoned at 2-0 at half-time;
-                                           result stood]     
+Date: 10/20/2007
+
+; Doxa            ; 2-1; Ethnikos Achnas 
+; ENP             ; 0-1; Olympiakos      
+; Nea Salamina    ; 0-2; Omonia          
+
+Date: 10/21/2007
+
+; APOP/Kinyras    ; 0-1; AEK            
+; AEL             ; 0-0; Aris            
+; Anorthosis      ; 1-0; Alki    
+*APOEL            awd Apollonas            [abandoned at 2-0 at half-time;
+*                                           result stood]     
+
 Round: 7
-[Oct 27]
-Apollonas        4-1 Nea Salamina    
-Alki             3-1 APOP/Kinyras    
-Ethnikos Achnas  0-1 Anorthosis      
-Omonia           1-0 AEL             
-[Oct 28]
-AEK              1-3 ENP             
-Olympiakos       2-2 APOEL            
-Aris             1-0 Doxa            
+Date: 10/27/2007
+
+; Apollonas       ; 4-1; Nea Salamina    
+; Alki            ; 3-1; APOP/Kinyras    
+; Ethnikos Achnas ; 0-1; Anorthosis      
+; Omonia          ; 1-0; AEL             
+
+Date: 10/28/2007
+
+; AEK             ; 1-3; ENP             
+; Olympiakos      ; 2-2; APOEL            
+; Aris            ; 1-0; Doxa            
 
 Round: 8
-[Nov 3]
-APOP/Kinyras     2-1 Ethnikos Achnas
-Doxa             1-0 Omonia
-ENP              2-1 Alki
-Nea Salamina     0-2 AEL        
-[Nov 4]
-Apollonas        3-2 Olympiakos
-Anorthosis       4-0 Aris
-APOEL            1-0 AEK
+Date: 11/3/2007
+
+; APOP/Kinyras    ; 2-1; Ethnikos Achnas
+; Doxa            ; 1-0; Omonia
+; ENP             ; 2-1; Alki
+; Nea Salamina    ; 0-2; AEL        
+
+Date: 11/4/2007
+
+; Apollonas       ; 3-2; Olympiakos
+; Anorthosis      ; 4-0; Aris
+; APOEL           ; 1-0; AEK
 
 Round: 9
-[Nov 10]
-Aris             1-2 APOP/Kinyras    
-Ethnikos Achnas  0-1 ENP   
-AEK              0-2 Apollonas 
-Omonia           1-1 Anorthosis
-[Nov 11]
-Olympiakos       2-4 Nea Salamina
-AEL              2-1 Doxa 
-Alki             0-4 APOEL            
+Date: 11/10/2007
+
+; Aris            ; 1-2; APOP/Kinyras    
+; Ethnikos Achnas ; 0-1; ENP   
+; AEK             ; 0-2; Apollonas 
+; Omonia          ; 1-1; Anorthosis
+
+Date: 11/11/2007
+
+; Olympiakos      ; 2-4; Nea Salamina
+; AEL             ; 2-1; Doxa 
+; Alki            ; 0-4; APOEL            
 
 Round: 10
-[Nov 24]
-APOP/Kinyras     0-0 Omonia
-Nea Salamina     2-1 Doxa
-ENP              1-0 Aris
-[Nov 25]
-Apollonas        1-0 Alki
-Anorthosis       3-1 AEL        
-APOEL            2-1 Ethnikos Achnas
-[Nov 26]
-Olympiakos       0-2 AEK      
+Date: 11/24/2007
+
+; APOP/Kinyras    ; 0-0; Omonia
+; Nea Salamina    ; 2-1; Doxa
+; ENP             ; 1-0; Aris
+
+Date: 11/25/2007
+
+; Apollonas       ; 1-0; Alki
+; Anorthosis      ; 3-1; AEL        
+; APOEL           ; 2-1; Ethnikos Achnas
+
+Date: 11/26/2007
+
+; Olympiakos      ; 0-2; AEK      
 
 Round: 11
-[Dec 1]
-Doxa             1-1 Anorthosis
-AEL              0-2 APOP/Kinyras   
-Ethnikos Achnas  2-1 Apollonas 
-Omonia           0-1 ENP
-[Dec 2]
-AEK              2-2 Nea Salamina
-Aris             2-2 APOEL
-[Dec 3]
-Alki             5-0 Olympiakos
+Date: 12/1/2007
+; Doxa            ; 1-1; Anorthosis
+; AEL             ; 0-2; APOP/Kinyras   
+; Ethnikos Achnas ; 2-1; Apollonas 
+; Omonia          ; 0-1; ENP
+
+Date: 12/2/2007
+
+; AEK             ; 2-2; Nea Salamina
+; Aris            ; 2-2; APOEL
+
+Date: 12/3/2007
+
+; Alki            ; 5-0; Olympiakos
 
 Round: 12
-[Dec 8]
-Apollonas        2-1 Aris
-APOP/Kinyras     3-1 Doxa 
-ENP              1-1 AEL
-APOEL            1-0 Omonia
-[Dec 9]
-Olympiakos       1-0 Ethnikos Achnas
-AEK              2-0 Alki
-Nea Salamina     0-4 Anorthosis
+Date: 12/8/2007
+
+; Apollonas       ; 2-1; Aris
+; APOP/Kinyras    ; 3-1; Doxa 
+; ENP             ; 1-1; AEL
+; APOEL           ; 1-0; Omonia
+
+Date: 12/9/2007
+
+; Olympiakos      ; 1-0; Ethnikos Achnas
+; AEK             ; 2-0; Alki
+; Nea Salamina    ; 0-4; Anorthosis
 
 Round: 13
-[Dec 15]
-Alki             4-1 Nea Salamina
-Doxa             2-2 ENP
-AEL              1-1 APOEL
-[Dec 16]
-Aris             3-0 Olympiakos
-Anorthosis       3-1 APOP/Kinyras   
-Omonia           1-1 Apollonas 
-[Dec 17]
-Ethnikos Achnas  0-2 AEK 
+Date: 12/15/2007
+
+; Alki            ; 4-1; Nea Salamina
+; Doxa            ; 2-2; ENP
+; AEL             ; 1-1; APOEL
+
+Date: 12/16/2007
+
+; Aris            ; 3-0; Olympiakos
+; Anorthosis      ; 3-1; APOP/Kinyras   
+; Omonia          ; 1-1; Apollonas 
+
+Date: 12/17/2007
+
+; Ethnikos Achnas ; 0-2; AEK 
 
 Round: 14
-[Dec 22]
-Ethnikos Achnas  1-1 Alki
-Nea Salamina     1-1 APOP/Kinyras
-Omonia           2-0 Olympiakos
-Doxa             2-2 APOEL
-AEL              0-0 Apollonas 
-[Dec 23]
-Aris             2-3 AEK
-Anorthosis       1-0 ENP
+Date: 12/22/2007
+
+; Ethnikos Achnas ; 1-1; Alki
+; Nea Salamina    ; 1-1; APOP/Kinyras
+; Omonia          ; 2-0; Olympiakos
+; Doxa            ; 2-2; APOEL
+; AEL             ; 0-0; Apollonas 
+
+Date: 12/23/2007
+
+; Aris            ; 2-3; AEK
+; Anorthosis      ; 1-0; ENP
 
 Round: 15
-[Jan 5]
-Ethnikos Achnas  5-0 Nea Salamina
-Apollonas        2-2 Doxa
-AEK              1-0 Omonia
-APOEL            0-1 Anorthosis
-[Jan 6]
-ENP              0-2 APOP/Kinyras
-Olympiakos       1-2 AEL
-Alki             1-1 Aris
+Date: 1/5/2008
+
+; Ethnikos Achnas ; 5-0; Nea Salamina
+; Apollonas       ; 2-2; Doxa
+; AEK             ; 1-0; Omonia
+; APOEL           ; 0-1; Anorthosis
+
+Date: 1/6/2008
+
+; ENP             ; 0-2; APOP/Kinyras
+; Olympiakos      ; 1-2; AEL
+; Alki            ; 1-1; Aris
 
 Round: 16
-[Jan 12]
-Aris             0-1 Ethnikos Achnas
-APOP/Kinyras     1-1 APOEL
-Anorthosis       1-1 Apollonas 
-[Jan 13]
-Nea Salamina     1-1 ENP
-Doxa             2-0 Olympiakos
-AEL              0-2 AEK
-[Jan 14]
-Omonia           3-0 Alki
+Date: 1/12/2008
+
+; Aris            ; 0-1; Ethnikos Achnas
+; APOP/Kinyras    ; 1-1; APOEL
+; Anorthosis      ; 1-1; Apollonas 
+
+Date: 1/13/2008
+
+; Nea Salamina    ; 1-1; ENP
+; Doxa            ; 2-0; Olympiakos
+; AEL             ; 0-2; AEK
+
+Date: 1/14/2008
+
+; Omonia          ; 3-0; Alki
 
 Round: 17
-[Jan 19]
-Aris             1-0 Nea Salamina
-Alki             2-0 AEL
-Olympiakos       0-1 Anorthosis
-AEK              1-2 Doxa
-Ethnikos Achnas  1-2 Omonia
-[Jan 20]
-Apollonas        2-0 APOP/Kinyras
-APOEL            0-1 ENP
+Date: 1/19/2008
+
+; Aris            ; 1-0; Nea Salamina
+; Alki            ; 2-0; AEL
+; Olympiakos      ; 0-1; Anorthosis
+; AEK             ; 1-2; Doxa
+; Ethnikos Achnas ; 1-2; Omonia
+
+Date: 1/20/2008
+
+; Apollonas       ; 2-0; APOP/Kinyras
+; APOEL           ; 0-1; ENP
 
 Round: 18
-[Jan 26]
-Omonia           0-0 Aris
-ENP              2-2 Apollonas 
-APOP/Kinyras     3-1 Olympiakos
-Nea Salamina     1-3 APOEL
-[Jan 27]
-Doxa             1-0 Alki
-Anorthosis       2-1 AEK
-[Jan 28]
-AEL              1-2 Ethnikos Achnas
+Date: 1/26/2008
+
+; Omonia          ; 0-0; Aris
+; ENP             ; 2-2; Apollonas 
+; APOP/Kinyras    ; 3-1; Olympiakos
+; Nea Salamina    ; 1-3; APOEL
+
+Date: 1/27/2008
+
+; Doxa            ; 1-0; Alki
+; Anorthosis      ; 2-1; AEK
+
+Date: 1/28/2008
+
+; AEL             ; 1-2; Ethnikos Achnas
 
 Round: 19
-[Feb 2]
-Ethnikos Achnas  3-1 Doxa
-Apollonas        awd APOEL                [awarded 0-2; abandoned at
-Alki             0-0 Anorthosis            2-2 in 90']
-Omonia           3-0 Nea Salamina
-[Feb 3]
-Olympiakos       2-2 ENP
-AEK              1-1 APOP/Kinyras  
-Aris             2-1 AEL
+Date: 2/2/2008
+
+; Ethnikos Achnas ; 3-1; Doxa
+*Apollonas        awd APOEL                [awarded 0-2; abandoned at 2-2 in 90']
+; Alki            ; 0-0; Anorthosis            
+; Omonia          ; 3-0; Nea Salamina
+
+Date: 2/3/2008
+
+; Olympiakos      ; 2-2; ENP
+; AEK             ; 1-1; APOP/Kinyras  
+; Aris            ; 2-1; AEL
 
 Round: 20
-[Feb 9]
-APOP/Kinyras     5-3 Alki
-Anorthosis       5-1 Ethnikos Achnas 
-[Feb 10]
-Doxa             2-1 Aris
-ENP              0-1 AEK
-AEL              1-1 Omonia
-Nea Salamina     0-0 Apollonas 
-APOEL            4-0 Olympiakos
+Date: 2/9/2008
+
+; APOP/Kinyras    ; 5-3; Alki
+; Anorthosis      ; 5-1; Ethnikos Achnas 
+
+Date: 2/10/2008
+
+; Doxa            ; 2-1; Aris
+; ENP             ; 0-1; AEK
+; AEL             ; 1-1; Omonia
+; Nea Salamina    ; 0-0; Apollonas 
+; APOEL           ; 4-0; Olympiakos
 
 Round: 21
-[Feb 13]
-Ethnikos Achnas  2-1 APOP/Kinyras
-AEL              1-0 Nea Salamina  
-Olympiakos       2-2 Apollonas 
-AEK              0-3 APOEL
-[Feb 14]
-Alki             abd ENP                  [abandoned at 0-1 in 84' due
-Omonia           2-1 Doxa                  to floodlight failure]
-Aris             0-0 Anorthosis
-[Feb 19]
-Alki             0-1 ENP
+Date: 2/13/2008
+
+; Ethnikos Achnas ; 2-1; APOP/Kinyras
+; AEL             ; 1-0; Nea Salamina  
+; Olympiakos      ; 2-2; Apollonas 
+; AEK             ; 0-3; APOEL
+
+Date: 2/14/2008
+
+*Alki             abd ENP                  [abandoned at 0-1 in 84' due to floodlight failure]
+; Omonia          ; 2-1; Doxa                  
+; Aris            ; 0-0; Anorthosis
+
+Date: 2/19/2008
+
+; Alki            ; 0-1; ENP
 
 Round: 22
-[Feb 26]
-Nea Salamina     4-2 Olympiakos
-Apollonas        2-0 AEK
-APOEL            3-0 Alki
-APOP/Kinyras     1-0 Aris
-[Feb 27]
-ENP              0-2 Ethnikos Achnas
-Doxa             2-1 AEL
-Anorthosis       2-0 Omonia
+Date: 2/26/2008
+
+; Nea Salamina    ; 4-2; Olympiakos
+; Apollonas       ; 2-0; AEK
+; APOEL           ; 3-0; Alki
+; APOP/Kinyras    ; 1-0; Aris
+
+Date: 2/27/2008
+
+; ENP             ; 0-2; Ethnikos Achnas
+; Doxa            ; 2-1; AEL
+; Anorthosis      ; 2-0; Omonia
 
 Round: 23
-[Mar 1]
-Aris             2-1 ENP
-Alki             1-0 Apollonas   
-Ethnikos Achnas  0-2 APOEL
-AEK              2-1 Olympiakos 
-Omonia           1-0 APOP/Kinyras
-[Mar 2]
-Doxa             2-3 Nea Salamina
-AEL              1-2 Anorthosis
+Date: 3/1/2008
+
+; Aris            ; 2-1; ENP
+; Alki            ; 1-0; Apollonas   
+; Ethnikos Achnas ; 0-2; APOEL
+; AEK             ; 2-1; Olympiakos 
+; Omonia          ; 1-0; APOP/Kinyras
+
+Date: 3/2/2008
+
+; Doxa            ; 2-3; Nea Salamina
+; AEL             ; 1-2; Anorthosis
 
 Round: 24
-[Mar 8]
-APOP/Kinyras     0-1 AEL
-Apollonas        2-1 Ethnikos Achnas
-APOEL            3-0 Aris
-ENP              1-3 Omonia
-Anorthosis       2-1 Doxa
-[Mar 9]
-Olympiakos       1-1 Alki
-Nea Salamina     2-0 AEK
+Date: 3/8/2008
+
+; APOP/Kinyras    ; 0-1; AEL
+; Apollonas       ; 2-1; Ethnikos Achnas
+; APOEL           ; 3-0; Aris
+; ENP             ; 1-3; Omonia
+; Anorthosis      ; 2-1; Doxa
+
+Date: 3/9/2008
+
+; Olympiakos      ; 1-1; Alki
+; Nea Salamina    ; 2-0; AEK
 
 Round: 25
-[Mar 15]
-Doxa             2-2 APOP/Kinyras     
-Aris             3-1 Apollonas        
-Anorthosis       5-0 Nea Salamina    
-Ethnikos Achnas  2-1 Olympiakos    
-Alki             0-2 AEK
-Omonia           2-1 APOEL
-[Mar 16]
-AEL              1-4 ENP
+Date: 3/15/2008
+
+; Doxa            ; 2-2; APOP/Kinyras     
+; Aris            ; 3-1; Apollonas        
+; Anorthosis      ; 5-0; Nea Salamina    
+; Ethnikos Achnas ; 2-1; Olympiakos    
+; Alki            ; 0-2; AEK
+; Omonia          ; 2-1; APOEL
+
+Date: 3/16/2008
+
+; AEL             ; 1-4; ENP
 
 Round: 26
-[Mar 22]
-Olympiakos       0-1 Aris
-Nea Salamina     1-1 Alki
-[Mar 23]
-AEK              1-0 Ethnikos Achnas
-ENP              0-1 Doxa
-APOP/Kinyras     0-2 Anorthosis       
-Apollonas        3-3 Omonia
-APOEL            2-0 AEL
+Date: 3/22/2008
+
+; Olympiakos      ; 0-1; Aris
+; Nea Salamina    ; 1-1; Alki
+
+Date: 3/23/2008
+
+; AEK             ; 1-0; Ethnikos Achnas
+; ENP             ; 0-1; Doxa
+; APOP/Kinyras    ; 0-2; Anorthosis       
+; Apollonas       ; 3-3; Omonia
+; APOEL           ; 2-0; AEL
 
 
 * 1.Anorthosis       26 19  7  0  49-13  64  [Ammochostos]
@@ -339,119 +435,153 @@ APOEL            2-0 AEL
 *
 *NB: tie-breaker changed from goal difference to head-to-head
 
-Playoffs
+Stage: Playoffs
+Group: A
+Round: 27 
+Date: 3/29/2008
 
-Group A
-
-Round: 27 [Mar 29]
-AEK              2-2 Anorthosis
-Omonia           1-2 APOEL 
+; AEK             ; 2-2; Anorthosis
+; Omonia          ; 1-2; APOEL 
 
 Round: 28
-[Apr 5]
-Omonia           0-0 AEK
-[Apr 6]
-APOEL            1-1 Anorthosis
+
+Date: 4/5/2008
+
+; Omonia          ; 0-0; AEK
+
+Date: 4/6/2008
+
+; APOEL           ; 1-1; Anorthosis
 
 Round: 29 
-[Apr 12]
-AEK              1-0 APOEL
-[Apr 13]
-Anorthosis       0-0 Omonia
+Date: 4/12/2008
+
+; AEK             ; 1-0; APOEL
+
+Date: 4/13/2008
+
+; Anorthosis      ; 0-0; Omonia
 
 Round: 30 
-[Apr 19]
-Omonia           0-0 Anorthosis
-[Apr 20]
-APOEL            2-1 AEK
+Date: 4/19/2008
 
-Round: 31 [May 3]
-Anorthosis       3-3 AEK
-APOEL            2-2 Omonia
+; Omonia          ; 0-0; Anorthosis
 
-Round: 32 [May 10]
-AEK              5-3 Omonia
-Anorthosis       3-0 APOEL
+Date: 4/20/2008
 
-Final Table:
+; APOEL           ; 2-1; AEK
 
- 1.Anorthosis       32 20 12  0  58-19  72  Champions  [Ammochostos]
- 2.A.P.O.E.L.       32 18  7  7  58-28  61  [Lefkosia]
- 3.Omonia           32 14 10  8  42-31  52  [Lefkosia]
- 4.A.E.K.           32 14  8 10  46-42  50  [Larnaka]
+Round: 31 
+Date: 5/3/2008
 
-Group B
-
-Round: 27 [Mar 29]
-ENP              4-3 APOP/Kinyras
-Ethnikos         1-1 Apollonas 
-
-Round: 28 [Apr 5]
-ENP              1-1 Ethnikos Achnas
-APOP/Kinyras     1-2 Apollonas
-
-Round: 29 
-[Apr 12]
-Ethnikos Achnas  2-2 APOP/Kinyras 
-[Apr 13]
-Apollonas        4-1 ENP
-
-Round: 30 [Apr 19]
-APOP/Kinyras     1-0 Ethnikos Achnas
-ENP              1-0 Apollonas
-
-Round: 31 [May 3]
-Apollonas        0-2 Ethnikos Achnas
-APOP/Kinyras     3-4 ENP
+; Anorthosis      ; 3-3; AEK
+; APOEL           ; 2-2; Omonia
 
 Round: 32 
-[May 10]
-Ethnikos Achnas  4-3 ENP
-[May 11]
-Apollonas        2-2 APOP/Kinyras
+Date: 5/10/2008
 
-Final Table:
+; AEK             ; 5-3; Omonia
+; Anorthosis      ; 3-0; APOEL
 
- 5.Apollonas        32 12 11  9  49-41  47  [Lemesos]
- 6.E.N.P.           32 13  7 12  42-45  46  [Paralimni]
- 7.Ethnikos         32 13  4 15  44-43  43  [Achna]
- 8.A.P.O.P./Kinyras 32 11  9 12  47-49  42  [Peyia]
+* 1.Anorthosis       32 20 12  0  58-19  72  Champions  [Ammochostos]
+* 2.A.P.O.E.L.       32 18  7  7  58-28  61  [Lefkosia]
+* 3.Omonia           32 14 10  8  42-31  52  [Lefkosia]
+* 4.A.E.K.           32 14  8 10  46-42  50  [Larnaka]
 
-Group G
-
+Group: B
 Round: 27 
-[Mar 29]
-AEL              2-2 Doxa
-[Mar 30]
-Aris             1-2 Alki
+Date: 3/29/2008
 
-Round: 28 [Apr 5]
-Aris             0-2 AEL
-Alki             1-0 Doxa 
+; ENP             ; 4-3; APOP/Kinyras
+; Ethnikos        ; 1-1; Apollonas 
 
-Round: 29 [Apr 12]
-AEL              1-0 Alki
-Doxa             2-0 Aris
+Round: 28 
+Date: 4/5/2008
 
-Round: 30 [Apr 19]
-Alki             2-1 AEL
-Aris             3-0 Doxa
+; ENP             ; 1-1; Ethnikos Achnas
+; APOP/Kinyras    ; 1-2; Apollonas
 
-Round: 31 [May 3]
-Doxa             1-2 AEL
-Alki             4-1 Aris
+Round: 29 
+Date: 4/12/2008
 
-Round: 32 [May 10]
-AEL              3-2 Aris
-Doxa             0-0 Alki
+; Ethnikos Achnas ; 2-2; APOP/Kinyras 
 
-Final Table:
+Date: 4/13/2008
 
- 9.A.E.L.           32 11  7 14  39-45  40  [4 2 0 2 4-4 6, 1ag]  [Lemesos]
-10.Alki             32 11  7 14  41-44  40  [4 2 0 2 4-4 6, 0ag]  [Larnaka]
-11.Doxa             32 10  9 13  43-48  39  [Katokopia]
-------------------------------------------
-12.Aris             32  8  6 18  31-48  30  Relegated  [Lemesos]
+; Apollonas       ; 4-1; ENP
+
+Round: 30 
+Date: 4/19/2008
+
+; APOP/Kinyras    ; 1-0; Ethnikos Achnas
+; ENP             ; 1-0; Apollonas
+
+Round: 31 
+Date: 5/3/2008
+
+; Apollonas       ; 0-2; Ethnikos Achnas
+; APOP/Kinyras    ; 3-4; ENP
+
+Round: 32 
+
+Date: 5/10/2008
+
+; Ethnikos Achnas ; 4-3; ENP
+
+Date: 5/11/2008
+
+; Apollonas       ; 2-2; APOP/Kinyras
+
+* 5.Apollonas        32 12 11  9  49-41  47  [Lemesos]
+* 6.E.N.P.           32 13  7 12  42-45  46  [Paralimni]
+* 7.Ethnikos         32 13  4 15  44-43  43  [Achna]
+* 8.A.P.O.P./Kinyras 32 11  9 12  47-49  42  [Peyia]
+
+Group: G
+Round: 27 
+Date: 3/29/2008
+
+; AEL             ; 2-2; Doxa
+
+Date: 3/30/2008
+
+; Aris            ; 1-2; Alki
+
+Round: 28 
+Date: 4/5/2008
+
+; Aris            ; 0-2; AEL
+; Alki            ; 1-0; Doxa 
+
+Round: 29 
+Date: 4/12/2008
+
+; AEL             ; 1-0; Alki
+; Doxa            ; 2-0; Aris
+
+Round: 30 
+Date: 4/19/2008
+
+; Alki            ; 2-1; AEL
+; Aris            ; 3-0; Doxa
+
+Round: 31 
+Date: 5/3/2008
+
+; Doxa            ; 1-2; AEL
+; Alki            ; 4-1; Aris
+
+Round: 32 
+Date: 5/10/2008
+
+; AEL             ; 3-2; Aris
+; Doxa            ; 0-0; Alki
+
+* 9.A.E.L.           32 11  7 14  39-45  40  [4 2 0 2 4-4 6, 1ag]  [Lemesos]
+*10.Alki             32 11  7 14  41-44  40  [4 2 0 2 4-4 6, 0ag]  [Larnaka]
+*11.Doxa             32 10  9 13  43-48  39  [Katokopia]
+*------------------------------------------
+*12.Aris             32  8  6 18  31-48  30  Relegated  [Lemesos]
 
 
 

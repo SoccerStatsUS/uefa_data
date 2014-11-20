@@ -20,268 +20,328 @@ Competition: League of Ireland
 *12.Home Farm Everton         33  3 10 20 26-53 19  Relegated
 
 Round: 1
-Bohemians   1-0 Cork C
-Dundalk     1-0 St Pats
-Finn Harps  0-1 Derry C
-Home Farm   1-1 Bray W
-Shamrock R  0-2 Shelbourne  
-Sligo R     2-1 UCD
+
+; Bohemians  ; 1-0; Cork C
+; Dundalk    ; 1-0; St Pats
+; Finn Harps ; 0-1; Derry C
+; Home Farm  ; 1-1; Bray W
+; Shamrock R ; 0-2; Shelbourne  
+; Sligo R    ; 2-1; UCD
 
 Round: 2
-Bray W      1-0 Dundalk
-Cork C      1-2 Sligo R
-Derry C     3-1 Home Farm
-St Pats     0-0 Shamrock R
-Shelbourne  0-1 Bohemians
-UCD         4-0 Finn Harps
+
+; Bray W     ; 1-0; Dundalk
+; Cork C     ; 1-2; Sligo R
+; Derry C    ; 3-1; Home Farm
+; St Pats    ; 0-0; Shamrock R
+; Shelbourne ; 0-1; Bohemians
+; UCD        ; 4-0; Finn Harps
 
 Round: 3
-Bohemians   2-1 St Pats
-Dundalk     2-4 Derry C
-Finn Harps  3-2 Home Farm
-Shamrock R  2-0 Bray W
-Sligo R     1-1 Shelbourne
-UCD         2-1 Cork C
+
+; Bohemians  ; 2-1; St Pats
+; Dundalk    ; 2-4; Derry C
+; Finn Harps ; 3-2; Home Farm
+; Shamrock R ; 2-0; Bray W
+; Sligo R    ; 1-1; Shelbourne
+; UCD        ; 2-1; Cork C
 
 Round: 4
-Bray W      1-5 Bohemians
-Cork C      0-1 Finn Harps
-Derry C     1-0 Shamrock R
-Home Farm   0-0 Dundalk
-St Pats     2-2 Sligo R
-Shelbourne  1-0 UCD
+
+; Bray W     ; 1-5; Bohemians
+; Cork C     ; 0-1; Finn Harps
+; Derry C    ; 1-0; Shamrock R
+; Home Farm  ; 0-0; Dundalk
+; St Pats    ; 2-2; Sligo R
+; Shelbourne ; 1-0; UCD
 
 Round: 5
-Bohemians   1-1 Derry C
-Cork C      3-1 Shelbourne
-Finn Harps  5-0 Dundalk
-Shamrock R  2-1 Home Farm
-Sligo R     3-2 Bray W
-UCD         0-1 St Pats
+
+; Bohemians  ; 1-1; Derry C
+; Cork C     ; 3-1; Shelbourne
+; Finn Harps ; 5-0; Dundalk
+; Shamrock R ; 2-1; Home Farm
+; Sligo R    ; 3-2; Bray W
+; UCD        ; 0-1; St Pats
 
 Round: 6
-Derry C     0-0 Sligo R
-Dundalk     4-1 Shamrock R
-Home Farm   0-3 Bohemians
-St Pats     1-1 Cork C
-Shelbourne  1-2 Finn Harps
-Bray W      0-2 UCD
+
+; Derry C    ; 0-0; Sligo R
+; Dundalk    ; 4-1; Shamrock R
+; Home Farm  ; 0-3; Bohemians
+; St Pats    ; 1-1; Cork C
+; Shelbourne ; 1-2; Finn Harps
+; Bray W     ; 0-2; UCD
 
 Round: 7
-Bohemians   3-0 Dundalk
-Shelbourne  0-1 St Pats
-Finn Harps  0-0 Shamrock R
-Sligo R     0-0 Home Farm
-Cork C      3-1 Bray W
-UCD         1-0 Derry C
+
+; Bohemians  ; 3-0; Dundalk
+; Shelbourne ; 0-1; St Pats
+; Finn Harps ; 0-0; Shamrock R
+; Sligo R    ; 0-0; Home Farm
+; Cork C     ; 3-1; Bray W
+; UCD        ; 1-0; Derry C
 
 Round: 8
-Dundalk     2-1 Sligo R
-St Pats     2-0 Finn Harps
-Shamrock R  3-2 Bohemians 
-Derry C     0-1 Cork C
-Home Farm   0-1 UCD
-Bray W      0-4 Shelbourne
+
+; Dundalk    ; 2-1; Sligo R
+; St Pats    ; 2-0; Finn Harps
+; Shamrock R ; 3-2; Bohemians 
+; Derry C    ; 0-1; Cork C
+; Home Farm  ; 0-1; UCD
+; Bray W     ; 0-4; Shelbourne
 
 Round: 9
-St Pats     2-2 Bray W
-Shelbourne  2-2 Derry C
-Finn Harps  2-2 Bohemians
-Sligo R     3-0 Shamrock R
-Cork C      2-1 Home Farm
-UCD         1-0 Dundalk 
+
+; St Pats    ; 2-2; Bray W
+; Shelbourne ; 2-2; Derry C
+; Finn Harps ; 2-2; Bohemians
+; Sligo R    ; 3-0; Shamrock R
+; Cork C     ; 2-1; Home Farm
+; UCD        ; 1-0; Dundalk 
 
 Round: 10
-Bray W      0-1 Finn Harps
-Dundalk     0-1 Cork C
-Shamrock R  1-1 UCD
-Bohemians   0-2 Sligo R
-Derry C     1-1 St Pats
-Home Farm   0-3 Shelbourne
+
+; Bray W     ; 0-1; Finn Harps
+; Dundalk    ; 0-1; Cork C
+; Shamrock R ; 1-1; UCD
+; Bohemians  ; 0-2; Sligo R
+; Derry C    ; 1-1; St Pats
+; Home Farm  ; 0-3; Shelbourne
 
 Round: 11
-Bray W      2-3 Derry C
-Cork C      0-1 Shamrock R
-Finn Harps  1-1 Sligo R
-St Pats     1-2 Home Farm
-Shelbourne  2-1 Dundalk
-UCD         0-2 Bohemians
+
+; Bray W     ; 2-3; Derry C
+; Cork C     ; 0-1; Shamrock R
+; Finn Harps ; 1-1; Sligo R
+; St Pats    ; 1-2; Home Farm
+; Shelbourne ; 2-1; Dundalk
+; UCD        ; 0-2; Bohemians
 
 Round: 12
-Bohemians   1-0 UCD  
-Dundalk     0-1 Shelbourne
-Derry C     5-1 Bray W
-Shamrock R  0-1 Cork C
-Sligo R     0-2 Finn Harps
-Home Farm   0-2 St Pats
+
+; Bohemians  ; 1-0; UCD  
+; Dundalk    ; 0-1; Shelbourne
+; Derry C    ; 5-1; Bray W
+; Shamrock R ; 0-1; Cork C
+; Sligo R    ; 0-2; Finn Harps
+; Home Farm  ; 0-2; St Pats
 
 Round: 13
-Cork C      0-0 Bohemians
-Derry C     3-0 Finn Harps
-St Pats     2-2 Dundalk
-Shelbourne  2-0 Shamrock R
-UCD         1-1 Sligo R
-Bray W      1-0 Home Farm    [Dec 31]
+
+; Cork C     ; 0-0; Bohemians
+; Derry C    ; 3-0; Finn Harps
+; St Pats    ; 2-2; Dundalk
+; Shelbourne ; 2-0; Shamrock R
+; UCD        ; 1-1; Sligo R
+12/31/1996; Bray W     ; 1-0; Home Farm    
 
 Round: 14
-Bohemians   1-1 Shelbourne
-Dundalk     2-1 Bray W
-Shamrock R  0-1 St Pats
-Finn Harps  5-1 UCD
-Sligo R     1-4 Cork C
-Home Farm   0-2 Derry C
+
+; Bohemians  ; 1-1; Shelbourne
+; Dundalk    ; 2-1; Bray W
+; Shamrock R ; 0-1; St Pats
+; Finn Harps ; 5-1; UCD
+; Sligo R    ; 1-4; Cork C
+; Home Farm  ; 0-2; Derry C
 
 Round: 15
-Bray W      3-4 Shamrock R
-Cork C      1-0 UCD
-Derry C     5-2 Dundalk
-Home Farm   2-3 Finn Harps
-St Pats     5-0 Bohemians
-Shelbourne  3-0 Sligo R
+
+; Bray W     ; 3-4; Shamrock R
+; Cork C     ; 1-0; UCD
+; Derry C    ; 5-2; Dundalk
+; Home Farm  ; 2-3; Finn Harps
+; St Pats    ; 5-0; Bohemians
+; Shelbourne ; 3-0; Sligo R
 
 Round: 16
-Dundalk     2-1 Home Farm
-Finn Harps  0-1 Cork C
-Sligo R     2-0 St Pats
-Bohemians   1-0 Bray W
-Shamrock R  1-1 Derry C
-UCD         1-3 Shelbourne
+
+; Dundalk    ; 2-1; Home Farm
+; Finn Harps ; 0-1; Cork C
+; Sligo R    ; 2-0; St Pats
+; Bohemians  ; 1-0; Bray W
+; Shamrock R ; 1-1; Derry C
+; UCD        ; 1-3; Shelbourne
 
 Round: 17
-Dundalk     1-1 Finn Harps
-St Pats     1-1 UCD
-Shelbourne  3-3 Cork C
-Derry C     1-0 Bohemians
-Home Farm   0-0 Shamrock R
-Bray W      2-2 Sligo R
+
+; Dundalk    ; 1-1; Finn Harps
+; St Pats    ; 1-1; UCD
+; Shelbourne ; 3-3; Cork C
+; Derry C    ; 1-0; Bohemians
+; Home Farm  ; 0-0; Shamrock R
+; Bray W     ; 2-2; Sligo R
 
 Round: 18
-Bohemians   1-1 Home Farm 
-Cork C      1-1 St Pats  
-UCD         2-1 Bray W
-Sligo R     0-1 Derry C
-Shamrock R  0-2 Dundalk
-Finn Harps  3-2 Shelbourne   [Apr 15]
+
+; Bohemians  ; 1-1; Home Farm 
+; Cork C     ; 1-1; St Pats  
+; UCD        ; 2-1; Bray W
+; Sligo R    ; 0-1; Derry C
+; Shamrock R ; 0-2; Dundalk
+4/15/1997; Finn Harps ; 3-2; Shelbourne 
 
 Round: 19
-Dundalk     0-2 Bohemians
-St Pats     1-1 Shelbourne 
-Shamrock R  2-2 Finn Harps   [Feb 4]
-Home Farm   0-0 Sligo R 
-Bray W      0-0 Cork C   
-Derry C     5-0 UCD          [Feb 11]
 
-Round: 20 [Jan 18,19]
-Bohemians   1-1 Shamrock R
-Cork C      0-1 Derry C
-Finn Harps  0-1 St Pats
-Shelbourne  1-0 Bray W
-Sligo R     2-1 Dundalk
-UCD         0-0 Home Farm
+; Dundalk    ; 0-2; Bohemians
+; St Pats    ; 1-1; Shelbourne 
+2/4/1997; Shamrock R ; 2-2; Finn Harps   
+; Home Farm  ; 0-0; Sligo R 
+; Bray W     ; 0-0; Cork C   
+2/11/1997; Derry C    ; 5-0; UCD         
 
-Round: 21 [Jan 24,25,26]
-Bohemians   3-1 Finn Harps
-Dundalk     2-2 UCD 
-Home Farm   0-2 Cork C
-Derry C     2-2 Shelbourne
-Bray W      0-1 St Pats
-Shamrock R  2-1 Sligo R
+Round: 20 
+*[Jan 18,19]
+Date: 1/18/1997
 
-Round: 22 [Jan 31, Feb 1,2]
-St Pats     1-1 Derry C
-Finn Harps  0-0 Bray W
-Shelbourne  2-0 Home Farm
-Sligo R     2-1 Bohemians
-Cork C      0-0 Dundalk
-UCD         1-0 Shamrock R
+; Bohemians  ; 1-1; Shamrock R
+; Cork C     ; 0-1; Derry C
+; Finn Harps ; 0-1; St Pats
+; Shelbourne ; 1-0; Bray W
+; Sligo R    ; 2-1; Dundalk
+; UCD        ; 0-0; Home Farm
 
-Round: 23 [Feb 15,16]
-Finn Harps  0-1 Derry C
-Home Farm   0-1 Bray W
-Shamrock R  6-4 Shelbourne
-Sligo R     2-0 UCD
-Dundalk     2-2 St Pats
-Bohemians   1-0 Cork C
+Round: 21 
+*[Jan 24,25,26]
+Date: 1/24/1997
 
-Round: 24 [Feb 21,22,23]
-Shelbourne  0-1 Bohemians
-Derry C     1-1 Home Farm
-Bray W      0-1 Dundalk
-Cork C      1-0 Sligo R
-St Pats     2-2 Shamrock R
-UCD         0-0 Finn Harps
+; Bohemians  ; 3-1; Finn Harps
+; Dundalk    ; 2-2; UCD 
+; Home Farm  ; 0-2; Cork C
+; Derry C    ; 2-2; Shelbourne
+; Bray W     ; 0-1; St Pats
+; Shamrock R ; 2-1; Sligo R
 
-Round: 25 [Mar 1,2]
-Bohemians   0-1 St Pats
-Dundalk     0-1 Derry C
-Finn Harps  3-0 Home Farm
-Shamrock R  2-2 Bray W
-Sligo R     0-3 Shelbourne
-UCD         3-0 Cork C
+Round: 22 
+*[Jan 31, Feb 1,2]
+Date: 1/31/1997
 
-Round: 26 [postponed (Cup quarterfinals)]
-Home Farm   0-1 Dundalk      [Mar 11]
-Bray W      0-1 Bohemians    [Apr 16]
-Cork C      1-0 Finn Harps   [Mar 31]
-Derry C     1-1 Shamrock R   [Apr 15]
-St Pats     4-2 Sligo R      [Apr 15]
-Shelbourne  1-0 UCD          [Apr 8]
+; St Pats    ; 1-1; Derry C
+; Finn Harps ; 0-0; Bray W
+; Shelbourne ; 2-0; Home Farm
+; Sligo R    ; 2-1; Bohemians
+; Cork C     ; 0-0; Dundalk
+; UCD        ; 1-0; Shamrock R
+
+Round: 23 
+*[Feb 15,16]
+Date: 2/15/1997
+
+; Finn Harps ; 0-1; Derry C
+; Home Farm  ; 0-1; Bray W
+; Shamrock R ; 6-4; Shelbourne
+; Sligo R    ; 2-0; UCD
+; Dundalk    ; 2-2; St Pats
+; Bohemians  ; 1-0; Cork C
+
+Round: 24 
+*[Feb 21,22,23]
+Date: 2/21/1997
+
+; Shelbourne ; 0-1; Bohemians
+; Derry C    ; 1-1; Home Farm
+; Bray W     ; 0-1; Dundalk
+; Cork C     ; 1-0; Sligo R
+; St Pats    ; 2-2; Shamrock R
+; UCD        ; 0-0; Finn Harps
+
+Round: 25 
+*[Mar 1,2]
+Date: 3/1/1997
+
+; Bohemians  ; 0-1; St Pats
+; Dundalk    ; 0-1; Derry C
+; Finn Harps ; 3-0; Home Farm
+; Shamrock R ; 2-2; Bray W
+; Sligo R    ; 0-3; Shelbourne
+; UCD        ; 3-0; Cork C
+
+Round: 26 
+*[postponed (Cup quarterfinals)]
+
+3/1/1997; Home Farm  ; 0-1; Dundalk      [Mar 11]
+4/16/1997; Bray W     ; 0-1; Bohemians    [Apr 16]
+3/31/1997; Cork C     ; 1-0; Finn Harps   [Mar 31]
+4/15/1997; Derry C    ; 1-1; Shamrock R   [Apr 15]
+4/15/1997; St Pats    ; 4-2; Sligo R      [Apr 15]
+4/8/1997; Shelbourne ; 1-0; UCD          [Apr 8]
  
-Round: 27 [Mar 14,15,16] 
-Shamrock R  2-3 Home Farm
-Sligo R     0-1 Bray W
-Finn Harps  0-0 Dundalk
-Bohemians   0-2 Derry C
-Cork C      0-1 Shelbourne
-UCD         2-0 St Pats
+Round: 27 
+*[Mar 14,15,16] 
+Date: 3/14/1997
+
+; Shamrock R ; 2-3; Home Farm
+; Sligo R    ; 0-1; Bray W
+; Finn Harps ; 0-0; Dundalk
+; Bohemians  ; 0-2; Derry C
+; Cork C     ; 0-1; Shelbourne
+; UCD        ; 2-0; St Pats
  
-Round: 28 [Mar 21,22,23]
-Dundalk     1-3 Shamrock R  
-St Pats     0-0 Cork C
-Shelbourne  2-0 Finn Harps
-Derry C     0-2 Sligo R
-Home Farm   2-2 Bohemians
-Bray W      2-0 UCD
+Round: 28 
+*[Mar 21,22,23]
+Date: 3/21/1997
 
-Round: 29 [Mar 28,29]
-Bohemians   0-0 Dundalk
-Cork C      3-1 Bray W
-Finn Harps  1-2 Shamrock R
-Shelbourne  1-1 St Pats
-Sligo R     3-2 Home Farm
-UCD         0-1 Derry C
+; Dundalk    ; 1-3; Shamrock R  
+; St Pats    ; 0-0; Cork C
+; Shelbourne ; 2-0; Finn Harps
+; Derry C    ; 0-2; Sligo R
+; Home Farm  ; 2-2; Bohemians
+; Bray W     ; 2-0; UCD
 
-Round: 30 [Apr 4,6]
-Dundalk     1-1 Sligo R
-Home Farm   2-3 UCD
-St Pats     2-1 Finn Harps
-Derry C     0-2 Cork C       [Apr 22]
-Bray W      1-1 Shelbourne   [Apr 22]
-Shamrock R  3-1 Bohemians    [Apr 23]
+Round: 29 
+*[Mar 28,29]
+Date: 3/28/1997
 
-Round: 31 [Apr 11,12,13]
-St Pats     2-1 Bray W
-Shelbourne  1-1 Derry C
-Finn Harps  1-2 Bohemians
-Sligo R     1-1 Shamrock R
-Cork C      0-0 Home Farm
-UCD         3-1 Dundalk
+; Bohemians  ; 0-0; Dundalk
+; Cork C     ; 3-1; Bray W
+; Finn Harps ; 1-2; Shamrock R
+; Shelbourne ; 1-1; St Pats
+; Sligo R    ; 3-2; Home Farm
+; UCD        ; 0-1; Derry C
 
-Round: 32 [Apr 18,19,20]
-Shamrock R  0-0 UCD
-Derry C     2-0 St Pats
-Bohemians   0-0 Sligo R
-Bray W      0-0 Finn Harps
-Dundalk     0-4 Cork C
-Home Farm   3-0 Shelbourne
+Round: 30 
+*[Apr 4,6]
+Date: 4/4/1997
 
-Round: 33 [Apr 26, 27]
-Shelbourne  0-1 Dundalk
-St Pats     3-1 Home Farm
-UCD         1-2 Bohemians
-Bray W      2-5 Derry C
-Cork C      1-1 Shamrock R
-Finn Harps  3-4 Sligo R
+; Dundalk    ; 1-1; Sligo R
+; Home Farm  ; 2-3; UCD
+; St Pats    ; 2-1; Finn Harps
+4/22/1997; Derry C    ; 0-2; Cork C      
+4/22/1997; Bray W     ; 1-1; Shelbourne  
+4/23/1997; Shamrock R ; 3-1; Bohemians   
+
+Round: 31 
+*[Apr 11,12,13]
+Date: 4/11/1997
+
+; St Pats    ; 2-1; Bray W
+; Shelbourne ; 1-1; Derry C
+; Finn Harps ; 1-2; Bohemians
+; Sligo R    ; 1-1; Shamrock R
+; Cork C     ; 0-0; Home Farm
+; UCD        ; 3-1; Dundalk
+
+Round: 32 
+*[Apr 18,19,20]
+Date: 4/18/1997
+
+; Shamrock R ; 0-0; UCD
+; Derry C    ; 2-0; St Pats
+; Bohemians  ; 0-0; Sligo R
+; Bray W     ; 0-0; Finn Harps
+; Dundalk    ; 0-4; Cork C
+; Home Farm  ; 3-0; Shelbourne
+
+Round: 33 
+*[Apr 26, 27]
+Date: 4/26/1997
+
+; Shelbourne ; 0-1; Dundalk
+; St Pats    ; 3-1; Home Farm
+; UCD        ; 1-2; Bohemians
+; Bray W     ; 2-5; Derry C
+; Cork C     ; 1-1; Shamrock R
+; Finn Harps ; 3-4; Sligo R
 
 * 1.Derry City                33 19 10  4 58-27 67  Champions
 *- - - - - - - - - - - - - - - - - - - - - - - - -
@@ -299,15 +359,14 @@ Finn Harps  3-4 Sligo R
 *11.Bray Wanderers            33  5  8 20 30-59 23  Relegated
 *12.Home Farm Everton         33  3 10 20 26-53 19  Relegated
 
-Promoted: Kilkenny City and Drogheda United.
+*Promoted: Kilkenny City and Drogheda United.
+*Topscorers: Cousins (Shamrock R) and S.Geoghegamn (Shelbourne) 16 goals.
 
-Topscorers: Cousins (Shamrock R) and S.Geoghegamn (Shelbourne) 16 goals.
+*Playoff: Dundalk 3-0 0-1 Waterford United
+*Dundalk remain in premier division.
 
-Playoff: Dundalk 3-0 0-1 Waterford United
-Dundalk remain in premier division.
-
-Cup Final
-Shelbourne 2-0 Derry City
+*Cup Final
+*Shelbourne 2-0 Derry City
 
 
 *Prepared and maintained by the RSSSF
