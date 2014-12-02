@@ -583,18 +583,15 @@ Date: 11/7/2010
 *15.Åtvidabergs FF          30   7  8 15  32-51  29  Relegated
 *16.IF Brommapojkarna       30   6  7 17  20-48  25  Relegated  [Bromma]
 
-*Promotion/Relegation Playoff
-*
-*First Leg 
-Date: 11/10/2010
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*Sundsvall           0-1 Gefle
-*
-*Second Leg 
-Date: 11/14/2010
+11/10/2010; Sundsvall          ; 0-1; Gefle
 
-*Gefle               2-0 Sundsvall
-*
+Leg: 2
+
+11/14/2010; Gefle              ; 2-0; Sundsvall
+
 *NB: both clubs remain at previous level
 
 *Prepared and maintained by Clas Glenning for the Rec.Sport.Soccer Statistics Foundation

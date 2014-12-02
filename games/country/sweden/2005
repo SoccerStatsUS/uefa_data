@@ -786,18 +786,15 @@ Date: 10/23/2005
 *14.Assyriska F       26   4  2 20  17-52  14  Relegated  [Södertälje]
 *NB: Assyriska FF played some Matches at Stockholms Råsunda.
 
-*Promotion/Relegation Playoff
-*
-*First Leg 
-*Date: 10/26/2005
-*
-*GAIS        2-1 Landskrona
-*
-*Second Leg 
-*Date: 10/30/2005
-*
-*Landskrona  0-0 GAIS
-*
+Stage: Promotion/Relegation Playoff
+Leg: 1
+
+10/26/2005; GAIS       ; 2-1; Landskrona
+
+Leg: 2
+
+10/30/2005; Landskrona ; 0-0; GAIS
+
 *Landskrona BoIS relegated, GAIS promoted
 
 

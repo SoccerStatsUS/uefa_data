@@ -604,12 +604,13 @@ Date: 11/3/2013
 *15.Östers IF               30   6 10 14  27-43  28  Relegated
 *16.Syrianska FC            30   3  5 22  26-64  14  Relegated
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg [Nov 6]
 11/6/2013; Sundsvall          ; 1-1; Halmstad
 
-*Second Leg [Nov 10]
+Leg: 2
+
 11/10/2013; Halmstad           ; 2-1; Sundsvall
 
 *NB: both remain at former level
@@ -641,7 +642,7 @@ Competition: Superettan
 
 *Promoted: IK Sirius FK and Husqvarna FF
 *
-*Promotion/Relegation Playoff 2nd/3rd Level
+* Promotion/Relegation Playoff 2nd/3rd Level
 *
 *First Legs [Nov 6]
 *Dalkurd             1-0 Värnamo
