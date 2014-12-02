@@ -520,18 +520,15 @@ Date: 10/24/1999
 *13.Skeid            26  7  2 17  36-75  23  Relegated
 *14.Kongsvinger IL   26  6  2 18  34-59  20  Relegated
 
-*Promotion/Relegation Playoff
-*
-*First Leg 
-Date: 10/27/1999
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*Start        2-2 Stromsgodset
-*
-*Second Leg 
-Date: 10/31/1999
+10/27/1999; Start       ; 2-2; Stromsgodset
 
-*Stromsgodset 0-1 Start
-*
+Leg: 2
+
+10/31/1999; Stromsgodset; 0-1; Start
+
 *Strømsgodset IF relegated.
 
 

@@ -479,18 +479,15 @@ Date: 10/22/2000
 *13.IK Start         26  5  6 15  40-66  21  Relegated 
 *14.FK Haugesund     26  5  4 17  33-62  19  Relegated
   
-*Promotion/Relegation Playoff
-*
-*First Leg 
-Date: 10/25/2000
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*Sogndal      1-1 Valerenga 
-*
-*Second Leg 
-Date: 10/30/2000
+10/25/2000; Sogndal     ; 1-1; Valerenga 
 
-*Valerenga    2-2 Sogndal
-*
+Leg: 2
+
+10/30/2000; Valerenga   ; 2-2; Sogndal
+
 *Sogndal promoted, Valerenga relegated
 
 

@@ -736,18 +736,15 @@ Date: 11/1/2003
 *13.Aalesund FK      26  7  7 12  30-43  28  Relegated
 *14.Bryne IL         26  7  1 18  35-56  22  Relegated
 
-*Promotion/Relegation Playoff
-*
-*First Leg 
-Date: 11/10/2003
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*Sandefjord   0-0 Vålerenga
-*
-*Second Leg 
-Date: 11/22/2003
+11/10/2003; Sandefjord  ; 0-0; Vålerenga
 
-*Vålerenga    5-3 Sandefjord
-*
+Leg: 2
+
+11/22/2003; Vålerenga   ; 5-3; Sandefjord
+
 *Vålerenga IF remain at 1st level
 
 
