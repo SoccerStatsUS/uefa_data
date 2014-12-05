@@ -1,27 +1,21 @@
-http://rsssf.com/tablesi/ijs07.html
+BlockSource: http://rsssf.com/tablesi/ijs07.html
+Season: 2007
+Competition: Urvalsdeild
+       
+* 1.Valur          18 11  5  2  41-20  38  Champions  [Reykjavík]
+* 2.FH             18 11  4  3  42-26  37  [Hafnarfjörður]
+* 3.ÍA             18  8  6  4  34-27  30  [Akranes]
+* 4.Fylkir         18  8  5  5  23-18  29  [Reykjavík]
+* 5.Breiðablik     18  5  9  4  29-20  24  [Kópavogur]
+* 6.Keflavík       18  5  6  7  26-32  21  [Keflavík]
+* 7.Fram           18  3  7  8  25-31  16  [Reykjavík]
+* 8.KR             18  3  7  8  17-30  16  [Reykjavík]
+* 9.HK             18  4  4 10  17-35  16  [Kópavogur]
+*----------------------------------------
+*10.Víkingur       18  3  5 10  15-30  14  Relegated  [Reykjavík]
+*NB: only one club relegated as top level is extended to 12 clubs 2008.
 
-        
-Iceland 2007
-
-Urvalsdeild (Premier League, First Level)
-            
-Final Table:
-
- 1.Valur          18 11  5  2  41-20  38  Champions  [Reykjavík]
- 2.FH             18 11  4  3  42-26  37  [Hafnarfjörður]
- 3.ÍA             18  8  6  4  34-27  30  [Akranes]
- 4.Fylkir         18  8  5  5  23-18  29  [Reykjavík]
- 5.Breiðablik     18  5  9  4  29-20  24  [Kópavogur]
- 6.Keflavík       18  5  6  7  26-32  21  [Keflavík]
- 7.Fram           18  3  7  8  25-31  16  [Reykjavík]
- 8.KR             18  3  7  8  17-30  16  [Reykjavík]
- 9.HK             18  4  4 10  17-35  16  [Kópavogur]
-----------------------------------------
-10.Víkingur       18  3  5 10  15-30  14  Relegated  [Reykjavík]
-
-NB: only one club relegated as top level is extended to 12 clubs 2008.
-
-Round 1
+Round: 1
 [May 12]
 ÍA             2-3 FH
   [Bjarni Gudjonsson 44pen, Thordur Gudjonsson 58; 
@@ -37,7 +31,7 @@ Víkingur       0-0 HK
 KR             1-2 Keflavík
   [Bjorgolfur Takefusa 82; Gudmundur Steinarsson 40, Simun Samuelsen 61]
 
-Round 2
+Round: 2
 [May 20]
 Fram           0-2 Víkingur
   [Egill Atlason 55, Sinisa Valdimar Kekic 87]
@@ -53,7 +47,7 @@ KR             1-1 Breiðablik
 HK             1-0 ÍA
   [Jon Thorgrimur Stefansson 38]
   
-Round 3 [May 24]
+Round: 3 [May 24]
 Breiðablik     2-2 Keflavík
   [Kristjan Oli Sigurdsson 15, Magnus Pall Gunnarsson 82; 
    Marco Kotilainen 74, Gudjon Arni Antoniusson 88]
@@ -68,7 +62,7 @@ Valur          2-1 KR
 Víkingur       0-1 Fylkir
   [Valur Fannar Gislason 66]
 
-Round 4
+Round: 4
 [May 28]
 Breiðablik     0-0 Valur
 Fylkir         2-2 ÍA
@@ -84,7 +78,7 @@ KR             1-2 Víkingur
 Fram           0-2 FH
   [Matthias Gudmundsson 51, Tryggvi Gudmundsson 90+1pen]
 
-Round 5
+Round: 5
 [Jun 8]
 Víkingur       1-1 Breiðablik
   [Valur Adolf Ulfarsson 13; Magnus Pall Gunnarsson 10] 
@@ -101,7 +95,7 @@ HK             2-1 Fram
   [Bjarni Gudjonsson 19, Helgi Petur Magnusson 45, 
    Kari Steinn Reynisson 46; Bjorgolfur Takefusa 90]
 
-Round 6
+Round: 6
 [Jun 13]
 Valur          3-1 Víkingur
   [Palmi Rafn Palmason 45, Helgi Sigurdsson 55pen, 57; 
@@ -118,7 +112,7 @@ Keflavík       2-1 Fram
 KR             0-2 FH
   [Asgeir Gunnar Asgeirsson 7, Gudmundur Saevarsson 19]
 
-Round 7
+Round: 7
 [Jun 18]
 Fram           3-1 Fylkir
   [Hjalmar Thorarinsson 61pen, 90+2, Jonas Grani Gardarsson 73;
@@ -136,7 +130,7 @@ Víkingur       1-2 Keflavík
   [Sinisa Valdimar Kekic 73pen; Thorarinn Brynjar Kristjansson 46,
    Gudmundur Steinarsson 90pen]
 
-Round 8
+Round: 8
 [Jun 26]
 Breiðablik     3-0 HK
   [Kristjan Oli Sigurdsson 3, Prince Rajcomar 59, Olgeir Sigurgeirsson 89]
@@ -153,7 +147,7 @@ KR             2-1 Fram
   [Johann Thorhallsson 79, Gudmundur Petursson 90+1;
    Hjalmar Thorarinsson 24]
 
-Round 9
+Round: 9
 [Jul 3]
 FH             4-1 Víkingur
   [Matthias Vilhjalmsson 18, Matthias Gudmundsson 29, 
@@ -168,7 +162,7 @@ HK             1-4 Valur
 ÍA             2-1 Keflavík
   [Bjarni Gudjonsson 32pen, 79; Hallgrimur Jonsson 83]
 
-Round 10
+Round: 10
 [Jul 14]
 FH             1-1 ÍA   
   [Tryggvi Gudmundsson 8pen; Ellert Jon Bjornsson 79]   
@@ -184,7 +178,7 @@ Fram           0-2 Valur
 Fylkir         0-3 Breiðablik         
   [Gunnar Orn Jonsson 15, Kristinn Steindorsson 21, 22] 
           
-Round 11
+Round: 11
 [Jul 24]
 Valur          2-4 Fylkir 
   [Daniel Hjaltason 17, Helgi Sigurdsson 35; Peter Gravesen 16pen,
@@ -204,7 +198,7 @@ FH             3-2 Keflavík
   [Sigurvin Olafsson 8, Matthias Vilhjalmsson 19, Freyr Bjarnason 73;
    Baldur Sigurdsson 6, Marco Kotilainen 41pen]
 
-Round 12
+Round: 12
 [Aug 8]
 KR             0-3 Valur 
   [Baldur Ingimar Adalsteinsson 67, 71, Helgi Sigurdsson 82]
@@ -220,7 +214,7 @@ Keflavík       0-3 Breiðablik
 HK             2-2 FH   
   [Calum Thor Bett 38, Thordur Birgisson 54; Tryggvi Gudmundsson 13, 90+1] 
 
-Round 13 [Aug 16]
+Round: 13 [Aug 16]
 FH             3-3 Fram 
   [David Thor Vidarsson 26, Asgeir Gunnar Asgeirsson 46, 
    Gudmundur Saevarsson 49; Hjalmar Thorarinsson 39, 
@@ -235,7 +229,7 @@ Valur          2-2 Breiðablik
 Víkingur       0-1 KR
   [Gunnlaugur Jonsson 72]
 
-Round 14 [Aug 26]     
+Round: 14 [Aug 26]     
 Breiðablik     1-1 Víkingur 
   [Kristinn Steindorsson 15; Gunnar Kristjansson 45] 
 Fram           3-0 HK    
@@ -248,7 +242,7 @@ Keflavík       1-3 Valur
 KR             1-1 ÍA   
   [Gudmundur Petursson 90; Vjekoslav Svadumovic 00]     
 
-Round 15
+Round: 15
 [Aug 30]        
 FH             5-1 KR   
   [Asgeir Gunnar Asgeirsson 28, 34, 67, Tommy Nielsen 39,
@@ -266,7 +260,7 @@ Víkingur       1-5 Valur
    Baldur Ingimar Adalsteinsson 45, Dennis Bo Mortensen 53,
    Palmi Rafn Palmason 71]
 
-Round 16 
+Round: 16 
 [Sep 16]
 Breiðablik     4-3 FH
   [Nenad Zivanovic 12, Prince Rajcomar 18, Magnus Pall Gunnarsson 51, 65;
@@ -283,7 +277,7 @@ Valur          2-2 ÍA
   [Atli Sveinn Thorarinsson 20, Palmi Rafn Palmason 75;
    Bjorn Bergmann Sigurdarson 65, 71] 
 
-Round 17 [Sep 23] 
+Round: 17 [Sep 23] 
 FH             0-2 Valur        
   [Baldur Ingimar Adalsteinsson 32, Helgi Sigurdsson 84]        
 Fram           1-1 KR 
@@ -295,7 +289,7 @@ HK             1-1 Breiðablik
 ÍA             1-0 Víkingur 
   [Andri Juliusson 16]
 
-Round 18 [Sep 29]
+Round: 18 [Sep 29]
 Breiðablik     2-2 Fram
   [Magnus Pall Gunnarsson 41, 55pen; Jonas Grani Gardarsson 39, 73pen]
 Keflavík       3-3 ÍA
@@ -345,7 +339,7 @@ Topscorers:
 Cup 2007
 
 
-Preliminary Round
+Preliminary Round:
 [May 11]
 Berserkir      2-0 UMFL
   [Haraldur Omarsson 1, Roberto Benedetto Patrizi 15]
@@ -362,7 +356,7 @@ KFR            0-0 Hrunamenn               [aet, 2-4 pen]
   [Nik Anthony Chamberlain 61, Bjorn Ingi Arnason 75,
    Gudbjorn Alexander Saemundsson 83; Sigurjon Jonsson 19]
 
-First Round 
+First Round: 
 [May 16]
 Ægir           0-1 Berserkir
   [Viggo David Briem 45]
@@ -397,7 +391,7 @@ Völsungur      4-0 Vinir
   [Boban Jovic 15, Gudmundur Oli Steingrimsson 74, Aron Bjarki Josepsson 78,
    Sigurdur Valdimar Olgeirsson 80]
 
-Second Round 
+Second Round: 
 [May 31]
 Grótta         2-0 Berserkir
   [Brynjolfur Bjarnason 31, Hrafn Jonsson 36]
@@ -432,7 +426,7 @@ Víðir          1-3 ÍR                      [aet]
   [Hordur Ingi Hardarson 36; Elias Ingi Arnason 82, 100, 
    Magnus Olafsson 118]  
 
-Third Round 
+Third Round: 
 [Jun 11]
 Hamar          0-5 Stjarnan
   [Halldor Orri Bjornsson 29, Gudjon Baldvinsson 37, 43,
@@ -467,7 +461,7 @@ Dalvík/Reynir  1-0 Völsungur
 Leiknir F.     2-1 Sindri
   [David Znidar 10, Sigurjon Egilsson 32; Atli Arnarson 77]
 
-Fourth Round 
+Fourth Round: 
 [Jun 25]
 ÍBV           10-0 Reynir Sandgerði
   [Atli Heimisson 15, 44, Bjarni Holm Adalsteinsson 19,
@@ -489,7 +483,7 @@ Haukar         3-1 Leiknir Reykjavík       [aet]
 Stjarnan       2-3 Fjölnir                 [aet]
   [Gudjon Baldvinsson 3, 53; Petur Georg Markan 78, Omar Hakonarson 90, 98]
 
-Fifth Round 
+Fifth Round: 
 [Jul 10]
 Fjarðabyggð    3-4 Fjölnir
   [Johann Ingi Johannsson 30, Jon Gunnar Eysteinsson 60,
@@ -609,7 +603,7 @@ League Cup 2007
 
 Group A
 
-Round 1
+Round: 1
 [Feb 17]
 FH              5-0 Grindavík
   [Sigurvin Olafsson 28, 31, 46, Gudmundur Svavarsson 60,
@@ -625,7 +619,7 @@ KA              0-3 HK
   [Jon Thorgrimur Stefansson 24, Hordur Magnusson 79, 
    Kristjan Ari Halldorsson 80]
 
-Round 2
+Round: 2
 [Feb 24]
 FH              3-0 KA
   [Arnar Bergmann Gunnlaugsson 21, Alan Dyring 36, Brynjar Gunnarsson 90]
@@ -640,7 +634,7 @@ HK              2-1 Víkingur R.
   [Jon Thorgrimur Stefansson 53, Olafur Valdimar Juliusson 90pen;
    Gunnar Kristjansson 23] 
 
-Round 3
+Round: 3
 [Mar 9]
 Víkingur R.     2-3 FH
   [Gretar Sigfinnur Sigurdsson 7pen, Jon Bjorgvin Hermannsson 10;
@@ -654,7 +648,7 @@ KA              2-2 Grindavík
   [Sveinn Elias Jonsson 21, Ibra Jagne 51pen; Orri Freyr Hjaltalin 28,
    Andri Steinn Birgisson 90]
 
-Round 4
+Round: 4
 [Mar 15]
 Grindavík       1-0 Valur
   [Orri Freyr Hjaltalin 60]
@@ -671,7 +665,7 @@ FH              4-3 Fylkir
    Matthias Vilhjalmsson 90; Halldor Arnar Hilmisson 11, 
    Hermann Adalgeirsson 22, Christian Christiansen 44]
 
-Round 5
+Round: 5
 [Apr 1]
 Valur           2-0 HK
   [Helgi Sigurdsson pen, Gudmundur Benediktsson]
@@ -688,7 +682,7 @@ Fylkir          5-1 KA
   [Pall Einarsson 32, Valur Fannar Gislason 36, 62, 
    Hermann Adalgeirsson 84, Peter Gravesen 90; Janez Vrenko 29]
 
-Round 6
+Round: 6
 [Mar 3] 
 Grindavík       0-1 HK
   [Olafur Valdimar Juliusson 85pen]
@@ -704,7 +698,7 @@ Víkingur R.     3-1 Fylkir
   [Sinisa Kekic 9, Egill Atlason 10, Hordur Sigurjon Bjarnason 45;
    Haukur Ingi Gudnason 86] 
 
-Round 7 
+Round: 7 
 [Mar 25]
 HK              0-0 FH
 [Apr 19]
@@ -736,7 +730,7 @@ Topscorers:
   
 Group B
 
-Round 1
+Round: 1
 [Feb 16]
 ÍA                2-2 Fjölnir
   [Andri Juliusson 21, 45; Petur Georg Markan 77, Magnus Ingi Einarsson 90]
@@ -754,7 +748,7 @@ Throttur R.       2-3 Fram
   [Magnus Mar Ludviksson 17, Rafn Andri Haraldsson 71; 
    Jonas Grani Gardarsson 24, Hjalmar Thorarinsson 78, 86]
 
-Round 2
+Round: 2
 [Feb 24]
 Breiðablik        3-2 Keflavík
   [Arnar Gretarsson 4pen, Olgeir Sigurgeirsson 22, own goal 23;
@@ -766,7 +760,7 @@ Fram              3-0 ÍA
 KR                2-0 Throttur R.
   [Sigmundur Kristjansson 38, Ingimundur Niels Oskarsson 90]
 
-Round 3
+Round: 3
 [Mar 3]
 Keflavík          awd ÍBV            [awarded 3-0, originally 2-1]
   [Marco Kotilainen 12, David Orn Hallgrimsson 48; Matt Garner 63]
@@ -783,7 +777,7 @@ Throttur R.       1-4 Breiðablik
   [Magnus Mar Ludviksson 14; Stig Krohn Haaland 32, Nenad Zivanovic 39,
    Kristjan Oli Sigurdsson 45pen, 73]
 
-Round 4
+Round: 4
 [Feb 18]
 Keflavík          6-4 Throttur R.
   [Baldur Sigurdsson 2, Gudmundur Steinarsson 40pen, 
@@ -800,7 +794,7 @@ Breiðablik        6-0 ÍA
 KR                1-0 Fjölnir
   [Tryggvi Sveinn Bjarnason 75]
 
-Round 5
+Round: 5
 [Mar 22]
 ÍA                1-6 Keflavík
   [Bjorn Bergmann Sigurdarson 46; Gudmundur Steinarsson 10, 35,
@@ -820,7 +814,7 @@ Fram              awd KR             [awarded 0-3, originally 5-3]
    Vidar Gudjonsson 55; Dalibor Pauletic 28, Ingimundur Niels Oskarsson 39,
    Agust Thor Gylfason 80]
 
-Round 6
+Round: 6
 [Apr 4]
 Keflavík          awd Fjölnir        [awarded 0-3, originally 3-3]
   [Simun Samuelsen 24, Gudjon Arni Antoniusson 68, Hallgrimur Jonasson 71;
@@ -835,7 +829,7 @@ Breiðablik        2-0 Fram
 ÍBV               0-2 KR
   [Oskar Orn Hauksson 44, Bjorgolfur Takefusa 52pen] 
 
-Round 7
+Round: 7
 [Mar 29]
 Fram              1-1 Keflavík
   [Kristjan Hauksson 57; own goal 35]
@@ -949,7 +943,7 @@ Final Table:
 ----------------------------------------
 12.Reynir         22  3  7 12  22-62  16  Relegated  [Sandgerði]
 
-Round 1
+Round: 1
 [May 13]
 Fjarðabyggð    2-0 Þróttur R. 
   [Gudmundur Atli Steinthorsson 15, Andri Valur Ivarsson 75]
@@ -968,7 +962,7 @@ Stjarnan       1-3 Grindavík
   [Halldor Orri Bjornsson 16; Andri Steinn Birgisson 27,
    Ahandour Mounir 67, Goran Vujic 87]
 
-Round 2 [May 18]
+Round: 2 [May 18]
 Fjölnir        0-1 Fjarðabyggð
   [Andri Valur Ivarsson 77]
 Grindavík      2-0 Leiknir R.
@@ -983,7 +977,7 @@ Njarðvík       1-1 KA
 Þróttur R.     1-1 Stjarnan
   [Haukur Pall Sigurdsson 37; Halldor Orri Bjornsson 15]
 
-Round 3
+Round: 3
 [May 24]
 KA             0-0 Grindavík
 Stjarnan       1-1 Fjölnir
@@ -999,7 +993,7 @@ Reynir S.      1-5 Þor A.
   [Salvador Benitez Jr. 63; Hreinn Hringsson 32, 86, 
    Matthias Orn Fridriksson 40, Armann Petur Aevarsson 72, 90]
 
-Round 4
+Round: 4
 [May 31]
 Grindavík      3-0 Víkingur Ó.
   [Scott Ramsey 36, Goran Vujic 45, Paul Mc Shane 80]
@@ -1017,7 +1011,7 @@ Fjölnir        1-0 Leiknir R.
 Reynir S.      0-3 Fjarðabyggð
   [Andri Bergmann Thorhallsson 2, 57, Ingi Thor Thorsteinsson 21] 
 
-Round 5
+Round: 5
 [Jun 7]
 KA             0-6 Fjölnir
   [David Thor Runarsson 60, Ragnar Heimir Gunnarsson 64, 
@@ -1036,7 +1030,7 @@ Grindavík      3-2 Njarðvík
 Víkingur Ó.    0-2 Þróttur R. 
   [Hjortur Hjartarson 14, Arnljotur Astvaldsson 16]
 
-Round 6
+Round: 6
 [Jun 15]
 Fjölnir        8-1 Víkingur Ó.
   [Tomas Leifsson 8, 71, Omar Hakonarson 16, 44, 81, 
@@ -1056,7 +1050,7 @@ Fjarðabyggð    0-2 Stjarnan
 ÍBV            1-0 KA
   [Jonah David Long 76]
 
-Round 7 [Jun 22]
+Round: 7 [Jun 22]
 Grindavík      2-1 Þróttur R. 
   [Andri Steinn Birgisson 60, Scott Ramsey 88; 
    Thorhallur Orn Hinriksson 90+3]
@@ -1072,7 +1066,7 @@ Stjarnan       5-2 Þor A.
 Víkingur Ó.    0-1 ÍBV
   [Yngvi Magnus Borgthorsson 81]
 
-Round 8 [Jun 29]
+Round: 8 [Jun 29]
 Fjarðabyggð    3-0 KA
   [Andri Valur Ivarsson 49, 72, Haukur Ingvar Sigurbergsson 85]
 Fjölnir        1-0 Grindavík
@@ -1087,7 +1081,7 @@ Stjarnan       1-1 Leiknir R.
 Þor A.         1-2 Þróttur R. 
   [Hreinn Hringsson 42; Adolf Sveinsson 75, Haukur Pall Sigurdsson 83]
 
-Round 9 [Jul 2]
+Round: 9 [Jul 2]
 Grindavík      3-1 ÍBV
   [Andri Steinn Birgisson 45, Paul Mc Shane 58, Ivan Firer 83; 
    Ingi Rafn Ingibergsson 73]
@@ -1107,7 +1101,7 @@ Njarðvík       2-2 Reynir S.
 Víkingur Ó.    3-0 Fjarðabyggð
   [Aljaz Horvat 40, Ellert Hreinsson 75, Fannar Hilmarsson 85]
 
-Round 10 
+Round: 10 
 [Jul 5]
 Reynir S.      0-2 Grindavík
   [Andri Steinn Birgisson 50pen, Marinko Skaricic 57]
@@ -1126,7 +1120,7 @@ Stjarnan       0-1 Víkingur Ó.
   [Atli Heimisson 66; Hjortur Hjartarson 6, 12pen, 24, 
    Rafn Andri Haraldsson 90]
 
-Round 11
+Round: 11
 [Jul 15]
 Grindavík      0-0 Fjarðabyggð
 [Jul 16]
@@ -1145,7 +1139,7 @@ Njarðvík       3-1 Stjarnan
 Víkingur Ó.    1-1 Leiknir R.
   [Ellert Hreinsson 70pen; Helgi Petur Johannsson 52]
 
-Round 12
+Round: 12
 [Jul 20]
 Fjölnir        8-0 Reynir S.
   [Petur Georg Markan 5, Gunnar Mar Gudmundsson 54, 61, 64, 70, 
@@ -1162,7 +1156,7 @@ Grindavík      2-1 Stjarnan
 Víkingur Ó.    6-0 KA     
   [Ragnar Smari Gudmundsson 8, 9, 27, Ellert Hreinsson 49, 54pen, 57]
 
-Round 13
+Round: 13
 [Jul 26]
 Stjarnan       1-2 Þróttur R. 
 [Gudjon Baldvinsson 40; Adolf Sveinsson 84, 
@@ -1181,7 +1175,7 @@ KA             2-1 Njarðvík
 Víkingur Ó.    2-1 Þor A. 
   [Josip Marosevic 84, Jon Petur Petursson 89; Hreinn Hringsson 45pen]
 
-Round 14
+Round: 14
 [Jul 31]
 Fjölnir        4-4 Stjarnan
   [Petur Georg Markan 35, 77, Tomas Leifsson 61, Atli Vidar Bjornsson 90;
@@ -1197,7 +1191,7 @@ Njarðvík       0-0 Víkingur Ó.
 Grindavík      1-2 KA
   [Johann Helgason 36; Almarr Omarsson 50, Ingi Freyr Hilmarsson 78]
 
-Round 15
+Round: 15
 [Aug 10]
 KA             1-3 Þróttur R. 
   [Ingi Freyr Hilmarsson 90+2; Hjortur Hjartarson 2, 67,
@@ -1217,7 +1211,7 @@ Fjarðabyggð    4-1 Reynir S.
 Njarðvík       2-1 Þor A. 
   [Rafn Markus Vilbergsson 18, Frans Elvarsson 90; Hreinn Hringsson 35pen]
 
-Round 16
+Round: 16
 [Aug 15]
 Þróttur R.     2-0 Víkingur Ó.
   [Hjortur Hjartarson 83, Adolf Sveinsson 90]
@@ -1237,7 +1231,7 @@ Fjölnir        4-0 KA
 Þor A.         1-0 Fjarðabyggð
   [Hreinn Hringsson 62]
 
-Round 17
+Round: 17
 [Aug 24]
 Leiknir R.     1-1 Reynir S.
   [Jakob Spangsberg Jensen 71; Martin Bach Kristensen 90+1]
@@ -1256,7 +1250,7 @@ Grindavík      3-0 Þor A.
   [Orri Freyr Hjaltalin 34, Andri Steinn Birgisson 70,
    Eysteinn Huni Hauksson Kjerulf 88pen]
 
-Round 18 
+Round: 18 
 [Aug 30]
 Fjölnir        2-0 Njarðvík
   [Atli Vidar Bjornsson 11, Gunnar Mar Gudmundsson 77]
@@ -1275,7 +1269,7 @@ Reynir S.      2-1 KA
 Þróttur R.     3-1 Grindavík
   [Magnus Mar Ludviksson 71, Adolf Sveinsson 90, 90+4; Paul Mc Shane 65pen]
 
-Round 19 
+Round: 19 
 [Sep 6]
 KA             1-1 Fjarðabyggð
   [Aleksandar Linta 64; Jon Gunnar Eysteinsson 5pen]
@@ -1297,7 +1291,7 @@ Grindavík      5-2 Fjölnir
    Andri Steinn Birgisson 90; Ray Anthony Jonsson 3og, 
    Gunnar Mar Gudmundsson 71pen] 
 
-Round 20 
+Round: 20 
 [Sep 15]
 Fjarðabyggð    1-0 Víkingur Ó.
   [Jon Gunnar Eysteinsson 90+3]
@@ -1314,7 +1308,7 @@ Reynir S.      1-1 Njarðvík
 ÍBV            2-1 Grindavík
   [Ian David Jeffs 29, 72; Mounir Ahandour 8]
 
-Round 21 [Sep 22]
+Round: 21 [Sep 22]
 Fjölnir        2-0 Þor A. 
   [Gunnar Mar Gudmundsson 6, Atli Vidar Bjornsson 60]
 Grindavík      6-0 Reynir S.
@@ -1328,7 +1322,7 @@ Njarðvík       3-0 Fjarðabyggð
   [Hjortur Hjartarson 90; Pall Thorvaldur Hjardar 6, Ian David Jeffs 43]
 Víkingur Ó.    0-0 Stjarnan
 
-Round 22 [Sep 28]
+Round: 22 [Sep 28]
 Fjarðabyggð    1-0 Grindavík
   [Gudmundur Atli Steinthorsson 5]
 ÍBV            4-3 Fjölnir
@@ -1402,7 +1396,7 @@ Final Table:
 
 NB: 2.deild extended to 12 clubs 2008
 
-Round 1
+Round: 1
 [May 13]
 Afturelding    1-0 Völsungur
   [Atli Heimisson 12]
@@ -1417,7 +1411,7 @@ Haukar         3-0 ÍH
 KS/Leiftur     2-1 Höttur
   [Arni Einar Adolfsson 9, Dusan Ivkovic 90; Denis Curic 41]
 
-Round 2 [May 20]
+Round: 2 [May 20]
 Selfoss        2-1 Höttur   
   [Saevar Thor Gislason 50, 63pen; Stefan Thor Eyjolfsson 43pen]
 ÍH             2-1 Magni
@@ -1431,7 +1425,7 @@ KS/Leiftur     1-1 Afturelding
 Völsungur      0-3 Haukar
   [Hilmar Hrafn Emilsson 40, 74, David Ellertsson 84]
 
-Round 3
+Round: 3
 [May 24]
 Magni          2-5 Völsungur
   [Sindri Gunnar Olafsson 24, Stefan Ingi Gunnarsson 69; 
@@ -1449,7 +1443,7 @@ Haukar         1-1 KS/Leiftur
 Sindri         1-0 ÍH
   [Kristinn Thor Gudlaugsson 6]
 
-Round 4
+Round: 4
 [Jun 5]
 Afturelding    1-2 Haukar
   [Gunnar Thor Borgthorsson 18, Hilmar Hrafn Emilsson 39,
@@ -1467,7 +1461,7 @@ Völsungur      4-2 Sindri
   [Thor Karason 46, Boban Jovic 55, Bjorgvin Sigurdsson 71, 
    Uchenna G. Asika 84; Jon Haukur Haraldsson 19, Atli Arnarson 74]
 
-Round 5 [Jun 16]
+Round: 5 [Jun 16]
 Haukar         5-2 Höttur
   [Hilmar Geir Eidsson 15, Hilmar Rafn Emilsson 35, 36, 40pen, 44;
    Ivar Karl Haflidason 18, Bjorvin Karl Gunnarsson 90] 
@@ -1483,7 +1477,7 @@ Sindri         0-5 KS/Leiftur
   [Ragnar Haukur Hauksson 30, 51, Beres Ferenc 45, 60, 
    Kjartan Ingolfur Helgason 90]
 
-Round 6 
+Round: 6 
 [Jun 22]
 Afturelding    2-0 Sindri
   [Gunnar Rafn Borgthorsson 35, Arnor Thrastarson 90]
@@ -1498,7 +1492,7 @@ KS/Leiftur     0-2 Selfoss
   [Saevar Thor Gislason, Stefan Ragnar Gudlaugsson]
 Völsungur      0-0 ÍR
 
-Round 7
+Round: 7
 [Jun 29]
 Selfoss        3-1 Afturelding
   [Ingolfur Thorarinsson 5, Saevar Thor Gislason 10, 67pen;
@@ -1514,7 +1508,7 @@ Magni          1-3 Höttur
   [Thorsteinn Thorvaldsson 87; Vilmar Freyr Saevarsson 25, 
    Haraldur J. Clausen 57, ?]
 
-Round 8
+Round: 8
 [Jul 5]
 Afturelding    1-3 ÍR
   [Magnus Einarsson 48; Gunnar Hilmar Kristinsson 7, Magnus Einarsson 70og,
@@ -1534,7 +1528,7 @@ Magni          3-2 Sindri
    Hreggvidur Heidberg Gunnarsson 90; Einar Smari Thorsteinsson 16,
    Jon Haukur Haraldsson 74]
 
-Round 9
+Round: 9
 [Jul 13]
 ÍH             2-4 Afturelding
   [Fannar Edvaldsson (2); Thorarinn Mani Borgthorsson, 
@@ -1551,7 +1545,7 @@ Selfoss        3-0 Magni
   [Arilius marteinsson 34, Saevar Thor Gislason 50, 
    Asgeir Borkur Asgeirsson 67]   
 
-Round 10
+Round: 10
 [Jul 19]
 ÍH             2-3 Haukar 
   [Halldor Fannar Halldorsson, Ingi Thor Arnason;
@@ -1569,7 +1563,7 @@ Selfoss        9-1 Sindri
 Völsungur      0-2 Afturelding                          
   [Rannver Sigurjonsson, Arnor Thrastarson]             
 
-Round 11
+Round: 11
 [Jul 27] 
 Haukar         1-0 Völsungur    
   [Edilon Hreinsson 90+3]
@@ -1585,7 +1579,7 @@ Magni          1-1 ÍH
 Höttur               0-1 Selfoss 
   [Agust Borkur Asgeirsson 49]
 
-Round 12 [Aug 1]
+Round: 12 [Aug 1]
 Höttur         1-0 Afturelding  
   [Denis Curic 70] 
 ÍH             5-4 Sindri       
@@ -1600,7 +1594,7 @@ KS/Leiftur     1-1 Haukar
 Völsungur      2-0 Magni
   [Johannes Gunnarsson 11, Gudmundur Oli Steingrimsson 60]
 
-Round 13
+Round: 13
 [Aug 9]
 Haukar         3-1 Afturelding
   [Asgeir Thor Ingolfsson 26, 78, Hilmar Geir Eidsson 87;
@@ -1618,7 +1612,7 @@ Selfoss        3-2 ÍH
 Sindri         1-0 Völsungur                    
   [Seval Zahirovic 40]                                  
 
-Round 14
+Round: 14
 [Aug 17]
 ÍH             0-0 ÍR
 [Aug 18]
@@ -1633,7 +1627,7 @@ KS/Leiftur     5-2 Sindri
 Völsungur      0-2 Selfoss      
   [Arilius Marteinsson 8, Saevar Thor Gislason 83pen]   
 
-Round 15 [Aug 25]
+Round: 15 [Aug 25]
 ÍH             1-2 Höttur       
   [Daniel Einarsson 28pen; Stefan Thor Eyjolfsson 58pen, 90pen] 
 ÍR             2-2 Völsungur 
@@ -1645,7 +1639,7 @@ Selfoss        0-0 KS/Leiftur
 Sindri         0-1 Afturelding                  
   [Wentzel Steinar R. Kamban 65]
 
-Round 16
+Round: 16
 [Aug 31]
 Afturelding    0-2 Selfoss
   [Saevar Thor Gislason 58, 88]
@@ -1659,7 +1653,7 @@ KS/Leiftur     1-1 ÍR
   [Agnar Thor Sveinsson 87pen; Bjorn Vidar Asbjornsson 75pen]   
 Völsungur      2-0 ÍH
 
-Round 17 
+Round: 17 
 [Sep 9]
 ÍH             0-3 KS/Leiftur   
   [Ferenc Beres 5, Ragnar Haukur Hauksson 71, 81]       
@@ -1675,7 +1669,7 @@ Völsungur      1-0 Höttur
   [Bjorn Vidar Asbjornsson 31, 56; Torfi Geir Hilmarsson 80,
    Gunnar Rafn Borgthorsson 85pen]
 
-Round 18 [Sep 15]
+Round: 18 [Sep 15]
 Afturelding    0-2 ÍH
   [Daniel Einarsson 24, 50]
 Haukar         3-3 ÍR
@@ -1730,7 +1724,7 @@ NB: Five promotions to extend 2.deild to 12 clubs 2008.
 
 Group A
  
-Round 1
+Round: 1
 [May 20] 
 KB             1-4 Ýmir          
   [Kristjan Orn Thordarson 80; Ingi Freyr Arnarsson 48og, 
@@ -1744,7 +1738,7 @@ KFR            0-6 Árborg
 Grótta         4-1 Ægir          
   [Brynjolfur Bjarnason 13, 16, 67, Asgrimur Sigurdsson 65; Mladen Ilic 43]
 
-Round 2
+Round: 2
 [May 11]
 Ýmir           1-3 KFS           
   [Brynjar Vidisson 50; Trausti Hjaltason 7pen, Anton Rafn Jonasson 18, 
@@ -1763,7 +1757,7 @@ KFR            0-3 Hamar
    Brynjar Oli Gudmundsson 22, Thordur Einarsson 28, 
    Atli Thor Sigurdsson 41, Petur Karl Olsen 83]
  
-Round 3 
+Round: 3 
 [Jun 4]
 Hamar          2-1 Ýmir          
   [Zoran panic 32pen, 48pen; Runar Mar Sigurjonsson 4pen]
@@ -1778,7 +1772,7 @@ KB             2-1 Árborg
 KFS            0-1 Ægir          
   [Gunnar Valberg Petursson 39]
 
-Round 4
+Round: 4
 [Jun 14]
 Grótta         4-1 KB  
   [Solvi Davidsson 10, Brynjofur Bjarnason 38, Ingi Hrafn Gudmundsson 83,
@@ -1792,7 +1786,7 @@ Grótta         4-1 KB
 KFR            1-1 Ýmir          
   [Larus Vidar Stefansson 22; Hordur Arnason 74]
 
-Round 5
+Round: 5
 [Jun 21]
 Árborg         1-3 Hamar 
   [Palmi Johannsson 28; Atli Bjorn E. Levy 39, 78, Boban Ristic 55]
@@ -1805,7 +1799,7 @@ KFS            3-1 Grótta
   [Johann Bjornsson 61, Hordur magnusson 67pen; 
    Milos Milojevic 63pen, 76pen, Arsaell Jonsson 79, Dalibor Lazic 82]       
 
-Round 6 
+Round: 6 
 [Jun 27]
 KB             0-1 KFS       
   [Gudlaugur Magnus Steinthorsson 67]    
@@ -1819,7 +1813,7 @@ KFR            0-4 Ægir
   [Gunnar Valberg Petursson 22, 56, Arsaell Jonsson 75, 
    Matthias Olafsson 80]   
 
-Round 7
+Round: 7
 [Jul 5]
 Ægir           2-2 Árborg  
   [Milos Milojevic 14, 72pen; Johann Bjarnason 52pen, 
@@ -1834,7 +1828,7 @@ KFS            9-0 KFR
    Saethor Johannesson 56, 85, Sigurdur Ingi Vilhjalmsson 58,
    Magnus Stefansson 61, Tryggvi Hjaltason 88, Anton Rafn Jonasson 89]     
 
-Round 8
+Round: 8
 [Jul 12]
 Ægir           2-2 Grótta   
   [Arsaell Jonsson 25, 56; Sveinn Gudmundsson 4, Andri Sveinsson 48]     
@@ -1849,7 +1843,7 @@ Round 8
 Hamar          4-0 KFS     
   [Danislav Jevtic 19, Boban Ristic 29, 52, Rafn Haraldur Rafnsson 79]      
 
-Round 9
+Round: 9
 [Jul 19]
 Grótta         4-0 Árborg 
   [Arni Ingi Pjetursson 46, 70, 90, Solvi Davidsson 79]       
@@ -1865,7 +1859,7 @@ KFS            2-3 Ýmir
   [Tryggvi Hjaltason 50, Saethor Johannsson 90; Jonas Thor Gudmundsson 9,
    Eythor Helgi Birgisson 67, Hordur Arnason 69]   
 
-Round 10
+Round: 10
 [Jul 26]
 Árborg         3-1 KB
   [Gudmundur Armann Bodvardsson 34, Gudmundur Gardar Sigfusson 54,
@@ -1879,7 +1873,7 @@ KFR            0-4 Grótta
   [Brynjolfur Bjarnason 9, Hrafn Jonsson 45, Sveinn Gudmundsson 55,
    Asgrimur Sigurdsson 72] 
 
-Round 11
+Round: 11
 [Jul 31]
 Hamar          4-0 Ægir   
   [Predrag Milosavljevic 13pen, 55, Sigurdur Gisli Gudjonsson 71,
@@ -1895,7 +1889,7 @@ KFS            5-2 Árborg
 Ýmir           1-0 KFR    
   [Hilmar Rafn Kristinsson 41]       
 
-Round 12 
+Round: 12 
 [Aug 9]         
 KFR            1-5 KB
   [Tomas Steindorsson 17; Olafur Jonsson 13, Ottar Bjarni Gudmundsson 25,
@@ -1912,7 +1906,7 @@ Grótta         6-0 KFS
    Benedikt Johann Bjarnason 72, Bjarni Oskar Thorsteinsson 74,
    Brynjolfur Bjarnason 77] 
 
-Round 13 [Aug 14]
+Round: 13 [Aug 14]
 Ægir           2-2 KFR    
   [Salvador Benitez Jr. 23, Arsaell Jonsson 30; 
    Brynjolfur Thorsteinsson 60, Jon Oskar Bjorgvinsson 90]       
@@ -1926,7 +1920,7 @@ KFS            2-4 KB
 Ýmir           0-3 Árborg   
   [Larus Arnar Gudmundsson 32, Theodor Gudmundsson 44, Palmi Johannsson 90]     
 
-Round 14 [Aug 18]
+Round: 14 [Aug 18]
 Árborg         4-1 Ægir       
   [Gudmundur Armann Bodvardsson 14, Stefan Orn Gudmundsson 41, 
    Johann Bjarnason 56, Theodor Gudmundsson 64; Sigurdur Steinsson 27]   
@@ -1964,7 +1958,7 @@ Topscorers:
 
 Group B
 
-Round 1
+Round: 1
 [May 20]  
 Augnablik      3-0 BÍ/Bolungarvík
   [Andri Dagur Simonarson 20, Kjartan Hrafn Matthiason 83, Samir Mesetovic 88]
@@ -1978,7 +1972,7 @@ GG             3-2 Kári
   [Pall Gudmundsson 4, Alexander Hafthorsson 47, Einar Helgi Helgason 85 ;
    Thorsteinn Gislason 11pen, Hilmir Hjaltason 62]
 
-Round 2
+Round: 2
 [May 25]
 GG             1-1 Augnablik     
   [Ronald G. Jonsson 21; Andri Dagur Simonarson 51]
@@ -1993,7 +1987,7 @@ BÍ/Bolungarvík 4-0 Afríka
   [Almar Ingason 51, Sigthor Snorrason 56, petur Svavarsson 73,
    Sigurgeir Gislason 76]
 
-Round 3
+Round: 3
 [Jun 3]
 Snæfell        1-7 BÍ/Bolungarvík
   [Olafur Sverrir Snorrason 7; Andri Runar Bjarnason 24, 59, 
@@ -2007,7 +2001,7 @@ Augnablik      3-0 Kári
 Víðir          2-0 KV            
   [Slavisa Mitic 36, Haraldur Axel Einarsson 74]
 
-Round 4
+Round: 4
 [Jun 15]
 Augnablik      1-0 Afríka     
   [Andri Daggur Simonarson 49]   
@@ -2023,7 +2017,7 @@ BÍ/Bolungarvík 4-3 Víðir
    Sigurgeir Sveinn Gislason 63; Bjorn Bergmann Vilhjalmsson 48,
    Atli Runar Holmbergsson 70, Mladen Jankovic 85pen]
 
-Round 5
+Round: 5
 [Jun 21]
 Víðir          3-1 GG  
   [Slavisa Mitic 18, Einar Danielsson 54, Ragnar Sverrisson 68;
@@ -2041,7 +2035,7 @@ KV             2-3 BÍ/Bolungarvík
 Afríka         0-4 Kári        
   [Víðir Jonasson 44, 52, Helgi Valur Kristinsson 67, Hilmir Hjaltason 86]
 
-Round 6
+Round: 6
 [Jun 29]
 Afríka         2-4 Snæfell  
   [Edward Apeadu Koranteng 49, Saint Paul Edeh 90; 
@@ -2056,7 +2050,7 @@ GG             4-3 KV
 Kári           3-0 BÍ/Bolungarvík
   [Sigurjon Jonsson 33, 41, Víðir Jonasson 45]
 
-Round 7
+Round: 7
 [Jul 5]
 KV             1-1 Augnablik     
   [Orn Arnaldsson 8; Gudjon Gunnarsson 88]
@@ -2073,7 +2067,7 @@ BÍ/Bolungarvík 3-3 GG
   [Petur Geir Svavarsson 36pen, 82pen, Asgeir Gudmundur Gislason 65;
    Alexander Hafthorsson 29, Freyr Brynjarsson 50, Pall Gudmundsson 90pen]    
 
-Round 8
+Round: 8
 [Jul 12]
 Kári           1-1 GG   
   [Almar Bjorn Vidarsson 61; Alexander Hafthorsson 84] 
@@ -2091,7 +2085,7 @@ BÍ/Bolungarvík 5-4 Augnablik
    Sigurgeir Sveinn Gislason 90+3; Sigurjon Jonsson 13pen, 
    Bjorn Thor Ingason 34, 90, Agust Thor Agustsson 90+4]    
 
-Round 9
+Round: 9
 [Jul 19]
 Augnablik      4-1 GG     
   [Samir Mesetovic 21, Sigurjon Jonsson 56, 86, Andri Dagur Simonarson 90;
@@ -2108,7 +2102,7 @@ Snæfell        1-4 KV
   [Kjartan Johannes Karvelsson 68; Haukur Hardarson 4, 
    Halldor Arnason 23, 70, 71] 
 
-Round 10
+Round: 10
 [Jul 27]
 GG             3-0 Afríka    
   [Fannar Berg Gunnolfsson 42, Alexander Hafthorsson 90, 
@@ -2126,7 +2120,7 @@ BÍ/Bolungarv. 14-0 Snæfell
    Throstur Petursson 7, 44, Sigurgeir Sveinn Gislason 12, 44,
    Runar Jon Hermannsson 34, Gudmundur Gudjonsson 37]     
 
-Round 11
+Round: 11
 [Jul 31]
 KV             1-2 Kári         
   [Orn Arnaldsson 52; Thorsteinn Gislason 14, Sigurjon Jonsson 32] 
@@ -2140,7 +2134,7 @@ Snæfell        1-1 GG
 Víðir          2-0 BÍ/Bolungarvík
   [Knutur Rutur Jonsson 25, 60]
 
-Round 12
+Round: 12
 [Aug 10]
 Augnablik      3-2 Snæfell  
   [Sigurjon Jonsson 33pen, 50, Hjorvar Hermannsson 64; 
@@ -2158,7 +2152,7 @@ Kári          16-1 Afríka
    Sveinbjorn Geir Hlodversson 60, 66, 71, Gardar Axelsson 68, 75, 85, 
    Helgi Valur Kristinsson 87, ?; Denis Grbic 90]      
 
-Round 13 [Aug 14]
+Round: 13 [Aug 14]
 BÍ/Bolungarvík 3-1 Kári     
   [Petur Geir Svavarsson 16, Sigurgeir Sveinn Gislason 27, 58;
    Sigurjon Jonsson 77]     
@@ -2173,7 +2167,7 @@ Víðir          2-1 Augnablik
   [Sigurdur Markus Gretarsson 52, Bjorn Bergmann Vilhjalmsson 73;
    Sigurjon Jonsson 44pen]   
 
-Round 14 [Aug 18]
+Round: 14 [Aug 18]
 Afríka        0-18 Víðir        
   [Steinar Orn Ingimundarson 3, 9, 23, 37, 45, 
    Thorir Rafn Hauksson 5, 75, 82, Marko Gavrilovic 17, 
@@ -2217,7 +2211,7 @@ Topscorers:
 
 Group C
 
-Round 1
+Round: 1
 [May 20]
 Álftanes       0-0 Tindastoll    
 Hvöt           1-0 Berserkir     
@@ -2228,7 +2222,7 @@ Skallagrímur   6-3 Hv. riddarinn
    Víðir Jonasson 76, 78, 84; Arnar Haraldsson 9, Gudjon Thor Valsson 12,
    Vilhjalmur Ragnar Vilhjalmsson 71]
 
-Round 2 [May 25]
+Round: 2 [May 25]
 Berserkir      1-3 Tindastoll    
   [Haraldur Omarsson 45; Gisli Eyland Sveinsson 35pen, 
    Gudmundur Kristinn Vilbergsson 80, 83]
@@ -2238,7 +2232,7 @@ Hv. riddarinn  2-2 Álftanes
 Hvöt           1-1 Skallagrímur  
   [Dragoslav Stojanovic 53; Einar Ingi Johannsson 80og]
 
-Round 3
+Round: 3
 [Jun 3]
 Álftanes       0-2 Hvöt          
   [Oskar Snaer Vignisson 35, Einar Ingi Johannsson 45]
@@ -2248,7 +2242,7 @@ Tindastoll     5-0 Hv. riddarinn
 Skallagrímur   3-1 Berserkir     
   [Valdimar Kristmunds Sigurdsson 37, 51, 70; Kári Einarsson 79]
 
-Round 4 [Jun 8]
+Round: 4 [Jun 8]
 Hvöt           0-1 Tindastoll    
   [Bjarki Mar Arnason 49]
 Skallagrímur   2-2 Alfanges
@@ -2259,7 +2253,7 @@ Berserkir      4-3 Hv. riddarinn
   [Petur Kjartan Kristinsson 7, 30, 31, Bjarni Larus Hall 90+5;
    Arnar Hardarson 45, Vilhjalmur Ragnar Vilhjalmsson 67, 83]
 
-Round 5
+Round: 5
 [Jun 15]
 Hv. riddarinn  0-2 Hvöt          
   [Frosti Bjarnason 3, Dragoslav Stojanovic 79]
@@ -2274,7 +2268,7 @@ Tindastoll     3-1 Skallagrímur
    Audunn Thor Bjorgvinsson 17, 48, 52, Hallgrimur Dan Danielsson 32og,
    Emil Asgrimsson 69]
 
-Round 6
+Round: 6
 [Jun 21]
 Berserkir      0-0 Hvöt          
 Hv. riddarinn  1-6 Skallagrímur  
@@ -2286,7 +2280,7 @@ Tindastoll     3-2 Álftanes
   [Halldor Jon Sigurdsson 4, Ebbe Nygaard 7, 34; 
    Kjartan Atli Kjartansson 53, Mikel Herrero Idigoras 80]
 
-Round 7 [Jun 29]
+Round: 7 [Jun 29]
 Álftanes       2-1 Hv. riddarinn 
   [Hordur Jens Gudmundsson 70, Andri Janusson 73; Petur Hreinsson 36]
 Skallagrímur   1-2 Hvöt     
@@ -2296,7 +2290,7 @@ Tindastoll     4-3 Berserkir
    Ebbe Nygaard 75, Halldor Jon Sigurdsson 90; Einar Gudnason 8, 
    Audunn Thor Bjorgvinsson 16, 51pen] 
 
-Round 8 [Jul 6]
+Round: 8 [Jul 6]
 Berserkir      4-2 Skallagrímur  
   [Marteinn Briem 2, Audunn Thor Bjorgvinsson 26, 48, Kári Einarsson 32pen;
    Orn Hauksteinn Ingolfsson 86, Sigurdur Donys Sigurdsson 90+2]
@@ -2307,7 +2301,7 @@ Hv. riddarinn  1-8 Tindastoll
 Hvöt           1-0 Álftanes    
   [Milan Djurovic 44]  
 
-Round 9
+Round: 9
 [Jul 12]
 Tindastoll     2-1 Hvöt 
   [Ebbe Nygaard 43, Palmi Thor Valgeirsson 52; Oskar Snaer Vignisson 72]         
@@ -2319,7 +2313,7 @@ Tindastoll     2-1 Hvöt
 Hv. riddarinn  1-1 Berserkir  
   [Johann Bjorn Valsson 25; Johann Ingi Jonsson 80og]   
 
-Round 10
+Round: 10
 [Jul 20]
 Berserkir      1-1 Álftanes      
   [Kári Einarsson 25; Gunnar Holmgeir Bjarnason 19]
@@ -2331,7 +2325,7 @@ Hvöt           4-0 Hv. riddarinn
   [Oskar Snaer Vignisson 18, Paul John Kenworthy 23, 75, 
    Asgeir Orn Johannsson 59] 
 
-Round 11
+Round: 11
 [Jul 27]
 Álftanes       2-3 Tindastoll    
   [Sigurdur Brynjolfsson 12pen, 52pen; Ebbe Nygaard 8,
@@ -2343,7 +2337,7 @@ Skallagrímur   3-1 Hv. riddarinn
 Hvöt           2-0 Berserkir     
   [Frosti Bjarnason 73, Gunnar Asgeirsson 85]
 
-Round 12 [Aug 1]
+Round: 12 [Aug 1]
 Berserkir      3-1 Tindastoll   
   [Audunn Thor Bjorgvinsson 31, 81, Marteinn Briem 54; Ebbe Nygaard 83] 
 Hv. riddarinn  1-1 Álftanes    
@@ -2353,7 +2347,7 @@ Hvöt           6-1 Skallagrímur
    Sigurdur Runar Palsson 79, Oskar Snaer Vignisson 90;
    Gudmundur Luther Hallgrimsson 90+2]
 
-Round 13 [Aug 10]
+Round: 13 [Aug 10]
 Álftanes       1-6 Hvöt      
   [Sigurdur Brynjolfsson 37; Asgeir Orn Johannsson 8, 62pen, 
    Milan Djurovic 11, Zoran Djordjevic 16, Sigurdur Runar Palsson 27,
@@ -2363,7 +2357,7 @@ Skallagrímur   3-2 Berserkir
    Kjartan Dige Baldursson 32]
 Tindastoll     awd Hv. riddarinn  [awarded 3-0]
 
-Round 14 [Aug 14]
+Round: 14 [Aug 14]
 Berserkir      1-2 Hv. riddarinn 
   [Kjartan Dige Baldursson 6; Hordur Mar Kolbeinsson 18,
    Bjarni Thor Arnason 21]
@@ -2373,7 +2367,7 @@ Skallagrímur   3-1 Álftanes
   [Kristofer Robertsson 7, Valdimar Kristmunds Sigurdsson 48, 90;
    Gudbjorn Alexander Saemundsson 5]   
 
-Round 15 [Aug 18]
+Round: 15 [Aug 18]
 Álftanes       6-3 Berserkir 
   [Omar Freyr Rafnsson 44pen, Gudbjorn Alexander Saemundsson 50,
    Omar Bendtsen 62, Kjartan Atli Kjartansson 76, Andri Janusson 81,
@@ -2404,7 +2398,7 @@ Topscorers:
 
 Group D
 
-Round 1 
+Round: 1 
 [May 20]
 Leiknir F.     8-1 Hamrarnir     
   [Paulius Kunevicius 2, Vilberg Marino Jonasson 6, 53pen, 61,
@@ -2420,7 +2414,7 @@ Neisti D.      7-1 Snörtur
    own goal 66, Anton Stefansson 82; Bjorn Benedikt Benediktsson 33]      
 Dalvík/Reynir  bye
 
-Round 2
+Round: 2
 [May 25]
 Vinir          3-1 Dalvík/Reynir 
   [Gunnar Thor Jonsson 16pen, Birgir Thor Trastarson 60, 
@@ -2432,7 +2426,7 @@ Huginn         0-1 Leiknir F.
   [Stephen Patrick Tupy 38]
 Snörtur        bye
 
-Round 3
+Round: 3
 [Jun 5]
 Neisti D.      1-0 Huginn        
   [Njall reynisson 40]
@@ -2447,7 +2441,7 @@ Snörtur        0-9 Hamrarnir
    Andri Snaer Stefansson 72]
 Vinir          bye
 
-Round 4 [Jun 16]
+Round: 4 [Jun 16]
 Dalvík/Reynir  6-1 Neisti D.     
   [Halldor Rafn Halldorsson 21, Gunnar Mar Magnusson 24,
    Dariusz Jan Lachowski 43, Jon Orvar Eiriksson 45, 68, 
@@ -2460,7 +2454,7 @@ Vinir          1-1 Leiknir F.
   [Birgir Thor Thrastarson 67; Vilberg Marino Jonasson 56pen]
 Hamrarnir      bye
 
-Round 5
+Round: 5
 [Jun 22]
 Snörtur        0-4 Dalvík/Reynir 
   [Jon Orvar Eiriksson 41, Viktor Mar Jonasson 56, Bessi Vidisson 84,
@@ -2473,7 +2467,7 @@ Hamrarnir      3-6 Huginn
 Neisti D.      0-0 Vinir         
 Leiknir F.     bye
 
-Round 6 
+Round: 6 
 [Jun 29]
 Dalvík/Reynir  2-2 Hamrarnir    
   [Snorri Pall Gudbjornsson 5, Gunnar Mar Magnusson 48; 
@@ -2488,7 +2482,7 @@ Vinir         11-1 Snörtur
    Jon Einarsson Thormar Palsson 47]
 Huginn         bye
 
-Round 7
+Round: 7
 [Jul 3]
 Vinir          2-1 Hamrarnir     
   [Elvar Gudmundsson 27pen, Atli Jens Albertsson 90+3; Hjorvar Maronsson 38]
@@ -2501,7 +2495,7 @@ Snörtur        0-9 Leiknir F.
    Odinn Omarsson 90pen]
 Neisti D.      bye
 
-Round 8
+Round: 8
 [Jul 13]
 Hamrarnir      4-1 Leiknir F.    
   [Hakon Arnarson 7, Bjarni Palmason 34pen, 77, 
@@ -2516,7 +2510,7 @@ Huginn         5-0 Vinir
    Hordur Ingi Kristinsson 77]       
 Dalvík/Reynir  bye
 
-Round 9
+Round: 9
 [Jul 19]
 Dalvík/Reynir  3-0 Vinir         
   [Gunnar Mar Magnusson 68pen, 75, Bessi Vidisson 70]
@@ -2528,7 +2522,7 @@ Neisti D.      0-4 Hamrarnir
    Adolf Thorberg Andersen 82]   
 Snörtur        bye
 
-Round 10 [Jul 28]
+Round: 10 [Jul 28]
 Leiknir F.     6-2 Vinir      
   [Johann Orn Jonsson 10, 32, Rok Kac 27, 
    Vilberg Marino Jonasson 72, 90+1, 90+2; Omar Vidar Einarsson 32,
@@ -2542,7 +2536,7 @@ Snörtur        0-9 Huginn
    Gudmundur Magnusson 88]      
 Hamrarnir      bye
 
-Round 11 [Aug 1]
+Round: 11 [Aug 1]
 Dalvík/Reynir  1-1 Leiknir F.    
   [own goal 67; Blaz Dolinar 36]
 Hamrarnir      5-2 Snörtur     
@@ -2554,7 +2548,7 @@ Huginn         9-1 Neisti D.
    Brynjar Skulason 70, Goran Vrejic 83pen; ?] 
 Vinir          bye
 
-Round 12
+Round: 12
 [Aug 9]
 Dalvík/Reynir  4-0 Snörtur
   [Atli Thor Olason 41, Sinisa Pavlica 79, Bessi Vidisson 80,
@@ -2568,7 +2562,7 @@ Huginn         4-1 Hamrarnir
    Brynjar Skulason 64; Bjarni Palmason 67]     
 Leiknir F.     bye
 
-Round 13 [Aug 14]
+Round: 13 [Aug 14]
 Hamrarnir      0-0 Dalvík/Reynir 
 Neisti D.      0-3 Leiknir F.    
   [Sigurjon Egilsson, Vignir Orn Ragnarsson, Vilberg Marino Jonasson]
@@ -2576,7 +2570,7 @@ Snörtur        0-1 Vinir
   [Fridrik Fridriksson 32]
 Huginn         bye        
 
-Round 14 [Aug 18]
+Round: 14 [Aug 18]
 Dalvík/Reynir  0-0 Huginn    
 Hamrarnir      3-0 Vinir         
   [Egill Thor Nielsson 12, Bjarni Palmason 65, Simon Simonarson 90]     
@@ -2586,16 +2580,14 @@ Leiknir F.    10-0 Snörtur
    Stephen Patrick Tupy 89]  
 Neisti D.      bye
 
-Final Table:
-
- 1.Leiknir        12  8  3  1  47-12  27  Playoff  [Fáskrúðsfjörður]
- 2.Huginn         12  8  2  2  52-10  26  Playoff  [Seyðisfjörður]
- - - - - - - - - - - - - - - - - - - - -
- 3.Hamrarnir      12  6  2  4  37-25  20  [Akureyri]
- 4.Dalvík/Reynir  12  5  4  3  27-17  19  [Dalvík/Árskógsströnd]
- 5.Vinir          12  5  2  5  25-27  17  [Akureyri]
- 6.Neisti         12  3  1  8  22-38  10  [Djúpivogur]
- 7.Snörtur        12  0  0 12   5-86   0  [Kópasker]
+* 1.Leiknir        12  8  3  1  47-12  27  Playoff  [Fáskrúðsfjörður]
+* 2.Huginn         12  8  2  2  52-10  26  Playoff  [Seyðisfjörður]
+* - - - - - - - - - - - - - - - - - - - -
+* 3.Hamrarnir      12  6  2  4  37-25  20  [Akureyri]
+* 4.Dalvík/Reynir  12  5  4  3  27-17  19  [Dalvík/Árskógsströnd]
+* 5.Vinir          12  5  2  5  25-27  17  [Akureyri]
+* 6.Neisti         12  3  1  8  22-38  10  [Djúpivogur]
+* 7.Snörtur        12  0  0 12   5-86   0  [Kópasker]
 
 Topscorers:
 17 Vilberg Marino Jonasson (Leiknir Fáskrúðsfjörður)
@@ -2711,40 +2703,8 @@ Topscorers (overall):
 
 
 
-2006.
-
-
-2008.
-
-
-list of champions.
-
-
-list of final tables.
-
-
-list of second division champions.
-
-
-list of second division final tables.
-
-
-list of cup finals.
-
-
-list of super cup finals.
-
-
-list of league cup finals.
-
-
-
-About this document
-
-Prepared and maintained by Denis Polsinelli for the Rec.Sport.Soccer Statistics Foundation
-
-Author: Denis Polsinelli (denis.polsinelli@libertysurf.fr) 
-Last updated: 16 May 2008
-
-(C) Copyright Denis Polsinelli and RSSSF 2007/08
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by Denis Polsinelli for the Rec.Sport.Soccer Statistics Foundation
+*Author: Denis Polsinelli (denis.polsinelli@libertysurf.fr) 
+*Last updated: 16 May 2008
+*(C) Copyright Denis Polsinelli and RSSSF 2007/08
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
