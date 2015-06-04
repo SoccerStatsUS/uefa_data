@@ -728,19 +728,30 @@ Round: 2
 Leg: 1
 Date: 5/22/2015
 
-*De Graafschap    -  Go Ahead Eagles 
-*Volendam         -  Eindhoven       
-*Emmen            -  Roda JC         
-*VVV              -  NAC             
+; De Graafschap  ; 1-0; Go Ahead Eagles 
+; Volendam       ; 2-1; Eindhoven       
+; Emmen          ; 0-1; Roda JC         
+; VVV            ; 0-1; NAC             
 
 Leg: 2
-Date: 5/25/2015
 
-*Go Ahead Eagles  -  De Graafschap   
-*Eindhoven        -  Volendam        
-*Roda JC          -  Emmen           
-*NAC              -  VVV             
+5/25/2015; Go Ahead Eagles; 0-1; De Graafschap   
+5/25/2015; Eindhoven      ; 1-1; Volendam        
+5/25/2015; Roda JC        ; 2-2; Emmen           
+5/25/2015; NAC            ; 3-0; VVV             
 
+*NB: Go Ahead Eagles relegated
+
+Round: 3
+Leg: 1
+
+5/28/2015; De Graafschap   ; v;  Volendam        
+5/28/2015; Roda JC         ; v;  NAC             
+
+Leg: 2
+
+5/31/2015; Volendam        ; v;  De Graafschap   
+5/31/2015; NAC             ; v;  Roda JC         
 
 
 *Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
