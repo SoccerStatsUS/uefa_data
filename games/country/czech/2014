@@ -1,0 +1,617 @@
+* fix 2013-2014 problems
+* http://rsssf.com/tablest/tsje2015.html
+
+Competition: Czech First League
+Season: 2014-2015
+
+
+* 1.FC Viktoria Plzeň          30  23  3  4  70-24  72  Champions
+* 2.AC Sparta Praha            30  21  4  5  57-20  67
+* 3.FK Jablonec 97             30  19  7  4  58-22  64
+* 4.FK Mladá Boleslav          30  13  7 10  43-34  46
+* 5.1.FK Příbram               30  12  7 11  40-45  43
+* 6.FK Dukla Praha             30  11  8 11  34-40  41
+* 7.FK Teplice                 30   9 11 10  41-37  38  [2 1 0 1 4-2 3]
+* 8.FC Bohemians 1905 Praha    30  10  8 12  35-41  38  [2 1 0 1 2-4 3]
+* 9.1. FC Slovácko             30  10  7 13  43-46  37
+*10.FC Vysočina Jihlava        30  10  6 14  33-38  36
+*11.SK Slavia Praha            30   9  7 14  40-45  34
+*12.FC Slovan Liberec          30   7 12 11  39-43  33  [4 2 1 1 10-4 7]
+*13.FC Baník Ostrava           30   8  9 13  23-41  33  [4 1 2 1  4-9 5]
+*14.FC Zbrojovka Brno          30   9  6 15  34-45  33  [4 1 1 2  1-2 4]
+*-----------------------------------------------------
+*15.FC Hradec Králové          30   6  7 17  26-52  25  Relegated
+*16.SK Dynamo České Budějovice 30   5  7 18  29-72  22  Relegated
+
+Round: 1
+Date: 7/25/2014
+
+; Bohemians        ; 1-2; Sparta            
+; Dukla            ; 0-0; Ostrava           
+
+Date: 7/26/2014
+ 
+; Slovácko         ; 1-2; Slavia            
+; Jablonec         ; 2-0; Brno              
+; Příbram          ; 2-2; Plzeň             
+; Hradec Králové   ; 0-0; Teplice           
+
+Date: 7/27/2014
+
+; České Budějovice ; 1-1; Liberec            
+; Jihlava          ; 0-1; Mladá Boleslav    
+
+Round: 2
+Date: 8/1/2014
+
+; Slavia           ; 3-1; Ostrava           
+
+Date: 8/2/2014
+
+; Slovácko         ; 4-1; Bohemians         
+; Sparta           ; 3-0; Jihlava           
+; Brno             ; 3-0; Hradec Králové    
+
+Date: 8/3/2014
+
+; Mladá Boleslav   ; 0-1; Dukla             
+; Liberec          ; 0-0; Příbram           
+; Plzeň            ; 3-1; Jablonec          
+
+Date: 9/2/2014
+
+; Teplice          ; 4-0; České Budějovice  
+
+Round: 3
+Date: 8/8/2014
+
+; Ostrava          ; 1-1; Teplice           
+; Jihlava          ; 1-2; Bohemians         
+
+Date: 8/9/2014
+
+; Dukla            ; 1-1; Brno              
+; Jablonec         ; 1-1; Slovácko          
+; Příbram          ; 0-1; Sparta            
+
+Date: 8/10/2014
+
+; České Budějovice ; 0-4; Plzeň             
+; Hradec Králové   ; 0-0; Mladá Boleslav    
+; Slavia           ; 4-1; Liberec           
+
+Round: 4
+Date: 8/15/2014
+
+; Liberec          ; 0-0; Dukla             
+; Sparta           ; 0-1; Ostrava           
+
+Date: 8/16/2014
+
+; Slovácko         ; 2-0; Jihlava           
+; Bohemians        ; 1-2; Jablonec          
+; Mladá Boleslav   ; 4-1; Příbram           
+; Teplice          ; 2-1; Slavia            
+; Brno             ; 2-2; České Budějovice  
+
+Date: 8/17/2014
+
+; Plzeň            ; 4-0; Hradec Králové    
+
+Round: 5
+Date: 8/22/2014
+
+; Ostrava          ; 1-0; Brno              
+; Teplice          ; 2-2; Liberec           
+
+Date: 8/23/2014
+
+; České Budějovice ; 2-1; Mladá Boleslav    
+; Jablonec         ; 2-0; Jihlava           
+; Příbram          ; 2-3; Bohemians         
+; Hradec Králové   ; 2-0; Slovácko          
+; Slavia           ; 1-0; Plzeň             
+
+Date: 8/24/2014
+
+; Dukla            ; 1-0; Sparta            
+
+Round: 6
+Date: 8/29/2014
+u8
+; Jihlava          ; 0-0; České Budějovice  
+; Brno             ; 1-1; Teplice           
+
+Date: 8/30/2014
+
+; Slovácko         ; 4-1; Příbram           
+; Bohemians        ; 1-1; Hradec Králové    
+; Mladá Boleslav   ; 2-1; Slavia            
+; Liberec          ; 6-0; Ostrava           
+
+Date: 8/31/2014
+
+; Sparta           ; 2-0; Jablonec          
+; Plzeň            ; 2-1; Dukla             
+
+Round: 7
+Date: 9/12/2014
+
+; Slavia           ; 1-3; Brno              
+
+Date: 9/13/2014
+
+; Ostrava          ; 1-0; Mladá Boleslav    
+; České Budějovice ; 2-2; Slovácko          
+; Dukla            ; 0-1; Bohemians         
+; Příbram          ; 1-4; Jablonec          
+; Teplice          ; 0-0; Sparta            
+; Hradec Králové   ; 0-3; Jihlava           
+
+Date: 9/15/2014
+
+; Liberec          ; 1-1; Plzeň             
+
+Round: 8
+Date: 9/19/2014
+
+; Mladá Boleslav   ; 3-0; Teplice           
+
+Date: 9/20/2014
+
+; Slovácko         ; 5-1; Dukla             
+; Bohemians        ; 2-0; Slavia            
+; Jablonec         ; 0-0; České Budějovice  
+; Jihlava          ; 0-1; Příbram           
+; Brno             ; 1-0; Liberec           
+
+Date: 9/21/2014
+
+; Sparta           ; 3-1; Hradec Králové    
+; Plzeň            ; 2-0; Ostrava           
+
+Round: 9
+Date: 9/26/2014
+
+; Teplice          ; 4-0; Slovácko          
+
+Date: 9/27/2014
+
+; Ostrava          ; 1-0; Bohemians         
+; České Budějovice ; 0-3; Příbram           
+; Dukla            ; 4-1; Jihlava           
+; Hradec Králové   ; 0-2; Jablonec          
+; Slavia           ; 0-2; Sparta            
+; Brno             ; 2-3; Plzeň             
+
+Date: 9/28/2014
+
+; Liberec          ; 0-0; Mladá Boleslav    
+
+Round: 10
+Date: 10/3/2014
+
+; Jablonec         ; 6-0; Dukla             
+
+Date: 10/4/2014
+
+; Slovácko         ; 1-2; Ostrava           
+; Bohemians        ; 3-0; České Budějovice  
+; Příbram          ; 1-0; Hradec Králové    
+; Mladá Boleslav   ; 5-1; Brno              
+; Jihlava          ; 1-0; Slavia            
+
+Date: 10/5/2014
+
+; Sparta           ; 1-0; Liberec           
+; Plzeň            ; 1-0; Teplice           
+
+Round: 11
+Date: 10/17/2014
+
+; Ostrava          ; 0-0; Jihlava           
+*Dukla             abd Příbram           [abandoned at 2-1 at half-time due to light failure]
+
+Date: 10/18/2014
+
+; Teplice          ; 4-1; Bohemians         
+; Hradec Králové   ; 2-3; České Budějovice  
+; Slavia           ; 1-1; Jablonec          
+; Liberec          ; 2-2; Slovácko          
+; Brno             ; 1-3; Sparta            
+
+Date: 10/19/2014
+
+; Mladá Boleslav   ; 0-3; Plzeň             
+
+Date: 10/28/2014
+
+; Dukla            ; 0-0; Příbram           
+*[replay]
+
+Round: 12
+Date: 10/24/2014
+
+; Bohemians        ; 2-4; Liberec           
+; České Budějovice ; 1-1; Slavia            
+; Jihlava          ; 2-0; Brno              
+
+Date: 10/25/2014
+
+; Slovácko         ; 0-1; Plzeň             
+; Jablonec         ; 4-2; Teplice           
+; Příbram          ; 3-1; Ostrava           
+; Hradec Králové   ; 2-4; Dukla             
+
+Date: 10/26/2014
+
+; Sparta           ; 1-0; Mladá Boleslav    
+
+Round: 13
+Date: 10/31/2014
+
+; Mladá Boleslav   ; 1-0; Bohemians         
+
+Date: 11/1/2014
+
+; Ostrava          ; 2-1; Hradec Králové    
+; Dukla            ; 3-1; České Budějovice  
+; Teplice          ; 2-3; Jihlava           
+; Slavia           ; 3-2; Příbram           
+; Plzeň            ; 2-0; Sparta            
+; Brno             ; 0-1; Slovácko          
+
+Date: 11/2/2014
+
+; Liberec          ; 0-1; Jablonec          
+
+Round: 14
+Date: 11/7/2014
+
+; Dukla            ; 2-2; Slavia            
+; Příbram          ; 1-1; Teplice           
+
+Date: 11/8/2014
+
+; České Budějovice ; 1-0; Ostrava           
+; Jablonec         ; 1-0; Mladá Boleslav    
+
+Date: 11/9/2014
+
+; Slovácko         ; 0-2; Sparta            
+; Hradec Králové   ; 0-0; Liberec           
+; Jihlava          ; 2-1; Plzeň             
+
+Date: 11/10/2014
+
+; Bohemians        ; 0-0; Brno              
+
+Round: 15
+Date: 11/21/2014
+
+; Mladá Boleslav   ; 2-0; Slovácko          
+
+Date: 11/22/2014
+
+; Ostrava          ; 1-2; Jablonec          
+; Teplice          ; 1-0; Dukla             
+; Liberec          ; 2-2; Jihlava           
+; Sparta           ; 4-0; České Budějovice  
+; Brno             ; 1-0; Příbram           
+
+Date: 11/23/2014
+
+; Slavia           ; 1-1; Hradec Králové    
+; Plzeň            ; 2-1; Bohemians         
+
+Round: 16
+Date: 11/28/2014
+
+; Ostrava          ; 0-0; Slavia            
+; České Budějovice ; 2-0; Teplice           
+
+Date: 11/29/2014
+
+; Bohemians        ; 1-2; Slovácko          
+; Dukla            ; 0-2; Mladá Boleslav    
+; Příbram          ; 1-0; Liberec           
+; Hradec Králové   ; 2-1; Brno              
+
+Date: 11/30/2014
+
+; Jablonec         ; 1-2; Plzeň             
+; Jihlava          ; 0-2; Sparta            
+
+Round: 17
+Date: 2/20/2015
+
+; Slovácko         ; 1-2; Jablonec          
+
+Date: 2/21/2015
+
+; Bohemians        ; 0-0; Jihlava           
+; Mladá Boleslav   ; 2-2; Hradec Králové    
+; Teplice          ; 1-0; Ostrava           
+; Liberec          ; 1-3; Slavia            
+; Brno             ; 0-1; Dukla             
+; Plzeň            ; 6-0; České Budějovice  
+
+Date: 2/23/2015
+
+; Sparta           ; 4-1; Příbram           
+
+Round: 18
+Date: 2/27/2015
+
+; Dukla            ; 3-1; Liberec           
+; Jihlava          ; 0-1; Slovácko          
+
+Date: 2/28/2015
+
+; Jablonec         ; 3-0; Bohemians         
+; Ostrava          ; 1-1; Sparta            
+; České Budějovice ; 1-3; Brno              
+; Příbram          ; 2-0; Mladá Boleslav    
+; Slavia           ; 2-2; Teplice           
+
+Date: 3/1/2015
+
+; Hradec Králové   ; 2-3; Plzeň             
+
+Round: 19
+Date: 3/6/2015
+
+; Brno             ; 0-0; Ostrava           
+
+Date: 3/7/2015
+
+; Mladá Boleslav   ; 4-1; České Budějovice  
+; Slovácko         ; 0-1; Hradec Králové    
+; Bohemians        ; 3-1; Příbram           
+; Jihlava          ; 1-1; Jablonec          
+; Liberec          ; 0-2; Teplice           
+
+Date: 3/8/2015
+
+; Sparta           ; 3-0; Dukla             
+
+Date: 3/18/2015
+
+; Plzeň            ; 1-0; Slavia            
+
+Round: 20
+
+Date: 3/13/2015
+
+; Slavia           ; 3-4; Mladá Boleslav    
+
+Date: 3/14/2015
+
+; Teplice          ; 0-1; Brno              
+; Ostrava          ; 3-3; Liberec           
+; České Budějovice ; 1-3; Jihlava           
+; Příbram          ; 1-0; Slovácko          
+; Jablonec         ; 0-0; Sparta            
+
+Date: 3/15/2015
+
+; Dukla            ; 2-3; Plzeň             
+; Hradec Králové   ; 1-0; Bohemians         
+
+Round: 21
+Date: 3/20/2015
+
+; Mladá Boleslav   ; 1-0; Ostrava           
+
+Date: 3/21/2015
+
+; Slovácko         ; 3-1; České Budějovice  
+; Jablonec         ; 2-0; Příbram           
+; Jihlava          ; 2-0; Hradec Králové    
+; Sparta           ; 1-0; Teplice           
+
+Date: 3/22/2015
+
+; Plzeň            ; 2-0; Liberec           
+; Bohemians        ; 0-0; Dukla             
+; Brno             ; 3-0; Slavia            
+
+Round: 22
+Date: 4/4/2015
+
+; Hradec Králové   ; 0-3; Sparta            
+; České Budějovice ; 0-3; Jablonec          
+; Dukla            ; 0-0; Slovácko          
+; Příbram          ; 1-1; Jihlava           
+; Teplice          ; 5-0; Mladá Boleslav    
+; Slavia           ; 1-1; Bohemians         
+
+Date: 4/5/2015
+
+; Ostrava          ; 0-2; Plzeň             
+; Liberec          ; 1-0; Brno              
+
+Round: 23
+Date: 3/17/2015
+
+; Slovácko         ; 2-2; Teplice           
+
+Date: 4/10/2015
+
+; Jablonec         ; 4-0; Hradec Králové    
+; Bohemians        ; 0-2; Ostrava           
+
+Date: 4/11/2015
+
+; Příbram          ; 1-0; České Budějovice  
+; Mladá Boleslav   ; 1-1; Liberec           
+; Jihlava          ; 1-2; Dukla             
+; Sparta           ; 2-1; Slavia            
+
+Date: 4/12/2015
+
+; Plzeň            ; 4-1; Brno              
+
+Round: 24
+Date: 4/18/2015
+
+; Ostrava          ; 0-2; Slovácko          
+; České Budějovice ; 2-3; Bohemians         
+; Dukla            ; 1-0; Jablonec          
+; Slavia           ; 1-2; Jihlava           
+; Liberec          ; 2-1; Sparta            
+
+Date: 4/19/2015
+
+; Brno             ; 1-0; Mladá Boleslav    
+; Hradec Králové   ; 2-3; Příbram           
+
+Date: 4/20/2015
+
+; Teplice          ; 0-0; Plzeň             
+
+Round: 25
+Date: 4/24/2015
+
+; Jihlava          ; 2-0; Ostrava           
+
+Date: 4/25/2015
+
+; Slovácko         ; 2-3; Liberec           
+; Bohemians        ; 1-0; Teplice           
+; České Budějovice ; 2-2; Hradec Králové    
+; Jablonec         ; 2-1; Slavia            
+; Příbram          ; 3-0Dukla;             
+; Plzeň            ; 1-2; Mladá Boleslav    
+
+Date: 4/26/2015
+
+; Sparta           ; 4-0; Brno              
+
+Round: 26
+Date: 5/1/2015
+
+; Brno             ; 3-2; Jihlava           
+
+Date: 5/2/2015
+
+; Ostrava          ; 0-0; Příbram           
+; Dukla            ; 1-0; Hradec Králové    
+; Liberec          ; 1-1; Bohemians         
+; Plzeň            ; 4-0; Slovácko          
+
+Date: 5/3/2015
+
+; Teplice          ; 1-1; Jablonec          
+; Slavia           ; 2-0; České Budějovice  
+; Mladá Boleslav   ; 2-3; Sparta            
+
+Round: 27
+Date: 5/8/2015
+
+; Slovácko         ; 1-1; Brno              
+
+Date: 5/9/2015
+
+; Hradec Králové   ; 1-0; Ostrava           
+; České Budějovice ; 1-0; Dukla             
+; Příbram          ; 2-1; Slavia            
+; Jihlava          ; 0-1; Teplice           
+; Sparta           ; 0-2; Plzeň             
+
+Date: 5/10/2015
+
+; Jablonec         ; 2-0; Liberec           
+; Bohemians        ; 1-1; Mladá Boleslav    
+
+Round: 28
+Date: 5/15/2015
+
+; Brno             ; 0-1; Bohemians         
+; Sparta           ; 5-2; Slovácko          
+
+Date: 5/17/2015
+
+; Teplice          ; 1-1; Příbram           
+; Ostrava          ; 4-3; České Budějovice  
+; Liberec          ; 2-0; Hradec Králové    
+; Mladá Boleslav   ; 1-1; Jablonec          
+; Slavia           ; 2-0; Dukla             
+
+Date: 5/18/2015
+
+; Plzeň            ; 2-0; Jihlava           
+
+Round: 29 
+Date: 5/23/2015
+
+; Slovácko         ; 1-1; Mladá Boleslav    
+; Bohemians        ; 3-2; Plzeň             
+; České Budějovice ; 1-3; Sparta            
+; Dukla            ; 5-1; Teplice           
+; Jablonec         ; 4-0; Ostrava           
+; Příbram          ; 3-2; Brno              
+; Hradec Králové   ; 0-1; Slavia            
+; Jihlava          ; 4-0; Liberec           
+
+Round: 30 
+Date: 5/30/2015
+
+; Teplice          ; 1-3; Hradec Králové    
+; Liberec          ; 5-1; České Budějovice  
+; Plzeň            ; 5-2; Příbram           
+; Brno             ; 2-3; Jablonec          
+; Mladá Boleslav   ; 3-0; Jihlava           
+; Slavia           ; 1-3; Slovácko          
+; Sparta           ; 1-1; Bohemians         
+; Ostrava          ; 1-1; Dukla             
+
+
+* 1.FC Viktoria Plzeň          30  23  3  4  70-24  72  Champions
+* 2.AC Sparta Praha            30  21  4  5  57-20  67
+* 3.FK Jablonec 97             30  19  7  4  58-22  64
+* 4.FK Mladá Boleslav          30  13  7 10  43-34  46
+* 5.1.FK Příbram               30  12  7 11  40-45  43
+* 6.FK Dukla Praha             30  11  8 11  34-40  41
+* 7.FK Teplice                 30   9 11 10  41-37  38  [2 1 0 1 4-2 3]
+* 8.FC Bohemians 1905 Praha    30  10  8 12  35-41  38  [2 1 0 1 2-4 3]
+* 9.1. FC Slovácko             30  10  7 13  43-46  37
+*10.FC Vysočina Jihlava        30  10  6 14  33-38  36
+*11.SK Slavia Praha            30   9  7 14  40-45  34
+*12.FC Slovan Liberec          30   7 12 11  39-43  33  [4 2 1 1 10-4 7]
+*13.FC Baník Ostrava           30   8  9 13  23-41  33  [4 1 2 1  4-9 5]
+*14.FC Zbrojovka Brno          30   9  6 15  34-45  33  [4 1 1 2  1-2 4]
+*-----------------------------------------------------
+*15.FC Hradec Králové          30   6  7 17  26-52  25  Relegated
+*16.SK Dynamo České Budějovice 30   5  7 18  29-72  22  Relegated
+
+*Národní liga
+
+*Final Table:
+*
+* 1.SK Sigma Olomouc           30  19  6  5  64-25  63  Promoted
+* 2.FK Varnsdorf               30  17  8  5  47-27  59
+*-----------------------------------------------------
+* 3.FC Fastav Zlín             30  16  7  7  53-32  55  [2 2 0 0 5-3 6]  Promoted
+* 4.FK Viktoria Žižkov         30  16  7  7  50-23  55  [2 0 0 2 3-5 0]
+* 5.FK Baník Sokolov           30  13  9  8  44-39  48
+* 6.FC MAS Táborsko            30  13  8  9  55-42  47
+* 7.MFK OKD Karviná            30  12 10  8  39-31  46
+* 8.FK Pardubice               30  12  9  9  37-34  45
+* 9.SFC Opava                  30  11  9 10  36-35  42
+*10.FC Graffin Vlašim          30  11  6 13  36-50  39
+*11.1.SC Znojmo                30  11  5 14  37-43  38
+*12.FK Ústí nad Labem          30  10  4 16  34-46  34
+*13.FK Fotbal Třinec           30   8  6 16  33-51  30
+*14.MFK Frýdek-Místek          30   8  4 18  28-41  28
+*-----------------------------------------------------
+*15.FK Baník Most 1909         30   5  6 19  25-51  21  Relegated
+*16.FK Kolín                   30   3  6 21  26-74  15  Relegated
+
+*NB: FK Varnsdorf denied promotion because their stadium did not meet league requirements
+
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 6 Aug 2015
+*(C) Copyright Karel Stokkermans and RSSSF 2014/15
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

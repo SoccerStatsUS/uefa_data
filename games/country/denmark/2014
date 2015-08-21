@@ -2,19 +2,23 @@ BlockSource: http://rsssf.com/tablesd/den2015.html#ligaen
 Season: 2014-2015
 Competition: Superligaen
 
-* 1.FC Midtjylland            31  21  5  5  62-32  68  Champions  [Herning]
-* 2.FC København              31  18  7  6  37-21  61
-* 3.Brøndby IF                31  16  6  9  42-27  54  [København]
-* 4.Randers FC                31  13  9  9  36-27  48
-* 5.AaB                       31  11  9 11  36-30  42  [Aalborg]
-* 6.Hobro IK                  31  11  9 11  38-44  42
-* 7.FC Nordsjælland           31  12  5 14  38-43  41  [Farum]
-* 8.OB                        31  11  6 14  33-39  39  [Odense]
-* 9.SønderjyskE               31   7 16  8  33-40  37  [Haderslev]
-*10.Esbjerg fB                31   8 10 13  44-44  34
+
+*Final Table:
+
+* 1.FC Midtjylland            33  22  5  6  64-34  71  Champions  [Herning]
+* 2.FC København              33  20  7  6  40-22  67
+* 3.Brøndby IF                33  16  7 10  43-29  55  [København]
+* 4.Randers FC                33  14 10  9  39-28  52
+* 5.AaB                       33  13  9 11  39-31  48  [Aalborg]
+* 6.FC Nordsjælland           33  13  5 15  39-44  44  [Farum]
+* 7.Hobro IK                  33  11 10 12  40-47  43
+* 8.Esbjerg fB                33  10 10 13  47-45  40
+* 9.OB                        33  11  7 15  35-43  40  [Odense]
+*10.SønderjyskE               33   7 16 10  35-44  37  [Haderslev]
 *----------------------------------------------------
-*11.FC Vestsjælland           31   8  6 17  27-49  30  [Slagelse]
-*12.Silkeborg IF              31   2  8 21  24-54  14  Relegated
+*11.FC Vestsjælland           33   9  6 18  31-52  33  Relegated  [Slagelse]
+*12.Silkeborg IF              33   2  8 23  26-59  14  Relegated
+
 
 Round: 1
 Date: 7/18/2014
@@ -575,56 +579,26 @@ Date: 5/26/2015
 
 ; AaB             ; 1-0; Esbjerg          
 
+
 Round: 32 
 Date: 5/31/2015
 
-; Esbjerg          ; v;  Vestsjælland     
-; Nordsjælland     ; v;  Midtjylland      
-; Hobro            ; v;  OB               
-; Randers          ; v;  Brøndby          
-; Silkeborg        ; v;  AaB              
-; SønderjyskE      ; v;  København        
+; Esbjerg         ; 2-1; Vestsjælland     
+; Nordsjælland    ; 1-0; Midtjylland      
+; Hobro           ; 2-2; OB               
+; Randers         ; 1-1; Brøndby          
+; Silkeborg       ; 1-2; AaB              
+; SønderjyskE     ; 1-2; København        
 
 Round: 33 
 Date: 6/7/2015
 
-; AaB              ; v;  Nordsjælland     
-; Brøndby          ; v;  Esbjerg          
-; København        ; v;  Hobro            
-; Midtjylland      ; v;  SønderjyskE      
-; Vestsjælland     ; v;  Silkeborg        
-; OB               ; v;  Randers          
-
-
-* 1.FC Midtjylland            31  21  5  5  62-32  68  Champions  [Herning]
-* 2.FC København              31  18  7  6  37-21  61
-* 3.Brøndby IF                31  16  6  9  42-27  54  [København]
-* 4.Randers FC                31  13  9  9  36-27  48
-* 5.AaB                       31  11  9 11  36-30  42  [Aalborg]
-* 6.Hobro IK                  31  11  9 11  38-44  42
-* 7.FC Nordsjælland           31  12  5 14  38-43  41  [Farum]
-* 8.OB                        31  11  6 14  33-39  39  [Odense]
-* 9.SønderjyskE               31   7 16  8  33-40  37  [Haderslev]
-*10.Esbjerg fB                31   8 10 13  44-44  34
-*----------------------------------------------------
-*11.FC Vestsjælland           31   8  6 17  27-49  30  [Slagelse]
-*12.Silkeborg IF              31   2  8 21  24-54  14  Relegated
-
-*1. division
-* 1.Viborg FF                 31  16 13  2  43-19  61  Promoted
-* 2.AGF                       31  16  9  6  52-28  57  Promoted  [Aarhus]
-*----------------------------------------------------
-* 3.Lyngby BK                 31  14  7 10  46-34  49
-* 4.Vendsyssel FF             31  13 10  8  34-25  49  [Hjørring]
-* 5.Vejle Boldklub            31  10 11 10  37-44  41
-* 6.FC Roskilde               31  10  8 13  39-34  38
-* 7.AC Horsens                31   9 11 11  39-39  38
-* 8.HB Køge                   31   9 11 11  30-34  38
-* 9.Skive IK                  31   7 16  8  36-39  37
-*10.FC Fredericia             31   6 14 11  25-37  32
-*----------------------------------------------------
-*11.AB                        31   7  8 16  30-56  29  [København]
-*12.Brønshøj BK               31   3 14 14  20-42  23  Relegated
+; AaB             ; 1-0; Nordsjælland     
+; Brøndby         ; 0-1; Esbjerg          
+; København       ; 1-0; Hobro            
+; Midtjylland     ; 2-1; SønderjyskE      
+; Vestsjælland    ; 3-1; Silkeborg        
+; OB              ; 0-2; Randers          
 
 
 *Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation

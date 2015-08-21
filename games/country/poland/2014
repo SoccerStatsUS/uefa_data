@@ -647,16 +647,19 @@ Stage: Playoff
 *Championship Playoff
 
 
-* 1.Lech Poznań                       34  17 12  5  60-32  36  [-27]
-* 2.Legia Warszawa                    34  19  6  9  61-33  35  [-28]
-* 3.Jagiellonia Białystok             34  16  8 10  49-39  32  [-24]
-* 4.Lechia Gdańsk                     34  13  9 12  43-42  28  [-20]
-* 5.Wisła Kraków                      34  12 12 10  56-46  27  [-21]
-* 6.Śląsk Wrocław                     34  12 13  9  46-42  26  [-23]
-* 7.Górnik Zabrze                     34  12 11 11  47-49  26  [-21]
-* 8.Pogoń Szczecin                    34  11  9 14  43-46  22  [-20]
-
-*NB: deducted points (half the points obtained in regular stage, rounded downwards) between square brackets
+* 1.Lech Poznań                       37  19 13  5  67-33  43  [-27]  Champions
+* 2.Legia Warszawa                    37  21  7  9  64-33  42  [-28]
+* 3.Jagiellonia Białystok             37  19  8 10  59-44  41  [-24]
+* 4.Śląsk Wrocław                     37  15 13  9  50-43  35  [-23]
+* 5.Lechia Gdańsk                     37  13 10 14  45-47  29  [-20]
+* 6.Wisła Kraków                      37  12 13 12  56-48  28  [-21]
+* 7.Górnik Zabrze                     37  12 11 14  50-60  26  [-21]
+* 8.Pogoń Szczecin                    37  11  9 17  45-52  22  [-20]
+*
+*NB: deducted points (half the points obtained in regular stage, rounded downwards)
+*      between square brackets;
+*    first tie-breaker points in regular stage;
+*    second tie-breaker head-to-head record in regular stage
     
 
 Round: 31
@@ -714,46 +717,57 @@ Date: 5/31/2015
 Round: 36 
 Date: 6/3/2015
 
-; Górnik Z     ; v;  Lech         
-; Lechia       ; v;  Legia        
-; Pogoń        ; v;  Jagiellonia  
-; Wisła K      ; v;  Śląsk        
+; Górnik Z    ; 1-6; Lech         
+; Lechia      ; 0-0; Legia        
+; Pogoń       ; 1-3; Jagiellonia  
+; Wisła K     ; 0-1; Śląsk        
+
 
 Round: 37
 Date: 6/7/2015
 
-; Jagiellonia  ; v;  Lechia       
-; Lech         ; v;  Wisła K      
-; Legia        ; v;  Górnik Z     
-; Śląsk        ; v;  Pogoń        
+; Jagiellonia ; 4-2; Lechia       
+; Lech        ; 0-0; Wisła K      
+; Legia       ; 2-0; Górnik Z     
+; Śląsk       ; 2-1; Pogoń        
 
 
-* 1.Lech Poznań                       34  17 12  5  60-32  36  [-27]
-* 2.Legia Warszawa                    34  19  6  9  61-33  35  [-28]
-* 3.Jagiellonia Białystok             34  16  8 10  49-39  32  [-24]
-* 4.Lechia Gdańsk                     34  13  9 12  43-42  28  [-20]
-* 5.Wisła Kraków                      34  12 12 10  56-46  27  [-21]
-* 6.Śląsk Wrocław                     34  12 13  9  46-42  26  [-23]
-* 7.Górnik Zabrze                     34  12 11 11  47-49  26  [-21]
-* 8.Pogoń Szczecin                    34  11  9 14  43-46  22  [-20]
 
-*NB: deducted points (half the points obtained in regular stage, rounded downwards) between square brackets
+*Final Table:
+*
+* 1.Lech Poznań                       37  19 13  5  67-33  43  [-27]  Champions
+* 2.Legia Warszawa                    37  21  7  9  64-33  42  [-28]
+* 3.Jagiellonia Białystok             37  19  8 10  59-44  41  [-24]
+* 4.Śląsk Wrocław                     37  15 13  9  50-43  35  [-23]
+* 5.Lechia Gdańsk                     37  13 10 14  45-47  29  [-20]
+* 6.Wisła Kraków                      37  12 13 12  56-48  28  [-21]
+* 7.Górnik Zabrze                     37  12 11 14  50-60  26  [-21]
+* 8.Pogoń Szczecin                    37  11  9 17  45-52  22  [-20]
+*
+*NB: deducted points (half the points obtained in regular stage, rounded downwards)
+*      between square brackets;
+*    first tie-breaker points in regular stage;
+*    second tie-breaker head-to-head record in regular stage
+
     
 
 Stage: Relegation Playoff
 
-
-* 9.Piast Gliwice                     34  13  7 14  49-51  27  [-19]
-*10.Cracovia (Kraków)                 34  12  9 13  43-44  27  [-18]
-*11.Podbeskidzie Bielsko-Biała        34  11 10 13  45-54  24  [-19]
-*12.Górnik Łęczna                     34  10 11 13  38-44  24  [-17]
-*13.Ruch Chorzów                      34  10 10 14  40-43  24  [-16]
-*14.Korona Kielce                     34  10 10 14  37-51  21  [-19]
+* 9.Cracovia (Kraków)                 37  15  9 13  50-44  36  [-18]
+*10.Ruch Chorzów                      37  12 10 15  44-46  30  [-16]
+*11.Korona Kielce                     37  12 11 14  44-55  28  [-19]  [2 2 0 0 3-1 6]
+*12.Piast Gliwice                     37  13  8 16  50-56  28  [-19]  [2 0 0 2 1-3 0]
+*13.Podbeskidzie Bielsko-Biała        37  12 10 15  47-60  27  [-19]
+*14.Górnik Łęczna                     37  11 11 15  39-46  27  [-17]
 *------------------------------------------------------------
-*15.GKS Bełchatów                     34   9  8 17  32-53  20  [-15]
-*16.Zawisza Bydgoszcz                 34   9  7 18  39-59  20  [-14]
+*15.Zawisza Bydgoszcz                 37  10  8 19  45-63  24  [-14]  Relegated
+*16.GKS Bełchatów                     37   9  9 19  35-60  21  [-15]  Relegated
+*
+*NB: deducted points (half the points obtained in regular stage, rounded downwards)
+*      between square brackets;
+*    first tie-breaker points in regular stage;
+*    second tie-breaker head-to-head record in regular stage
 
-*NB: deducted points (half the points obtained in regular stage, rounded downwards) between square brackets
     
 
 Round: 31
@@ -817,35 +831,39 @@ Date: 5/30/2015
 Round: 36 
 Date: 6/2/2015
 
-; Cracovia     ; v;  Ruch         
-; Belchatów    ; v;  Korona       
-; Podbeskidzie ; v;  Górnik Ł     
-; Zawisza      ; v;  Piast        
+; Cracovia    ; 1-0; Ruch         
+; Belchatów   ; 2-2; Korona       
+; Podbeskidzie; 1-0; Górnik Ł     
+; Zawisza     ; 0-0; Piast        
 
 Round: 37 
 Date: 6/5/2015
 
-; Górnik Ł     ; v;  Belchatów    
-; Korona       ; v;  Podbeskidzie 
-; Piast        ; v;  Cracovia     
-; Ruch         ; v;  Zawisza      
+; Górnik Ł    ; 1-0; Belchatów    
+; Korona      ; 3-1; Podbeskidzie 
+; Piast       ; 0-3; Cracovia     
+; Ruch        ; 3-2; Zawisza      
 
-
-* 9.Piast Gliwice                     34  13  7 14  49-51  27  [-19]
-*10.Cracovia (Kraków)                 34  12  9 13  43-44  27  [-18]
-*11.Podbeskidzie Bielsko-Biała        34  11 10 13  45-54  24  [-19]
-*12.Górnik Łęczna                     34  10 11 13  38-44  24  [-17]
-*13.Ruch Chorzów                      34  10 10 14  40-43  24  [-16]
-*14.Korona Kielce                     34  10 10 14  37-51  21  [-19]
+*Final Table:
+*
+* 9.Cracovia (Kraków)                 37  15  9 13  50-44  36  [-18]
+*10.Ruch Chorzów                      37  12 10 15  44-46  30  [-16]
+*11.Korona Kielce                     37  12 11 14  44-55  28  [-19]  [2 2 0 0 3-1 6]
+*12.Piast Gliwice                     37  13  8 16  50-56  28  [-19]  [2 0 0 2 1-3 0]
+*13.Podbeskidzie Bielsko-Biała        37  12 10 15  47-60  27  [-19]
+*14.Górnik Łęczna                     37  11 11 15  39-46  27  [-17]
 *------------------------------------------------------------
-*15.GKS Bełchatów                     34   9  8 17  32-53  20  [-15]
-*16.Zawisza Bydgoszcz                 34   9  7 18  39-59  20  [-14]
+*15.Zawisza Bydgoszcz                 37  10  8 19  45-63  24  [-14]  Relegated
+*16.GKS Bełchatów                     37   9  9 19  35-60  21  [-15]  Relegated
+*
+*NB: deducted points (half the points obtained in regular stage, rounded downwards)
+*      between square brackets;
+*    first tie-breaker points in regular stage;
+*    second tie-breaker head-to-head record in regular stage
 
-*NB: deducted points (half the points obtained in regular stage, rounded downwards) between square brackets                                             
-    
-
+*About this document
 *Prepared and maintained by Karel Stokkermans the Rec.Sport.Soccer Statistics Foundation
 *Author: Karel Stokkermans 
-*Last updated: 28 May 2015
+*Last updated: 23 Jul 2015
 *(C) Copyright Karel Stokkermans and RSSSF 2014/15
 *You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
