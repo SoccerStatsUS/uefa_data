@@ -553,20 +553,29 @@ Date: 3/15/2015
 *15.Cercle Brugge KSV                30   6  6 18  21-45  24  Relegation Playoff
 *16.K. Lierse SK                     30   5  7 18  30-63  22  Relegation Playoff
 
+
+
+
 Stage: Playoff
 
-* Championship Playoff
-* 1.Club Brugge KV                    1   1  0  0   2- 1  34  [31]
-* 2.KAA Gent                          1   1  0  0   2- 0  32  [29]
-* 3.RSC Anderlecht                    1   1  0  0   1- 0  32  [29]
-* 4.R. Standard de Liège              1   0  0  1   1- 2  27  [27]
-* 5.KV Kortrĳk                        1   0  0  1   0- 2  26  [26]
-* 6.R. Charleroi SC                   1   0  0  1   0- 1  25  [25]
+*Championship Playoff | Playoff II | Relegation Playoff
+
+Stage: Championship Playoff
+
+*Final Table:
+
+* 1.KAA Gent                         10   6  2  2  18-11  49  [29]  Champions
+* 2.Club Brugge KV                   10   5  1  4  16-16  47  [31]
+* 3.RSC Anderlecht                   10   5  2  3  18-13  46  [29]
+* 4.R. Standard de Liège             10   4  1  5  14-13  40  [27]
+* 5.R. Charleroi SC                  10   3  2  5  13-15  36  [25]  Europa League Playoff
+* 6.KV Kortrĳk                       10   2  2  6  11-22  34  [26]
 
 *NB: bonus points regular stage (halved, rounded upward) between
 *    square brackets
 
 Round: 1
+
 Date: 4/5/2015
 
 ; Gent             ; 2-0; Kortrĳk           
@@ -576,29 +585,133 @@ Date: 4/6/2015
 ; Club Brugge      ; 2-1; Standard          
 ; Anderlecht       ; 1-0; Charleroi         
 
-* 1.Club Brugge KV                    1   1  0  0   2- 1  34  [31]
-* 2.KAA Gent                          1   1  0  0   2- 0  32  [29]
-* 3.RSC Anderlecht                    1   1  0  0   1- 0  32  [29]
-* 4.R. Standard de Liège              1   0  0  1   1- 2  27  [27]
-* 5.KV Kortrĳk                        1   0  0  1   0- 2  26  [26]
-* 6.R. Charleroi SC                   1   0  0  1   0- 1  25  [25]
+Round: 2
+
+Date: 4/11/2015
+
+; Kortrĳk          ; 2-0; Club Brugge       
+; Charleroi        ; 2-1; Gent              
+
+Date: 4/12/2015
+
+; Standard         ; 3-1; Anderlecht        
+
+Round: 3
+Date: 4/17/2015
+
+; Standard         ; 1-3; Gent              
+
+Date: 4/19/2015
+
+; Club Brugge      ; 2-1; Anderlecht        
+; Kortrĳk          ; 1-1; Charleroi         
+
+Round: 4
+Date: 4/25/2015
+
+; Charleroi        ; 1-0; Standard          
+; Anderlecht       ; 5-1; Kortrĳk           
+
+Date: 4/26/2015
+
+; Gent             ; 2-2; Club Brugge       
+
+Round: 5
+Date: 4/28/2015
+
+; Kortrĳk          ; 3-1; Standard          
+
+Date: 4/29/2015
+
+; Club Brugge      ; 3-1; Charleroi         
+
+Date: 4/30/2015
+
+; Gent             ; 2-1; Anderlecht        
+
+Round: 6
+
+Date: 5/2/2015
+
+; Standard         ; 1-0; Club Brugge       
+
+Date: 5/3/2015
+
+; Kortrĳk          ; 0-1; Gent              
+; Charleroi        ; 0-1; Anderlecht        
+
+Round: 7
+Date: 5/8/2015
+
+; Gent             ; 1-1; Charleroi         
+
+Date: 5/10/2015
+
+; Anderlecht       ; 3-1; Club Brugge       
+; Standard         ; 4-0; Kortrĳk           
+
+Round: 8 
+Date: 5/17/2015
+
+; Club Brugge      ; 2-3; Gent              
+; Anderlecht       ; 1-1; Standard          
+; Charleroi        ; 5-2; Kortrĳk           
+
+Round: 9 
+Date: 5/21/2015
+
+; Gent             ; 2-0; Standard          
+; Charleroi        ; 2-3; Club Brugge       
+; Kortrĳk          ; 2-2; Anderlecht        
+
+Round: 10 
+Date: 5/24/2015
+
+; Anderlecht       ; 2-1; Gent              
+; Club Brugge      ; 1-0; Kortrĳk           
+; Standard         ; 2-0; Charleroi         
+
+*Final Table:
+
+* 1.KAA Gent                         10   6  2  2  18-11  49  [29]  Champions
+* 2.Club Brugge KV                   10   5  1  4  16-16  47  [31]
+* 3.RSC Anderlecht                   10   5  2  3  18-13  46  [29]
+* 4.R. Standard de Liège             10   4  1  5  14-13  40  [27]
+* 5.R. Charleroi SC                  10   3  2  5  13-15  36  [25]  Europa League Playoff
+* 6.KV Kortrĳk                       10   2  2  6  11-22  34  [26]
 
 *NB: bonus points regular stage (halved, rounded upward) between
 *    square brackets
 
-*Playoff II
+Stage: Europa League Playoff
+
+Leg: 1
+Date: 5/28/2015
+
+; KV Mechelen      ; 2-1; Charleroi         
+
+Leg: 2
+Date: 5/31/2015
+
+; Charleroi        ; 2-0; KV Mechelen       
+
+*NB: Charleroi qualified for Europa League
+
+Stage: Playoff II
 
 *Group A | Group B | Final
 
 Group: A
 
-* 1.KV Mechelen                       1   1  0  0   4- 1   3
+
+* 1.KV Mechelen                       6   5  0  1  14- 3  15  Final
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 2.KRC Genk                          1   1  0  0   1- 0   3
-* 3.SV Zulte-Waregem                  1   0  0  1   0- 1   0
-* 4.KV Red Star Waasland-SK Beveren   1   0  0  1   1- 4   0
+* 2.KRC Genk                          6   5  0  1  14- 7  15
+* 3.SV Zulte-Waregem                  6   1  1  4   6-10   4
+* 4.KV Red Star Waasland-SK Beveren   6   0  0  5   5-19   1
 
 Round: 1
+
 Date: 4/3/2015
 
 ; Genk             ; 1-0; Zulte Waregem     
@@ -607,19 +720,55 @@ Date: 4/5/2015
 
 ; KV Mechelen      ; 4-1; Waasland-Beveren  
 
-* 1.KV Mechelen                       1   1  0  0   4- 1   3
+Round: 2
+Date: 4/11/2015
+
+;; Waasland-Beveren;  0-2 Genk              
+
+Date: 4/12/2015
+
+; Zulte Waregem    ; 0-1; KV Mechelen       
+
+Round: 3 
+Date: 4/18/2015
+
+; KV Mechelen      ; 4-0; Genk              
+; Zulte Waregem    ; 2-2; Waasland-Beveren  
+
+Round: 4
+Date: 4/24/2015
+
+; Genk             ; 1-0; KV Mechelen       
+
+Date: 4/25/2015
+
+;; Waasland-Beveren;  0-2 Zulte Waregem     
+
+Round: 5 
+Date: 5/2/2015
+
+; KV Mechelen      ; 3-0; Zulte Waregem     
+; Genk             ; 7-1; Waasland-Beveren  
+
+Round: 6 
+Date: 5/9/2015
+
+;; Waasland-Beveren;  1-2 KV Mechelen       
+; Zulte Waregem    ; 2-3; Genk              
+
+* 1.KV Mechelen                       6   5  0  1  14- 3  15  Final
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 2.KRC Genk                          1   1  0  0   1- 0   3
-* 3.SV Zulte-Waregem                  1   0  0  1   0- 1   0
-* 4.KV Red Star Waasland-SK Beveren   1   0  0  1   1- 4   0
+* 2.KRC Genk                          6   5  0  1  14- 7  15
+* 3.SV Zulte-Waregem                  6   1  1  4   6-10   4
+* 4.KV Red Star Waasland-SK Beveren   6   0  0  5   5-19   1
 
 Group: B
 
-* 1.R. Mouscron-Péruwelz              1   1  0  0   3- 0   3
+* 1.KSC Lokeren OV                    6   4  1  1  19- 9  13  Final
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 2.KSC Lokeren OV                    1   1  0  0   2- 1   3
-* 3.KV Oostende                       1   0  0  1   1- 2   0
-* 4.KVC Westerlo                      1   0  0  1   0- 3   0
+* 2.R. Mouscron-Péruwelz              6   3  1  2   9- 8  10
+* 3.KV Oostende                       6   2  0  4   6-12   6
+* 4.KVC Westerlo                      6   1  2  3   7-12   5
 
 Round: 1 
 Date: 4/4/2015
@@ -627,23 +776,91 @@ Date: 4/4/2015
 ; Oostende         ; 1-2; Lokeren           
 ; Westerlo         ; 0-3; Mouscron-Péruwelz 
 
-* 1.R. Mouscron-Péruwelz              1   1  0  0   3- 0   3
+Round: 2 
+Date: 4/11/2015
+
+; Lokeren          ; 1-1; Westerlo          
+;; Mouscron-Péruwelz; 2-0 Oostende          
+
+Round: 3 
+Date: 4/18/2015
+
+;; Mouscron-Péruwelz; 1-5 Lokeren           
+; Oostende         ; 2-0; Westerlo          
+
+Round: 4 
+Date: 4/25/2015
+
+; Lokeren          ; 2-1; Mouscron-Péruwelz 
+; Westerlo         ; 1-2; Oostende          
+
+Round: 5 
+Date: 5/1/2015
+
+; Oostende         ; 0-1; Mouscron-Péruwelz 
+; Westerlo         ; 4-3; Lokeren           
+
+Round: 6 
+Date: 5/9/2015
+
+; Lokeren          ; 6-1; Oostende          
+;; Mouscron-Péruwelz; 1-1 Westerlo          
+
+
+* 1.KSC Lokeren OV                    6   4  1  1  19- 9  13  Final
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 2.KSC Lokeren OV                    1   1  0  0   2- 1   3
-* 3.KV Oostende                       1   0  0  1   1- 2   0
-* 4.KVC Westerlo                      1   0  0  1   0- 3   0
+* 2.R. Mouscron-Péruwelz              6   3  1  2   9- 8  10
+* 3.KV Oostende                       6   2  0  4   6-12   6
+* 4.KVC Westerlo                      6   1  2  3   7-12   5
 
 Round: Final
+Leg: 1
+
+Date: 5/16/2015
+
+; Lokeren          ; 2-2; KV Mechelen       
+
+Leg: 2
+
+Date: 5/23/2015
+
+; KV Mechelen      ; 2-1; Lokeren           
+
+*NB: KV Mechelen qualified for Europa League Playoff
+
 
 Stage: Relegation Playoff
+
+*15.K. Lierse SK                      4   3  0  1   8- 4   9  Eindronde
+*-----------------------------------------------------------
+*16.Cercle Brugge KSV                 4   1  0  3   4- 8   6  [3]  Relegated
+
 
 Date: 4/4/2015
 
 ; Cercle Brugge    ; 2-3; Lierse            
 
-*15.K. Lierse SK                      1   1  0  0   3- 2   3
+Date: 4/10/2015
+
+; Lierse           ; 0-1; Cercle Brugge     
+
+Date: 4/17/2015
+
+; Cercle Brugge    ; 0-2; Lierse            
+
+Date: 4/26/2015
+
+; Lierse           ; 3-1; Cercle Brugge     
+
+*Final Table:
+
+*15.K. Lierse SK                      4   3  0  1   8- 4   9  Eindronde
 *-----------------------------------------------------------
-*16.Cercle Brugge KSV                 1   0  0  1   2- 3   3  [3]
+*16.Cercle Brugge KSV                 4   1  0  3   4- 8   6  [3]  Relegated
+
+
+
+
 
 Competition: Cup
 
