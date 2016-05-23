@@ -1,0 +1,797 @@
+BlockSource: http://rsssf.com/tablesn/ned2016.html#ere
+Competition: Eredivisie
+Season: 2015-2016
+
+
+Stage: Regular Season
+
+* 1.PSV (Eindhoven)              34  26  6  2  88-32  84  [C]  Champions
+* 2.Ajax (Amsterdam)             34  25  7  2  81-21  82
+* 3.Feyenoord (Rotterdam)        34  19  6  9  62-40  63
+* 4.AZ (Alkmaar)                 34  18  5 11  70-53  59
+* 5.FC Utrecht                   34  15  8 11  57-48  53  Europa League Playoff
+* 6.Heracles Almelo              34  14  9 11  47-49  51  Europa League Playoff
+* 7.FC Groningen                 34  14  8 12  41-48  50  Europa League Playoff
+* 8.PEC Zwolle                   34  14  6 14  56-54  48  Europa League Playoff
+* 9.Vitesse (Arnhem)             34  12 10 12  55-38  46
+*10.NEC (Nĳmegen)                34  13  7 14  37-42  46  [P]
+*11.ADO Den Haag                 34  10 13 11  48-49  43
+*12.SC Heerenveen                34  11  9 14  46-61  42
+*13.FC Twente (Enschede)         34  12  7 15  49-64  40  [-3]
+*14.Roda JC Kerkrade             34   8 10 16  34-55  34  [P]
+*15.Excelsior (Rotterdam)        34   7  9 18  34-60  30
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.Willem II (Tilburg)          34   6 11 17  35-53  29  Nacompetitie
+*17.De Graafschap (Doetinchem)   34   5  8 21  39-66  23  [P]  Nacompetitie
+*-------------------------------------------------------
+*18.SC Cambuur (Leeuwarden)      34   3  9 22  33-79  18  Relegated
+
+*NB: FC Twente 3 points deducted for financial reasons; on May 18 the license commission
+*    of the federation announced it intends to forcibly relegate Twente to the second level
+*    (by withdrawing the license and issuing a new one); this decision is not yet final but
+*    should it be confirmed, the best-placed club in the final standings relegated to the
+*    second level (depending on the results of the nacompetitie this may be Willem II,
+*    De Graafschap or Cambuur) will be reprieved.
+
+Round: 1
+Date: 8/8/2015
+
+; Roda JC        ; 3-1; Heracles        
+; Feyenoord      ; 3-2; Utrecht         
+
+Date: 8/9/2015
+
+; AZ             ; 0-3; Ajax            
+; Willem II      ; 1-1; Vitesse         
+
+Date: 8/11/2015
+
+; ADO            ; 2-2; PSV             
+; Heerenveen     ; 3-1; De Graafschap   
+
+Date: 8/12/2015
+
+; Groningen      ; 1-1; Twente          
+; PEC            ; 2-2; Cambuur         
+; NEC            ; 1-0; Excelsior       
+
+Round: 2
+Date: 8/14/2015
+
+; Vitesse        ; 3-0; Roda JC         
+
+Date: 8/15/2015
+
+; De Graafschap  ; 0-3; PEC             
+; Ajax           ; 3-0; Willem II       
+; Twente         ; 1-4; ADO             
+; Excelsior      ; 2-2; AZ              
+
+Date: 8/16/2015
+
+; PSV            ; 2-0; Groningen       
+; Utrecht        ; 1-1; Heerenveen      
+; Cambuur        ; 0-2; Feyenoord       
+; Heracles       ; 3-0; NEC             
+
+Round: 3
+Date: 8/21/2015
+
+; Groningen      ; 2-0; Excelsior       
+
+Date: 8/22/2015
+
+; Roda JC        ; 1-0; De Graafschap   
+; Heerenveen     ; 1-1; PSV             
+; Cambuur        ; 1-6; Heracles        
+
+Date: 8/23/2015
+
+; PEC            ; 2-1; Twente          
+; ADO            ; 1-1; Utrecht         
+; AZ             ; 0-0; Willem II       
+; NEC            ; 0-2; Ajax            
+; Feyenoord      ; 2-0; Vitesse         
+
+Round: 4
+Date: 8/28/2015
+
+; Willem II      ; 0-1; NEC             
+
+Date: 8/29/2015
+
+; Utrecht        ; 2-0; Groningen       
+; Excelsior      ; 3-0; De Graafschap   
+; Heerenveen     ; 1-1; PEC             
+; Heracles       ; 2-0; Twente          
+
+Date: 8/30/2015
+
+; Ajax           ; 4-0; ADO             
+; AZ             ; 0-1; Roda JC         
+; Vitesse        ; 4-1; Cambuur         
+; PSV            ; 3-1; Feyenoord       
+
+Round: 5
+Date: 9/12/2015
+
+; De Graafschap  ; 1-3; AZ              
+; Roda JC        ; 0-0; NEC             
+; Twente         ; 2-2; Ajax            
+; PEC            ; 3-0; Excelsior       
+; Cambuur        ; 0-6; PSV             
+
+Date: 9/13/2015
+
+; Groningen      ; 3-1; Heerenveen      
+; ADO            ; 0-1; Heracles        
+; Feyenoord      ; 1-0; Willem II       
+; Utrecht        ; 2-1; Vitesse         
+
+Round: 6
+Date: 9/18/2015
+
+; NEC            ; 2-0; Heerenveen      
+
+Date: 9/19/2015
+
+; Cambuur        ; 0-0; Twente          
+; Heracles       ; 2-1; PSV             
+; PEC            ; 2-1; ADO             
+; Willem II      ; 3-1; Utrecht         
+
+Date: 9/20/2015
+
+; Roda JC        ; 1-1; Feyenoord       
+; Excelsior      ; 0-2; Ajax            
+; Groningen      ; 2-0; AZ              
+; Vitesse        ; 3-0; De Graafschap   
+
+Round: 7
+Date: 9/26/2015
+
+; Utrecht        ; 3-3; Cambuur         
+; Heerenveen     ; 0-0; Vitesse         
+; Ajax           ; 2-0; Groningen       
+; AZ             ; 3-1; Heracles        
+; PSV            ; 2-1; NEC             
+
+Date: 9/27/2015
+
+; De Graafschap  ; 2-2; Willem II       
+; ADO            ; 3-3; Excelsior       
+; Feyenoord      ; 2-0; PEC             
+; Twente         ; 2-1; Roda JC         
+
+Round: 8
+Date: 10/2/2015
+
+; Heracles       ; 2-0; Heerenveen      
+
+Date: 10/3/2015
+
+; NEC            ; 4-1; ADO             
+; Roda JC        ; 1-1; Cambuur         
+; Willem II      ; 0-1; PEC             
+; Excelsior      ; 1-0; Utrecht         
+
+Date: 10/4/2015
+
+; De Graafschap  ; 1-2; Feyenoord       
+; Ajax           ; 1-2; PSV             
+; Vitesse        ; 5-0; Groningen       
+; AZ             ; 3-1; Twente          
+
+Round: 9
+Date: 10/17/2015
+
+; Groningen      ; 2-1; Willem II       
+; Cambuur        ; 1-1; AZ              
+; Heracles       ; 0-2; Ajax            
+; Utrecht        ; 1-1; Roda JC         
+; PSV            ; 1-1; Excelsior       
+
+Date: 10/18/2015
+
+; Twente         ; 1-0; NEC             
+; ADO            ; 1-1; De Graafschap   
+; Heerenveen     ; 2-5; Feyenoord       
+; PEC            ; 1-5; Vitesse         
+
+Round: 10
+Date: 10/23/2015
+
+; PEC            ; 1-2; Utrecht         
+
+Date: 10/24/2015
+
+; Willem II      ; 2-2; Heerenveen      
+; De Graafschap  ; 0-1; Heracles        
+; Twente         ; 1-3; PSV             
+; Roda JC        ; 1-2; Excelsior       
+
+Date: 10/25/2015
+
+; Cambuur        ; 1-1; ADO             
+; NEC            ; 1-1; Groningen       
+; Vitesse        ; 1-3; Ajax            
+; Feyenoord      ; 3-1; AZ              
+
+Round: 11
+Date: 10/30/2015
+
+; Heracles       ; 2-1; Willem II       
+
+Date: 10/31/2015
+
+; Groningen      ; 2-0; PEC             
+; Ajax           ; 6-0; Roda JC         
+; Excelsior      ; 0-3; Vitesse         
+; De Graafschap  ; 3-6; PSV             
+
+Date: 11/1/2015
+
+; ADO            ; 1-0; Feyenoord       
+; Utrecht        ; 4-2; Twente          
+; Heerenveen     ; 2-0; Cambuur         
+; AZ             ; 2-4; NEC             
+
+Round: 12
+Date: 11/6/2015
+
+; Roda JC        ; 1-1; ADO             
+
+Date: 11/7/2015
+
+; Twente         ; 1-4; Heerenveen      
+; NEC            ; 2-0; De Graafschap   
+; Willem II      ; 2-3; Excelsior       
+; PEC            ; 1-1; Heracles        
+
+Date: 11/8/2015
+
+; PSV            ; 3-1; Utrecht         
+; Feyenoord      ; 1-1; Ajax            
+; Cambuur        ; 2-2; Groningen       
+; Vitesse        ; 0-2; AZ              
+
+Round: 13
+Date: 11/21/2015
+
+; AZ             ; 3-1; Heerenveen      
+; Roda JC        ; 0-5; PEC             
+; Ajax           ; 5-1; Cambuur         
+; De Graafschap  ; 1-2; Groningen       
+; Willem II      ; 2-2; PSV             
+
+Date: 11/22/2015
+
+; Heracles       ; 0-0; Excelsior       
+; Feyenoord      ; 5-0; Twente          
+; NEC            ; 1-0; Utrecht         
+; ADO            ; 2-2; Vitesse         
+
+Round: 14
+Date: 11/27/2015
+
+; Cambuur        ; 2-3; De Graafschap   
+
+Date: 11/28/2015
+
+; Heerenveen     ; 3-0; Roda JC         
+; Excelsior      ; 2-4; Feyenoord       
+; Twente         ; 1-3; Willem II       
+
+Date: 11/29/2015
+
+; Vitesse        ; 1-0; NEC             
+; Groningen      ; 2-1; ADO             
+; Utrecht        ; 4-2; Heracles        
+; PEC            ; 0-2; Ajax            
+; PSV            ; 3-0; AZ              
+
+Round: 15
+Date: 12/4/2015
+
+; AZ             ; 0-1; ADO             
+
+Date: 12/5/2015
+
+; Excelsior      ; 1-1; Twente          
+; De Graafschap  ; 0-1; Utrecht         
+; Vitesse        ; 0-1; PSV             
+; Ajax           ; 5-2; Heerenveen      
+
+Date: 12/6/2015
+
+; Willem II      ; 3-0; Cambuur         
+; Feyenoord      ; 3-0; Heracles        
+; NEC            ; 2-2; PEC             
+; Roda JC        ; 0-0; Groningen       
+
+Round: 16
+Date: 12/11/2015
+
+; Heerenveen     ; 2-1; Excelsior       
+
+Date: 12/12/2015
+
+; ADO            ; 1-1; Willem II       
+; PSV            ; 1-1; Roda JC         
+; Cambuur        ; 3-1; NEC             
+; Twente         ; 2-1; De Graafschap   
+
+Date: 12/13/2015
+
+; Utrecht        ; 1-0; Ajax            
+; Groningen      ; 1-1; Feyenoord       
+; PEC            ; 2-1; AZ              
+; Heracles       ; 1-1; Vitesse         
+
+Round: 17
+Date: 12/18/2015
+
+; Vitesse        ; 5-1; Twente          
+
+Date: 12/19/2015
+
+; AZ             ; 2-2; Utrecht         
+; PSV            ; 3-2; PEC             
+; Heracles       ; 2-1; Groningen       
+
+Date: 12/20/2015
+
+; Excelsior      ; 1-4; Cambuur         
+; NEC            ; 3-1; Feyenoord       
+; Heerenveen     ; 0-4; ADO             
+; Willem II      ; 3-2; Roda JC         
+; Ajax           ; 2-1; De Graafschap   
+
+*Halfway Table:
+* 1.Ajax (Amsterdam)             17  13  2  2  45-11  41
+* 2.PSV (Eindhoven)              17  11  5  1  42-19  38  [C]
+* 3.Feyenoord (Rotterdam)        17  11  3  3  37-18  36
+* 4.Heracles Almelo              17   9  3  5  27-21  30
+* 5.Vitesse (Arnhem)             17   8  4  5  35-17  28
+* 6.NEC (Nĳmegen)                17   8  3  6  23-19  27  [P]
+* 7.FC Utrecht                   17   7  5  5  28-25  26
+* 8.FC Groningen                 17   7  5  5  21-22  26
+* 9.PEC Zwolle                   17   7  4  6  28-25  25
+*10.ADO Den Haag                 17   4  8  5  25-26  20
+*11.SC Heerenveen                17   5  5  7  25-32  20
+*12.AZ (Alkmaar)                 17   5  4  8  23-28  19
+*13.Willem II (Tilburg)          17   4  6  7  24-25  18
+*14.Excelsior (Rotterdam)        17   4  5  8  20-31  17
+*15.Roda JC Kerkrade             17   3  7  7  14-30  16  [P]
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.SC Cambuur (Leeuwarden)      17   2  7  8  22-43  13
+*17.FC Twente (Enschede)         17   3  4 10  18-41  13
+*-------------------------------------------------------
+*18.De Graafschap (Doetinchem)   17   1  2 14  15-39   5  [P]
+
+Round: 18
+Date: 1/15/2016
+
+; Twente         ; 4-0; Heracles        
+
+Date: 1/16/2016
+
+; Cambuur        ; 0-2; Vitesse         
+; PEC            ; 5-2; Heerenveen      
+; Roda JC        ; 0-1; AZ              
+; De Graafschap  ; 2-0; Excelsior       
+
+Date: 1/17/2016
+
+; ADO            ; 0-1; Ajax            
+; Groningen      ; 1-4; Utrecht         
+; Feyenoord      ; 0-2; PSV             
+; NEC            ; 1-0; Willem II       
+
+Round: 19
+Date: 1/22/2016
+
+; Groningen      ; 0-0; NEC             
+
+Date: 1/23/2016
+
+; Heracles       ; 2-1; De Graafschap   
+; Ajax           ; 1-0; Vitesse         
+; Excelsior      ; 0-1; Roda JC         
+; Heerenveen     ; 3-1; Willem II       
+
+Date: 1/24/2016
+
+; AZ             ; 4-2; Feyenoord       
+; Utrecht        ; 1-0; PEC             
+; PSV            ; 4-2; Twente          
+; ADO            ; 2-1; Cambuur         
+
+Round: 20
+Date: 1/26/2016
+
+; Willem II      ; 1-1; Groningen       
+; Ajax           ; 0-0; Heracles        
+
+Date: 1/27/2016
+
+; AZ             ; 3-1; Cambuur         
+; NEC            ; 2-0; Twente          
+; De Graafschap  ; 3-1; ADO             
+; Excelsior      ; 1-3; PSV             
+; Vitesse        ; 1-1; PEC             
+
+Date: 1/28/2016
+
+; Roda JC        ; 1-0; Utrecht         
+; Feyenoord      ; 1-2; Heerenveen      
+
+Round: 21
+Date: 1/29/2016
+
+; Willem II      ; 0-0; Heracles        
+
+Date: 1/30/2016
+
+; Vitesse        ; 0-0; Excelsior       
+; PEC            ; 1-3; Groningen       
+; PSV            ; 4-2; De Graafschap   
+; NEC            ; 0-3; AZ              
+
+Date: 1/31/2016
+
+; Roda JC        ; 2-2; Ajax            
+; Feyenoord      ; 0-2; ADO             
+; Cambuur        ; 0-1; Heerenveen      
+; Twente         ; 3-1; Utrecht         
+
+Round: 22
+Date: 2/5/2016
+
+; Excelsior      ; 0-0; Willem II       
+
+Date: 2/6/2016
+
+; ADO            ; 2-2; Roda JC         
+; AZ             ; 1-0; Vitesse         
+; Heerenveen     ; 1-3; Twente          
+; Heracles       ; 2-0; PEC             
+
+Date: 2/7/2016
+
+; Ajax           ; 2-1; Feyenoord       
+; De Graafschap  ; 1-1; NEC             
+; Groningen      ; 2-0; Cambuur         
+; Utrecht        ; 0-2; PSV             
+
+Round: 23
+Date: 2/12/2016
+
+; Cambuur        ; 0-2; Utrecht         
+
+Date: 2/13/2016
+
+; Heracles       ; 3-6; AZ              
+; Roda JC        ; 0-1; Twente          
+; Willem II      ; 0-0; De Graafschap   
+; Vitesse        ; 3-0; Heerenveen      
+
+Date: 2/14/2016
+
+; Groningen      ; 1-2; Ajax            
+; Excelsior      ; 2-4; ADO             
+; PEC            ; 3-1; Feyenoord       
+; NEC            ; 0-3; PSV             
+
+Round: 24
+Date: 2/19/2016
+
+; ADO            ; 0-2; PEC             
+
+Date: 2/20/2016
+
+; AZ             ; 4-1; Groningen       
+; PSV            ; 2-0; Heracles        
+; Heerenveen     ; 1-1; NEC             
+; Twente         ; 3-0; Cambuur         
+
+Date: 2/21/2016
+
+; De Graafschap  ; 2-2; Vitesse         
+; Ajax           ; 3-0; Excelsior       
+; Utrecht        ; 2-1; Willem II       
+; Feyenoord      ; 1-1; Roda JC         
+
+Round: 25
+Date: 2/26/2016
+
+; Excelsior      ; 2-0; NEC             
+
+Date: 2/27/2016
+
+; Twente         ; 2-0; Groningen       
+; PSV            ; 2-0; ADO             
+; Cambuur        ; 1-0; PEC             
+; Vitesse        ; 0-1; Willem II       
+
+Date: 2/28/2016
+
+; Heracles       ; 0-5; Roda JC         
+; De Graafschap  ; 0-1; Heerenveen      
+; Utrecht        ; 1-2; Feyenoord       
+; Ajax           ; 4-1; AZ              
+
+Round: 26
+Date: 3/4/2016
+
+; ADO            ; 2-1; Twente          
+
+Date: 3/5/2016
+
+; PEC            ; 2-1; De Graafschap   
+; Groningen      ; 0-3; PSV             
+; Heerenveen     ; 0-4; Utrecht         
+
+Date: 3/6/2016
+
+; NEC            ; 1-0; Heracles        
+; AZ             ; 2-0; Excelsior       
+; Roda JC        ; 1-2; Vitesse         
+; Willem II      ; 0-4; Ajax            
+; Feyenoord      ; 3-1; Cambuur         
+
+Round: 27
+Date: 3/11/2016
+
+; De Graafschap  ; 3-0; Roda JC         
+
+Date: 3/12/2016
+
+; Twente         ; 2-1; PEC             
+; PSV            ; 1-1; Heerenveen      
+; Willem II      ; 0-2; AZ              
+; Excelsior      ; 2-1; Groningen       
+
+Date: 3/13/2016
+
+; Utrecht        ; 2-2; ADO             
+; Heracles       ; 3-1; Cambuur         
+; Vitesse        ; 0-2; Feyenoord       
+; Ajax           ; 2-2; NEC             
+
+Round: 28
+Date: 3/18/2016
+
+; Utrecht        ; 2-1; Excelsior       
+
+Date: 3/19/2016
+
+; Heerenveen     ; 0-1; Heracles        
+; Feyenoord      ; 3-1; De Graafschap   
+; PEC            ; 4-1; Willem II       
+; Cambuur        ; 0-1; Roda JC         
+
+Date: 3/20/2016
+
+; Twente         ; 2-2; AZ              
+; ADO            ; 1-0; NEC             
+; Groningen      ; 0-3; Vitesse         
+; PSV            ; 0-2; Ajax            
+
+Round: 29
+Date: 4/2/2016
+
+; De Graafschap  ; 2-2; Cambuur         
+; Heracles       ; 1-1; Utrecht         
+; AZ             ; 2-4; PSV             
+; Feyenoord      ; 3-0; Excelsior       
+; Willem II      ; 2-3; Twente          
+
+Date: 4/3/2016
+
+; NEC            ; 2-1; Vitesse         
+; ADO            ; 0-1; Groningen       
+; Roda JC        ; 1-2; Heerenveen      
+; Ajax           ; 3-0; PEC             
+
+Round: 30
+Date: 4/8/2016
+
+; PEC            ; 3-1; Roda JC         
+
+Date: 4/9/2016
+
+; Excelsior      ; 1-3; Heracles        
+; Cambuur        ; 0-1; Ajax            
+; Vitesse        ; 2-2; ADO             
+; PSV            ; 2-0; Willem II       
+
+Date: 4/10/2016
+
+; Heerenveen     ; 4-2; AZ              
+; Groningen      ; 3-1; De Graafschap   
+; Utrecht        ; 3-1; NEC             
+; Twente         ; 0-1; Feyenoord       
+
+Round: 31
+Date: 4/15/2016
+
+; De Graafschap  ; 1-1; Twente          
+
+Date: 4/16/2016
+
+; Vitesse        ; 1-1; Heracles        
+; AZ             ; 5-1; PEC             
+; Feyenoord      ; 1-1; Groningen       
+; Roda JC        ; 0-3; PSV             
+
+Date: 4/17/2016
+
+; Ajax           ; 2-2; Utrecht         
+; NEC            ; 2-1; Cambuur         
+; Willem II      ; 0-2; ADO             
+; Excelsior      ; 1-1; Heerenveen      
+
+Round: 32
+Date: 4/19/2016
+
+; Groningen      ; 1-0; Roda JC         
+; PSV            ; 2-0; Vitesse         
+
+Date: 4/20/2016
+
+; Utrecht        ; 0-2; De Graafschap   
+; PEC            ; 2-0; NEC             
+; Heracles       ; 2-2; Feyenoord       
+; Twente         ; 2-0; Excelsior       
+; Heerenveen     ; 0-2; Ajax            
+
+Date: 4/21/2016
+
+; ADO            ; 1-2; AZ              
+; Cambuur        ; 1-1; Willem II       
+
+Round: 33 
+Date: 5/1/2016
+
+; Ajax           ; 4-0; Twente          
+; AZ             ; 4-1; De Graafschap   
+; Excelsior      ; 2-2; PEC             
+; Heracles       ; 1-1; ADO             
+; NEC            ; 1-2; Roda JC         
+; PSV            ; 6-2; Cambuur         
+; Heerenveen     ; 1-2; Groningen       
+; Vitesse        ; 1-3; Utrecht         
+; Willem II      ; 0-1; Feyenoord       
+
+Round: 34 
+Date: 5/8/2016
+
+; ADO            ; 1-1; Heerenveen      
+; De Graafschap  ; 1-1; Ajax            
+; Groningen      ; 2-1; Heracles        
+; Twente         ; 2-2; Vitesse         
+; Utrecht        ; 1-3; AZ              
+; Feyenoord      ; 1-0; NEC             
+; PEC            ; 1-3; PSV             
+; Roda JC        ; 2-3; Willem II       
+; Cambuur        ; 0-2; Excelsior       
+
+* 1.PSV (Eindhoven)              34  26  6  2  88-32  84  [C]  Champions
+* 2.Ajax (Amsterdam)             34  25  7  2  81-21  82
+* 3.Feyenoord (Rotterdam)        34  19  6  9  62-40  63
+* 4.AZ (Alkmaar)                 34  18  5 11  70-53  59
+* 5.FC Utrecht                   34  15  8 11  57-48  53  Europa League Playoff
+* 6.Heracles Almelo              34  14  9 11  47-49  51  Europa League Playoff
+* 7.FC Groningen                 34  14  8 12  41-48  50  Europa League Playoff
+* 8.PEC Zwolle                   34  14  6 14  56-54  48  Europa League Playoff
+* 9.Vitesse (Arnhem)             34  12 10 12  55-38  46
+*10.NEC (Nĳmegen)                34  13  7 14  37-42  46  [P]
+*11.ADO Den Haag                 34  10 13 11  48-49  43
+*12.SC Heerenveen                34  11  9 14  46-61  42
+*13.FC Twente (Enschede)         34  12  7 15  49-64  40  [-3]
+*14.Roda JC Kerkrade             34   8 10 16  34-55  34  [P]
+*15.Excelsior (Rotterdam)        34   7  9 18  34-60  30
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+*16.Willem II (Tilburg)          34   6 11 17  35-53  29  Nacompetitie
+*17.De Graafschap (Doetinchem)   34   5  8 21  39-66  23  [P]  Nacompetitie
+*-------------------------------------------------------
+*18.SC Cambuur (Leeuwarden)      34   3  9 22  33-79  18  Relegated
+
+*NB: FC Twente 3 points deducted for financial reasons; on May 18 the license commission
+*    of the federation announced it intends to forcibly relegate Twente to the second level
+*    (by withdrawing the license and issuing a new one); this decision is not yet final but
+*    should it be confirmed, the best-placed club in the final standings relegated to the
+*    second level (depending on the results of the nacompetitie this may be Willem II,
+*    De Graafschap or Cambuur) will be reprieved.
+
+Competition: Europa League Playoff
+
+Round: Semifinals
+Leg: 1
+
+Date: 5/12/2016
+
+; Groningen      ; 2-1; Heracles        
+; PEC            ; 0-0; Utrecht         
+
+Leg: 2
+Date: 5/15/2016
+
+; Heracles       ; 5-1 (aet); Groningen       
+; Utrecht        ; 5-2; PEC             
+
+Round: Final
+Leg: 1
+Date: 5/19/2016
+
+; Heracles        ; v;  Utrecht         
+
+Leg: 2
+Date: 5/22/2016
+
+; Utrecht         ; v;  Heracles        
+
+Competition: Nacompetitie
+
+*NB: promotion/relegation competition involving the nrs. 16 and 17
+*    of the eredivisie, the four period winners of the eerste divisie
+*    and the best 4 teams from the eerste divisie not qualified otherwise
+
+Round: 1
+Leg: 1
+
+Date: 5/2/2016
+
+; Almere City    ; 4-1; Emmen           
+; MVV            ; 2-1; Volendam        
+
+Leg: 2
+Date: 5/6/2016
+
+; Emmen          ; 1-4; Almere City     
+; Volendam       ; 1-2; MVV             
+
+Round: 2
+
+Leg: 1
+Date: 5/13/2016
+
+; MVV            ; 0-1; De Graafschap   
+; Eindhoven      ; 1-0; NAC             
+; Go Ahead Eagles; 1-0; VVV             
+; Almere City    ; 0-1; Willem II       
+
+Leg: 2
+Date: 5/16/2016
+
+; De Graafschap  ; 2-1; MVV             
+; NAC            ; 2-0; Eindhoven       
+; VVV            ; 2-2; Go Ahead Eagles 
+; Willem II      ; 5-2; Almere City     
+
+Round: 3
+Leg: 1
+Date: 5/19/2016
+
+; NAC             ; v;  Willem II       
+; Go Ahead Eagles ; v;  De Graafschap   
+
+Leg: 2
+Date: 5/22/2016
+
+; De Graafschap   ; v;  Go Ahead Eagles 
+; Willem II       ; v;  NAC             
+
+*NB: should the forced relegation of Twente be confirmed, the best-placed club in the final
+*    standings of the eredivisie relegated to the second level (either Willem II, De Graafschap
+*    or Cambuur) will be reprieved.
+
+
+
+*About this document
+*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 19 May 2016
+*(C) Copyright Karel Stokkermans and RSSSF 2015/16
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
