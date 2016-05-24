@@ -1,0 +1,833 @@
+BlockSource: http://rsssf.com/tabless/span2016.html#laliga
+Season: 2015-2016
+Competition: La Liga
+
+* 1.FC Barcelona                  38  29  4  5 112-29  91  [C]  Champions
+* 2.Real Madrid CF                38  28  6  4 110-34  90
+* 3.Atlético de Madrid            38  28  4  6  63-18  88
+* 4.Villarreal CF                 38  18 10 10  44-35  64
+* 5.Athletic de Bilbao            38  18  8 12  58-45  62
+* 6.RC Celta (Vigo)               38  17  9 12  51-59  60
+* 7.Sevilla FC                    38  14 10 14  51-50  52
+* 8.Málaga CF                     38  12 12 14  38-35  48  [2 1 1 0 4-2 4]
+* 9.Real Sociedad (San Sebastián) 38  13  9 16  45-48  48  [2 0 1 1 2-4 1]
+*10.Real Betis Balompié (Sevilla) 38  11 12 15  34-52  45  [P]
+*11.UD Las Palmas                 38  12  8 18  45-53  44  [P]    [2 1 1 0 3-2 4]
+*12.Valencia CF                   38  11 11 16  46-48  44         [2 0 1 1 2-3 1]
+*13.RCD Espanyol (Barcelona)      38  12  7 19  40-74  43  [2 1 0 1 5-4 3]
+*14.SD Eibar                      38  11 10 17  49-61  43  [2 1 0 1 4-5 3]
+*15.RC Deportivo (La Coruña)      38   8 18 12  45-61  42
+*16.Granada CF                    38  10  9 19  46-69  39       [2 1 1 0 5-3 4]
+*17.Sporting de Gijón             38  10  9 19  40-62  39  [P]  [2 0 1 1 3-5 1]
+*--------------------------------------------------------
+*18.Rayo Vallecano                38   9 11 18  52-73  38  Relegated
+*19.Getafe CF                     38   9  9 20  37-67  36  Relegated
+*20.Levante UD (Valencia)         38   8  8 22  37-70  32  Relegated
+
+Round: 1
+Date: 8/21/2015
+
+; Málaga                   ; 0-0; Sevilla                   
+
+Date: 8/22/2015
+
+; Deportivo                ; 0-0; Sociedad                  
+; Espanyol                 ; 1-0; Getafe                    
+; Atlético                 ; 1-0; Las Palmas                
+; Rayo                     ; 0-0; Valencia                  
+
+Date: 8/23/2015
+
+; Athletic                 ; 0-1; Barcelona                 
+; Sporting                 ; 0-0; Madrid                    
+; Levante                  ; 1-2; Celta                     
+; Betis                    ; 1-1; Villarreal                
+
+Date: 8/24/2015
+
+; Granada                  ; 1-3; Eibar                     
+
+Round: 2
+Date: 8/28/2015
+
+; Villarreal               ; 3-1; Espanyol                  
+
+Date: 8/29/2015
+
+; Sociedad                 ; 0-0; Sporting                  
+; Barcelona                ; 1-0; Málaga                    
+; Celta                    ; 3-0; Rayo                      
+; Madrid                   ; 5-0; Betis                     
+
+Date: 8/30/2015
+
+; Eibar                    ; 2-0; Athletic                  
+; Sevilla                  ; 0-3; Atlético                  
+; Valencia                 ; 1-1; Deportivo                 
+; Getafe                   ; 1-2; Granada                   
+; Las Palmas               ; 0-0; Levante                   
+
+Round: 3
+Date: 9/11/2015
+
+; Levante                  ; 1-1; Sevilla                   
+
+Date: 9/12/2015
+
+; Espanyol                 ; 0-6; Madrid                    
+; Sporting                 ; 0-1; Valencia                  
+; Atlético                 ; 1-2; Barcelona                 
+; Betis                    ; 1-0; Sociedad                  
+
+Date: 9/13/2015
+
+; Granada                  ; 1-3; Villarreal                
+; Athletic                 ; 3-1; Getafe                    
+; Celta                    ; 3-3; Las Palmas                
+; Málaga                   ; 0-0; Eibar                     
+
+Date: 9/14/2015
+
+; Rayo                     ; 1-3; Deportivo                 
+
+Round: 4
+Date: 9/18/2015
+
+; Getafe                   ; 1-0; Málaga                    
+
+Date: 9/19/2015
+
+; Madrid                   ; 1-0; Granada                   
+; Valencia                 ; 0-0; Betis                     
+; Eibar                    ; 0-2; Atlético                  
+; Sociedad                 ; 2-3; Espanyol                  
+
+Date: 9/20/2015
+
+; Sevilla                  ; 1-2; Celta                     
+; Deportivo                ; 2-3; Sporting                  
+; Villarreal               ; 3-1; Athletic                  
+; Barcelona                ; 4-1; Levante                   
+; Las Palmas               ; 0-1; Rayo                      
+
+Round: 5
+Date: 9/22/2015
+
+; Atlético                 ; 2-0; Getafe                    
+; Espanyol                 ; 1-0; Valencia                  
+; Granada                  ; 0-3; Sociedad                  
+
+Date: 9/23/2015
+
+; Celta                    ; 4-1; Barcelona                 
+; Levante                  ; 2-2; Eibar                     
+; Rayo                     ; 2-1; Sporting                  
+; Athletic                 ; 1-2; Madrid                    
+; Las Palmas               ; 2-0; Sevilla                   
+; Málaga                   ; 0-1; Villarreal                
+
+Date: 9/24/2015
+
+; Betis                    ; 1-2; Deportivo                 
+
+Round: 6
+Date: 9/25/2015
+
+; Valencia                 ; 1-0; Granada                   
+
+Date: 9/26/2015
+
+; Barcelona                ; 2-1; Las Palmas                
+; Madrid                   ; 0-0; Málaga                    
+; Sevilla                  ; 3-2; Rayo                      
+; Villarreal               ; 1-0; Atlético                  
+; Eibar                    ; 1-1; Celta                     
+
+Date: 9/27/2015
+
+; Sporting                 ; 1-2; Betis                     
+; Deportivo                ; 3-0; Espanyol                  
+; Getafe                   ; 3-0; Levante                   
+; Sociedad                 ; 0-0; Athletic                  
+
+Round: 7
+Date: 10/2/2015
+
+; Celta                    ; 0-0; Getafe                    
+
+Date: 10/3/2015
+
+; Sevilla                  ; 2-1; Barcelona                 
+; Granada                  ; 1-1; Deportivo                 
+; Espanyol                 ; 1-2; Sporting                  
+; Las Palmas               ; 0-2; Eibar                     
+; Málaga                   ; 3-1; Sociedad                  
+
+Date: 10/4/2015
+
+; Rayo                     ; 0-2; Betis                     
+; Athletic                 ; 3-1; Valencia                  
+; Levante                  ; 1-0; Villarreal                
+; Atlético                 ; 1-1; Madrid                    
+
+Round: 8
+Date: 10/17/2015
+
+; Madrid                   ; 3-0; Levante                   
+; Eibar                    ; 1-1; Sevilla                   
+; Barcelona                ; 5-2; Rayo                      
+; Valencia                 ; 3-0; Málaga                    
+; Betis                    ; 1-3; Espanyol                  
+
+Date: 10/18/2015
+
+; Villarreal               ; 1-2; Celta                     
+; Sociedad                 ; 0-2; Atlético                  
+; Getafe                   ; 4-0; Las Palmas                
+; Deportivo                ; 2-2; Athletic                  
+
+Date: 10/19/2015
+
+; Sporting                 ; 3-3; Granada                   
+
+Round: 9
+Date: 10/23/2015
+
+; Rayo                     ; 3-0; Espanyol                  
+
+Date: 10/24/2015
+
+; Celta                    ; 1-3; Madrid                    
+; Granada                  ; 1-1; Betis                     
+; Sevilla                  ; 5-0; Getafe                    
+; Málaga                   ; 2-0; Deportivo                 
+
+Date: 10/25/2015
+
+; Levante                  ; 0-4; Sociedad                  
+; Las Palmas               ; 0-0; Villarreal                
+; Barcelona                ; 3-1; Eibar                     
+; Atlético                 ; 2-1; Valencia                  
+
+Date: 10/26/2015
+
+; Athletic                 ; 3-0; Sporting                  
+
+Round: 10
+Date: 10/30/2015
+
+; Deportivo                ; 1-1; Atlético                  
+
+Date: 10/31/2015
+
+; Madrid                   ; 3-1; Las Palmas                
+; Valencia                 ; 3-0; Levante                   
+; Villarreal               ; 2-1; Sevilla                   
+; Getafe                   ; 0-2; Barcelona                 
+; Sociedad                 ; 2-3; Celta                     
+
+Date: 11/1/2015
+
+; Eibar                    ; 1-0; Rayo                      
+; Espanyol                 ; 1-1; Granada                   
+; Sporting                 ; 1-0; Málaga                    
+; Betis                    ; 1-3; Athletic                  
+
+Round: 11
+Date: 11/6/2015
+
+; Las Palmas               ; 2-0; Sociedad                  
+
+Date: 11/7/2015
+
+; Celta                    ; 1-5; Valencia                  
+; Levante                  ; 1-1; Deportivo                 
+; Eibar                    ; 3-1; Getafe                    
+; Rayo                     ; 2-1; Granada                   
+; Málaga                   ; 0-1; Betis                     
+
+Date: 11/8/2015
+
+; Athletic                 ; 2-1; Espanyol                  
+; Barcelona                ; 3-0; Villarreal                
+; Atlético                 ; 1-0; Sporting                  
+; Sevilla                  ; 3-2; Madrid                    
+
+Round: 12
+Date: 11/21/2015
+
+; Sociedad                 ; 2-0; Sevilla                   
+; Madrid                   ; 0-4; Barcelona                 
+; Espanyol                 ; 2-0; Málaga                    
+; Valencia                 ; 1-1; Las Palmas                
+; Deportivo                ; 2-0; Celta                     
+
+Date: 11/22/2015
+
+; Sporting                 ; 0-3; Levante                   
+; Villarreal               ; 1-1; Eibar                     
+; Granada                  ; 2-0; Athletic                  
+; Betis                    ; 0-1; Atlético                  
+
+Date: 11/23/2015
+
+; Getafe                   ; 1-1; Rayo                      
+
+Round: 13
+Date: 11/27/2015
+
+; Levante                  ; 0-1; Betis                     
+
+Date: 11/28/2015
+
+; Barcelona                ; 4-0; Sociedad                  
+; Atlético                 ; 1-0; Espanyol                  
+; Málaga                   ; 2-2; Granada                   
+; Las Palmas               ; 0-2; Deportivo                 
+; Celta                    ; 2-1; Sporting                  
+
+Date: 11/29/2015
+
+; Getafe                   ; 2-0; Villarreal                
+; Eibar                    ; 0-2; Madrid                    
+; Rayo                     ; 0-3; Athletic                  
+; Sevilla                  ; 1-0; Valencia                  
+
+Round: 14
+Date: 12/5/2015
+
+; Madrid                   ; 4-1; Getafe                    
+; Granada                  ; 0-2; Atlético                  
+; Valencia                 ; 1-1; Barcelona                 
+; Deportivo                ; 1-1; Sevilla                   
+; Betis                    ; 1-1; Celta                     
+
+Date: 12/6/2015
+
+; Sociedad                 ; 2-1; Eibar                     
+; Villarreal               ; 2-1; Rayo                      
+; Sporting                 ; 3-1; Las Palmas                
+; Athletic                 ; 0-0; Málaga                    
+
+Date: 12/7/2015
+
+; Espanyol                 ; 1-1; Levante                   
+
+Round: 15
+Date: 12/11/2015
+
+; Getafe                   ; 1-1; Sociedad                  
+
+Date: 12/12/2015
+
+; Barcelona                ; 2-2; Deportivo                 
+; Celta                    ; 1-0; Espanyol                  
+; Levante                  ; 1-2; Granada                   
+; Sevilla                  ; 2-0; Sporting                  
+; Las Palmas               ; 1-0; Betis                     
+
+Date: 12/13/2015
+
+; Rayo                     ; 1-2; Málaga                    
+; Eibar                    ; 1-1; Valencia                  
+; Atlético                 ; 2-1; Athletic                  
+; Villarreal               ; 1-0; Madrid                    
+
+Round: 16
+Date: 12/19/2015
+
+; Valencia                 ; 2-2; Getafe                    
+; Espanyol                 ; 1-0; Las Palmas                
+; Betis                    ; 0-0; Sevilla                   
+; Deportivo                ; 2-0; Eibar                     
+
+Date: 12/20/2015
+
+; Madrid                  ; 10-2; Rayo                      
+; Athletic                 ; 2-0; Levante                   
+; Granada                  ; 0-2; Celta                     
+; Sociedad                 ; 0-2; Villarreal                
+; Málaga                   ; 1-0; Atlético                  
+
+Date: 2/17/2016
+
+; Sporting                 ; 1-3; Barcelona                 
+
+Round: 17
+Date: 12/30/2015
+
+; Levante                  ; 0-1; Málaga                    
+; Madrid                   ; 3-1; Sociedad                  
+; Rayo                     ; 0-2; Atlético                  
+; Sevilla                  ; 2-0; Espanyol                  
+; Eibar                    ; 2-0; Sporting                  
+; Celta                    ; 0-1; Athletic                  
+; Barcelona                ; 4-0; Betis                     
+; Getafe                   ; 0-0; Deportivo                 
+; Las Palmas               ; 4-1; Granada                   
+
+Date: 12/31/2015
+
+; Villarreal               ; 1-0; Valencia                  
+
+Round: 18
+Date: 1/2/2016
+
+; Espanyol                 ; 0-0; Barcelona                 
+; Atlético                 ; 1-0; Levante                   
+; Málaga                   ; 2-0; Celta                     
+
+Date: 1/3/2016
+
+; Rayo                     ; 2-2; Sociedad                  
+; Granada                  ; 2-1; Sevilla                   
+; Betis                    ; 0-4; Eibar                     
+; Athletic                 ; 2-2; Las Palmas                
+; Deportivo                ; 1-2; Villarreal                
+; Valencia                 ; 2-2; Madrid                    
+
+Date: 1/4/2016
+
+; Sporting                 ; 1-2; Getafe                    
+
+Round: 19
+Date: 1/9/2016
+
+; Barcelona                ; 4-0; Granada                   
+; Getafe                   ; 1-0; Betis                     
+; Sevilla                  ; 2-0; Athletic                  
+; Madrid                   ; 5-0; Deportivo                 
+; Levante                  ; 2-1; Rayo                      
+
+Date: 1/10/2016
+
+; Villarreal               ; 2-0; Sporting                  
+; Sociedad                 ; 2-0; Valencia                  
+; Eibar                    ; 2-1; Espanyol                  
+; Las Palmas               ; 1-1; Málaga                    
+; Celta                    ; 0-2; Atlético                  
+
+Round: 20
+Date: 1/16/2016
+
+; Sevilla                  ; 2-1; Málaga                    
+; Celta                    ; 4-3; Levante                   
+; Villarreal               ; 0-0; Betis                     
+; Sociedad                 ; 1-1; Deportivo                 
+
+Date: 1/17/2016
+
+; Valencia                 ; 2-2; Rayo                      
+; Madrid                   ; 5-1; Sporting                  
+; Getafe                   ; 3-1; Espanyol                  
+; Las Palmas               ; 0-3; Atlético                  
+; Barcelona                ; 6-0; Athletic                  
+
+Date: 1/18/2016
+
+; Eibar                    ; 5-1; Granada                   
+
+Round: 21
+Date: 1/22/2016
+
+; Sporting                 ; 5-1; Sociedad                  
+
+Date: 1/23/2016
+
+; Málaga                   ; 1-2; Barcelona                 
+; Espanyol                 ; 2-2; Villarreal                
+; Granada                  ; 3-2; Getafe                    
+; Rayo                     ; 3-0; Celta                     
+
+Date: 1/24/2016
+
+; Athletic                 ; 5-2; Eibar                     
+; Atlético                 ; 0-0; Sevilla                   
+; Deportivo                ; 1-1; Valencia                  
+; Betis                    ; 1-1; Madrid                    
+
+Date: 1/25/2016
+
+; Levante                  ; 3-2; Las Palmas                
+
+Round: 22
+Date: 1/30/2016
+
+; Barcelona                ; 2-1; Atlético                  
+; Eibar                    ; 1-2; Málaga                    
+; Getafe                   ; 0-1; Athletic                  
+; Villarreal               ; 1-0; Granada                   
+; Sociedad                 ; 2-1; Betis                     
+
+Date: 1/31/2016
+
+; Sevilla                  ; 3-1; Levante                   
+; Valencia                 ; 0-1; Sporting                  
+; Las Palmas               ; 2-1; Celta                     
+; Madrid                   ; 6-0; Espanyol                  
+
+Date: 2/1/2016
+
+; Deportivo                ; 2-2; Rayo                      
+
+Round: 23
+Date: 2/5/2016
+
+; Málaga                   ; 3-0; Getafe                    
+
+Date: 2/6/2016
+
+; Atlético                 ; 3-1; Eibar                     
+; Rayo                     ; 2-0; Las Palmas                
+; Athletic                 ; 0-0; Villarreal                
+; Sporting                 ; 1-1; Deportivo                 
+
+Date: 2/7/2016
+
+; Levante                  ; 0-2; Barcelona                 
+; Betis                    ; 1-0; Valencia                  
+; Celta                    ; 1-1; Sevilla                   
+; Granada                  ; 1-2; Madrid                    
+
+Date: 2/8/2016
+
+; Espanyol                 ; 0-5; Sociedad                  
+
+Round: 24
+Date: 2/12/2016
+
+; Sporting                 ; 2-2; Rayo                      
+
+Date: 2/13/2016
+
+; Madrid                   ; 4-2; Athletic                  
+; Villarreal               ; 1-0; Málaga                    
+; Valencia                 ; 2-1; Espanyol                  
+; Deportivo                ; 2-2; Betis                     
+
+Date: 2/14/2016
+
+; Sociedad                 ; 3-0; Granada                   
+; Sevilla                  ; 2-0; Las Palmas                
+; Eibar                    ; 2-0; Levante                   
+; Getafe                   ; 0-1; Atlético                  
+; Barcelona                ; 6-1; Celta                     
+
+Round: 25
+Date: 2/19/2016
+
+; Levante                  ; 3-0; Getafe                    
+
+Date: 2/20/2016
+
+; Las Palmas               ; 1-2; Barcelona                 
+; Espanyol                 ; 1-0; Deportivo                 
+; Betis                    ; 1-1; Sporting                  
+; Celta                    ; 3-2; Eibar                     
+
+Date: 2/21/2016
+
+; Rayo                     ; 2-2; Sevilla                   
+; Málaga                   ; 1-1; Madrid                    
+; Athletic                 ; 0-1; Sociedad                  
+; Granada                  ; 1-2; Valencia                  
+; Atlético                 ; 0-0; Villarreal                
+
+Round: 26
+Date: 2/26/2016
+
+; Eibar                    ; 0-1; Las Palmas                
+
+Date: 2/27/2016
+
+; Madrid                   ; 0-1; Atlético                  
+; Getafe                   ; 0-1; Celta                     
+; Sporting                 ; 2-4; Espanyol                  
+; Betis                    ; 2-2; Rayo                      
+; Sociedad                 ; 1-1; Málaga                    
+
+Date: 2/28/2016
+
+; Villarreal               ; 3-0; Levante                   
+; Valencia                 ; 0-3; Athletic                  
+; Deportivo                ; 0-1; Granada                   
+; Barcelona                ; 2-1; Sevilla                   
+
+Round: 27
+Date: 3/1/2016
+
+; Atlético                 ; 3-0; Sociedad                  
+; Las Palmas               ; 4-0; Getafe                    
+
+Date: 3/2/2016
+
+; Athletic                 ; 4-1; Deportivo                 
+; Celta                    ; 0-0; Villarreal                
+; Málaga                   ; 1-2; Valencia                  
+; Sevilla                  ; 1-0; Eibar                     
+; Levante                  ; 1-3; Madrid                    
+
+Date: 3/3/2016
+
+; Granada                  ; 2-0; Sporting                  
+; Espanyol                 ; 0-3; Betis                     
+; Rayo                     ; 1-5; Barcelona                 
+
+Round: 28
+Date: 3/5/2016
+
+; Madrid                   ; 7-1; Celta                     
+; Villarreal               ; 0-1; Las Palmas                
+; Getafe                   ; 1-1; Sevilla                   
+; Deportivo                ; 3-3; Málaga                    
+
+Date: 3/6/2016
+
+; Betis                    ; 2-0; Granada                   
+; Eibar                    ; 0-4; Barcelona                 
+; Sociedad                 ; 1-1; Levante                   
+; Sporting                 ; 0-2; Athletic                  
+; Valencia                 ; 1-3; Atlético                  
+
+Date: 3/7/2016
+
+; Espanyol                 ; 2-1; Rayo                      
+
+Round: 29
+Date: 3/11/2016
+
+; Málaga                   ; 1-0; Sporting                  
+
+Date: 3/12/2016
+
+; Barcelona                ; 6-0; Getafe                    
+; Celta                    ; 1-0; Sociedad                  
+; Atlético                 ; 3-0; Deportivo                 
+; Rayo                     ; 1-1; Eibar                     
+
+Date: 3/13/2016
+
+; Levante                  ; 1-0; Valencia                  
+; Sevilla                  ; 4-2; Villarreal                
+; Athletic                 ; 3-1; Betis                     
+; Las Palmas               ; 1-2; Madrid                    
+
+Date: 3/14/2016
+
+; Granada                  ; 1-1; Espanyol                  
+
+Round: 30
+Date: 3/18/2016
+
+; Getafe                   ; 1-1; Eibar                     
+
+Date: 3/19/2016
+
+; Sporting                 ; 2-1; Atlético                  
+; Granada                  ; 2-2; Rayo                      
+; Sociedad                 ; 0-1; Las Palmas                
+; Deportivo                ; 2-1; Levante                   
+; Betis                    ; 0-1; Málaga                    
+
+Date: 3/20/2016
+
+; Espanyol                 ; 2-1; Athletic                  
+; Villarreal               ; 2-2; Barcelona                 
+; Valencia                 ; 0-2; Celta                     
+; Madrid                   ; 4-0; Sevilla                   
+
+Round: 31
+Date: 4/1/2016
+
+; Rayo                     ; 2-0; Getafe                    
+
+Date: 4/2/2016
+
+; Atlético                 ; 5-1; Betis                     
+; Las Palmas               ; 2-1; Valencia                  
+; Barcelona                ; 1-2; Madrid                    
+; Celta                    ; 1-1; Deportivo                 
+
+Date: 4/3/2016
+
+; Athletic                 ; 1-1; Granada                   
+; Málaga                   ; 1-1; Espanyol                  
+; Eibar                    ; 1-2; Villarreal                
+; Sevilla                  ; 1-2; Sociedad                  
+
+Date: 4/4/2016
+
+; Levante                  ; 0-0; Sporting                  
+
+Round: 32
+Date: 4/8/2016
+
+; Granada                  ; 0-0; Málaga                    
+
+Date: 4/9/2016
+
+; Madrid                   ; 4-0; Eibar                     
+; Espanyol                 ; 1-3; Atlético                  
+; Sociedad                 ; 1-0; Barcelona                 
+; Betis                    ; 1-0; Levante                   
+
+Date: 4/10/2016
+
+; Sporting                 ; 0-1; Celta                     
+; Valencia                 ; 2-1; Sevilla                   
+; Villarreal               ; 2-0; Getafe                    
+; Athletic                 ; 1-0; Rayo                      
+
+Date: 4/11/2016
+
+; Deportivo                ; 1-3; Las Palmas                
+
+Round: 33
+Date: 4/15/2016
+
+; Levante                  ; 2-1; Espanyol                  
+
+Date: 4/16/2016
+
+; Getafe                   ; 1-5; Madrid                    
+; Las Palmas               ; 1-1; Sporting                  
+; Eibar                    ; 2-1; Sociedad                  
+; Celta                    ; 1-1; Betis                     
+
+Date: 4/17/2016
+
+; Málaga                   ; 0-1; Athletic                  
+; Sevilla                  ; 1-1; Deportivo                 
+; Atlético                 ; 3-0; Granada                   
+; Rayo                     ; 2-1; Villarreal                
+; Barcelona                ; 1-2; Valencia                  
+
+Round: 34
+Date: 4/19/2016
+
+; Espanyol                 ; 1-1; Celta                     
+; Betis                    ; 1-0; Las Palmas                
+
+Date: 4/20/2016
+
+; Deportivo                ; 0-8; Barcelona                 
+; Athletic                 ; 0-1; Atlético                  
+; Málaga                   ; 1-1; Rayo                      
+; Sporting                 ; 2-1; Sevilla                   
+; Valencia                 ; 4-0; Eibar                     
+; Madrid                   ; 3-0; Villarreal                
+
+Date: 4/21/2016
+
+; Sociedad                 ; 1-2; Getafe                    
+; Granada                  ; 5-1; Levante                   
+
+Round: 35
+Date: 4/22/2016
+
+; Las Palmas               ; 4-0; Espanyol                  
+
+Date: 4/23/2016
+
+; Rayo                     ; 2-3; Madrid                    
+; Atlético                 ; 1-0; Málaga                    
+; Barcelona                ; 6-0; Sporting                  
+; Eibar                    ; 1-1; Deportivo                 
+
+Date: 4/24/2016
+
+; Levante                  ; 2-2; Athletic                  
+; Sevilla                  ; 2-0; Betis                     
+; Getafe                   ; 2-2; Valencia                  
+; Villarreal               ; 0-0; Sociedad                          
+
+Date: 4/25/2016
+
+; Celta                    ; 2-1; Granada                   
+
+Round: 36
+Date: 4/29/2016
+
+; Sporting                 ; 2-0; Eibar                     
+
+Date: 4/30/2016
+
+; Sociedad                 ; 0-1; Madrid                    
+; Atlético                 ; 1-0; Rayo                      
+; Betis                    ; 0-2; Barcelona                 
+; Granada                  ; 3-2; Las Palmas                
+
+Date: 5/1/2016
+
+; Athletic                 ; 2-1; Celta                     
+; Espanyol                 ; 1-0; Sevilla                   
+; Deportivo                ; 0-2; Getafe                    
+; Valencia                 ; 0-2; Villarreal                
+
+Date: 5/2/2016
+
+; Málaga                   ; 3-1; Levante                   
+
+Round: 37 
+Date: 5/8/2016
+
+; Celta                    ; 1-0; Málaga                    
+; Eibar                    ; 1-1; Betis                     
+; Barcelona                ; 5-0; Espanyol                  
+; Getafe                   ; 1-1; Sporting                  
+; Las Palmas               ; 0-0; Athletic                  
+; Levante                  ; 2-1; Atlético                  
+; Madrid                   ; 3-2; Valencia                  
+; Sociedad                 ; 2-1; Rayo                      
+; Sevilla                  ; 1-4; Granada                   
+; Villarreal               ; 0-2; Deportivo                 
+
+Round: 38
+Date: 5/13/2016
+
+; Valencia                 ; 0-1; Sociedad                  
+
+Date: 5/14/2016
+
+; Deportivo                ; 0-2; Madrid                    
+; Granada                  ; 0-3; Barcelona                 
+; Athletic                 ; 3-1; Sevilla                   
+; Atlético                 ; 2-0; Celta                     
+
+Date: 5/15/2016
+
+; Málaga                   ; 4-1; Las Palmas                
+; Espanyol                 ; 4-2; Eibar                     
+; Rayo                     ; 3-1; Levante                   
+; Betis                    ; 2-1; Getafe                    
+; Sporting                 ; 2-0; Villarreal                
+
+
+* 1.FC Barcelona                  38  29  4  5 112-29  91  [C]  Champions
+* 2.Real Madrid CF                38  28  6  4 110-34  90
+* 3.Atlético de Madrid            38  28  4  6  63-18  88
+* 4.Villarreal CF                 38  18 10 10  44-35  64
+* 5.Athletic de Bilbao            38  18  8 12  58-45  62
+* 6.RC Celta (Vigo)               38  17  9 12  51-59  60
+* 7.Sevilla FC                    38  14 10 14  51-50  52
+* 8.Málaga CF                     38  12 12 14  38-35  48  [2 1 1 0 4-2 4]
+* 9.Real Sociedad (San Sebastián) 38  13  9 16  45-48  48  [2 0 1 1 2-4 1]
+*10.Real Betis Balompié (Sevilla) 38  11 12 15  34-52  45  [P]
+*11.UD Las Palmas                 38  12  8 18  45-53  44  [P]    [2 1 1 0 3-2 4]
+*12.Valencia CF                   38  11 11 16  46-48  44         [2 0 1 1 2-3 1]
+*13.RCD Espanyol (Barcelona)      38  12  7 19  40-74  43  [2 1 0 1 5-4 3]
+*14.SD Eibar                      38  11 10 17  49-61  43  [2 1 0 1 4-5 3]
+*15.RC Deportivo (La Coruña)      38   8 18 12  45-61  42
+*16.Granada CF                    38  10  9 19  46-69  39       [2 1 1 0 5-3 4]
+*17.Sporting de Gijón             38  10  9 19  40-62  39  [P]  [2 0 1 1 3-5 1]
+*--------------------------------------------------------
+*18.Rayo Vallecano                38   9 11 18  52-73  38  Relegated
+*19.Getafe CF                     38   9  9 20  37-67  36  Relegated
+*20.Levante UD (Valencia)         38   8  8 22  37-70  32  Relegated
+
+
+*Prepared and maintained by Karel Stokkermans the Rec.Sport.Soccer Statistics Foundation
+*Author: Karel Stokkermans 
+*Last updated: 19 May 2016
+*(C) Copyright Karel Stokkermans and RSSSF 2015/16
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authoAll rights reserved.

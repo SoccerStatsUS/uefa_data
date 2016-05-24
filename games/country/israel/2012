@@ -21,485 +21,649 @@ Stage: Regular
 *14.Hapoel Acco                 26   5  9 12  29-42  24  Relegation Playoff
 
 Round: 1
-[Aug 25]
-M.S. Ashdod                 2-0 Ironi Nir Ramat-HaSharon    
-Hapoel Acco                 1-1 Bnei-Yehuda                 
-Hapoel Be'er-Sheva          0-0 Bnei-Sakhnin                
-Hapoel Haifa                0-0 Maccabi Netanya             
-Ironi Kiriat-Shmona         3-2 Beitar Jerusalem            
-[Aug 26]
-Hapoel Ramat-Gan            0-1 Hapoel Tel-Aviv             
-[Aug 27]
-Maccabi Tel-Aviv            2-1 Maccabi Haifa               
+Date: 8/25/2012
+
+; M.S. Ashdod                ; 2-0; Ironi Nir Ramat-HaSharon    
+; Hapoel Acco                ; 1-1; Bnei-Yehuda                 
+; Hapoel Be'er-Sheva;          0-0; Bnei-Sakhnin                
+; Hapoel Haifa               ; 0-0; Maccabi Netanya             
+; Ironi Kiriat-Shmona;         3-2; Beitar Jerusalem            
+
+Date: 8/26/2012
+
+; Hapoel Ramat-Gan;            0-1; Hapoel Tel-Aviv             
+
+Date: 8/27/2012
+
+; Maccabi Tel-Aviv;            2-1; Maccabi Haifa               
 
 Round: 2
-[Sep 1]
-Beitar Jerusalem            1-1 Hapoel Be'er-Sheva          
-Bnei-Yehuda                 1-0 Hapoel Ramat-Gan            
-Bnei-Sakhnin                1-3 M.S. Ashdod                 
-Ironi Nir Ramat-HaSharon    3-1 Hapoel Acco                 
-Maccabi Haifa               1-3 Ironi Kiriat-Shmona         
-[Sep 2]
-Hapoel Tel-Aviv             2-0 Hapoel Haifa                
-[Sep 3]
-Maccabi Netanya             0-1 Maccabi Tel-Aviv            
+Date: 9/1/2012
+
+; Beitar Jerusalem           ; 1-1; Hapoel Be'er-Sheva          
+; Bnei-Yehuda;                 1-0; Hapoel Ramat-Gan            
+; Bnei-Sakhnin;                1-3; M.S. Ashdod                 
+; Ironi Nir Ramat-HaSharon;    3-1; Hapoel Acco                 
+; Maccabi Haifa              ; 1-3; Ironi Kiriat-Shmona         
+
+Date: 9/2/2012
+
+; Hapoel Tel-Aviv;             2-0; Hapoel Haifa                
+
+Date: 9/3/2012
+
+; Maccabi Netanya            ; 0-1; Maccabi Tel-Aviv            
 
 Round: 3
-[Sep 13]
-M.S. Ashdod                 2-1 Beitar Jerusalem            
-[Sep 15]
-Hapoel Acco                 5-1 Bnei-Sakhnin                
-Hapoel Be'er-Sheva          1-1 Maccabi Haifa               
-Hapoel Haifa                1-3 Maccabi Tel-Aviv            
-Ironi Kiriat-Shmona         0-1 Maccabi Netanya             
-Hapoel Ramat-Gan            1-1 Ironi Nir Ramat-HaSharon    
-Hapoel Tel-Aviv             2-0 Bnei-Yehuda                 
+Date: 9/13/2012
+
+; M.S. Ashdod                ; 2-1; Beitar Jerusalem            
+
+Date: 9/15/2012
+
+; Hapoel Acco                ; 5-1; Bnei-Sakhnin                
+; Hapoel Be'er-Sheva;          1-1; Maccabi Haifa               
+; Hapoel Haifa               ; 1-3; Maccabi Tel-Aviv            
+; Ironi Kiriat-Shmona;         0-1; Maccabi Netanya             
+; Hapoel Ramat-Gan;            1-1; Ironi Nir Ramat-HaSharon    
+; Hapoel Tel-Aviv;             2-0; Bnei-Yehuda                 
 
 Round: 4
-[Sep 22] 
-Beitar Jerusalem            0-1 Hapoel Acco                 
-Bnei-Yehuda                 3-1 Hapoel Haifa                
-Bnei-Sakhnin                1-3 Hapoel Ramat-Gan            
-Maccabi Haifa               0-1 M.S. Ashdod                 
-Maccabi Netanya             2-1 Hapoel Be'er-Sheva          
-[Sep 23]
-Ironi Nir Ramat-HaSharon    1-0 Hapoel Tel-Aviv             
-[Sep 24]
-Maccabi Tel-Aviv            4-0 Ironi Kiriat-Shmona         
+Date: 9/22/2012
+ 
+; Beitar Jerusalem           ; 0-1; Hapoel Acco                 
+; Bnei-Yehuda;                 3-1; Hapoel Haifa                
+; Bnei-Sakhnin;                1-3; Hapoel Ramat-Gan            
+; Maccabi Haifa              ; 0-1; M.S. Ashdod                 
+; Maccabi Netanya            ; 2-1; Hapoel Be'er-Sheva          
+
+Date: 9/23/2012
+
+; Ironi Nir Ramat-HaSharon;    1-0; Hapoel Tel-Aviv             
+
+Date: 9/24/2012
+
+; Maccabi Tel-Aviv;            4-0; Ironi Kiriat-Shmona         
 
 Round: 5
-[Sep 29]
-M.S. Ashdod                 3-0 Maccabi Netanya             
-Bnei-Yehuda                 2-2 Ironi Nir Ramat-HaSharon    
-Hapoel Acco                 0-0 Maccabi Haifa               
-Hapoel Haifa                1-1 Ironi Kiriat-Shmona         
-Hapoel Ramat-Gan            2-2 Beitar Jerusalem            
-Hapoel Tel-Aviv             1-0 Bnei-Sakhnin                
-[Oct 1]
-Hapoel Be'er-Sheva          3-1 Maccabi Tel-Aviv            
+Date: 9/29/2012
+
+; M.S. Ashdod                ; 3-0; Maccabi Netanya             
+; Bnei-Yehuda;                 2-2; Ironi Nir Ramat-HaSharon    
+; Hapoel Acco                ; 0-0; Maccabi Haifa               
+; Hapoel Haifa               ; 1-1; Ironi Kiriat-Shmona         
+; Hapoel Ramat-Gan;            2-2; Beitar Jerusalem            
+; Hapoel Tel-Aviv;             1-0; Bnei-Sakhnin                
+
+Date: 10/1/2012
+
+; Hapoel Be'er-Sheva;          3-1; Maccabi Tel-Aviv            
 
 Round: 6
-[Oct 6]
-Bnei-Sakhnin                2-2 Bnei-Yehuda                 
-Ironi Nir Ramat-HaSharon    2-0 Hapoel Haifa                
-Maccabi Haifa               2-0 Hapoel Ramat-Gan            
-Maccabi Netanya             1-3 Hapoel Acco                 
-Maccabi Tel-Aviv            2-1 M.S. Ashdod                 
-[Oct 29]
-Beitar Jerusalem            3-2 Hapoel Tel-Aviv             
-Ironi Kiriat-Shmona         1-1 Hapoel Be'er-Sheva          
+Date: 10/6/2012
+
+; Bnei-Sakhnin;                2-2; Bnei-Yehuda                 
+; Ironi Nir Ramat-HaSharon;    2-0; Hapoel Haifa                
+; Maccabi Haifa              ; 2-0; Hapoel Ramat-Gan            
+; Maccabi Netanya            ; 1-3; Hapoel Acco                 
+; Maccabi Tel-Aviv;            2-1; M.S. Ashdod                 
+
+Date: 10/29/2012
+
+; Beitar Jerusalem           ; 3-2; Hapoel Tel-Aviv             
+; Ironi Kiriat-Shmona;         1-1; Hapoel Be'er-Sheva          
 
 Round: 7
-[Oct 20]
-M.S. Ashdod                 2-0 Ironi Kiriat-Shmona         
-Hapoel Acco                 0-2 Maccabi Tel-Aviv            
-Hapoel Haifa                0-0 Hapoel Be'er-Sheva          
-Hapoel Ramat-Gan            1-1 Maccabi Netanya             
-Ironi Nir Ramat-HaSharon    1-3 Bnei-Sakhnin                
-[Oct 21]
-Bnei-Yehuda                 1-2 Beitar Jerusalem            
-[Oct 22]
-Hapoel Tel-Aviv             3-0 Maccabi Haifa               
+Date: 10/20/2012
+
+; M.S. Ashdod                ; 2-0; Ironi Kiriat-Shmona         
+; Hapoel Acco                ; 0-2; Maccabi Tel-Aviv            
+; Hapoel Haifa               ; 0-0; Hapoel Be'er-Sheva          
+; Hapoel Ramat-Gan;            1-1; Maccabi Netanya             
+; Ironi Nir Ramat-HaSharon;    1-3; Bnei-Sakhnin                
+
+Date: 10/21/2012
+
+; Bnei-Yehuda;                 1-2; Beitar Jerusalem            
+
+Date: 10/22/2012
+
+; Hapoel Tel-Aviv;             3-0; Maccabi Haifa               
 
 Round: 8
-[Nov 3]
-Beitar Jerusalem            1-0 Ironi Nir Ramat-HaSharon    
-Hapoel Be'er-Sheva          0-0 M.S. Ashdod                 
-Bnei-Sakhnin                2-0 Hapoel Haifa                
-Ironi Kiriat-Shmona         1-0 Hapoel Acco                 
-Maccabi Tel-Aviv            3-1 Hapoel Ramat-Gan            
-[Nov 4]
-Maccabi Netanya             2-1 Hapoel Tel-Aviv             
-[Nov 5]
-Maccabi Haifa               1-1 Bnei-Yehuda                 
+Date: 11/3/2012
+
+; Beitar Jerusalem           ; 1-0; Ironi Nir Ramat-HaSharon    
+; Hapoel Be'er-Sheva;          0-0; M.S. Ashdod                 
+; Bnei-Sakhnin;                2-0; Hapoel Haifa                
+; Ironi Kiriat-Shmona;         1-0; Hapoel Acco                 
+; Maccabi Tel-Aviv;            3-1; Hapoel Ramat-Gan            
+
+Date: 11/4/2012
+
+; Maccabi Netanya            ; 2-1; Hapoel Tel-Aviv             
+
+Date: 11/5/2012
+
+; Maccabi Haifa              ; 1-1; Bnei-Yehuda                 
 
 Round: 9
-[Nov 10]
-Bnei-Yehuda                 3-0 Maccabi Netanya             
-Hapoel Acco                 2-2 Hapoel Be'er-Sheva          
-Bnei-Sakhnin                1-1 Beitar Jerusalem            
-Hapoel Haifa                2-1 M.S. Ashdod                 
-Ironi Nir Ramat-HaSharon    1-1 Maccabi Haifa               
-[Nov 11]
-Hapoel Ramat-Gan            1-1 Ironi Kiriat-Shmona         
-Hapoel Tel-Aviv             1-0 Maccabi Tel-Aviv            
+Date: 11/10/2012
+
+; Bnei-Yehuda;                 3-0; Maccabi Netanya             
+; Hapoel Acco                ; 2-2; Hapoel Be'er-Sheva          
+; Bnei-Sakhnin;                1-1; Beitar Jerusalem            
+; Hapoel Haifa               ; 2-1; M.S. Ashdod                 
+; Ironi Nir Ramat-HaSharon;    1-1; Maccabi Haifa               
+
+Date: 11/11/2012
+
+; Hapoel Ramat-Gan;            1-1; Ironi Kiriat-Shmona         
+; Hapoel Tel-Aviv;             1-0; Maccabi Tel-Aviv            
 
 Round: 10
-[Nov 17]
-Ironi Kiriat-Shmona         0-1 Hapoel Tel-Aviv             
-Maccabi Netanya             1-2 Ironi Nir Ramat-HaSharon    
-Maccabi Tel-Aviv            0-1 Bnei-Yehuda                 
-[Nov 18]
-Beitar Jerusalem            3-0 Hapoel Haifa                
-[Nov 19]
-Maccabi Haifa               0-0 Bnei-Sakhnin                
-[Dec 4]
-Hapoel Be'er-Sheva          3-2 Hapoel Ramat-Gan            
-[Dec 12]
-M.S. Ashdod                 2-0 Hapoel Acco                 
+Date: 11/17/2012
+
+; Ironi Kiriat-Shmona;         0-1; Hapoel Tel-Aviv             
+; Maccabi Netanya            ; 1-2; Ironi Nir Ramat-HaSharon    
+; Maccabi Tel-Aviv;            0-1; Bnei-Yehuda                 
+
+Date: 11/18/2012
+
+; Beitar Jerusalem           ; 3-0; Hapoel Haifa                
+
+Date: 11/19/2012
+
+; Maccabi Haifa              ; 0-0; Bnei-Sakhnin                
+
+Date: 12/4/2012
+
+; Hapoel Be'er-Sheva;          3-2; Hapoel Ramat-Gan            
+
+Date: 12/12/2012
+
+; M.S. Ashdod                ; 2-0; Hapoel Acco                 
 
 Round: 11
-[Nov 24]
-Bnei-Sakhnin                0-0 Maccabi Netanya             
-Hapoel Haifa                0-0 Hapoel Acco                 
-Hapoel Ramat-Gan            0-1 M.S. Ashdod                 
-Ironi Nir Ramat-HaSharon    3-4 Maccabi Tel-Aviv            
-[Nov 25]
-Bnei-Yehuda                 0-2 Ironi Kiriat-Shmona         
-[Nov 26]
-Beitar Jerusalem            1-2 Maccabi Haifa               
-Hapoel Tel-Aviv             4-1 Hapoel Be'er-Sheva          
+Date: 11/24/2012
+
+; Bnei-Sakhnin;                0-0; Maccabi Netanya             
+; Hapoel Haifa               ; 0-0; Hapoel Acco                 
+; Hapoel Ramat-Gan;            0-1; M.S. Ashdod                 
+; Ironi Nir Ramat-HaSharon;    3-4; Maccabi Tel-Aviv            
+
+Date: 11/25/2012
+
+; Bnei-Yehuda;                 0-2; Ironi Kiriat-Shmona         
+
+Date: 11/26/2012
+
+; Beitar Jerusalem           ; 1-2; Maccabi Haifa               
+; Hapoel Tel-Aviv;             4-1; Hapoel Be'er-Sheva          
 
 Round: 12
-[Dec 1]
-Hapoel Acco                 0-3 Hapoel Ramat-Gan            
-Hapoel Be'er-Sheva          1-0 Bnei-Yehuda                 
-Ironi Kiriat-Shmona         2-0 Ironi Nir Ramat-HaSharon    
-Maccabi Netanya             2-3 Beitar Jerusalem            
-Maccabi Tel-Aviv            4-0 Bnei-Sakhnin                
-[Dec 2] 
-Hapoel Haifa                0-3 Maccabi Haifa               
-[Dec 3]
-M.S. Ashdod                 1-2 Hapoel Tel-Aviv             
+Date: 12/1/2012
+
+; Hapoel Acco                ; 0-3; Hapoel Ramat-Gan            
+; Hapoel Be'er-Sheva;          1-0; Bnei-Yehuda                 
+; Ironi Kiriat-Shmona;         2-0; Ironi Nir Ramat-HaSharon    
+; Maccabi Netanya            ; 2-3; Beitar Jerusalem            
+; Maccabi Tel-Aviv;            4-0; Bnei-Sakhnin                
+
+Date: 12/2/2012
+ 
+; Hapoel Haifa               ; 0-3; Maccabi Haifa               
+
+Date: 12/3/2012
+
+; M.S. Ashdod                ; 1-2; Hapoel Tel-Aviv             
 
 Round: 13
-[Dec 8]
-Bnei-Yehuda                 2-0 M.S. Ashdod                 
-Hapoel Ramat-Gan            1-1 Hapoel Haifa                
-Ironi Nir Ramat-HaSharon    0-1 Hapoel Be'er-Sheva          
-Maccabi Haifa               1-0 Maccabi Netanya             
-[Dec 9]
-Hapoel Tel-Aviv             0-0 Hapoel Acco                 
-[Dec 10]
-Beitar Jerusalem            1-1 Maccabi Tel-Aviv            
-Bnei-Sakhnin                1-3 Ironi Kiriat-Shmona         
+Date: 12/8/2012
+
+; Bnei-Yehuda;                 2-0; M.S. Ashdod                 
+; Hapoel Ramat-Gan;            1-1; Hapoel Haifa                
+; Ironi Nir Ramat-HaSharon;    0-1; Hapoel Be'er-Sheva          
+; Maccabi Haifa              ; 1-0; Maccabi Netanya             
+
+Date: 12/9/2012
+
+; Hapoel Tel-Aviv;             0-0; Hapoel Acco                 
+
+Date: 12/10/2012
+
+; Beitar Jerusalem           ; 1-1; Maccabi Tel-Aviv            
+; Bnei-Sakhnin;                1-3; Ironi Kiriat-Shmona         
 
 Round: 14
-[Dec 15]
-Bnei-Sakhnin                3-2 Hapoel Be'er-Sheva          
-Hapoel Tel-Aviv             2-2 Hapoel Ramat-Gan            
-Ironi Nir Ramat-HaSharon    1-0 M.S. Ashdod                 
-Maccabi Netanya             0-0 Hapoel Haifa                
-[Dec 16]
-Beitar Jerusalem            2-2 Ironi Kiriat-Shmona         
-Bnei-Yehuda                 2-1 Hapoel Acco                 
-[Dec 17]
-Maccabi Haifa               1-0 Maccabi Tel-Aviv            
+Date: 12/15/2012
+
+; Bnei-Sakhnin;                3-2; Hapoel Be'er-Sheva          
+; Hapoel Tel-Aviv;             2-2; Hapoel Ramat-Gan            
+; Ironi Nir Ramat-HaSharon;    1-0; M.S. Ashdod                 
+; Maccabi Netanya            ; 0-0; Hapoel Haifa                
+
+Date: 12/16/2012
+
+; Beitar Jerusalem           ; 2-2; Ironi Kiriat-Shmona         
+; Bnei-Yehuda;                 2-1; Hapoel Acco                 
+
+Date: 12/17/2012
+
+; Maccabi Haifa              ; 1-0; Maccabi Tel-Aviv            
 
 Round: 15
-[Dec 22]
-M.S. Ashdod                 1-2 Bnei-Sakhnin                
-Hapoel Acco                 0-2 Ironi Nir Ramat-HaSharon    
-Hapoel Haifa                2-2 Hapoel Tel-Aviv             
-Hapoel Ramat-Gan            1-0 Bnei-Yehuda                 
-Maccabi Tel-Aviv            2-1 Maccabi Netanya             
-[Dec 23]
-Hapoel Be'er-Sheva          0-0 Beitar Jerusalem            
-[Dec 24]
-Ironi Kiriat-Shmona         0-0 Maccabi Haifa               
+Date: 12/22/2012
+
+; M.S. Ashdod                ; 1-2; Bnei-Sakhnin                
+; Hapoel Acco                ; 0-2; Ironi Nir Ramat-HaSharon    
+; Hapoel Haifa               ; 2-2; Hapoel Tel-Aviv             
+; Hapoel Ramat-Gan;            1-0; Bnei-Yehuda                 
+; Maccabi Tel-Aviv;            2-1; Maccabi Netanya             
+
+Date: 12/23/2012
+
+; Hapoel Be'er-Sheva;          0-0; Beitar Jerusalem            
+
+Date: 12/24/2012
+
+; Ironi Kiriat-Shmona;         0-0; Maccabi Haifa               
 
 Round: 16
-[Dec 29]
-Bnei-Yehuda                 2-1 Hapoel Tel-Aviv             
-Bnei-Sakhnin                2-1 Hapoel Acco                 
-Ironi Nir Ramat-HaSharon    1-0 Hapoel Ramat-Gan            
-Maccabi Haifa               2-0 Hapoel Be'er-Sheva          
-Maccabi Netanya             3-4 Ironi Kiriat-Shmona         
-[Dec 30]
-Maccabi Tel-Aviv            6-2 Hapoel Haifa                
-[Dec 31]
-Beitar Jerusalem            1-1 M.S. Ashdod                 
+Date: 12/29/2012
+
+; Bnei-Yehuda;                 2-1; Hapoel Tel-Aviv             
+; Bnei-Sakhnin;                2-1; Hapoel Acco                 
+; Ironi Nir Ramat-HaSharon;    1-0; Hapoel Ramat-Gan            
+; Maccabi Haifa              ; 2-0; Hapoel Be'er-Sheva          
+; Maccabi Netanya            ; 3-4; Ironi Kiriat-Shmona         
+
+Date: 12/30/2012
+
+; Maccabi Tel-Aviv;            6-2; Hapoel Haifa                
+
+Date: 12/31/2012
+
+; Beitar Jerusalem           ; 1-1; M.S. Ashdod                 
 
 Round: 17
-[Jan 5]
-Hapoel Acco                 2-3 Beitar Jerusalem            
-Hapoel Be'er-Sheva          1-3 Maccabi Netanya             
-Hapoel Haifa                2-1 Bnei-Yehuda                 
-Hapoel Ramat-Gan            2-1 Bnei-Sakhnin                
-Hapoel Tel-Aviv             1-0 Ironi Nir Ramat-HaSharon    
-[Jan 6]
-M.S. Ashdod                 1-4 Maccabi Haifa               
-[Jan 7]
-Ironi Kiriat-Shmona         0-0 Maccabi Tel-Aviv            
+Date: 1/5/2013
+
+; Hapoel Acco                ; 2-3; Beitar Jerusalem            
+; Hapoel Be'er-Sheva;          1-3; Maccabi Netanya             
+; Hapoel Haifa               ; 2-1; Bnei-Yehuda                 
+; Hapoel Ramat-Gan;            2-1; Bnei-Sakhnin                
+; Hapoel Tel-Aviv;             1-0; Ironi Nir Ramat-HaSharon    
+
+Date: 1/6/2013
+
+; M.S. Ashdod                ; 1-4; Maccabi Haifa               
+
+Date: 1/7/2013
+
+; Ironi Kiriat-Shmona;         0-0; Maccabi Tel-Aviv            
 
 Round: 18
-[Jan 12]
-Bnei-Sakhnin                0-3 Hapoel Tel-Aviv             
-Ironi Kiriat-Shmona         1-1 Hapoel Haifa                
-Ironi Nir Ramat-HaSharon    2-1 Bnei-Yehuda                 
-Maccabi Haifa               3-1 Hapoel Acco                 
-Maccabi Netanya             2-0 M.S. Ashdod                 
-[Jan 13]
-Beitar Jerusalem            3-2 Hapoel Ramat-Gan            
-[Jan 14]
-Maccabi Tel-Aviv            5-0 Hapoel Be'er-Sheva          
+Date: 1/12/2013
+
+; Bnei-Sakhnin;                0-3; Hapoel Tel-Aviv             
+; Ironi Kiriat-Shmona;         1-1; Hapoel Haifa                
+; Ironi Nir Ramat-HaSharon;    2-1; Bnei-Yehuda                 
+; Maccabi Haifa              ; 3-1; Hapoel Acco                 
+; Maccabi Netanya            ; 2-0; M.S. Ashdod                 
+
+Date: 1/13/2013
+
+; Beitar Jerusalem           ; 3-2; Hapoel Ramat-Gan            
+
+Date: 1/14/2013
+
+; Maccabi Tel-Aviv;            5-0; Hapoel Be'er-Sheva          
 
 Round: 19
-[Jan 19]
-M.S. Ashdod                 1-0 Maccabi Tel-Aviv            
-Bnei-Yehuda                 0-0 Bnei-Sakhnin                
-Hapoel Acco                 4-4 Maccabi Netanya             
-Hapoel Be'er-Sheva          1-0 Ironi Kiriat-Shmona         
-Hapoel Haifa                3-0 Ironi Nir Ramat-HaSharon    
-[Jan 20]
-Hapoel Ramat-Gan            0-3 Maccabi Haifa               
-[Jan 21]
-Hapoel Tel-Aviv             0-2 Beitar Jerusalem            
+Date: 1/19/2013
+
+; M.S. Ashdod                ; 1-0; Maccabi Tel-Aviv            
+; Bnei-Yehuda;                 0-0; Bnei-Sakhnin                
+; Hapoel Acco                ; 4-4; Maccabi Netanya             
+; Hapoel Be'er-Sheva;          1-0; Ironi Kiriat-Shmona         
+; Hapoel Haifa               ; 3-0; Ironi Nir Ramat-HaSharon    
+
+Date: 1/20/2013
+
+; Hapoel Ramat-Gan;            0-3; Maccabi Haifa               
+
+Date: 1/21/2013
+
+; Hapoel Tel-Aviv;             0-2; Beitar Jerusalem            
 
 Round: 20
-[Jan 26]
-Beitar Jerusalem            0-1 Bnei-Yehuda                 
-Bnei-Sakhnin                0-4 Ironi Nir Ramat-HaSharon    
-Ironi Kiriat-Shmona         0-0 M.S. Ashdod                 
-Maccabi Netanya             1-1 Hapoel Ramat-Gan            
-Maccabi Tel-Aviv            4-0 Hapoel Acco                 
-[Jan 27]
-Hapoel Be'er-Sheva          2-1 Hapoel Haifa                
-Maccabi Haifa               3-0 Hapoel Tel-Aviv             
+Date: 1/26/2013
+
+; Beitar Jerusalem           ; 0-1; Bnei-Yehuda                 
+; Bnei-Sakhnin;                0-4; Ironi Nir Ramat-HaSharon    
+; Ironi Kiriat-Shmona;         0-0; M.S. Ashdod                 
+; Maccabi Netanya            ; 1-1; Hapoel Ramat-Gan            
+; Maccabi Tel-Aviv;            4-0; Hapoel Acco                 
+
+Date: 1/27/2013
+
+; Hapoel Be'er-Sheva;          2-1; Hapoel Haifa                
+; Maccabi Haifa              ; 3-0; Hapoel Tel-Aviv             
 
 Round: 21
-[Feb 2]
-M.S. Ashdod                 0-1 Hapoel Be'er-Sheva          
-Hapoel Acco                 1-1 Ironi Kiriat-Shmona         
-Hapoel Haifa                1-3 Bnei-Sakhnin                
-Hapoel Ramat-Gan            0-1 Maccabi Tel-Aviv            
-Hapoel Tel-Aviv             0-3 Maccabi Netanya             
-[Feb 3]
-Bnei-Yehuda                 2-0 Maccabi Haifa               
-Ironi Nir Ramat-HaSharon    1-0 Beitar Jerusalem            
+Date: 2/2/2013
+
+; M.S. Ashdod                ; 0-1; Hapoel Be'er-Sheva          
+; Hapoel Acco                ; 1-1; Ironi Kiriat-Shmona         
+; Hapoel Haifa               ; 1-3; Bnei-Sakhnin                
+; Hapoel Ramat-Gan;            0-1; Maccabi Tel-Aviv            
+; Hapoel Tel-Aviv;             0-3; Maccabi Netanya             
+
+Date: 2/3/2013
+
+; Bnei-Yehuda;                 2-0; Maccabi Haifa               
+; Ironi Nir Ramat-HaSharon;    1-0; Beitar Jerusalem            
 
 Round: 22
-[Feb 9]
-M.S. Ashdod                 1-1 Hapoel Haifa                
-Hapoel Be'er-Sheva          0-0 Hapoel Acco                 
-Ironi Kiriat-Shmona         3-1 Hapoel Ramat-Gan            
-Maccabi Haifa               4-0 Ironi Nir Ramat-HaSharon    
-Maccabi Netanya             3-5 Bnei-Yehuda                 
-[Feb 10]
-Beitar Jerusalem            2-2 Bnei-Sakhnin                
-[Feb 11]
-Maccabi Tel-Aviv            4-0 Hapoel Tel-Aviv             
+Date: 2/9/2013
+
+; M.S. Ashdod                ; 1-1; Hapoel Haifa                
+; Hapoel Be'er-Sheva;          0-0; Hapoel Acco                 
+; Ironi Kiriat-Shmona;         3-1; Hapoel Ramat-Gan            
+; Maccabi Haifa              ; 4-0; Ironi Nir Ramat-HaSharon    
+; Maccabi Netanya            ; 3-5; Bnei-Yehuda                 
+
+Date: 2/10/2013
+
+; Beitar Jerusalem           ; 2-2; Bnei-Sakhnin                
+
+Date: 2/11/2013
+
+; Maccabi Tel-Aviv;            4-0; Hapoel Tel-Aviv             
 
 Round: 23
-[Feb 16]
-Hapoel Acco                 3-1 M.S. Ashdod                 
-Bnei-Sakhnin                0-1 Maccabi Haifa               
-Hapoel Ramat-Gan            3-0 Hapoel Be'er-Sheva          
-Hapoel Tel-Aviv             1-1 Ironi Kiriat-Shmona         
-Ironi Nir Ramat-HaSharon    0-0 Maccabi Netanya             
-[Feb 17]
-Hapoel Haifa                3-0 Beitar Jerusalem            
-[Feb 18]
-Bnei-Yehuda                 2-3 Maccabi Tel-Aviv            
+Date: 2/16/2013
+
+; Hapoel Acco                ; 3-1; M.S. Ashdod                 
+; Bnei-Sakhnin;                0-1; Maccabi Haifa               
+; Hapoel Ramat-Gan;            3-0; Hapoel Be'er-Sheva          
+; Hapoel Tel-Aviv;             1-1; Ironi Kiriat-Shmona         
+; Ironi Nir Ramat-HaSharon;    0-0; Maccabi Netanya             
+
+Date: 2/17/2013
+
+; Hapoel Haifa               ; 3-0; Beitar Jerusalem            
+
+Date: 2/18/2013
+
+; Bnei-Yehuda;                 2-3; Maccabi Tel-Aviv            
 
 Round: 24
-[Feb 23]
-M.S. Ashdod                 2-3 Hapoel Ramat-Gan            
-Hapoel Acco                 1-3 Hapoel Haifa                
-Hapoel Be'er-Sheva          1-2 Hapoel Tel-Aviv             
-Ironi Kiriat-Shmona         2-0 Bnei-Yehuda                 
-Maccabi Tel-Aviv            1-0 Ironi Nir Ramat-HaSharon    
-[Feb 24]
-Maccabi Haifa               4-1 Beitar Jerusalem            
-Maccabi Netanya             0-0 Bnei-Sakhnin                
+Date: 2/23/2013
+
+; M.S. Ashdod                ; 2-3; Hapoel Ramat-Gan            
+; Hapoel Acco                ; 1-3; Hapoel Haifa                
+; Hapoel Be'er-Sheva;          1-2; Hapoel Tel-Aviv             
+; Ironi Kiriat-Shmona;         2-0; Bnei-Yehuda                 
+; Maccabi Tel-Aviv;            1-0; Ironi Nir Ramat-HaSharon    
+
+Date: 2/24/2013
+
+; Maccabi Haifa              ; 4-1; Beitar Jerusalem            
+; Maccabi Netanya            ; 0-0; Bnei-Sakhnin                
 
 Round: 25
-[Mar 2]
-Bnei-Yehuda                 1-0 Hapoel Be'er-Sheva          
-Bnei-Sakhnin                0-3 Maccabi Tel-Aviv            
-Ironi Nir Ramat-HaSharon    0-1 Ironi Kiriat-Shmona         
-Hapoel Ramat-Gan            1-2 Hapoel Acco                 
-Hapoel Tel-Aviv             1-1 M.S. Ashdod                 
-[Mar 3]
-Beitar Jerusalem            1-1 Maccabi Netanya             
-[Mar 4]
-Maccabi Haifa               1-1 Hapoel Haifa                
+Date: 3/2/2013
+
+; Bnei-Yehuda;                 1-0; Hapoel Be'er-Sheva          
+; Bnei-Sakhnin;                0-3; Maccabi Tel-Aviv            
+; Ironi Nir Ramat-HaSharon;    0-1; Ironi Kiriat-Shmona         
+; Hapoel Ramat-Gan;            1-2; Hapoel Acco                 
+; Hapoel Tel-Aviv;             1-1; M.S. Ashdod                 
+
+Date: 3/3/2013
+
+; Beitar Jerusalem           ; 1-1; Maccabi Netanya             
+
+Date: 3/4/2013
+
+; Maccabi Haifa              ; 1-1; Hapoel Haifa                
 
 Round: 26
-[Mar 9]
-Hapoel Acco                 0-0 Hapoel Tel-Aviv             
-Ironi Kiriat-Shmona         2-0 Bnei-Sakhnin                
-Hapoel Be'er-Sheva          0-1 Ironi Nir Ramat-HaSharon    
-Hapoel Haifa                2-1 Hapoel Ramat-Gan            
-Maccabi Netanya             1-2 Maccabi Haifa               
-[Mar 10]
-Maccabi Tel-Aviv            5-0 Beitar Jerusalem            
-[Mar 11]
-M.S. Ashdod                 2-1 Bnei-Yehuda                 
+Date: 3/9/2013
 
-Final Table:
+; Hapoel Acco                ; 0-0; Hapoel Tel-Aviv             
+; Ironi Kiriat-Shmona;         2-0; Bnei-Sakhnin                
+; Hapoel Be'er-Sheva;          0-1; Ironi Nir Ramat-HaSharon    
+; Hapoel Haifa               ; 2-1; Hapoel Ramat-Gan            
+; Maccabi Netanya            ; 1-2; Maccabi Haifa               
 
- 1.Maccabi Tel-Aviv            26  19  2  5  61-20  59  Championship Playoff
- 2.Maccabi Haifa               26  14  7  5  41-20  49  Championship Playoff
- 3.Ironi Kiriat-Shmona         26  11 10  5  34-25  43  Championship Playoff
- 4.Hapoel Tel-Aviv             26  12  6  8  33-29  42  Championship Playoff
- 5.Bnei-Yehuda                 26  11  5 10  35-31  38  Championship Playoff
- 6.Ironi Nir Ramat-HaSharon    26  11  4 11  28-30  37  Championship Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.M.S. Ashdod                 26  10  5 11  30-30  35  Relegation Playoff
- 8.Beitar Jerusalem            26   8  9  9  36-42  33  Relegation Playoff
- 9.Hapoel Be'er-Sheva          26   7  9 10  23-35  30  Relegation Playoff
-10.Hapoel Haifa                26   6 10 10  28-40  28  Relegation Playoff
-11.Maccabi Netanya             26   6  9 11  32-39  27  Relegation Playoff
-12.Bnei-Sakhnin                26   6  8 12  25-45  26  Relegation Playoff
-13.Hapoel Ramat-Gan            26   6  7 13  32-39  25  Relegation Playoff
-14.Hapoel Acco                 26   5  9 12  29-42  24  Relegation Playoff
+Date: 3/10/2013
+
+; Maccabi Tel-Aviv;            5-0; Beitar Jerusalem            
+
+Date: 3/11/2013
+
+; M.S. Ashdod                ; 2-1; Bnei-Yehuda                 
 
 
-Playoff Stage
+* 1.Maccabi Tel-Aviv            26  19  2  5  61-20  59  Championship Playoff
+* 2.Maccabi Haifa               26  14  7  5  41-20  49  Championship Playoff
+* 3.Ironi Kiriat-Shmona         26  11 10  5  34-25  43  Championship Playoff
+* 4.Hapoel Tel-Aviv             26  12  6  8  33-29  42  Championship Playoff
+* 5.Bnei-Yehuda                 26  11  5 10  35-31  38  Championship Playoff
+* 6.Ironi Nir Ramat-HaSharon    26  11  4 11  28-30  37  Championship Playoff
+* - - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 7.M.S. Ashdod                 26  10  5 11  30-30  35  Relegation Playoff
+* 8.Beitar Jerusalem            26   8  9  9  36-42  33  Relegation Playoff
+* 9.Hapoel Be'er-Sheva          26   7  9 10  23-35  30  Relegation Playoff
+*10.Hapoel Haifa                26   6 10 10  28-40  28  Relegation Playoff
+*11.Maccabi Netanya             26   6  9 11  32-39  27  Relegation Playoff
+*12.Bnei-Sakhnin                26   6  8 12  25-45  26  Relegation Playoff
+*13.Hapoel Ramat-Gan            26   6  7 13  32-39  25  Relegation Playoff
+*14.Hapoel Acco                 26   5  9 12  29-42  24  Relegation Playoff
 
-Championship Playoff | Relegation Playoff
 
-Championship Playoff
+Stage: playoffs
+Stage: Championship Playoff
 
-Final Table:
-
- 1.Maccabi Tel-Aviv            36  25  5  6  78-30  80  Champions
- 2.Maccabi Haifa               36  19 10  7  62-33  67
- 3.Hapoel Tel-Aviv             36  17  7 12  47-45  58
- 4.Bnei-Yehuda                 36  16  7 13  50-40  55
- 5.Ironi Kiriat-Shmona         36  14 11 11  45-38  53
- 6.Ironi Nir Ramat-HaSharon    36  12  4 20  31-50  40
+* 1.Maccabi Tel-Aviv            36  25  5  6  78-30  80  Champions
+* 2.Maccabi Haifa               36  19 10  7  62-33  67
+* 3.Hapoel Tel-Aviv             36  17  7 12  47-45  58
+* 4.Bnei-Yehuda                 36  16  7 13  50-40  55
+* 5.Ironi Kiriat-Shmona         36  14 11 11  45-38  53
+* 6.Ironi Nir Ramat-HaSharon    36  12  4 20  31-50  40
 
 Round: 27
-[Mar 16]
-Ironi Kiriat-Shmona         0-1 Hapoel Tel-Aviv             
-Maccabi Tel-Aviv            1-0 Ironi Nir Ramat-HaSharon    
-[Mar 17]
-Maccabi Haifa               1-0 Bnei-Yehuda                 
+Date: 3/16/2013
 
-Round: 28 [Mar 30]
-Bnei-Yehuda                 1-1 Ironi Kiriat-Shmona         
-Ironi Nir Ramat-HaSharon    0-1 Hapoel Tel-Aviv             
-Maccabi Tel-Aviv            0-0 Maccabi Haifa               
+; Ironi Kiriat-Shmona;         0-1; Hapoel Tel-Aviv             
+; Maccabi Tel-Aviv;            1-0; Ironi Nir Ramat-HaSharon    
+
+Date: 3/17/2013
+
+; Maccabi Haifa              ; 1-0; Bnei-Yehuda                 
+
+Round: 28 
+Date: 3/30/2013
+
+; Bnei-Yehuda;                 1-1; Ironi Kiriat-Shmona         
+; Ironi Nir Ramat-HaSharon;    0-1; Hapoel Tel-Aviv             
+; Maccabi Tel-Aviv;            0-0; Maccabi Haifa               
 
 Round: 29
-[Apr 2]
-Hapoel Tel-Aviv             2-1 Bnei-Yehuda                 
-Maccabi Haifa               6-0 Ironi Nir Ramat-HaSharon    
-[Apr 3]
-Ironi Kiriat-Shmona         1-3 Maccabi Tel-Aviv            
+Date: 4/2/2013
 
-Round: 30 [Apr 6]
-Ironi Nir Ramat-HaSharon    0-3 Bnei-Yehuda                 
-Maccabi Haifa               3-2 Ironi Kiriat-Shmona         
-Maccabi Tel-Aviv            2-0 Hapoel Tel-Aviv             
+; Hapoel Tel-Aviv;             2-1; Bnei-Yehuda                 
+; Maccabi Haifa              ; 6-0; Ironi Nir Ramat-HaSharon    
 
-Round: 31 [Apr 13]
-Hapoel Tel-Aviv             2-2 Maccabi Haifa               
-Ironi Kiriat-Shmona         1-0 Ironi Nir Ramat-HaSharon    
-Bnei-Yehuda                 2-2 Maccabi Tel-Aviv            
+Date: 4/3/2013
+
+; Ironi Kiriat-Shmona;         1-3; Maccabi Tel-Aviv            
+
+Round: 30 
+Date: 4/6/2013
+
+; Ironi Nir Ramat-HaSharon;    0-3; Bnei-Yehuda                 
+; Maccabi Haifa              ; 3-2; Ironi Kiriat-Shmona         
+; Maccabi Tel-Aviv;            2-0; Hapoel Tel-Aviv             
+
+Round: 31 
+Date: 4/13/2013
+
+; Hapoel Tel-Aviv;             2-2; Maccabi Haifa               
+; Ironi Kiriat-Shmona;         1-0; Ironi Nir Ramat-HaSharon    
+; Bnei-Yehuda;                 2-2; Maccabi Tel-Aviv            
 
 Round: 32
-[Apr 20]
-Hapoel Tel-Aviv             1-4 Ironi Kiriat-Shmona         
-[Apr 21]
-Bnei-Yehuda                 2-1 Maccabi Haifa               
-[Apr 22]
-Ironi Nir Ramat-HaSharon    0-2 Maccabi Tel-Aviv            
+Date: 4/20/2013
+
+; Hapoel Tel-Aviv;             1-4; Ironi Kiriat-Shmona         
+
+Date: 4/21/2013
+
+; Bnei-Yehuda;                 2-1; Maccabi Haifa               
+
+Date: 4/22/2013
+
+; Ironi Nir Ramat-HaSharon;    0-2; Maccabi Tel-Aviv            
 
 Round: 33
-[Apr 27]
-Ironi Kiriat-Shmona         0-1 Bnei-Yehuda                 
-[Apr 27]
-Hapoel Tel-Aviv             2-0 Ironi Nir Ramat-HaSharon    
-[Apr 29]
-Maccabi Haifa               2-2 Maccabi Tel-Aviv            
+Date: 4/27/2013
+
+; Ironi Kiriat-Shmona;         0-1; Bnei-Yehuda                 
+
+Date: 4/27/2013
+
+; Hapoel Tel-Aviv;             2-0; Ironi Nir Ramat-HaSharon    
+
+Date: 4/29/2013
+
+; Maccabi Haifa              ; 2-2; Maccabi Tel-Aviv            
 
 Round: 34
-[May 4]
-Maccabi Tel-Aviv            1-0 Ironi Kiriat-Shmona         
-[May 5] 
-Ironi Nir Ramat-HaSharon    2-1 Maccabi Haifa               
-[May 6]
-Bnei-Yehuda                 0-1 Hapoel Tel-Aviv             
+Date: 5/4/2013
+
+; Maccabi Tel-Aviv;            1-0; Ironi Kiriat-Shmona         
+
+Date: 5/5/2013
+ 
+; Ironi Nir Ramat-HaSharon;    2-1; Maccabi Haifa               
+
+Date: 5/6/2013
+
+; Bnei-Yehuda;                 0-1; Hapoel Tel-Aviv             
 
 Round: 35
-[May 11]
-Bnei-Yehuda                 2-1 Ironi Nir Ramat-HaSharon    
-Ironi Kiriat-Shmona         1-2 Maccabi Haifa               
-[May 13]
-Hapoel Tel-Aviv             2-4 Maccabi Tel-Aviv            
+Date: 5/11/2013
+
+; Bnei-Yehuda;                 2-1; Ironi Nir Ramat-HaSharon    
+; Ironi Kiriat-Shmona;         1-2; Maccabi Haifa               
+
+Date: 5/13/2013
+
+; Hapoel Tel-Aviv;             2-4; Maccabi Tel-Aviv            
 
 Round: 36
-[May 18]
-Ironi Nir Ramat-HaSharon    0-1 Ironi Kiriat-Shmona         
-Maccabi Haifa               3-2 Hapoel Tel-Aviv             
-[May 20]
-Maccabi Tel-Aviv            0-3 Bnei-Yehuda                 
+Date: 5/18/2013
 
-Final Table:
+; Ironi Nir Ramat-HaSharon;    0-1; Ironi Kiriat-Shmona         
+; Maccabi Haifa              ; 3-2; Hapoel Tel-Aviv             
 
- 1.Maccabi Tel-Aviv            36  25  5  6  78-30  80  Champions
- 2.Maccabi Haifa               36  19 10  7  62-33  67
- 3.Hapoel Tel-Aviv             36  17  7 12  47-45  58
- 4.Bnei-Yehuda                 36  16  7 13  50-40  55
- 5.Ironi Kiriat-Shmona         36  14 11 11  45-38  53
- 6.Ironi Nir Ramat-HaSharon    36  12  4 20  31-50  40
+Date: 5/20/2013
 
-Relegation Playoff
+; Maccabi Tel-Aviv;            0-3; Bnei-Yehuda                 
 
-Final Table:
 
- 7.M.S. Ashdod                 33  12  7 14  38-40  43
- 8.Hapoel Be'er-Sheva          33  10 11 12  32-39  41
- 9.Hapoel Haifa                33   9 12 12  36-45  39
-10.Beitar Jerusalem            33   9 12 12  44-54  39
-11.Hapoel Acco                 33   8 13 12  39-48  37
-12.Bnei-Sakhnin                33   8 13 12  31-49  37
-------------------------------------------------------
-13.Maccabi Netanya             33   8 11 14  38-50  35  Relegated
-14.Hapoel Ramat-Gan            33   7  9 17  37-47  30  Relegated
+* 1.Maccabi Tel-Aviv            36  25  5  6  78-30  80  Champions
+* 2.Maccabi Haifa               36  19 10  7  62-33  67
+* 3.Hapoel Tel-Aviv             36  17  7 12  47-45  58
+* 4.Bnei-Yehuda                 36  16  7 13  50-40  55
+* 5.Ironi Kiriat-Shmona         36  14 11 11  45-38  53
+* 6.Ironi Nir Ramat-HaSharon    36  12  4 20  31-50  40
+
+Stage: Relegation Playoff
+
+*Final Table:
+
+* 7.M.S. Ashdod                 33  12  7 14  38-40  43
+* 8.Hapoel Be'er-Sheva          33  10 11 12  32-39  41
+* 9.Hapoel Haifa                33   9 12 12  36-45  39
+*10.Beitar Jerusalem            33   9 12 12  44-54  39
+*11.Hapoel Acco                 33   8 13 12  39-48  37
+*12.Bnei-Sakhnin                33   8 13 12  31-49  37
+*------------------------------------------------------
+*13.Maccabi Netanya             33   8 11 14  38-50  35  Relegated
+*14.Hapoel Ramat-Gan            33   7  9 17  37-47  30  Relegated
 
 Round: 27
-[Mar 16]
-M.S. Ashdod                 1-2 Hapoel Acco                 
-Hapoel Haifa                3-0 Maccabi Netanya             
-Hapoel Be'er-Sheva          1-2 Bnei-Sakhnin                
-[Mar 17]
-Beitar Jerusalem            1-2 Hapoel Ramat-Gan            
+Date: 3/16/2013
+
+; M.S. Ashdod                ; 1-2; Hapoel Acco                 
+; Hapoel Haifa               ; 3-0; Maccabi Netanya             
+; Hapoel Be'er-Sheva;          1-2; Bnei-Sakhnin                
+
+Date: 3/17/2013
+
+; Beitar Jerusalem           ; 1-2; Hapoel Ramat-Gan            
 
 Round: 28
-[Mar 30]
-Hapoel Acco                 2-0 Maccabi Netanya             
-Hapoel Ramat-Gan            1-1 Hapoel Be'er-Sheva          
-[Apr 1]
-M.S. Ashdod                 2-2 Beitar Jerusalem            
-Bnei-Sakhnin                0-0 Hapoel Haifa                
+Date: 3/30/2013
+
+; Hapoel Acco                ; 2-0; Maccabi Netanya             
+; Hapoel Ramat-Gan;            1-1; Hapoel Be'er-Sheva          
+
+Date: 4/1/2013
+
+; M.S. Ashdod                ; 2-2; Beitar Jerusalem            
+; Bnei-Sakhnin;                0-0; Hapoel Haifa                
 
 Round: 29
-[Apr 6]
-Hapoel Haifa                1-0 Hapoel Ramat-Gan            
-Hapoel Be'er-Sheva          2-0 M.S. Ashdod                 
-Maccabi Netanya             1-1 Bnei-Sakhnin                
-[Apr 8]
-Beitar Jerusalem            2-2 Hapoel Acco                 
+Date: 4/6/2013
 
-Round: 30 [Apr 13]
-Hapoel Acco                 1-1 Bnei-Sakhnin                
-Hapoel Ramat-Gan            0-0 Maccabi Netanya             
-M.S. Ashdod                 1-0 Hapoel Haifa                
-Beitar Jerusalem            1-0 Hapoel Be'er-Sheva          
+; Hapoel Haifa               ; 1-0; Hapoel Ramat-Gan            
+; Hapoel Be'er-Sheva;          2-0; M.S. Ashdod                 
+; Maccabi Netanya            ; 1-1; Bnei-Sakhnin                
+
+Date: 4/8/2013
+
+; Beitar Jerusalem           ; 2-2; Hapoel Acco                 
+
+Round: 30 
+Date: 4/13/2013
+
+; Hapoel Acco                ; 1-1; Bnei-Sakhnin                
+; Hapoel Ramat-Gan;            0-0; Maccabi Netanya             
+; M.S. Ashdod                ; 1-0; Hapoel Haifa                
+; Beitar Jerusalem           ; 1-0; Hapoel Be'er-Sheva          
 
 Round: 31
-[Apr 20]
-Hapoel Haifa                3-1 Beitar Jerusalem            
-Maccabi Netanya             2-1 M.S. Ashdod                 
-Hapoel Be'er-Sheva          0-0 Hapoel Acco                 
-[Apr 23]
-Bnei-Sakhnin                1-0 Hapoel Ramat-Gan            
+Date: 4/20/2013
 
-Round: 32 [Apr 27]
-M.S. Ashdod                 1-1 Bnei-Sakhnin                
-Beitar Jerusalem            1-3 Maccabi Netanya             
-Hapoel Acco                 2-1 Hapoel Ramat-Gan            
-Hapoel Be'er-Sheva          2-0 Hapoel Haifa                
+; Hapoel Haifa               ; 3-1; Beitar Jerusalem            
+; Maccabi Netanya            ; 2-1; M.S. Ashdod                 
+; Hapoel Be'er-Sheva;          0-0; Hapoel Acco                 
 
-Round: 33 [May 4]
-Hapoel Ramat-Gan            1-2 M.S. Ashdod                 
-Bnei-Sakhnin                0-0 Beitar Jerusalem            
-Hapoel Haifa                1-1 Hapoel Acco                 
-Maccabi Netanya             0-3 Hapoel Be'er-Sheva          
+Date: 4/23/2013
+
+; Bnei-Sakhnin;                1-0; Hapoel Ramat-Gan            
+
+Round: 32 
+Date: 4/27/2013
+
+; M.S. Ashdod                ; 1-1; Bnei-Sakhnin                
+; Beitar Jerusalem           ; 1-3; Maccabi Netanya             
+; Hapoel Acco                ; 2-1; Hapoel Ramat-Gan            
+; Hapoel Be'er-Sheva;          2-0; Hapoel Haifa                
+
+Round: 33 
+Date: 5/4/2013
+
+; Hapoel Ramat-Gan;            1-2; M.S. Ashdod                 
+; Bnei-Sakhnin;                0-0; Beitar Jerusalem            
+; Hapoel Haifa               ; 1-1; Hapoel Acco                 
+; Maccabi Netanya            ; 0-3; Hapoel Be'er-Sheva          
 
 * 7.M.S. Ashdod                 33  12  7 14  38-40  43
 * 8.Hapoel Be'er-Sheva          33  10 11 12  32-39  41
@@ -562,14 +726,15 @@ Group: Relegation
 *Promoted: Hapoel Afula and Hapoel Katamon
 
 Stage: Promotion/Relegation Playoff
-  
-First Leg [May 24]
-Beitar Kfar-Saba            1-1 Beitar Tel-Aviv Ramla 
+Leg: 1  
 
-Second Leg [May 28]
-Beitar Tel-Aviv Ramla       3-1 Beitar Kfar-Saba            
+5/24/2013; Beitar Kfar-Saba;           ; 1-1; Beitar Tel-Aviv Ramla 
 
-NB: both remained at former level
+Leg: 2
+
+5/28/2013; Beitar Tel-Aviv Ramla      ; 3-1; Beitar Kfar-Saba            
+
+* NB: both remained at former level
 
 
 *Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
