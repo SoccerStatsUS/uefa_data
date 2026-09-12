@@ -201,7 +201,7 @@ Ziege 58;
 ; Max 45
 
 ; Bochum    ; 3-1; Karlsruher 
-Donkov 32, Wosz 72, 82; Häßler 70 p
+Donkov 32, Wosz 72, Wosz 82; Häßler (pk) 70
 
 ; St. Pauli ; 0-3; Werder     
 ; Herzog 26, M.Bode 42, Labbadia 50
@@ -210,7 +210,7 @@ Donkov 32, Wosz 72, 82; Häßler 70 p
 ; Cesar 90
 
 ; Leverkusen; 3-0; TSV 1860   
-Happe 2, Kirsten 19, 89;
+Happe 2, Kirsten 19, Kirsten 89;
 
 Date: 9/8/1996
 
@@ -237,7 +237,7 @@ Fink 45;
 *                          (sent off: D.Schuster (Karlsruher, 36))
 
 ; Schalke   ; 1-1; Bayern     
-Max 36, Strunz 70
+Max 36; Strunz 70
 
 ; Bielefeld ; 0-1; Leverkusen 
 ; Sergio 44
@@ -345,11 +345,11 @@ Waldoch 63;
 
 ; Stuttgart ; 4-2; Freiburg   
 Bobic 12, Decheiver 17, Decheiver 52, T.Schneider 39; Elber 64, Elber 68
-*                          (sent off: Verlaat (Stuttgart, 29))
+Red Card: Verlaat 29
 
 ; Leverkusen; 4-1; Hansa      
-Sergio 45, 4Sergio 9, Feldhoff 57, Meijer 78; Beinlich 8
-*                          (sent off: Hofschneider (Hansa, 45))
+Sergio 45, Sergio 9, Feldhoff 57, Meijer 78; Beinlich 8
+Red Card: Hofschneider 45
 
 Date: 10/5/1996
 
@@ -465,7 +465,7 @@ Vladoiu 31, Vladoiu 68, Baumann 64; Wilmots 48
 Schopp 37, Ivanauskas 88;
 
 ; Stuttgart ; 5-0; M'gladbach 
-Bobic 3, Bobic 77, Bobic 85, Elber 55, Balakov (pk) 68
+Bobic 3, Bobic 77, Bobic 85, Elber 55, Balakov (pk) 68;
 
 ; TSV 1860  ; 1-1; Duisburg   
 Jeremies 15; Nijhuis 33
@@ -474,7 +474,7 @@ Jeremies 15; Nijhuis 33
 ; Hamann 38, Scholl 83
 
 ; Dortmund  ; 5-0; Bielefeld  
-Julio Cesar 10, Julio Cesar 45, Herrlich 54, Tretschok 77, Chapuisat 82
+Julio Cesar 10, Julio Cesar 45, Herrlich 54, Tretschok 77, Chapuisat 82;
 Date: 10/27/1996
 
 ; Freiburg  ; 0-1; Bochum     
@@ -509,7 +509,7 @@ Marin (pk) 68; Wassmer 35, Wassmer 70, Wassmer 72, Sutter 76
 * [76                          Sutter (Freiburg) m/pen] 
 
 ; St. Pauli ; 2-1; Stuttgart  
-Springer 12, Balakov (pk) 30, Springer 71
+Springer 12, Springer 71; Balakov (pk) 30
 
 ; Leverkusen; 3-0; M'gladbach 
 Kovac 56, Lehnhoff 72, Sergio 77;
@@ -579,7 +579,7 @@ Mulder 15, Wilmots 38, Anderbrügge (pk) 72, Max 76; Winkler 45
 Kuntz 2, Reina 73;
 
 ; Bayern    ; 2-1; Hansa      
-Basler (pk) 31, 43; Akpoborie 63
+Basler (pk) 31, Basler 43; Akpoborie 63
 
 ; St. Pauli ; 3-1; Leverkusen 
 Trulsen 7, Driller 15, Wörns (og) 79; Sergio 87
@@ -752,8 +752,8 @@ Round: 20
 Date: 2/28/1997
 
 ; Schalke   ; 0-0; St. Pauli  
-*sent off: Bochtler (St. Pauli, 86
-)
+*sent off: Bochtler (St. Pauli, 86)
+
 ; Bielefeld ; 3-1; Bochum     
 Meißner 43, Meißner 45, Maul 71; Wosz 84
 *                          (sent off: Kracht (Bochum, 66))
@@ -765,7 +765,7 @@ Gaißmayer 76;
 *                          (sent off: Vladoiu (Köln, 69))
 
 ; Werder    ; 2-2; Stuttgart  
-Herzog (pk) 5, 12; Bobic 10, T.Schneider 86
+Herzog (pk) 5, Herzog 12; Bobic 10, T.Schneider 86
 *                          (sent off: Pfeifenberger (Werder, 61))
 
 ; Karlsruher; 1-1; M'gladbach 
@@ -983,7 +983,7 @@ Date: 4/5/1997
 * (sent off: Spörl (19))
 
 ; Werder    ; 2-1; Bielefeld  
-Reeb 11, Herzog 17, Bode 68
+Reeb 11, Herzog 17; Bode 68
 
 ; Karlsruher; 0-0; Schalke   
 
@@ -995,7 +995,7 @@ Katemann 32, Seeliger 72;
 * (sent off: Trulsen (85))
 
 ; Dortmund  ; 2-0; Bochum     
-Chapuisat 33, Chapuisat (pk) 72
+Chapuisat 33, Chapuisat (pk) 72;
 *                          (sent off: Sammer (Dortmund, 85))
 
 Date: 4/6/1997
@@ -1252,7 +1252,7 @@ Ziege 20, Scholl 45, Rizzitelli 65, Witeczek 78; Schwarz 17, Bobic 51
 Hirsch 35, Emmerling 39, Wolters 62, Zeyer 68; Pettersson 5, Dahlin 84
 
 ; Bochum    ; 6-0; St. Pauli  
-Donkov 35, Donkov 68, Peschel 71, Gülünoglu 72, Wosz 77, Pfennig (og) 90
+Donkov 35, Donkov 68, Peschel 71, Gülünoglu 72, Wosz 77, Pfennig (og) 90;
 
 Round: 34 
 Date: 5/31/1997
